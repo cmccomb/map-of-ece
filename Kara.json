@@ -1,0 +1,658 @@
+[
+    {
+        "title": "An image-based, trainable symbol recognizer for hand-drawn sketches",
+        "pub_year": "2005",
+        "citation": "Computers & Graphics 29 (4), 501-517, 2005"
+    },
+    {
+        "title": "Combining geometry and domain knowledge to interpret hand-drawn diagrams",
+        "pub_year": "2005",
+        "citation": "Computers & Graphics 29 (4), 547-562, 2005"
+    },
+    {
+        "title": "Hierarchical parsing and recognition of hand-sketched diagrams",
+        "pub_year": "2004",
+        "citation": "Proceedings of the 17th annual ACM symposium on User interface software and …, 2004"
+    },
+    {
+        "title": "Semantic shape editing using deformation handles",
+        "pub_year": "2015",
+        "citation": "ACM Transactions on Graphics (TOG) 34 (4), 1-12, 2015"
+    },
+    {
+        "title": "Topologygan: Topology optimization using generative adversarial networks based on physical fields over the initial domain",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Design 143 (3), 031715, 2021"
+    },
+    {
+        "title": "Stress field prediction in cantilevered structures using convolutional neural networks",
+        "pub_year": "2020",
+        "citation": "Journal of Computing and Information Science in Engineering 20 (1), 011002, 2020"
+    },
+    {
+        "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
+        "pub_year": "2015",
+        "citation": "Journal of Mechanical Design 137 (11), 111410, 2015"
+    },
+    {
+        "title": "3D topology optimization using convolutional neural networks",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1808.07440, 2018"
+    },
+    {
+        "title": "Recognizing multi-stroke symbols",
+        "pub_year": "2002",
+        "citation": "AAAI Spring Symposium on Sketch Understanding, 15-23, 2002"
+    },
+    {
+        "title": "Development of a general calibration model and long-term performance evaluation of low-cost sensors for air pollutant gas monitoring",
+        "pub_year": "2019",
+        "citation": "Atmospheric Measurement Techniques 12 (2), 903-920, 2019"
+    },
+    {
+        "title": "Sketch-based 3D-shape creation for industrial styling design",
+        "pub_year": "2007",
+        "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007"
+    },
+    {
+        "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 2006 ACM symposium on Solid and physical modeling, 149-160, 2006"
+    },
+    {
+        "title": "A data-driven investigation and estimation of optimal topologies under variable loading configurations",
+        "pub_year": "2016",
+        "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2016"
+    },
+    {
+        "title": "A deep reinforcement learning approach for global routing",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (6), 061701, 2020"
+    },
+    {
+        "title": "Conceptual design and modification of freeform surfaces using dual shape representations in augmented reality environments",
+        "pub_year": "2012",
+        "citation": "Computer-Aided Design 44 (10), 1020-1032, 2012"
+    },
+    {
+        "title": "Beautification of design sketches using trainable stroke clustering and curve fitting",
+        "pub_year": "2011",
+        "citation": "IEEE Transactions on Visualization and Computer Graphics 17 (5), 694-708, 2011"
+    },
+    {
+        "title": "Improving problem solving performance by inducing talk about salient problem features",
+        "pub_year": "2010",
+        "citation": "Journal of Engineering Education 99 (2), 135-142, 2010"
+    },
+    {
+        "title": "Computer-aided patient-specific coronary artery graft design improvements using CFD coupled shape optimizer",
+        "pub_year": "2011",
+        "citation": "Cardiovascular engineering and technology 2, 35-47, 2011"
+    },
+    {
+        "title": "Stressgan: A generative deep learning model for two-dimensional stress distribution prediction",
+        "pub_year": "2021",
+        "citation": "Journal of Applied Mechanics 88 (5), 051005, 2021"
+    },
+    {
+        "title": "4DMesh: 4D printing morphing non-developable mesh surfaces",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 31st Annual ACM Symposium on User Interface Software and …, 2018"
+    },
+    {
+        "title": "Procedural modeling using autoencoder networks",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 28th Annual ACM Symposium on User Interface Software …, 2015"
+    },
+    {
+        "title": "An efficient graph-based recognizer for hand-drawn symbols",
+        "pub_year": "2007",
+        "citation": "Computers & Graphics 31 (4), 554-567, 2007"
+    },
+    {
+        "title": "Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry",
+        "pub_year": "2012",
+        "citation": "US Patent 8,259,101, 2012"
+    },
+    {
+        "title": "Co-abstraction of shape collections",
+        "pub_year": "2012",
+        "citation": "ACM Transactions on Graphics (TOG) 31 (6), 1-11, 2012"
+    },
+    {
+        "title": "Sketch-based interfaces and modeling",
+        "pub_year": "2011",
+        "citation": "Springer-Verlag, 2011"
+    },
+    {
+        "title": "From engineering diagrams to engineering models: Visual recognition and applications",
+        "pub_year": "2011",
+        "citation": "Computer-Aided Design 43 (3), 278-292, 2011"
+    },
+    {
+        "title": "A sketch-based tool for analyzing vibratory mechanical systems",
+        "pub_year": "2008",
+        "citation": ""
+    },
+    {
+        "title": "Concurrent structure and process optimization for minimum cost metal additive manufacturing",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design 141 (6), 061701, 2019"
+    },
+    {
+        "title": "Co-constrained handles for deformation in shape collections",
+        "pub_year": "2014",
+        "citation": "ACM Transactions on Graphics (TOG) 33 (6), 1-11, 2014"
+    },
+    {
+        "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
+    },
+    {
+        "title": "Construction and Modification of 3D Geometry Using a Sketch-based Interface.",
+        "pub_year": "2006",
+        "citation": "SBM, 59-66, 2006"
+    },
+    {
+        "title": "Optimization of part consolidation for minimum production costs and time using additive manufacturing",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (7), 072001, 2020"
+    },
+    {
+        "title": "Sketch-based surface design using malleable curve networks",
+        "pub_year": "2012",
+        "citation": "Computers & Graphics 36 (8), 916-929, 2012"
+    },
+    {
+        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
+        "pub_year": "2008",
+        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
+    },
+    {
+        "title": "Deciphering the influence of product shape on consumer judgments through geometric abstraction",
+        "pub_year": "2015",
+        "citation": "Journal of Mechanical Design 137 (8), 081103, 2015"
+    },
+    {
+        "title": "Sim-U-Sketch: A sketch-based interface for SimuLink",
+        "pub_year": "2004",
+        "citation": "Proceedings of the working conference on Advanced visual interfaces, 354-357, 2004"
+    },
+    {
+        "title": "Sim-U-Sketch: A sketch-based interface for SimuLink",
+        "pub_year": "2004",
+        "citation": "Proceedings of the working conference on Advanced visual interfaces, 354-357, 2004"
+    },
+    {
+        "title": "Attention routing: track-assignment detailed routing using attention-based reinforcement learning",
+        "pub_year": "2020",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2020"
+    },
+    {
+        "title": "Lightweight structure design under force location uncertainty",
+        "pub_year": "2017",
+        "citation": "ACM Transactions on Graphics (TOG) 36 (4), 1-13, 2017"
+    },
+    {
+        "title": "Neural network-based symbol recognition using a few labeled samples",
+        "pub_year": "2011",
+        "citation": "Computers & Graphics 35 (5), 955-966, 2011"
+    },
+    {
+        "title": "Data-driven upsampling of point clouds",
+        "pub_year": "2019",
+        "citation": "Computer-Aided Design 112, 1-13, 2019"
+    },
+    {
+        "title": "Geological storytelling: graphically exploring and communicating geological sketches",
+        "pub_year": "2012",
+        "citation": "Proceedings of the International Symposium on Sketch-Based Interfaces and …, 2012"
+    },
+    {
+        "title": "An evaluation of user experience with a sketch-based 3D modeling system",
+        "pub_year": "2007",
+        "citation": "Computers & Graphics 31 (4), 580-597, 2007"
+    },
+    {
+        "title": "Placement in integrated circuits using cyclic reinforcement learning and simulated annealing",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2011.07577, 2020"
+    },
+    {
+        "title": "Prediction of high frequency resistance in polymer electrolyte membrane fuel cells using long short term memory based model",
+        "pub_year": "2021",
+        "citation": "Energy and AI 3, 100045, 2021"
+    },
+    {
+        "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
+        "pub_year": "2022",
+        "citation": "Computers in Industry 142, 103697, 2022"
+    },
+    {
+        "title": "Surface creation on unstructured point sets using neural networks",
+        "pub_year": "2012",
+        "citation": "Computer-Aided Design 44 (7), 644-656, 2012"
+    },
+    {
+        "title": "An Efficient Graph-Based Symbol Recognizer.",
+        "pub_year": "2006",
+        "citation": "SBM, 11-18, 2006"
+    },
+    {
+        "title": "Automatic parsing and recognition of hand-drawn sketches for pen-based computer interfaces",
+        "pub_year": "2004",
+        "citation": "carnegie mellon university, 2004"
+    },
+    {
+        "title": "Structural design using laplacian shells",
+        "pub_year": "2019",
+        "citation": "Computer Graphics Forum 38 (5), 85-98, 2019"
+    },
+    {
+        "title": "Shape design from exemplar sketches using graph-based sketch analysis",
+        "pub_year": "2012",
+        "citation": ""
+    },
+    {
+        "title": "Track-assignment detailed routing using attention-based policy model with supervision",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 2020 ACM/IEEE Workshop on Machine Learning for CAD, 105-110, 2020"
+    },
+    {
+        "title": "Recognizing network-like hand-drawn sketches: a convolutional neural network approach",
+        "pub_year": "2009",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009"
+    },
+    {
+        "title": "DMS2015-33: Generative interface structure design for supporting existing objects",
+        "pub_year": "2015",
+        "citation": "Journal of Visual Languages & Computing 31, 171-183, 2015"
+    },
+    {
+        "title": "Pencil-like sketch rendering of 3D scenes using trajectory planning and dynamic tracking",
+        "pub_year": "2014",
+        "citation": "Journal of Visual Languages & Computing 25 (4), 481-493, 2014"
+    },
+    {
+        "title": "Sketch-based aesthetic product form exploration from existing images using piecewise clothoid curves",
+        "pub_year": "2012",
+        "citation": "Journal of Visual Languages & Computing 23 (6), 327-339, 2012"
+    },
+    {
+        "title": "Designing coupling behaviors using compliant shape optimization",
+        "pub_year": "2018",
+        "citation": "Computer-Aided Design 101, 57-71, 2018"
+    },
+    {
+        "title": "Computer tutors can address students learning to solve complex engineering problems",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Frontiers in Education Conference (FIE) Proceedings, 1-8, 2014"
+    },
+    {
+        "title": "Free form surface skinning of 3d curve clouds for conceptual shape design",
+        "pub_year": "2012",
+        "citation": "Journal of computing and information science in engineering 12 (3), 031005, 2012"
+    },
+    {
+        "title": "High degree of freedom hand pose tracking using limited strain sensing and optical training",
+        "pub_year": "2019",
+        "citation": "Journal of Computing and Information Science in Engineering 19 (3), 031014, 2019"
+    },
+    {
+        "title": "Optimization of parts consolidation for minimum production costs and time using additive manufacturing",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
+    },
+    {
+        "title": "Intermodal image-based recognition of planar kinematic mechanisms",
+        "pub_year": "2015",
+        "citation": "Journal of Visual Languages & Computing 27, 38-48, 2015"
+    },
+    {
+        "title": "Learning geometric design knowledge from conceptual sketches and its utilization in shape creation and optimization",
+        "pub_year": "2009",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009"
+    },
+    {
+        "title": "An image-based trainable symbol recognizer for sketch-based interfaces. In in AAAI Fall Symposium Series 2004: Making Pen-Based Interaction Intelligent and Natural",
+        "pub_year": "2004",
+        "citation": "AAAI Press, 2004"
+    },
+    {
+        "title": "A representation for comparing simulations and computing the purpose of geometric features",
+        "pub_year": "2001",
+        "citation": "AI EDAM 15 (2), 189-201, 2001"
+    },
+    {
+        "title": "Wisdom of microcrowds in evaluating solutions to esoteric engineering problems",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design 141 (8), 081102, 2019"
+    },
+    {
+        "title": "Methods and software for volume-centric shape abstraction and simplification of a 3D digital model",
+        "pub_year": "2017",
+        "citation": "US Patent 9,792,734, 2017"
+    },
+    {
+        "title": "Recognizing planar kinematic mechanisms from a single image using evolutionary computation",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 Annual Conference on Genetic and Evolutionary …, 2014"
+    },
+    {
+        "title": "Feature, design intention and constraint preservation for direct modeling of 3D freeform surfaces",
+        "pub_year": "2012",
+        "citation": "3D Research 3 (2), 1-18, 2012"
+    },
+    {
+        "title": "Component segmentation of engineering drawings using Graph Convolutional Networks",
+        "pub_year": "2023",
+        "citation": "Computers in Industry 147, 103885, 2023"
+    },
+    {
+        "title": "Is Additive Manufacturing an Environmentally and Economically Preferred Alternative for Mass Production?",
+        "pub_year": "2023",
+        "citation": "Environmental Science & Technology 57 (16), 6373-6386, 2023"
+    },
+    {
+        "title": "Real-time prediction of soft tissue deformations using data-driven nonlinear presurgical simulations",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2010.13823, 2020"
+    },
+    {
+        "title": "Efficient load sampling for worst-case structural analysis under force location uncertainty",
+        "pub_year": "2018",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2018"
+    },
+    {
+        "title": "Reconstruction of a deformed tumor based on fiducial marker registration: a computational feasibility study",
+        "pub_year": "2018",
+        "citation": "Technology in Cancer Research & Treatment 17, 1533034618766792, 2018"
+    },
+    {
+        "title": "Providing formative assessment to students solving multipath engineering problems with complex arrangements of interacting parts: An intelligent tutor approach",
+        "pub_year": "2016",
+        "citation": "Interactive Learning Environments 24 (8), 1864-1880, 2016"
+    },
+    {
+        "title": "Characterizing the performance of an image-based recognizer for planar mechanical linkages in textbook graphics and hand-drawn sketches",
+        "pub_year": "2015",
+        "citation": "Computers & Graphics 52, 1-17, 2015"
+    },
+    {
+        "title": "Sketching and pen-based design interaction",
+        "pub_year": "2012",
+        "citation": "AI EDAM 26 (3), 241-243, 2012"
+    },
+    {
+        "title": "Concurrent build direction, part segmentation, and topology optimization for additive manufacturing using neural networks",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design 145 (9), 2023"
+    },
+    {
+        "title": "CCFD-Net: A novel deep learning model for credit card fraud detection",
+        "pub_year": "2021",
+        "citation": "2021 IEEE 22nd International Conference on Information Reuse and Integration …, 2021"
+    },
+    {
+        "title": "Soft tissue deformation tracking by means of an optimized fiducial marker layout with application to cancer tumors",
+        "pub_year": "2020",
+        "citation": "International Journal of Computer Assisted Radiology and Surgery 15, 225-237, 2020"
+    },
+    {
+        "title": "Topology preserving digitization of physical prototypes using deformable subdivision models",
+        "pub_year": "2014",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014"
+    },
+    {
+        "title": "Development of a cognitive tutor for learning truss analysis",
+        "pub_year": "2014",
+        "citation": "2014 ASEE Annual Conference & Exposition, 24.413. 1-24.413. 14, 2014"
+    },
+    {
+        "title": "Modeling flow features with user-guided streamline parameterization",
+        "pub_year": "2014",
+        "citation": "Computer-Aided Design 46, 263-268, 2014"
+    },
+    {
+        "title": "A testing method and cognitive model of human diagram understanding for automating design sketch recognition",
+        "pub_year": "2009",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2009"
+    },
+    {
+        "title": "Work in Progress: Improving Problem Solving Performance in Statics through Body-Centric Talk",
+        "pub_year": "2006",
+        "citation": "Proceedings. Frontiers in Education. 36th Annual Conference, 1-2, 2006"
+    },
+    {
+        "title": "Sketch Understanding for Engineering Software",
+        "pub_year": "2003",
+        "citation": "Ph. D. Thesis Proposal/LB Kara.–Pittsburgh, 2003.–68 p, 2003"
+    },
+    {
+        "title": "Spatial reasoning about mechanical behaviors",
+        "pub_year": "2001",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2001"
+    },
+    {
+        "title": "Sketch Based Interfaces and Modeling, Annecy, France, 2012",
+        "citation": "Eurographics Association, 0"
+    },
+    {
+        "title": "Flaw detection in metal additive manufacturing using deep learned acoustic features",
+        "pub_year": "2020",
+        "citation": "Workshop of conference on neural information processing systems, 2020"
+    },
+    {
+        "title": "The potential for computer tutors to assist students learning to solve complex problems",
+        "pub_year": "2014",
+        "citation": "2014 ASEE Annual Conference & Exposition, 24.1239. 1-24.1239. 20, 2014"
+    },
+    {
+        "title": "Hierarchical Parsing and Recognition of Hand-Sketched Diagrams. 17th ACM User Interface Software Technology (UIST)",
+        "pub_year": "2004",
+        "citation": ""
+    },
+    {
+        "title": "Recognizing multi-stroke symbols: A statistical approach",
+        "pub_year": "2004",
+        "citation": ""
+    },
+    {
+        "title": "Topology Optimization using Neural Networks with Conditioning Field Initialization for Improved Efficiency",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.10460, 2023"
+    },
+    {
+        "title": "Data Augmentation of Engineering Drawings for Data-Driven Component Segmentation",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+    },
+    {
+        "title": "Computer tutors can reduce student errors and promote solution efficiency for complex engineering problems",
+        "pub_year": "2014",
+        "citation": "Journal of Visual Languages & Computing 25 (6), 1021-1029, 2014"
+    },
+    {
+        "title": "Predictive modeling for 2d form design",
+        "pub_year": "2014",
+        "citation": "Computational Modeling of Objects Presented in Images. Fundamentals, Methods …, 2014"
+    },
+    {
+        "title": "Sketch-based shape exploration using multiscale free-form surface editing",
+        "pub_year": "2012",
+        "citation": "AI EDAM 26 (3), 337-350, 2012"
+    },
+    {
+        "title": "Causal reasoning using geometric analysis",
+        "pub_year": "2002",
+        "citation": "AI EDAM 16 (5), 363-384, 2002"
+    },
+    {
+        "title": "A Data Augmentation Method for Data-driven Component Segmentation of Engineering Drawings",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 2024"
+    },
+    {
+        "title": "BIGNet: A Deep Learning Architecture for Brand Recognition with Geometry-based Explainability",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design, 1-26, 2023"
+    },
+    {
+        "title": "Inference of Highly Time-resolved Melt Pool Visual Characteristics in Laser Powder Bed Fusion from Acoustic and Thermal Emission Data",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.05289, 2023"
+    },
+    {
+        "title": "Hierarchical Automatic Multilayer Power Plane Generation With Genetic Optimization and Multilayer Perceptron",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design 145, 101706-1, 2023"
+    },
+    {
+        "title": "Automating Style Analysis and Visualization With Explainable AI--Case Studies on Brand Recognition",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2306.03021, 2023"
+    },
+    {
+        "title": "HIERARCHICAL AUTOMATIC MULTILAYER POWER PLANE GENERATION WITH GENETIC OPTIMIZATION AND MULTILAYER PERCEPTRON",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design, 1-16, 2023"
+    },
+    {
+        "title": "DMF-TONN: Direct Mesh-free Topology Optimization using Neural Networks",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.04107, 2023"
+    },
+    {
+        "title": "Target specific peptide design using latent space approximate trajectory collector",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2302.01435, 2023"
+    },
+    {
+        "title": "Hierarchical Automatic Power Plane Generation with Genetic Optimization and Multilayer Perceptron",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2210.16314, 2022"
+    },
+    {
+        "title": "Design of peptide inhibitors targeting β-catenin using generative deep learning and molecular dynamics simulations",
+        "pub_year": "2022",
+        "citation": ""
+    },
+    {
+        "title": "Automatic Power Plane Generation With Genetic Optimization and Multilayer Perceptron",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+    },
+    {
+        "title": "Scalar Field Prediction on Topologically-Varying Graphs Using Spectral Shape Encoding",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+    },
+    {
+        "title": "Reinforcement Learning for Routing",
+        "pub_year": "2022",
+        "citation": "Machine Learning Applications in Electronic Design Automation, 277-306, 2022"
+    },
+    {
+        "title": "Prediction of Nitrogen Concentration in Fuel Cells Using Data-Driven Modeling",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
+    },
+    {
+        "title": "POETIC SPONTANEITY BEYOND CONTEXT OF MEANING",
+        "pub_year": "2019",
+        "citation": "Arhitektura, Raziskave 2019, 193-268, 2019"
+    },
+    {
+        "title": "Prediction of Nitrogen Concentration in Fuel Cells Using Data-Driven Modeling",
+        "pub_year": "2019",
+        "citation": "39th Computers and Information in Engineering Conference 1, 2019"
+    },
+    {
+        "title": "Guanyun Wang1, Humphrey Yang2, Zeyu Yan3, Nurcan Gecer Ulu3, Ye Tao1, 4, Jianzhe Gu1",
+        "pub_year": "2018",
+        "citation": ""
+    },
+    {
+        "title": "Enhancing the Structural Performance of Additively Manufactured Objects",
+        "pub_year": "2018",
+        "citation": "Carnegie Mellon University, 2018"
+    },
+    {
+        "title": "Foreword to the special section on expressive graphics",
+        "pub_year": "2013",
+        "citation": "Computers and Graphics 37 (5), A5-A6, 2013"
+    },
+    {
+        "title": "Sketch-Based Image Editing Using Clothoid Curves.",
+        "pub_year": "2011",
+        "citation": "DMS, 274-278, 2011"
+    },
+    {
+        "title": "Ai edam special issue, august 2012, vol. 26, no. 3: Sketching and pen-based design interaction",
+        "pub_year": "2011",
+        "citation": "AI EDAM 25 (3), 305-305, 2011"
+    },
+    {
+        "title": "The Creation and Modification of 3D Models Using Sketches and Curves",
+        "pub_year": "2011",
+        "citation": "Sketch-based Interfaces and Modeling, 341-367, 2011"
+    },
+    {
+        "title": "Improving Problem Solving Performance by",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "Computer-Aided Patient-Specific Coronary Artery Graft Design",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "Improved Patient-Specific Coronary Artery Graft Configurations Using CFD Coupled Shape Optimizer",
+        "pub_year": "2009",
+        "citation": "Summer Bioengineering Conference 48913, 1167-1168, 2009"
+    },
+    {
+        "title": "Fingerprint Recognition Using a Novel Pie-Sector Representation",
+        "pub_year": "2003",
+        "citation": ""
+    },
+    {
+        "title": "Interpreting the architectural",
+        "pub_year": "1999",
+        "citation": "Middle East Technical University, 1999"
+    },
+    {
+        "title": "Adhyapak, Srilakshmi M. 48 Ahmed, Mourad 375 Arisoy, Erhan Batuhan 286",
+        "citation": ""
+    },
+    {
+        "title": "A Computational Framework to Optimize Fiducial Marker Placement to Account for Intraoperative Tissue Deformation",
+        "citation": ""
+    },
+    {
+        "title": "Social Scene Understanding from Social Cameras Hyun Soo Park",
+        "citation": ""
+    },
+    {
+        "title": "A COMPUTATIONAL CASE STUDY FOR THE TREATMENT OF HEAD-AND-NECK TUMOR USING INTERSTITIAL PHOTODYNAMIC THERAPY",
+        "citation": ""
+    },
+    {
+        "title": "Architectural design in a broader spectrum of cultural experiences: A case study for hermeneutics in the architectural education",
+        "citation": "Conference Coordinators, 114, 0"
+    },
+    {
+        "title": "Semantic Shape Editing Using Deformation Handles–Supplemental Material",
+        "citation": ""
+    },
+    {
+        "title": "Technical Report Development of a cognitive tutor for learning truss analysis Paul S. Steif, Luoting Fu, Levent Burak Kara",
+        "citation": ""
+    },
+    {
+        "title": "COMPUTING DESIGN RATIONALES USING CAUSAL REPRESENTATION OF SIMULATIONS",
+        "citation": ""
+    }
+]
