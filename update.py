@@ -95,8 +95,6 @@ for json_file in sorted(json_files, key=str.casefold):
         df['faculty'] = json_file.replace(".json", "")
         all_the_data = pandas.concat([all_the_data, df], axis=0)
 
-all_the_data.reset_index(inplace=True)
-
 # Create embeddings from the titles
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
 embeddings = model.encode(all_the_data['title'], show_progress_bar=True)
