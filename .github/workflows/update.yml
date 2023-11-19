@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: install dependencies
-        run: pip install sentence-transformers scholarly
+        run: pip install -r requrements.txt
       - name: run the benchmark
         run: python update.py
       - name: setup git config
