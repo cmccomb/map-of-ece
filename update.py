@@ -65,21 +65,17 @@ def save_publications_to_json(faculty: tuple[str, str]):
     if faculty[1]:
         author = scholarly.fill(scholarly.search_author_id(faculty[1]))
         for publication in author['publications']:
-            # filled_publication = scholarly.fill(publication)
-            filled_publication = publication
-            faculty_pubs.append(filled_publication['bib'])
+            faculty_pubs.append(publication['bib'])
     with open(faculty[0] + '.json', 'w', encoding='utf-8') as f:
         json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
     return faculty_pubs
 
 
 # If this is a testing run instead of a full one, trim the faculty list
-if len(sys.argv) != 1:
-    n = int(sys.argv[1])
-    faculty_in_department = faculty_in_department[:n]
+n = len(faculty_in_department) if len(sys.argv) == 1 else int(sys.argv[1])
 
 # Get information for all faculty and save to json
-for f in faculty_in_department:
+for f in faculty_in_department[:n]:
     save_publications_to_json(f)
 
 # Collect json files
@@ -133,10 +129,6 @@ fig.update_layout(
     plot_bgcolor="#191C1F",
 )
 
-fig.show(config={
-    'displaylogo': False,
-    # 'modeBarButtonsToRemove': ['select', 'lasso2d']
-}
-)
+fig.show(config={'displaylogo': False})
 
 fig.write_html("index.html")
