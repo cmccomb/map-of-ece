@@ -3,11 +3,14 @@ import plotly.express
 import plotly.graph_objects
 import sklearn.decomposition
 import sklearn.manifold
-import numpy
 import json
 from scholarly import scholarly
 import sentence_transformers
 import sys
+import os
+import matplotlib.pyplot
+import matplotlib.colors
+import numpy
 
 
 faculty_in_department = [
@@ -75,9 +78,6 @@ for f in faculty_in_department:
 
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
 
-import os, json
-import pandas as pd
-
 path_to_json = './'
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
@@ -98,10 +98,6 @@ tsne_embeddings = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_tra
 pca_embeddings = sklearn.decomposition.PCA(n_components=2, random_state=42).fit_transform(tsne_embeddings)
 all_the_data['x'] = pca_embeddings[:,0]
 all_the_data['y'] = pca_embeddings[:,1]
-
-import matplotlib.pyplot
-import matplotlib.colors
-import numpy
 
 colors = [matplotlib.colors.to_hex(x) for x in matplotlib.pyplot.cm.gist_rainbow(numpy.linspace(0, 1, len(json_files)))]
 
