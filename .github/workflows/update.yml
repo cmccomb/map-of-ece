@@ -1,0 +1,29 @@
+name: Benchmarks
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+  - cron: "0 0 1 * *"
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install dependencies
+        run: pip install sentence-transformers scholarly
+      - name: run the benchmark
+        run: python update.py
+      - name: setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+      - name: commit
+        run: |
+          git add -A
+          git commit -m "New embedding results"
+          git push
