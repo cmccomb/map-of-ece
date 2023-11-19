@@ -1,4 +1,4 @@
-name: update
+name: test
   
 on:
   push:
@@ -8,7 +8,7 @@ env:
   CARGO_TERM_COLOR: always
 
 jobs:
-  benchmark:
+  test_with_2:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
