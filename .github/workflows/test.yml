@@ -1,0 +1,18 @@
+name: update
+  
+on:
+  push:
+    branches: [ main ]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install dependencies
+        run: pip install -r requirements.txt
+      - name: run the benchmark
+        run: python update.py 2
