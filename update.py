@@ -7,6 +7,7 @@ import numpy
 import json
 from scholarly import scholarly
 import sentence_transformers
+import sys
 
 
 faculty_in_department = [
@@ -66,6 +67,9 @@ def pubs_to_json(faculty: tuple[str, str]):
         json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
     return faculty_pubs
 
+if len(sys.argv) != 1:
+    n = int(sys.argv[1])
+    faculty_in_department = faculty_in_department[:n]
 for f in faculty_in_department:
     pubs_to_json(f)
 
