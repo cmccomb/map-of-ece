@@ -1,4 +1,4 @@
-name: Update
+name: update
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: install dependencies
-        run: pip install -r requrements.txt
+        run: pip install -r requirements.txt
       - name: run the benchmark
         run: python update.py
       - name: setup git config
