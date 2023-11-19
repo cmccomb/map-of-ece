@@ -74,7 +74,7 @@ model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
 import os, json
 import pandas as pd
 
-path_to_json = '/content/'
+path_to_json = ''
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
 all_the_data = pandas.DataFrame()
