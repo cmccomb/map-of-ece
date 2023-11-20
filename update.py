@@ -116,7 +116,7 @@ fig = plotly.express.scatter(
     color_discrete_sequence=colors
 )
 
-# Make sure the axes are appropiately scaled
+# Make sure the axes are appropriately scaled
 fig.update_xaxes(
     visible=False,
     autorange=False,
@@ -138,10 +138,7 @@ fig.update_layout(
 )
 
 # Remove the logo
-fig.show(config={
-    'displaylogo': False,
-}
-)
+fig.show(config=dict(displaylogo=False))
 
 # Save the file
 fig.write_html("index.html")
