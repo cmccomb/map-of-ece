@@ -109,6 +109,7 @@ fig = plotly.express.scatter(
     y="y",
     hover_data=["title"],
     color="faculty",
+    symbol="faculty",
     color_discrete_sequence=colors
 )
 
