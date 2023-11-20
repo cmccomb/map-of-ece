@@ -68,6 +68,7 @@ def save_publications_to_json(faculty: tuple[str, str]) -> None:
             json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
 
 
+# get teh publications for every faculty member
 number_of_faculty: int = len(faculty_in_department) if len(sys.argv) == 1 else int(sys.argv[1])
 for faculty_tuple in faculty_in_department[:number_of_faculty]:
     save_publications_to_json(faculty_tuple)
@@ -76,7 +77,7 @@ for faculty_tuple in faculty_in_department[:number_of_faculty]:
 path_to_json: str = './'
 json_files: list[str] = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
-# Dump all of the json files into a single dataframe
+# Dump all the json files into a single dataframe
 all_the_data: pandas.DataFrame = pandas.DataFrame()
 for json_file in sorted(json_files, key=str.casefold):
     with open(os.path.join(path_to_json, json_file)) as json_file_path:
@@ -85,20 +86,21 @@ for json_file in sorted(json_files, key=str.casefold):
         json_as_df['faculty'] = json_file.replace(".json", "")
         all_the_data: pandas.DataFrame = pandas.concat([all_the_data, json_as_df], axis=0)
 
+# Re-index the dataframe because it appears to eb necessary
 all_the_data.reset_index(inplace=True)
 
 # Embed titles from publications
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
-embeddings = model.encode(all_the_data['title'], show_progress_bar=True)
+embeddings: numpy.ndarray = model.encode(all_the_data['title'], show_progress_bar=True)
 
 # Boil down teh data into a 2D plot
-tsne_embeddings = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_transform(embeddings)
-pca_embeddings = sklearn.decomposition.PCA(n_components=2, random_state=42).fit_transform(tsne_embeddings)
+tsne_embeddings: numpy.ndarray = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_transform(embeddings)
+pca_embeddings: numpy.ndarray = sklearn.decomposition.PCA(n_components=2, random_state=42).fit_transform(tsne_embeddings)
 all_the_data['x'] = pca_embeddings[:, 0]
 all_the_data['y'] = pca_embeddings[:, 1]
 
 # Make some pretty colors! 
-colors = [matplotlib.colors.to_hex(x) for x in matplotlib.pyplot.cm.gist_rainbow(numpy.linspace(0, 1, len(json_files)))]
+colors: list[str] = [matplotlib.colors.to_hex(x) for x in matplotlib.pyplot.cm.gist_rainbow(numpy.linspace(0, 1, len(json_files)))]
 
 # Plot the embeddings
 fig = plotly.express.scatter(
