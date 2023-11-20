@@ -56,6 +56,7 @@ faculty_in_department: list[tuple[str, str]] = [
     ("Zhao",                "z7tPc9IAAAAJ"),
 ]
 
+
 # Function to save publications from Google Scholar
 def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
     print(faculty[0])
@@ -66,16 +67,17 @@ def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
             # filled_publication = scholarly.fill(publication)
             filled_publication = publication
             faculty_pubs.append(filled_publication['bib'])
-    with open(faculty[0]+'.json', 'w', encoding='utf-8') as f:
+    with open(faculty[0] + '.json', 'w', encoding='utf-8') as f:
         json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
     return faculty_pubs
+
 
 # If an argument is added in command line, trim list faculty
 # if len(sys.argv) != 1:
 #     n = int(sys.argv[1])
 #     faculty_in_department = faculty_in_department[:n]
 
-nnumber_of_faculty: int = len(faculty_in_department if len(sys.argv == 1) else int(sys.argv[1])
+number_of_faculty: int = len(faculty_in_department) if len(sys.argv == 1) else int(sys.argv[1])
 for faculty in faculty_in_department[:number_of_faculty]:
     save_publications_to_json(faculty)
 
@@ -91,7 +93,7 @@ for json_file in sorted(json_files, key=str.casefold):
         df = pandas.DataFrame.from_dict(json_text)
         df['faculty'] = json_file.replace(".json", "")
         all_the_data = pandas.concat([all_the_data, df], axis=0)
-        
+
 all_the_data.reset_index(inplace=True)
 
 # Embed titles from publications
@@ -101,8 +103,8 @@ embeddings = model.encode(all_the_data['title'], show_progress_bar=True)
 # Boil down teh data into a 2D plot
 tsne_embeddings = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_transform(embeddings)
 pca_embeddings = sklearn.decomposition.PCA(n_components=2, random_state=42).fit_transform(tsne_embeddings)
-all_the_data['x'] = pca_embeddings[:,0]
-all_the_data['y'] = pca_embeddings[:,1]
+all_the_data['x'] = pca_embeddings[:, 0]
+all_the_data['y'] = pca_embeddings[:, 1]
 
 # Make some pretty colors! 
 colors = [matplotlib.colors.to_hex(x) for x in matplotlib.pyplot.cm.gist_rainbow(numpy.linspace(0, 1, len(json_files)))]
@@ -115,20 +117,21 @@ fig = plotly.express.scatter(
     hover_data=["title"],
     color="faculty",
     color_discrete_sequence=colors
-    )
+)
 
 # Make sure the axes are appropiately scaled
 fig.update_xaxes(
     visible=False,
     autorange=False,
-    range=[numpy.min(pca_embeddings[:,0])*1.05, numpy.max(pca_embeddings[:,0])*1.05]
-    )
+    range=[numpy.min(pca_embeddings[:, 0]) * 1.05, numpy.max(pca_embeddings[:, 0]) * 1.05]
+)
+
 fig.update_yaxes(
     visible=False,
     scaleanchor="x",
     scaleratio=1,
-    range=[numpy.min(pca_embeddings[:,1])*1.05, numpy.max(pca_embeddings[:,1])*1.05]
-    )
+    range=[numpy.min(pca_embeddings[:, 1]) * 1.05, numpy.max(pca_embeddings[:, 1]) * 1.05]
+)
 
 # Reset the layout
 fig.update_layout(
@@ -140,7 +143,7 @@ fig.update_layout(
 # Remove the logo
 fig.show(config={
     'displaylogo': False,
-    }
+}
 )
 
 # Save the file
