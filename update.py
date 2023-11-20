@@ -82,11 +82,11 @@ for faculty_tuple in faculty_in_department[:number_of_faculty]:
     save_publications_to_json(faculty_tuple)
 
 # Identify all the json files
-path_to_json = './'
-json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
+path_to_json: str = './'
+json_files: list[str] = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
 # Dump all of the json files into a single dataframe
-all_the_data = pandas.DataFrame()
+all_the_data: pandas.DataFrame = pandas.DataFrame()
 for json_file in sorted(json_files, key=str.casefold):
     with open(os.path.join(path_to_json, json_file)) as json_file_path:
         json_text = json.load(json_file_path)
