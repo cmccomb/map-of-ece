@@ -72,11 +72,6 @@ def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
     return faculty_pubs
 
 
-# If an argument is added in command line, trim list faculty
-# if len(sys.argv) != 1:
-#     n = int(sys.argv[1])
-#     faculty_in_department = faculty_in_department[:n]
-
 number_of_faculty: int = len(faculty_in_department) if len(sys.argv) == 1 else int(sys.argv[1])
 for faculty_tuple in faculty_in_department[:number_of_faculty]:
     save_publications_to_json(faculty_tuple)
