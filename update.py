@@ -12,7 +12,7 @@ import sklearn.decomposition
 import sklearn.manifold
 import sys
 
-
+# List of faculty names and google scholar IDs
 faculty_in_department: list[tuple[str, str]] = [
     ("Farimani", "aH52nxkAAAAJ"),
     ("Bedillion", "UIS_G1YAAAAJ"),
@@ -57,6 +57,7 @@ faculty_in_department: list[tuple[str, str]] = [
     ("Zhao", "z7tPc9IAAAAJ"),
 ]
 
+# Function to save publications from Google Scholar
 def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
     print(faculty[0])
     faculty_pubs = []
@@ -70,17 +71,18 @@ def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
         json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
     return faculty_pubs
 
+# If an argument is added in command line, trim list faculty
 if len(sys.argv) != 1:
     n = int(sys.argv[1])
     faculty_in_department = faculty_in_department[:n]
 for f in faculty_in_department:
     save_publications_to_json(f)
 
-model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
-
+# Identify all the json files
 path_to_json = './'
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
+# Dump all of the json files into a single dataframe
 all_the_data = pandas.DataFrame()
 for json_file in sorted(json_files, key=str.casefold):
     with open(os.path.join(path_to_json, json_file)) as json_file_path:
@@ -88,19 +90,23 @@ for json_file in sorted(json_files, key=str.casefold):
         df = pandas.DataFrame.from_dict(json_text)
         df['faculty'] = json_file.replace(".json", "")
         all_the_data = pandas.concat([all_the_data, df], axis=0)
-
-
+        
 all_the_data.reset_index(inplace=True)
 
+# Embed titles from publications
+model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
 embeddings = model.encode(all_the_data['title'], show_progress_bar=True)
 
+# Boil down teh data into a 2D plot
 tsne_embeddings = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_transform(embeddings)
 pca_embeddings = sklearn.decomposition.PCA(n_components=2, random_state=42).fit_transform(tsne_embeddings)
 all_the_data['x'] = pca_embeddings[:,0]
 all_the_data['y'] = pca_embeddings[:,1]
 
+# Make some pretty colors! 
 colors = [matplotlib.colors.to_hex(x) for x in matplotlib.pyplot.cm.gist_rainbow(numpy.linspace(0, 1, len(json_files)))]
 
+# Plot the embeddings
 fig = plotly.express.scatter(
     all_the_data,
     x="x",
@@ -110,6 +116,7 @@ fig = plotly.express.scatter(
     color_discrete_sequence=colors
     )
 
+# Make sure the axes are appropiately scaled
 fig.update_xaxes(
     visible=False,
     autorange=False,
@@ -122,16 +129,18 @@ fig.update_yaxes(
     range=[numpy.min(pca_embeddings[:,1])*1.05, numpy.max(pca_embeddings[:,1])*1.05]
     )
 
+# Reset the layout
 fig.update_layout(
     margin=dict(l=0, r=0, t=0, b=0),
     legend=dict(y=0.5),
     plot_bgcolor="#191C1F",
 )
 
-
+# Remove the logo
 fig.show(config={
     'displaylogo': False,
     }
 )
 
+# Save the file
 fig.write_html("index.html")
