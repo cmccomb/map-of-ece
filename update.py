@@ -1,5 +1,5 @@
 import json                     # for saving and parsing json files
-import matplotlib.pyplot        # for convering rgb to hex
+import matplotlib.pyplot        # for converting rgb to hex
 import matplotlib.colors        # for getting pretty colors
 import numpy                    # for generic operations
 import os                       # for searching for json files
@@ -85,7 +85,7 @@ for json_file in sorted(json_files, key=str.casefold):
         json_as_df['faculty'] = json_file.replace(".json", "")
         all_the_data: pandas.DataFrame = pandas.concat([all_the_data, json_as_df], axis=0)
 
-# all_the_data.reset_index(inplace=True)
+all_the_data.reset_index(inplace=True)
 
 # Embed titles from publications
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
