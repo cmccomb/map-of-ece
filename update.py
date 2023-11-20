@@ -61,15 +61,16 @@ faculty_in_department: list[tuple[str, str]] = [
 
 # Function to save publications from Google Scholar
 def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
-    print(faculty[0])
+    name, google_scholar_id = faculty
+    print(name)
     faculty_pubs = []
-    if faculty[1]:
-        author = scholarly.fill(scholarly.search_author_id(faculty[1]))
+    if google_scholar_id:
+        author = scholarly.fill(scholarly.search_author_id(google_scholar_id))
         for publication in author['publications']:
             # filled_publication = scholarly.fill(publication)
             filled_publication = publication
             faculty_pubs.append(filled_publication['bib'])
-    with open(faculty[0] + '.json', 'w', encoding='utf-8') as f:
+    with open(name + '.json', 'w', encoding='utf-8') as f:
         json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
     return faculty_pubs
 
