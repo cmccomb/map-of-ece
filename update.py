@@ -11,8 +11,6 @@ import sklearn.decomposition    # orient tsne
 import sklearn.manifold         # make a tsne
 import sys                      # for testing
 
-df = pandas.DataFrame
-
 # List of faculty names and google scholar IDs
 faculty_in_department: list[tuple[str, str]] = [
     ("Farimani",            "aH52nxkAAAAJ"),
@@ -79,15 +77,15 @@ path_to_json: str = './'
 json_files: list[str] = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
 # Dump all of the json files into a single dataframe
-all_the_data: df = pandas.DataFrame()
+all_the_data: pandas.DataFrame = pandas.DataFrame()
 for json_file in sorted(json_files, key=str.casefold):
     with open(os.path.join(path_to_json, json_file)) as json_file_path:
         json_dict: dict = json.load(json_file_path)
         json_as_df: pandas.DataFrame = pandas.DataFrame.from_dict(json_dict)
         json_as_df['faculty'] = json_file.replace(".json", "")
-        all_the_data = pandas.concat([all_the_data, json_as_df], axis=0)
+        all_the_data: pandas.DataFrame = pandas.concat([all_the_data, json_as_df], axis=0)
 
-all_the_data.reset_index(inplace=True)
+# all_the_data.reset_index(inplace=True)
 
 # Embed titles from publications
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
