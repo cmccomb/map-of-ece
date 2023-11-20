@@ -113,17 +113,18 @@ fig = plotly.express.scatter(
 )
 
 # Make sure the axes are appropriately scaled
-fig.update_xaxes(
-    visible=False,
-    autorange=False,
-    range=[numpy.min(pca_embeddings[:, 0]) * 1.05, numpy.max(pca_embeddings[:, 0]) * 1.05]
-)
-
-fig.update_yaxes(
-    visible=False,
-    scaleanchor="x",
-    scaleratio=1,
-    range=[numpy.min(pca_embeddings[:, 1]) * 1.05, numpy.max(pca_embeddings[:, 1]) * 1.05]
+fig.update(
+    xaxes=dict(
+        visible=False,
+        autorange=False,
+        range=[numpy.min(pca_embeddings[:, 0]) * 1.05, numpy.max(pca_embeddings[:, 0]) * 1.05]
+    ),
+    yaxes=dict(
+        visible=False,
+        scaleanchor="x",
+        scaleratio=1,
+        range=[numpy.min(pca_embeddings[:, 1]) * 1.05, numpy.max(pca_embeddings[:, 1]) * 1.05]
+    )
 )
 
 # Reset the layout
