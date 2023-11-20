@@ -1,16 +1,16 @@
-import pandas
-import plotly.express
-import plotly.graph_objects
-import sklearn.decomposition
-import sklearn.manifold
 import json
-from scholarly import scholarly
-import sentence_transformers
-import sys
-import os
 import matplotlib.pyplot
 import matplotlib.colors
 import numpy
+import os
+import pandas
+import plotly.express
+import plotly.graph_objects
+from scholarly import scholarly
+import sentence_transformers
+import sklearn.decomposition
+import sklearn.manifold
+import sys
 
 
 faculty_in_department = [
