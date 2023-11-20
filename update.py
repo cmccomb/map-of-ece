@@ -13,7 +13,7 @@ import sklearn.manifold
 import sys
 
 
-faculty_in_department = [
+faculty_in_department: list[tuple[str, str]] = [
     ("Farimani", "aH52nxkAAAAJ"),
     ("Bedillion", "UIS_G1YAAAAJ"),
     ("Bergbreiter", "SU0c5P0AAAAJ"),
@@ -57,7 +57,7 @@ faculty_in_department = [
     ("Zhao", "z7tPc9IAAAAJ"),
 ]
 
-def pubs_to_json(faculty: tuple[str, str]):
+def save_publications_to_json(faculty: tuple[str, str]) -> list[dict[str, str]]:
     print(faculty[0])
     faculty_pubs = []
     if faculty[1]:
@@ -74,7 +74,7 @@ if len(sys.argv) != 1:
     n = int(sys.argv[1])
     faculty_in_department = faculty_in_department[:n]
 for f in faculty_in_department:
-    pubs_to_json(f)
+    save_publications_to_json(f)
 
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
 
