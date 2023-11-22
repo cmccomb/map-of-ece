@@ -3,6 +3,8 @@ name: test
 on:
   push:
     branches: [ main ]
+    paths:
+      - 'update.py'
 
 env:
   CARGO_TERM_COLOR: always
