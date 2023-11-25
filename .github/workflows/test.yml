@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'update_viz.py'
+  workflow_dispatch:
 
 env:
   CARGO_TERM_COLOR: always
