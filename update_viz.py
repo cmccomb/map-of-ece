@@ -26,15 +26,25 @@ for json_file in sorted(json_files, key=str.casefold):
 # Re-index the dataframe because it appears to eb necessary
 all_the_data.reset_index(inplace=True)
 
+# Department focus areas
+focus_areas = ["Advanced manufacturing",
+               "Bioengineering",
+               "Computational engineering",
+               "Energy and environment",
+               "Machine learning and AI",
+               "Micro/nanoengineering",
+               "Product innovation",
+               "Robotics"]
+
 # Embed titles from publications
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
-embeddings: numpy.ndarray = model.encode(all_the_data['title'], show_progress_bar=True)
+embeddings: numpy.ndarray = model.encode(all_the_data['title'] + focus_areas, show_progress_bar=True)
 
 # Boil down teh data into a 2D plot
 tsne_embeddings: numpy.ndarray = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_transform(embeddings)
 pca_embeddings: numpy.ndarray = sklearn.decomposition.PCA(n_components=2, random_state=42).fit_transform(tsne_embeddings)
-all_the_data['x'] = pca_embeddings[:, 0]
-all_the_data['y'] = pca_embeddings[:, 1]
+all_the_data['x'] = pca_embeddings[:len(all_the_data['title']), 0]
+all_the_data['y'] = pca_embeddings[:len(all_the_data['title']), 1]
 
 # Make some pretty colors! 
 colors: list[str] = [matplotlib.colors.to_hex(x) for x in matplotlib.pyplot.cm.gist_rainbow(numpy.linspace(0, 1, len(json_files)))]
@@ -49,6 +59,20 @@ fig = plotly.express.scatter(
     symbol="faculty",
     color_discrete_sequence=colors
 )
+
+
+for idx, name in enumerate(focus_areas):
+    fig.add_annotation(x=pca_embeddings[idx-len(focus_areas), 0],
+                       y=pca_embeddings[idx-len(focus_areas), 1],
+                       text=name,
+                       xanchor='center',
+                       yanchor='middle',
+                       showarrow=False,
+                       font=dict(
+                          size=24,
+                          color="#dddddd"
+                        ),
+                       )
 
 # Make sure the axes are appropriately scaled
 fig.update_xaxes(
