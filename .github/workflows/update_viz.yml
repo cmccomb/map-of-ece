@@ -2,10 +2,12 @@ name: update
 
 permissions:
   contents: write
-  
+
 on:
-  schedule:
-  - cron: "0 0 1 * *"
+  push:
+    branches: [ main ]
+    paths:
+      - '*.json'
   workflow_dispatch:
 
 env:
@@ -17,9 +19,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements_viz.txt
       - name: run the benchmark
-        run: python update.py
+        run: python update_viz.py
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:

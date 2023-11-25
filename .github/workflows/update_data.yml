@@ -1,0 +1,26 @@
+name: update
+
+permissions:
+  contents: write
+  
+on:
+  schedule:
+  - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install dependencies
+        run: pip install -r requirements_data.txt
+      - name: run the benchmark
+        run: python update_data.py
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
