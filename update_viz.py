@@ -38,7 +38,7 @@ focus_areas = ["Advanced manufacturing",
 
 # Embed titles from publications
 model = sentence_transformers.SentenceTransformer('all-mpnet-base-v2')
-embeddings: numpy.ndarray = model.encode(all_the_data['title'] + focus_areas, show_progress_bar=True)
+embeddings: numpy.ndarray = model.encode(all_the_data['title'].to_list() + focus_areas, show_progress_bar=True)
 
 # Boil down teh data into a 2D plot
 tsne_embeddings: numpy.ndarray = sklearn.manifold.TSNE(n_components=2, random_state=42).fit_transform(embeddings)
