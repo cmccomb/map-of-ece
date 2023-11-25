@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'update.py'
+      - 'update_viz.py'
 
 env:
   CARGO_TERM_COLOR: always
@@ -15,8 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements_viz.txt
       - name: clean up
         run: rm -rf *.json
-      - name: run the benchmark
-        run: python update.py 2
+      - name: run the data
+        run: python update_data.py 2
+      - name: run the data
+        run: python update_viz.py
