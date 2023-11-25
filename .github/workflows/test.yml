@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: install data dependencies
-        run: pip install -r requirements_data.txt
-      - name: install viz dependencies
-        run: pip install -r requirements_viz.txt
       - name: clean up
         run: rm -rf *.json
+      - name: install data dependencies
+        run: pip install -r requirements_data.txt
       - name: run the data
         run: python update_data.py 2
+      - name: install viz dependencies
+        run: pip install -r requirements_viz.txt
       - name: run the viz
         run: python update_viz.py

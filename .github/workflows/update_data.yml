@@ -18,9 +18,9 @@ jobs:
       - uses: actions/checkout@v2
       - name: install dependencies
         run: pip install -r requirements_data.txt
-      - name: run the benchmark
+      - name: scrape the data
         run: python update_data.py
-      - name: Commit & Push changes
+      - name: commit and push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

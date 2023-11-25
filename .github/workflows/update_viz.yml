@@ -20,9 +20,9 @@ jobs:
       - uses: actions/checkout@v2
       - name: install dependencies
         run: pip install -r requirements_viz.txt
-      - name: run the benchmark
+      - name: create the visualization
         run: python update_viz.py
-      - name: Commit & Push changes
+      - name: commit and push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
