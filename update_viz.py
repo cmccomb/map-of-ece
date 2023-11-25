@@ -11,7 +11,7 @@ import sklearn.manifold         # make a tsne
 
 
 # Identify all the json files
-path_to_json: str = './'
+path_to_json: str = './data/'
 json_files: list[str] = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 
 # Dump all the json files into a single dataframe

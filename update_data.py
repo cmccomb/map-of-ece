@@ -56,7 +56,7 @@ def save_publications_to_json(faculty: tuple[str, str]) -> None:
     if google_scholar_id:
         author = scholarly.fill(scholarly.search_author_id(google_scholar_id))
         faculty_pubs = [publication['bib'] for publication in author['publications']]
-        with open(name + '.json', 'w', encoding='utf-8') as f:
+        with open('data/' + name + '.json', 'w', encoding='utf-8') as f:
             json.dump(faculty_pubs, f, ensure_ascii=False, indent=4)
 
 
