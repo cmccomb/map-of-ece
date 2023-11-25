@@ -1,58 +1,13 @@
 [
     {
-        "title": "The exoskeleton expansion: improving walking and running economy",
+        "title": "A biomechanical analysis of adaptive assistance strategy for uphill walking using a powered hip exoskeleton",
         "pub_year": "2020",
-        "citation": "Journal of neuroengineering and rehabilitation 17 (1), 1-9, 2020"
+        "citation": "American Society of Biomechanics, 2020"
     },
     {
-        "title": "Real-time neural network-based gait phase estimation using a robotic hip exoskeleton",
-        "pub_year": "2019",
-        "citation": "IEEE Transactions on Medical Robotics and Bionics 2 (1), 28-37, 2019"
-    },
-    {
-        "title": "The effect of hip assistance levels on human energetic cost using robotic hip exoskeletons",
-        "pub_year": "2019",
-        "citation": "IEEE Robotics and Automation Letters 4 (2), 430-437, 2019"
-    },
-    {
-        "title": "Real-time gait phase estimation for robotic hip exoskeleton control during multimodal locomotion",
-        "pub_year": "2021",
-        "citation": "IEEE robotics and automation letters 6 (2), 3491-3497, 2021"
-    },
-    {
-        "title": "Electromyography (EMG) signal contributions in speed and slope estimation using robotic exoskeletons",
+        "title": "A semi-wearable robotic device for sit-to-stand assistance",
         "pub_year": "2019",
         "citation": "2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR …, 2019"
-    },
-    {
-        "title": "Biomechanical comparison of assistance strategies using a bilateral robotic knee exoskeleton",
-        "pub_year": "2021",
-        "citation": "IEEE Transactions on Biomedical Engineering 68 (9), 2870-2879, 2021"
-    },
-    {
-        "title": "Effects of assistance during early stance phase using a robotic knee orthosis on energetics, muscle activity, and joint mechanics during incline and decline walking",
-        "pub_year": "2020",
-        "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 28 (4 …, 2020"
-    },
-    {
-        "title": "Subject-independent, biological hip moment estimation during multimodal overground ambulation using deep learning",
-        "pub_year": "2022",
-        "citation": "IEEE Transactions on Medical Robotics and Bionics 4 (1), 219-229, 2022"
-    },
-    {
-        "title": "Real-time user-independent slope prediction using deep learning for modulation of robotic knee exoskeleton assistance",
-        "pub_year": "2021",
-        "citation": "IEEE Robotics and Automation Letters 6 (2), 3995-4000, 2021"
-    },
-    {
-        "title": "Design and validation of a torque controllable hip exoskeleton for walking assistance",
-        "pub_year": "2018",
-        "citation": "Dynamic Systems and Control Conference 51890, V001T12A002, 2018"
-    },
-    {
-        "title": "Subject-independent continuous locomotion mode classification for robotic hip exoskeleton applications",
-        "pub_year": "2022",
-        "citation": "IEEE Transactions on Biomedical Engineering 69 (10), 3234-3242, 2022"
     },
     {
         "title": "An integrated design approach for infill patterning of fused deposition modeling and its application to an airfoil",
@@ -65,14 +20,9 @@
         "citation": "2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and …, 2020"
     },
     {
-        "title": "Design and validation of a torque-controllable series elastic actuator-based hip exoskeleton for dynamic locomotion",
-        "pub_year": "2023",
-        "citation": "Journal of Mechanisms and Robotics 15 (2), 021007, 2023"
-    },
-    {
-        "title": "Effects of bilateral assistance for hemiparetic gait post-stroke using a powered hip exoskeleton",
-        "pub_year": "2022",
-        "citation": "Annals of Biomedical Engineering, 1-12, 2022"
+        "title": "Biomechanical comparison of assistance strategies using a bilateral robotic knee exoskeleton",
+        "pub_year": "2021",
+        "citation": "IEEE Transactions on Biomedical Engineering 68 (9), 2870-2879, 2021"
     },
     {
         "title": "Continuous locomotion mode classification using a robotic hip exoskeleton",
@@ -80,14 +30,19 @@
         "citation": "2020 8th IEEE RAS/EMBS International Conference for Biomedical Robotics and …, 2020"
     },
     {
-        "title": "A semi-wearable robotic device for sit-to-stand assistance",
-        "pub_year": "2019",
-        "citation": "2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR …, 2019"
-    },
-    {
         "title": "Design and evaluation of a proportional myoelectric controller for hip exoskeletons during walking",
         "pub_year": "2018",
         "citation": "Dynamic Systems and Control Conference 51890, V001T13A005, 2018"
+    },
+    {
+        "title": "Design and validation of a torque controllable hip exoskeleton for walking assistance",
+        "pub_year": "2018",
+        "citation": "Dynamic Systems and Control Conference 51890, V001T12A002, 2018"
+    },
+    {
+        "title": "Design and validation of a torque-controllable series elastic actuator-based hip exoskeleton for dynamic locomotion",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanisms and Robotics 15 (2), 021007, 2023"
     },
     {
         "title": "Effect of assistance timing in knee extensor muscle activation during sit-to-stand using a bilateral robotic knee exoskeleton",
@@ -95,14 +50,24 @@
         "citation": "2021 43rd Annual International Conference of the IEEE Engineering in …, 2021"
     },
     {
-        "title": "Investigating the impact of the user interface for a powered hip orthosis on metabolic cost and user comfort: a preliminary study",
+        "title": "Effects of assistance during early stance phase using a robotic knee orthosis on energetics, muscle activity, and joint mechanics during incline and decline walking",
         "pub_year": "2020",
-        "citation": "JPO: Journal of Prosthetics and Orthotics, 2020"
+        "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering 28 (4 …, 2020"
     },
     {
-        "title": "Wearable sensor-based step length estimation during overground locomotion using a deep convolutional neural network",
-        "pub_year": "2021",
-        "citation": "2021 43rd Annual International Conference of the IEEE Engineering in …, 2021"
+        "title": "Effects of bilateral assistance for hemiparetic gait post-stroke using a powered hip exoskeleton",
+        "pub_year": "2022",
+        "citation": "Annals of Biomedical Engineering, 1-12, 2022"
+    },
+    {
+        "title": "Electromyography (EMG) signal contributions in speed and slope estimation using robotic exoskeletons",
+        "pub_year": "2019",
+        "citation": "2019 IEEE 16th International Conference on Rehabilitation Robotics (ICORR …, 2019"
+    },
+    {
+        "title": "Estimating Biological Hip Torque During Overground Ambulation: A Machine Learning Approach",
+        "pub_year": "2020",
+        "citation": "American Society of Biomechanics, 2020"
     },
     {
         "title": "Exoskeleton systems and methods of use",
@@ -110,9 +75,9 @@
         "citation": "US Patent App. 18/003,927, 2023"
     },
     {
-        "title": "User and Environmental Context Adaptive Knee Exoskeleton Assistance using Electromyography",
-        "pub_year": "2023",
-        "citation": "2023 International Symposium on Medical Robotics (ISMR), 1-6, 2023"
+        "title": "Investigating the impact of the user interface for a powered hip orthosis on metabolic cost and user comfort: a preliminary study",
+        "pub_year": "2020",
+        "citation": "JPO: Journal of Prosthetics and Orthotics, 2020"
     },
     {
         "title": "Real-Time Walk Detection for Robotic Hip Exoskeleton Applications",
@@ -120,13 +85,48 @@
         "citation": "2022 International Symposium on Medical Robotics (ISMR), 1-5, 2022"
     },
     {
-        "title": "A biomechanical analysis of adaptive assistance strategy for uphill walking using a powered hip exoskeleton",
-        "pub_year": "2020",
-        "citation": "American Society of Biomechanics, 2020"
+        "title": "Real-time gait phase estimation for robotic hip exoskeleton control during multimodal locomotion",
+        "pub_year": "2021",
+        "citation": "IEEE robotics and automation letters 6 (2), 3491-3497, 2021"
     },
     {
-        "title": "Estimating Biological Hip Torque During Overground Ambulation: A Machine Learning Approach",
+        "title": "Real-time neural network-based gait phase estimation using a robotic hip exoskeleton",
+        "pub_year": "2019",
+        "citation": "IEEE Transactions on Medical Robotics and Bionics 2 (1), 28-37, 2019"
+    },
+    {
+        "title": "Real-time user-independent slope prediction using deep learning for modulation of robotic knee exoskeleton assistance",
+        "pub_year": "2021",
+        "citation": "IEEE Robotics and Automation Letters 6 (2), 3995-4000, 2021"
+    },
+    {
+        "title": "Subject-independent continuous locomotion mode classification for robotic hip exoskeleton applications",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Biomedical Engineering 69 (10), 3234-3242, 2022"
+    },
+    {
+        "title": "Subject-independent, biological hip moment estimation during multimodal overground ambulation using deep learning",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Medical Robotics and Bionics 4 (1), 219-229, 2022"
+    },
+    {
+        "title": "The effect of hip assistance levels on human energetic cost using robotic hip exoskeletons",
+        "pub_year": "2019",
+        "citation": "IEEE Robotics and Automation Letters 4 (2), 430-437, 2019"
+    },
+    {
+        "title": "The exoskeleton expansion: improving walking and running economy",
         "pub_year": "2020",
-        "citation": "American Society of Biomechanics, 2020"
+        "citation": "Journal of neuroengineering and rehabilitation 17 (1), 1-9, 2020"
+    },
+    {
+        "title": "User and Environmental Context Adaptive Knee Exoskeleton Assistance using Electromyography",
+        "pub_year": "2023",
+        "citation": "2023 International Symposium on Medical Robotics (ISMR), 1-6, 2023"
+    },
+    {
+        "title": "Wearable sensor-based step length estimation during overground locomotion using a deep convolutional neural network",
+        "pub_year": "2021",
+        "citation": "2021 43rd Annual International Conference of the IEEE Engineering in …, 2021"
     }
 ]

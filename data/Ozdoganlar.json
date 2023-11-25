@@ -1,293 +1,41 @@
 [
     {
-        "title": "An experimental investigation of micro-machinability of copper 101 using tungsten carbide micro-endmills",
-        "pub_year": "2007",
-        "citation": "International Journal of Machine Tools and Manufacture 47 (7-8), 1088-1100, 2007"
-    },
-    {
-        "title": "High‐density soft‐matter electronics with micron‐scale line width",
-        "pub_year": "2014",
-        "citation": "Advanced materials 26 (30), 5211-5216, 2014"
-    },
-    {
-        "title": "An experimental investigation on thermal exposure during bone drilling",
-        "pub_year": "2012",
-        "citation": "Medical engineering & physics 34 (10), 1510-1520, 2012"
-    },
-    {
-        "title": "Modeling and experimentation of bone drilling forces",
-        "pub_year": "2012",
-        "citation": "Journal of biomechanics 45 (6), 1076-1083, 2012"
-    },
-    {
-        "title": "Chronic tissue response to carboxymethyl cellulose based dissolvable insertion needle for ultra-small neural probes",
-        "pub_year": "2014",
-        "citation": "Biomaterials 35 (34), 9255-9268, 2014"
-    },
-    {
-        "title": "A new thermal model for bone drilling with applications to orthopaedic surgery",
-        "pub_year": "2011",
-        "citation": "Medical engineering & physics 33 (10), 1234-1244, 2011"
-    },
-    {
-        "title": "Fabrication of circular microfluidic channels by combining mechanical micromilling and soft lithography",
-        "pub_year": "2011",
-        "citation": "Lab on a Chip 11 (8), 1550-1555, 2011"
-    },
-    {
-        "title": "EGaIn–metal interfacing for liquid metal circuitry and microelectronics integration",
+        "title": "120 Microneedle array delivery of skin targeted adenovector vaccines",
         "pub_year": "2018",
-        "citation": "Advanced Materials Interfaces 5 (10), 1701596, 2018"
+        "citation": "Journal of Investigative Dermatology 138 (5), S20, 2018"
     },
     {
-        "title": "Dissolvable microneedle arrays for intradermal delivery of biologics: fabrication and application",
-        "pub_year": "2014",
-        "citation": "Pharmaceutical research 31, 117-135, 2014"
+        "title": "3D Assembly of MXene Networks using a Ceramic Backbone with Controlled Porosity",
+        "pub_year": "2023",
+        "citation": "Advanced Materials, 2304757, 2023"
     },
     {
-        "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
-        "pub_year": "2015",
-        "citation": "Journal of Mechanical Design 137 (11), 111410, 2015"
+        "title": "A NOVEL TECHNIQUE FOR FABRICATION OF DISSOLVABLE MICRONEEDLE ARRAYS",
+        "citation": ""
     },
     {
-        "title": "Micromilling of microbarbs for medical implants",
+        "title": "A Novel Mechanical Nanofabrication Technique: Nanomilling",
+        "citation": ""
+    },
+    {
+        "title": "A Simplified Model for Orthogonal Micromachining of fcc single-crystal materials",
         "pub_year": "2008",
-        "citation": "International Journal of Machine Tools and Manufacture 48 (3-4), 459-472, 2008"
+        "citation": "Trans. NAMRI/SME 36, 193-200, 2008"
     },
     {
-        "title": "DISSOLVABLE MICRONEEDLE ARRAYS FOR TRANSDERMAL DELIVERY TO HUMAN SKIN",
-        "pub_year": "2010",
-        "citation": "US Patent App. 12/910,516, 2010"
+        "title": "A Spectral-Tchebychev Technique for Solving Linear and Non-Linear Beam Equations.",
+        "pub_year": "2007",
+        "citation": "The Journal of Sound and Vibration, 2007"
     },
     {
-        "title": "Experimental modal analysis for microelectromechanical systems",
-        "pub_year": "2005",
-        "citation": "Experimental mechanics 45, 498-506, 2005"
-    },
-    {
-        "title": "Design and evaluation of a mechanical nanomanufacturing system for nanomilling",
-        "pub_year": "2012",
-        "citation": "Precision Engineering 36 (1), 19-30, 2012"
-    },
-    {
-        "title": "A spectral-Tchebychev technique for solving linear and nonlinear beam equations",
-        "pub_year": "2009",
-        "citation": "Journal of Sound and Vibration 321 (1-2), 375-404, 2009"
-    },
-    {
-        "title": "A rotating-tip-based mechanical nano-manufacturing process: nanomilling",
-        "pub_year": "2010",
-        "citation": "Nanoscale research letters 5, 1403-1407, 2010"
-    },
-    {
-        "title": "Evaluation of a spindle-based force sensor for monitoring and fault diagnosis of machining operations",
+        "title": "A Stability Solution for the Axial Contour-Turning Process",
         "pub_year": "2002",
-        "citation": "International Journal of Machine Tools and Manufacture 42 (6), 741-751, 2002"
-    },
-    {
-        "title": "Modeling chip-evacuation forces and prediction of chip-clogging in drilling",
-        "pub_year": "2002",
-        "citation": "J. Manuf. Sci. Eng. 124 (3), 605-614, 2002"
-    },
-    {
-        "title": "An ultra-compliant, scalable neural probe with molded biodissolvable delivery vehicle",
-        "pub_year": "2012",
-        "citation": "2012 IEEE 25th international conference on micro electro mechanical systems …, 2012"
-    },
-    {
-        "title": "An improved tool–holder model for RCSA tool-point frequency response prediction",
-        "pub_year": "2009",
-        "citation": "Precision Engineering 33 (1), 26-36, 2009"
-    },
-    {
-        "title": "Therapeutic intradermal delivery of tumor necrosis factor-alpha antibodies using tip-loaded dissolvable microneedle arrays",
-        "pub_year": "2015",
-        "citation": "Acta biomaterialia 24, 96-105, 2015"
-    },
-    {
-        "title": "A technique for measuring radial error motions of ultra-high-speed miniature spindles used for micromachining",
-        "pub_year": "2012",
-        "citation": "Precision Engineering 36 (1), 104-120, 2012"
-    },
-    {
-        "title": "Effects of crystallographic anistropy on orthogonal micromachining of single-crystal aluminum",
-        "pub_year": "2008",
         "citation": ""
     },
     {
-        "title": "Microendmill dynamics including the actual fluted geometry and setup errors—Part I: Model Development and Numerical Solution",
-        "pub_year": "2008",
-        "citation": ""
-    },
-    {
-        "title": "Processing fragile matter: effect of polymer graft modification on the mechanical properties and processibility of (nano-) particulate solids",
-        "pub_year": "2016",
-        "citation": "Soft Matter 12 (15), 3527-3537, 2016"
-    },
-    {
-        "title": "Ultra-miniature ultra-compliant neural probes with dissolvable delivery needles: design, fabrication and characterization",
-        "pub_year": "2016",
-        "citation": "Biomedical microdevices 18, 1-20, 2016"
-    },
-    {
-        "title": "Dynamics of ultra-high-speed (UHS) spindles used for micromachining",
-        "pub_year": "2014",
-        "citation": "International Journal of Machine Tools and Manufacture 87, 27-38, 2014"
-    },
-    {
-        "title": "Effect of groove-type chip breakers on twist drill performance",
-        "pub_year": "2003",
-        "citation": "International Journal of Machine Tools and Manufacture 43 (6), 617-627, 2003"
-    },
-    {
-        "title": "Modeling and prediction of hole profile in drilling, Part 1: modeling drill dynamics in the presence of drill alignment errors",
-        "pub_year": "2003",
-        "citation": "Journal of manufacturing science and engineering 125 (1), 6-13, 2003"
-    },
-    {
-        "title": "Modeling chip-evacuation forces in drilling for various flute geometries",
-        "pub_year": "2003",
-        "citation": "J. Manuf. Sci. Eng. 125 (3), 405-415, 2003"
-    },
-    {
-        "title": "Three dimensional dynamics of pretwisted beams: A spectral-Tchebychev solution",
-        "pub_year": "2014",
-        "citation": "Journal of Sound and Vibration 333 (10), 2823-2839, 2014"
-    },
-    {
-        "title": "Soft Electronics Manufacturing Using Microcontact Printing",
-        "pub_year": "2019",
-        "citation": "Advanced Functional Materials, 2019"
-    },
-    {
-        "title": "Three dimensional dynamics of rotating structures under mixed boundary conditions",
-        "pub_year": "2015",
-        "citation": "Journal of Sound and Vibration 358, 176-191, 2015"
-    },
-    {
-        "title": "A three-dimensional model for the dynamics of micro-endmills including bending, torsional and axial vibrations",
-        "pub_year": "2011",
-        "citation": "Precision Engineering 35 (1), 24-37, 2011"
-    },
-    {
-        "title": "Analysis of error motions of ultra-high-speed (UHS) micromachining spindles",
-        "pub_year": "2013",
-        "citation": "International Journal of Machine Tools and Manufacture 70, 1-14, 2013"
-    },
-    {
-        "title": "A spectral-Tchebychev solution for three-dimensional vibrations of parallelepipeds under mixed boundary conditions",
-        "pub_year": "2012",
-        "citation": ""
-    },
-    {
-        "title": "Biomimetic scaffolds with three-dimensional undulated microtopographies",
-        "pub_year": "2017",
-        "citation": "Biomaterials 128, 109-120, 2017"
-    },
-    {
-        "title": "Tip-loaded dissolvable microneedle arrays effectively deliver polymer-conjugated antibody inhibitors of tumor-necrosis-factor-alpha into human skin",
-        "pub_year": "2016",
-        "citation": "Journal of pharmaceutical sciences 105 (11), 3453-3457, 2016"
-    },
-    {
-        "title": "An analytical model for micro-endmill dynamics",
-        "pub_year": "2008",
-        "citation": "Journal of Vibration and Control 14 (8), 1125-1150, 2008"
-    },
-    {
-        "title": "A multi-orientation error separation technique for spindle metrology of miniature ultra-high-speed spindles",
-        "pub_year": "2016",
-        "citation": "Precision Engineering 43, 119-131, 2016"
-    },
-    {
-        "title": "Microendmill dynamics including the actual fluted geometry and setup errors—part II: model validation and application",
-        "pub_year": "2008",
-        "citation": ""
-    },
-    {
-        "title": "Experimental modal analysis for microsystems",
-        "pub_year": "2003",
-        "citation": "measurements 5, 17, 2003"
-    },
-    {
-        "title": "Lubrication enhancement for UHMWPE sliding contacts through surface texturing",
-        "pub_year": "2015",
-        "citation": "Tribology Transactions 58 (1), 79-86, 2015"
-    },
-    {
-        "title": "Modeling and analysis of internal thread forming",
-        "pub_year": "2002",
-        "citation": "TECHNICAL PAPERS-SOCIETY OF MANUFACTURING ENGINEERS-ALL SERIES-, 2002"
-    },
-    {
-        "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling",
-        "pub_year": "2017",
-        "citation": "Scientific reports 7 (1), 16724, 2017"
-    },
-    {
-        "title": "Effect of severe prior deformation on electrical-assisted compression of copper specimens",
-        "pub_year": "2011",
-        "citation": ""
-    },
-    {
-        "title": "Micromilling of poly (methyl methacrylate, PMMA) using single-crystal diamond tools",
-        "pub_year": "2017",
-        "citation": "Procedia Manufacturing 10, 683-693, 2017"
-    },
-    {
-        "title": "An LDV-based methodology for measuring axial and radial error motions when using miniature ultra-high-speed (UHS) micromachining spindles",
-        "pub_year": "2013",
-        "citation": "Precision Engineering 37 (1), 172-186, 2013"
-    },
-    {
-        "title": "Modeling and experimentation for three-dimensional dynamics of endmills",
-        "pub_year": "2012",
-        "citation": "International Journal of Machine Tools and Manufacture 53 (1), 39-50, 2012"
-    },
-    {
-        "title": "Dynamic characterization of multi-axis dynamometers",
-        "pub_year": "2014",
-        "citation": "Precision Engineering 38 (1), 148-161, 2014"
-    },
-    {
-        "title": "Orthogonal machining of single-crystal and coarse-grained aluminum",
-        "pub_year": "2012",
-        "citation": "Journal of Manufacturing Processes 14 (2), 126-134, 2012"
-    },
-    {
-        "title": "An impact excitation system for repeatable, high-bandwidth modal testing of miniature structures",
-        "pub_year": "2014",
-        "citation": "Journal of Sound and Vibration 333 (13), 2743-2761, 2014"
-    },
-    {
-        "title": "Accurate measurement of micromachining forces through dynamic compensation of dynamometers",
-        "pub_year": "2017",
-        "citation": "Precision Engineering 49, 365-376, 2017"
-    },
-    {
-        "title": "Modeling and prediction of hole profile in drilling, Part 2: Modeling hole profile",
-        "pub_year": "2003",
-        "citation": "J. Manuf. Sci. Eng. 125 (1), 14-20, 2003"
-    },
-    {
-        "title": "Skin-targeted delivery of extracellular vesicle-encapsulated curcumin using dissolvable microneedle arrays",
-        "pub_year": "2022",
-        "citation": "Acta Biomaterialia 149, 198-212, 2022"
-    },
-    {
-        "title": "A method for open-loop control of dynamic motions of piezo-stack actuators",
-        "pub_year": "2012",
-        "citation": "Sensors and Actuators A: Physical 184, 160-172, 2012"
-    },
-    {
-        "title": "The viability of micromilling for manufacturing mechanical attachment components for medical applications",
-        "pub_year": "2006",
-        "citation": "Trans. NAMRI/SME 34, 445-452, 2006"
-    },
-    {
-        "title": "Analysis of In Vitro Cytotoxicity of Carbohydrate-Based Materials Used for Dissolvable Microneedle Arrays",
-        "pub_year": "2020",
-        "citation": "Pharmaceutical Research 37, 1-18, 2020"
+        "title": "A Structured Approach to Analytical Multi-Degree-of-Freedom Time-Invariant Stability Analysis for Machining",
+        "pub_year": "1997",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 26799, 153-160, 1997"
     },
     {
         "title": "A base excitation test facility for dynamic testing of microsystems",
@@ -295,9 +43,9 @@
         "citation": "Proc. of 22nd Int. Modal Analysis Conf.(IMAC), 2004"
     },
     {
-        "title": "Wear of ultrananocrystalline diamond AFM tips during mechanical nanomanufacturing by nanomilling",
-        "pub_year": "2014",
-        "citation": "Wear 317 (1-2), 39-55, 2014"
+        "title": "A method for open-loop control of dynamic motions of piezo-stack actuators",
+        "pub_year": "2012",
+        "citation": "Sensors and Actuators A: Physical 184, 160-172, 2012"
     },
     {
         "title": "A model for bending, torsional, and axial vibrations of micro-and macro-drills including actual drill geometry—Part I: Model development and numerical solution",
@@ -305,44 +53,14 @@
         "citation": ""
     },
     {
-        "title": "An analytical representation of chip area for corner-radiused tools under both depth-of-cut and feed variations",
-        "pub_year": "2000",
-        "citation": "J. Manuf. Sci. Eng. 122 (4), 660-665, 2000"
-    },
-    {
-        "title": "Extended-release of opioids using fentanyl-based polymeric nanoparticles for enhanced pain management",
-        "pub_year": "2017",
-        "citation": "RSC advances 7 (76), 47904-47912, 2017"
-    },
-    {
-        "title": "An analytical stability solution for the turning process with depth-direction dynamics and corner-radiused tooling",
-        "pub_year": "1998",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 15861, 511-518, 1998"
-    },
-    {
-        "title": "Micro/meso-scale mechanical machining 2020: a two-decade state-of-the-field review",
-        "pub_year": "2020",
-        "citation": "Journal of Manufacturing Science and Engineering 142 (11), 110809, 2020"
-    },
-    {
-        "title": "Tip-loaded microneedle arrays for transdermal insertion",
-        "pub_year": "2018",
-        "citation": "US Patent 9,944,019, 2018"
-    },
-    {
-        "title": "Green micromachining of ceramics using tungsten carbide micro-endmills",
-        "pub_year": "2019",
-        "citation": "Journal of Materials Processing Technology 267, 268-279, 2019"
-    },
-    {
-        "title": "Radial throw in micromachining: Measurement and analysis",
-        "pub_year": "2018",
-        "citation": "Precision Engineering 54, 21-32, 2018"
-    },
-    {
         "title": "A model for bending, torsional, and axial vibrations of micro-and macro-drills including actual drill geometry—part II: model validation and application",
         "pub_year": "2010",
         "citation": ""
+    },
+    {
+        "title": "A model for bending, torsional, and axial vibrations of microand macro-drills including actual drill geometry part I: Model development and numerical solution",
+        "pub_year": "2010",
+        "citation": "J Manuf Sci ET ASME 132 (4), 1-8, 2010"
     },
     {
         "title": "A model-based analysis of orthogonal cutting for single-crystal fcc metals including crystallographic anisotropy",
@@ -350,14 +68,413 @@
         "citation": "Machining science and technology 14 (1), 102-127, 2010"
     },
     {
-        "title": "High-frequency compensation of dynamic distortions in micromachining force measurements",
-        "pub_year": "2015",
-        "citation": "Procedia Manufacturing 1, 534-545, 2015"
+        "title": "A multi-orientation error separation technique for spindle metrology of miniature ultra-high-speed spindles",
+        "pub_year": "2016",
+        "citation": "Precision Engineering 43, 119-131, 2016"
+    },
+    {
+        "title": "A new thermal model for bone drilling with applications to orthopaedic surgery",
+        "pub_year": "2011",
+        "citation": "Medical engineering & physics 33 (10), 1234-1244, 2011"
+    },
+    {
+        "title": "A novel test artifact for performance evaluation of additive manufacturing processes",
+        "pub_year": "2014",
+        "citation": "American Society for Precision Engineering Conference, 2014"
+    },
+    {
+        "title": "A process-model based methodology for comprehensive process planning of contour turning operations",
+        "pub_year": "2003",
+        "citation": "31st North American Manufacturing Research Conference, NAMRC 31, 547-554, 2003"
+    },
+    {
+        "title": "A rate-sensitive plasticity-based model for machining of FCC single-crystals—Part II: Model calibration and validation",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "A rate-sensitive plasticity-based model for machining of face-centered cubic single-crystals—Part I: model development",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "A rotating-tip-based mechanical nano-manufacturing process: nanomilling",
+        "pub_year": "2010",
+        "citation": "Nanoscale research letters 5, 1403-1407, 2010"
+    },
+    {
+        "title": "A spectral-Tchebychev solution for three-dimensional vibrations of parallelepipeds under mixed boundary conditions",
+        "pub_year": "2012",
+        "citation": ""
+    },
+    {
+        "title": "A spectral-Tchebychev technique for solving linear and nonlinear beam equations",
+        "pub_year": "2009",
+        "citation": "Journal of Sound and Vibration 321 (1-2), 375-404, 2009"
+    },
+    {
+        "title": "A stability solution for the axial contour-turning process",
+        "pub_year": "2002",
+        "citation": "J. Manuf. Sci. Eng. 124 (3), 581-587, 2002"
+    },
+    {
+        "title": "A technique for measuring radial error motions of ultra-high-speed miniature spindles used for micromachining",
+        "pub_year": "2012",
+        "citation": "Precision Engineering 36 (1), 104-120, 2012"
+    },
+    {
+        "title": "A three-dimensional model for the dynamics of micro-endmills including bending, torsional and axial vibrations",
+        "pub_year": "2011",
+        "citation": "Precision Engineering 35 (1), 24-37, 2011"
+    },
+    {
+        "title": "A transfer process to fabricate ultra-compliant neural probes in dissolvable needles",
+        "pub_year": "2017",
+        "citation": "Journal of Micromechanics and Microengineering 27 (3), 035008, 2017"
+    },
+    {
+        "title": "Accurate Measurement of High-Bandwidth Nanomilling Forces",
+        "pub_year": "2016",
+        "citation": "Procedia Manufacturing 5, 170-181, 2016"
+    },
+    {
+        "title": "Accurate measurement of micromachining forces through dynamic compensation of dynamometers",
+        "pub_year": "2017",
+        "citation": "Precision Engineering 49, 365-376, 2017"
+    },
+    {
+        "title": "An Analytical, Non-Dimensional Representation of Chip Area for Corner-Radiused Tools Under Depth-of-Cut and Feed Variations",
+        "pub_year": "1998",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 16066, 251-258, 1998"
+    },
+    {
+        "title": "An Investigation of the Influence of Orientation on CMP through Nanoscratch Testing",
+        "pub_year": "2009",
+        "citation": "MRS Online Proceedings Library (OPL) 1157, 1157-E06-03, 2009"
+    },
+    {
+        "title": "An LDV-based methodology for measuring axial and radial error motions when using miniature ultra-high-speed (UHS) micromachining spindles",
+        "pub_year": "2013",
+        "citation": "Precision Engineering 37 (1), 172-186, 2013"
+    },
+    {
+        "title": "An analytical model for micro-endmill dynamics",
+        "pub_year": "2008",
+        "citation": "Journal of Vibration and Control 14 (8), 1125-1150, 2008"
+    },
+    {
+        "title": "An analytical model of micro-endmill dynamics in the presence of tool setup errors",
+        "pub_year": "2006",
+        "citation": "International Manufacturing Science and Engineering Conference 47624, 1051-1061, 2006"
+    },
+    {
+        "title": "An analytical representation of chip area for corner-radiused tools under both depth-of-cut and feed variations",
+        "pub_year": "2000",
+        "citation": "J. Manuf. Sci. Eng. 122 (4), 660-665, 2000"
+    },
+    {
+        "title": "An analytical stability solution for the turning process with depth-direction dynamics and corner-radiused tooling",
+        "pub_year": "1998",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 15861, 511-518, 1998"
+    },
+    {
+        "title": "An experimental investigation of micro-machinability of copper 101 using tungsten carbide micro-endmills",
+        "pub_year": "2007",
+        "citation": "International Journal of Machine Tools and Manufacture 47 (7-8), 1088-1100, 2007"
+    },
+    {
+        "title": "An experimental investigation on thermal exposure during bone drilling",
+        "pub_year": "2012",
+        "citation": "Medical engineering & physics 34 (10), 1510-1520, 2012"
+    },
+    {
+        "title": "An impact excitation system for repeatable, high-bandwidth modal testing of miniature structures",
+        "pub_year": "2014",
+        "citation": "Journal of Sound and Vibration 333 (13), 2743-2761, 2014"
+    },
+    {
+        "title": "An improved tool–holder model for RCSA tool-point frequency response prediction",
+        "pub_year": "2009",
+        "citation": "Precision Engineering 33 (1), 26-36, 2009"
+    },
+    {
+        "title": "An investigation of micro-machining parameters for fabrication ear-implants from titanium",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "An ultra-compliant, scalable neural probe with molded biodissolvable delivery vehicle",
+        "pub_year": "2012",
+        "citation": "2012 IEEE 25th international conference on micro electro mechanical systems …, 2012"
+    },
+    {
+        "title": "Analysis of Heat Transfer in Bone Drilling",
+        "pub_year": "2011",
+        "citation": "Summer Bioengineering Conference 54587, 757-758, 2011"
+    },
+    {
+        "title": "Analysis of In Vitro Cytotoxicity of Carbohydrate-Based Materials Used for Dissolvable Microneedle Arrays",
+        "pub_year": "2020",
+        "citation": "Pharmaceutical Research 37, 1-18, 2020"
+    },
+    {
+        "title": "Analysis of contact dynamics using controlled impact excitations",
+        "pub_year": "2019",
+        "citation": "Model Validation and Uncertainty Quantification, Volume 3: Proceedings of …, 2019"
+    },
+    {
+        "title": "Analysis of error motions of ultra-high-speed (UHS) micromachining spindles",
+        "pub_year": "2013",
+        "citation": "International Journal of Machine Tools and Manufacture 70, 1-14, 2013"
+    },
+    {
+        "title": "Apparatus and method for implantation of devices into soft tissue",
+        "pub_year": "2016",
+        "citation": "US Patent 9,408,571, 2016"
+    },
+    {
+        "title": "Apparatus and method for implantation of devices into soft tissue",
+        "pub_year": "2019",
+        "citation": "US Patent 10,350,021, 2019"
+    },
+    {
+        "title": "Author Correction: Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling",
+        "pub_year": "2019",
+        "citation": "Scientific Reports 9, 2019"
+    },
+    {
+        "title": "Biodegradable dissolving microneedle arrays effectively deliver antigens and adjuvants to skin DCs for the induction of antigen specific immune responses.(48.12)",
+        "pub_year": "2010",
+        "citation": "The Journal of Immunology 184 (1_Supplement), 48.12-48.12, 2010"
+    },
+    {
+        "title": "Biomedical manufacturing: a review of the emerging research and applications",
+        "pub_year": "2020",
+        "citation": "Journal of Manufacturing Science and Engineering 142 (11), 110807, 2020"
+    },
+    {
+        "title": "Biomimetic scaffolds with three-dimensional undulated microtopographies",
+        "pub_year": "2017",
+        "citation": "Biomaterials 128, 109-120, 2017"
+    },
+    {
+        "title": "Biosensor Tattoos and Uses Therefor for Biomarker Monitoring",
+        "pub_year": "2021",
+        "citation": "US Patent App. 17/132,511, 2021"
+    },
+    {
+        "title": "Biosensor tattoos and uses therefor for biomarker monitoring",
+        "pub_year": "2021",
+        "citation": "US Patent 10,894,151, 2021"
+    },
+    {
+        "title": "CARMEL MAJIDI",
+        "pub_year": "2014",
+        "citation": "Advanced Functional Materials 24, 3351-3356, 2014"
+    },
+    {
+        "title": "CHARACTERISTICS OF MECHANICAL MICROMILLING USING TUNGSTEN CARBIDE TOOLS",
+        "citation": ""
+    },
+    {
+        "title": "Caroline. M Conely, Mathew. B Wasserman, O Burak Ozdoganlar",
+        "pub_year": "2007",
+        "citation": "An experimental investigation of micro-machinability of Copper 101 using …, 2007"
     },
     {
         "title": "Characterization of three-dimensional dynamics of piezo-stack actuators",
         "pub_year": "2012",
         "citation": "Mechanical Systems and Signal Processing, 2012"
+    },
+    {
+        "title": "Chronic tissue response to carboxymethyl cellulose based dissolvable insertion needle for ultra-small neural probes",
+        "pub_year": "2014",
+        "citation": "Biomaterials 35 (34), 9255-9268, 2014"
+    },
+    {
+        "title": "DISSOLVABLE MICRONEEDLE ARRAYS FOR TRANSDERMAL DELIVERY TO HUMAN SKIN",
+        "pub_year": "2010",
+        "citation": "US Patent App. 12/910,516, 2010"
+    },
+    {
+        "title": "Design and evaluation of a mechanical nanomanufacturing system for nanomilling",
+        "pub_year": "2012",
+        "citation": "Precision Engineering 36 (1), 19-30, 2012"
+    },
+    {
+        "title": "Development of a testing facility for experimental investigation of MEMS dynamics.",
+        "pub_year": "2004",
+        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2004"
+    },
+    {
+        "title": "Development of a testing facility for experimental investigation of MEMs dynamics",
+        "pub_year": "2004",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 47144, 403-411, 2004"
+    },
+    {
+        "title": "Dissolvable and Coated Microneedle Arrays: Design, Fabrication, Materials and Administration Methods",
+        "pub_year": "2020",
+        "citation": "Microneedling in Clinical Practice, 19-34, 2020"
+    },
+    {
+        "title": "Dissolvable microneedle arrays deliver live adenovirus to the skin for genetic immunization.(58.16)",
+        "pub_year": "2012",
+        "citation": "The Journal of Immunology 188 (1_Supplement), 58.16-58.16, 2012"
+    },
+    {
+        "title": "Dissolvable microneedle arrays enable delivery of live adenovectors to the skin for cutaneous transduction and genetic immunization",
+        "pub_year": "2012",
+        "citation": "Journal of Investigative Dermatology 132, S105-S105, 2012"
+    },
+    {
+        "title": "Dissolvable microneedle arrays for intradermal delivery of biologics: fabrication and application",
+        "pub_year": "2014",
+        "citation": "Pharmaceutical research 31, 117-135, 2014"
+    },
+    {
+        "title": "Dissolvable microneedle arrays for transdermal delivery to human skin",
+        "pub_year": "2014",
+        "citation": "US Patent App. 14/458,050, 2014"
+    },
+    {
+        "title": "Dissolvable microneedle arrays for transdermal delivery to human skin",
+        "pub_year": "2020",
+        "citation": "US Patent App. 16/861,112, 2020"
+    },
+    {
+        "title": "Dissolving microneedle arrays effectively deliver soluble and particulate biologically active molecules into the skin",
+        "pub_year": "2009",
+        "citation": "Journal of Investigative Dermatology 129, S117-S117, 2009"
+    },
+    {
+        "title": "Dynamic characterization of a miniature ultra-high-speed (UHS) spindle through experimental modal analysis",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 12th euspen International Conference, 2012"
+    },
+    {
+        "title": "Dynamic characterization of multi-axis dynamometers",
+        "pub_year": "2014",
+        "citation": "Precision Engineering 38 (1), 148-161, 2014"
+    },
+    {
+        "title": "Dynamic measurement of gas damping effects in MEMS",
+        "pub_year": "2004",
+        "citation": "Current Proceedings, SEM International Congress X, 2004"
+    },
+    {
+        "title": "Dynamic measurement of gas damping effects in MEMS.",
+        "pub_year": "2004",
+        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2004"
+    },
+    {
+        "title": "Dynamics of miniature and high-compliance structures: Experimental characterization and modeling",
+        "pub_year": "2022",
+        "citation": "Experimental Mechanics, 1-14, 2022"
+    },
+    {
+        "title": "Dynamics of ultra-high-speed (UHS) spindles used for micromachining",
+        "pub_year": "2014",
+        "citation": "International Journal of Machine Tools and Manufacture 87, 27-38, 2014"
+    },
+    {
+        "title": "EGaIn–metal interfacing for liquid metal circuitry and microelectronics integration",
+        "pub_year": "2018",
+        "citation": "Advanced Materials Interfaces 5 (10), 1701596, 2018"
+    },
+    {
+        "title": "Effect of groove-type chip breakers on twist drill performance",
+        "pub_year": "2003",
+        "citation": "International Journal of Machine Tools and Manufacture 43 (6), 617-627, 2003"
+    },
+    {
+        "title": "Effect of severe prior deformation on electrical-assisted compression of copper specimens",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Effective Cutaneous Gene Delivery through Dissolvable Microneedle Mediated Intradermal Delivery of Adeno-Associated Viral Vectors",
+        "pub_year": "2017",
+        "citation": "TISSUE ENGINEERING PART A 23, S147-S147, 2017"
+    },
+    {
+        "title": "Effective preservation and skin delivery of biologically active cargo including live viruses by dissolvable microneedle arrays (MNAs).",
+        "pub_year": "2011",
+        "citation": "JOURNAL OF INVESTIGATIVE DERMATOLOGY 131, S65-S65, 2011"
+    },
+    {
+        "title": "Effects of crystallographic anistropy on orthogonal micromachining of single-crystal aluminum",
+        "pub_year": "2008",
+        "citation": ""
+    },
+    {
+        "title": "Enhanced Cutaneous Delivery of Polymer Complexed Dicer-Substrate Short Interfering RNAs using Carboxymethyl Cellulose-Based Dissolvable Microneedle Arrays for Effective …",
+        "pub_year": "2016",
+        "citation": "TISSUE ENGINEERING PART A 22, S27-S27, 2016"
+    },
+    {
+        "title": "Enhancing the structural performance of additively manufactured objects through build orientation optimization",
+        "pub_year": "2015",
+        "citation": "Journal of Mechanical Design 137 (11), 111410, 2015"
+    },
+    {
+        "title": "Evaluation of a spindle-based force sensor for monitoring and fault diagnosis of machining operations",
+        "pub_year": "2002",
+        "citation": "International Journal of Machine Tools and Manufacture 42 (6), 741-751, 2002"
+    },
+    {
+        "title": "Existence and effects of overlap factors greater than unity and less than zero",
+        "pub_year": "2002",
+        "citation": "Journal of Manufacturing Processes 4 (1), 67-76, 2002"
+    },
+    {
+        "title": "Experimental Investigation of Dynamic Response of RF-MEMS Switches",
+        "pub_year": "2004",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 47144, 397-401, 2004"
+    },
+    {
+        "title": "Experimental investigation of sub-surface deformation using EBSD in single crystal aluminum during orthogonal micromachining",
+        "pub_year": "2014",
+        "citation": "Microscopy and Microanalysis 20 (S3), 1472-1473, 2014"
+    },
+    {
+        "title": "Experimental modal analysis for microelectromechanical systems",
+        "pub_year": "2005",
+        "citation": "Experimental mechanics 45, 498-506, 2005"
+    },
+    {
+        "title": "Experimental modal analysis for microsystems",
+        "pub_year": "2003",
+        "citation": "measurements 5, 17, 2003"
+    },
+    {
+        "title": "Extended-release of opioids using fentanyl-based polymeric nanoparticles for enhanced pain management",
+        "pub_year": "2017",
+        "citation": "RSC advances 7 (76), 47904-47912, 2017"
+    },
+    {
+        "title": "Fabrication for ultra-compliant probes for neural and other tissues",
+        "pub_year": "2019",
+        "citation": "US Patent 10,292,656, 2019"
+    },
+    {
+        "title": "Fabrication of circular microfluidic channels by combining mechanical micromilling and soft lithography",
+        "pub_year": "2011",
+        "citation": "Lab on a Chip 11 (8), 1550-1555, 2011"
+    },
+    {
+        "title": "Fabrication of porous silica with controllable and tunable porosity via freeze casting",
+        "pub_year": "2022",
+        "citation": "Journal of the American Ceramic Society 105 (8), 5114-5130, 2022"
+    },
+    {
+        "title": "Fabrication, methods, apparatuses, and systems for ultra-compliant probes for neural and other tissues",
+        "pub_year": "2016",
+        "citation": "US Patent 9,241,651, 2016"
+    },
+    {
+        "title": "Failure Analysis of the Superconducting Magnet and Cryogenic Systems of Two Maglev Concepts",
+        "pub_year": "1995",
+        "citation": "Ohio State University, 1995"
     },
     {
         "title": "Feasibility of metal additive manufacturing for fabricating custom surgical instrumentation for hip and knee implants",
@@ -370,64 +487,78 @@
         "citation": "Journal of Manufacturing Science and Engineering 135 (2), 024501, 2013"
     },
     {
-        "title": "Parallel-process (simultaneous) machining and its stability",
-        "pub_year": "1999",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 16462, 361-368, 1999"
-    },
-    {
-        "title": "Biomedical manufacturing: a review of the emerging research and applications",
-        "pub_year": "2020",
-        "citation": "Journal of Manufacturing Science and Engineering 142 (11), 110807, 2020"
-    },
-    {
-        "title": "Toward vasculature in skeletal muscle-on-a-chip through thermo-responsive sacrificial templates",
-        "pub_year": "2020",
-        "citation": "Micromachines 11 (10), 907, 2020"
-    },
-    {
-        "title": "Rotational dynamics of micro-scale cutting tools",
+        "title": "Forces in Green Micromachining of Ceramics: An Experimental Investigation on Micromachining of Aluminum Nitride",
         "pub_year": "2019",
-        "citation": "Precision Engineering 60, 1-11, 2019"
+        "citation": "Journal of Micro-and Nano-Manufacturing 7 (2), 024509, 2019"
     },
     {
-        "title": "Radial throw at the cutting edges of micro-tools when using ultra-high-speed micromachining spindles",
-        "pub_year": "2018",
-        "citation": "Procedia Manufacturing 26, 1517-1526, 2018"
-    },
-    {
-        "title": "A Simplified Model for Orthogonal Micromachining of fcc single-crystal materials",
-        "pub_year": "2008",
-        "citation": "Trans. NAMRI/SME 36, 193-200, 2008"
-    },
-    {
-        "title": "A stability solution for the axial contour-turning process",
-        "pub_year": "2002",
-        "citation": "J. Manuf. Sci. Eng. 124 (3), 581-587, 2002"
-    },
-    {
-        "title": "Scalable manufacturing of liquid metal circuits",
+        "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
         "pub_year": "2022",
-        "citation": "Advanced Materials Technologies 7 (11), 2200295, 2022"
+        "citation": "Advanced Science 9 (27), 2201566, 2022"
     },
     {
-        "title": "Fabrication, methods, apparatuses, and systems for ultra-compliant probes for neural and other tissues",
-        "pub_year": "2016",
-        "citation": "US Patent 9,241,651, 2016"
+        "title": "Full‐thickness Engineered Skin Tissue with 3D Biomimetic Micro‐topography",
+        "pub_year": "2017",
+        "citation": "The FASEB Journal 31, 590.3-590.3, 2017"
     },
     {
-        "title": "A novel test artifact for performance evaluation of additive manufacturing processes",
+        "title": "Green micromachining of ceramics using tungsten carbide micro-endmills",
+        "pub_year": "2019",
+        "citation": "Journal of Materials Processing Technology 267, 268-279, 2019"
+    },
+    {
+        "title": "Green micro‐machining and sintering of injection‐molded silicon carbide",
+        "pub_year": "2015",
+        "citation": "PowderMet, 2015"
+    },
+    {
+        "title": "High-Density Soft-Matter Electronics",
+        "pub_year": "2021",
+        "citation": "US Patent App. 17/181,756, 2021"
+    },
+    {
+        "title": "High-density soft-matter electronics",
+        "pub_year": "2021",
+        "citation": "US Patent 10,945,339, 2021"
+    },
+    {
+        "title": "High-frequency compensation of dynamic distortions in micromachining force measurements",
+        "pub_year": "2015",
+        "citation": "Procedia Manufacturing 1, 534-545, 2015"
+    },
+    {
+        "title": "High‐density soft‐matter electronics with micron‐scale line width",
         "pub_year": "2014",
-        "citation": "American Society for Precision Engineering Conference, 2014"
+        "citation": "Advanced materials 26 (30), 5211-5216, 2014"
     },
     {
-        "title": "Microneedle arrays for cancer therapy applications",
-        "pub_year": "2016",
-        "citation": "US Patent App. 14/934,927, 2016"
+        "title": "Hybrid microneedle arrays",
+        "pub_year": "2023",
+        "citation": "US Patent App. 17/917,808, 2023"
     },
     {
-        "title": "A rate-sensitive plasticity-based model for machining of face-centered cubic single-crystals—Part I: model development",
-        "pub_year": "2011",
+        "title": "IMECE2005-80018 On the Repetitive Impact Dynamics of One and Two Degree of Freedom Systems",
+        "pub_year": "2005",
+        "citation": "ASME-PUBLICATIONS-DE 118 (2), 903, 2005"
+    },
+    {
+        "title": "Implementation Of Donaldson Reversal Technique To Measure Error Motions Of Ultra-High-Speed Spindles",
+        "pub_year": "2012",
+        "citation": "American Society of Precision Engineering, San Diego, CA, 2012"
+    },
+    {
+        "title": "Improving accuracy and repeatability in high-speed micromachining",
         "citation": ""
+    },
+    {
+        "title": "Insulation of thin-film parylene-C/platinum probes in saline solution through encapsulation in multilayer ALD ceramic films",
+        "pub_year": "2018",
+        "citation": "Biomedical Microdevices 20, 1-11, 2018"
+    },
+    {
+        "title": "Interfacing Three-Dimensional Curved Structures and Cellular Adhesion",
+        "pub_year": "2011",
+        "citation": "Biophysical Journal 100, 622, 2011"
     },
     {
         "title": "LDV-based spindle metrology for ultra-high-speed micromachining spindles",
@@ -435,69 +566,19 @@
         "citation": "Proceedings of NAMRI/SME 41, 2-7, 2013"
     },
     {
-        "title": "Existence and effects of overlap factors greater than unity and less than zero",
-        "pub_year": "2002",
-        "citation": "Journal of Manufacturing Processes 4 (1), 67-76, 2002"
+        "title": "Liquid metal circuits and methods of making the same",
+        "pub_year": "2020",
+        "citation": "US Patent App. 16/817,176, 2020"
     },
     {
-        "title": "Micromachining imposed subsurface plastic deformation in single-crystal aluminum",
-        "pub_year": "2021",
-        "citation": "Materials Characterization 171, 110747, 2021"
+        "title": "Lubrication enhancement for UHMWPE sliding contacts through surface texturing",
+        "pub_year": "2015",
+        "citation": "Tribology Transactions 58 (1), 79-86, 2015"
     },
     {
-        "title": "A Structured Approach to Analytical Multi-Degree-of-Freedom Time-Invariant Stability Analysis for Machining",
-        "pub_year": "1997",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 26799, 153-160, 1997"
-    },
-    {
-        "title": "Fabrication of porous silica with controllable and tunable porosity via freeze casting",
-        "pub_year": "2022",
-        "citation": "Journal of the American Ceramic Society 105 (8), 5114-5130, 2022"
-    },
-    {
-        "title": "Radial throw in micromilling: a simulation-based study to analyze the effects on surface quality and uncut chip thickness",
-        "pub_year": "2019",
-        "citation": "Journal of Micro-and Nano-Manufacturing 7 (1), 010907, 2019"
-    },
-    {
-        "title": "Apparatus and method for implantation of devices into soft tissue",
+        "title": "MICRO-NEEDLES NETWORKS WITH CHARGED END FOR TRANSDERMAL INSERTION",
         "pub_year": "2016",
-        "citation": "US Patent 9,408,571, 2016"
-    },
-    {
-        "title": "Ultra-compliant neural probes are subject to fluid forces during dissolution of polymer delivery vehicles",
-        "pub_year": "2013",
-        "citation": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013"
-    },
-    {
-        "title": "A rate-sensitive plasticity-based model for machining of FCC single-crystals—Part II: Model calibration and validation",
-        "pub_year": "2011",
         "citation": ""
-    },
-    {
-        "title": "Modal testing techniques for microelectromechanical systems (MEMS)",
-        "pub_year": "2003",
-        "citation": "Proc. 4th International Symposium on MEMS and Nanotechnology, 124-129, 2003"
-    },
-    {
-        "title": "The effect of spindle dynamics on tool-tip radial throw in micromachining",
-        "pub_year": "2020",
-        "citation": "Journal of Manufacturing Processes 56, 1397-1403, 2020"
-    },
-    {
-        "title": "Development of a testing facility for experimental investigation of MEMs dynamics",
-        "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47144, 403-411, 2004"
-    },
-    {
-        "title": "Tool-tip dynamics in micromachining with arbitrary tool geometries and the effect of spindle speed",
-        "pub_year": "2023",
-        "citation": "International Journal of Machine Tools and Manufacture 185, 103981, 2023"
-    },
-    {
-        "title": "Micromachining of coarse-grained aluminum including crystallographic effects",
-        "pub_year": "2020",
-        "citation": "Journal of Manufacturing Processes 57, 600-613, 2020"
     },
     {
         "title": "Machining force and surface finish variation across grains during orthogonal micromachining of aluminum",
@@ -505,39 +586,236 @@
         "citation": "Proceedings of Int. Conf. on Micro-Manufacturing (ICOMM), Madison, WI, USA …, 2010"
     },
     {
+        "title": "Measurement of high-bandwidth nanonewton forces in a low-compliance configuration",
+        "pub_year": "2019",
+        "citation": "Sensors and Actuators A: Physical 299, 111474, 2019"
+    },
+    {
+        "title": "Method and device for producing vasculature through extrusion-based 3D printing",
+        "pub_year": "2023",
+        "citation": "US Patent 11,639,021, 2023"
+    },
+    {
+        "title": "Method for Engineering Three-Dimensional Synthetic Vascular Networks Through Mechanical Micromachining and Mutable Polymer Micromolding",
+        "pub_year": "2021",
+        "citation": "US Patent App. 17/170,706, 2021"
+    },
+    {
+        "title": "Method for engineering three-dimensional synthetic vascular networks through mechanical micromachining and mutable polymer micromolding",
+        "pub_year": "2021",
+        "citation": "US Patent 10,919,183, 2021"
+    },
+    {
+        "title": "Micro/meso-scale mechanical machining 2020: a two-decade state-of-the-field review",
+        "pub_year": "2020",
+        "citation": "Journal of Manufacturing Science and Engineering 142 (11), 110809, 2020"
+    },
+    {
+        "title": "Microendmill dynamics including the actual fluted geometry and setup errors—Part I: Model Development and Numerical Solution",
+        "pub_year": "2008",
+        "citation": ""
+    },
+    {
+        "title": "Microendmill dynamics including the actual fluted geometry and setup errors—part II: model validation and application",
+        "pub_year": "2008",
+        "citation": ""
+    },
+    {
+        "title": "Micromachining imposed subsurface plastic deformation in single-crystal aluminum",
+        "pub_year": "2021",
+        "citation": "Materials Characterization 171, 110747, 2021"
+    },
+    {
+        "title": "Micromachining of coarse-grained aluminum including crystallographic effects",
+        "pub_year": "2020",
+        "citation": "Journal of Manufacturing Processes 57, 600-613, 2020"
+    },
+    {
+        "title": "Micromilling of microbarbs for medical implants",
+        "pub_year": "2008",
+        "citation": "International Journal of Machine Tools and Manufacture 48 (3-4), 459-472, 2008"
+    },
+    {
+        "title": "Micromilling of poly (methyl methacrylate, PMMA) using single-crystal diamond tools",
+        "pub_year": "2017",
+        "citation": "Procedia Manufacturing 10, 683-693, 2017"
+    },
+    {
+        "title": "Microneedle Array-Mediated Intradermal Delivery of Tumor Necrosis Factor-Alpha-Inhibitors",
+        "pub_year": "2014",
+        "citation": "TISSUE ENGINEERING PART A 20, S59-S59, 2014"
+    },
+    {
+        "title": "Microneedle arrays for cancer therapy applications",
+        "pub_year": "2016",
+        "citation": "US Patent App. 14/934,927, 2016"
+    },
+    {
+        "title": "Microneedle arrays for cancer therapy applications",
+        "pub_year": "2022",
+        "citation": "US Patent App. 17/576,141, 2022"
+    },
+    {
+        "title": "Microstructural Development of Green Micro-Machined, Injection-Molded Silicon Carbide",
+        "pub_year": "2016",
+        "citation": "Microscopy and Microanalysis 22 (S3), 1818-1819, 2016"
+    },
+    {
+        "title": "Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling (vol 7, 16724, 2017)",
+        "pub_year": "2019",
+        "citation": "SCIENTIFIC REPORTS 9, 2019"
+    },
+    {
+        "title": "Mimicking embedded vasculature structure for 3D cancer on a chip approaches through micromilling",
+        "pub_year": "2017",
+        "citation": "Scientific reports 7 (1), 16724, 2017"
+    },
+    {
+        "title": "Modal testing techniques for microelectromechanical systems (MEMS)",
+        "pub_year": "2003",
+        "citation": "Proc. 4th International Symposium on MEMS and Nanotechnology, 124-129, 2003"
+    },
+    {
+        "title": "Modeling Chip-Evacuation Forces in Drilling for Various Flute Geometries",
+        "pub_year": "2003",
+        "citation": ""
+    },
+    {
+        "title": "Modeling and Experimentation of Viscous Damping for Structures Manufactured using the LIGA Technique.",
+        "pub_year": "2005",
+        "citation": "Sandia National Lab.(SNL-CA), Livermore, CA (United States), 2005"
+    },
+    {
+        "title": "Modeling and Measurement of Temperature Distributions in Bone Drilling",
+        "pub_year": "2016",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 50534 …, 2016"
+    },
+    {
+        "title": "Modeling and Prediction of Hole Profile in Drilling, Part 1: Modeling Drill Dynamics in the Presence of Drill Alignment Errors",
+        "citation": ""
+    },
+    {
+        "title": "Modeling and analysis of internal thread forming",
+        "pub_year": "2002",
+        "citation": "TECHNICAL PAPERS-SOCIETY OF MANUFACTURING ENGINEERS-ALL SERIES-, 2002"
+    },
+    {
+        "title": "Modeling and experimentation for three-dimensional dynamics of endmills",
+        "pub_year": "2012",
+        "citation": "International Journal of Machine Tools and Manufacture 53 (1), 39-50, 2012"
+    },
+    {
+        "title": "Modeling and experimentation of bone drilling forces",
+        "pub_year": "2012",
+        "citation": "Journal of biomechanics 45 (6), 1076-1083, 2012"
+    },
+    {
+        "title": "Modeling and prediction of hole profile in drilling, Part 1: modeling drill dynamics in the presence of drill alignment errors",
+        "pub_year": "2003",
+        "citation": "Journal of manufacturing science and engineering 125 (1), 6-13, 2003"
+    },
+    {
+        "title": "Modeling and prediction of hole profile in drilling, Part 2: Modeling hole profile",
+        "pub_year": "2003",
+        "citation": "J. Manuf. Sci. Eng. 125 (1), 14-20, 2003"
+    },
+    {
+        "title": "Modeling chip-evacuation forces and prediction of chip-clogging in drilling",
+        "pub_year": "2002",
+        "citation": "J. Manuf. Sci. Eng. 124 (3), 605-614, 2002"
+    },
+    {
+        "title": "Modeling chip-evacuation forces in drilling for various flute geometries",
+        "pub_year": "2003",
+        "citation": "J. Manuf. Sci. Eng. 125 (3), 405-415, 2003"
+    },
+    {
+        "title": "Note: Aligned deposition and modal characterization of micron and submicron poly (methyl methacyrlate) fiber cantilevers",
+        "pub_year": "2010",
+        "citation": "Review of Scientific Instruments 81 (1), 2010"
+    },
+    {
         "title": "On the repetitive impact dynamics of one and two degree of freedom systems",
         "pub_year": "2005",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 42150, 903-911, 2005"
     },
     {
+        "title": "Optimal Lubrication Enhancement for UHMWPE Tribo-systems through Surface Texturing",
+        "citation": ""
+    },
+    {
+        "title": "Orthogonal machining of single-crystal and coarse-grained aluminum",
+        "pub_year": "2012",
+        "citation": "Journal of Manufacturing Processes 14 (2), 126-134, 2012"
+    },
+    {
+        "title": "Parallel-process (simultaneous) machining and its stability",
+        "pub_year": "1999",
+        "citation": "ASME International Mechanical Engineering Congress and Exposition 16462, 361-368, 1999"
+    },
+    {
+        "title": "Processing fragile matter: effect of polymer graft modification on the mechanical properties and processibility of (nano-) particulate solids",
+        "pub_year": "2016",
+        "citation": "Soft Matter 12 (15), 3527-3537, 2016"
+    },
+    {
+        "title": "Radial Throw in Micromilling: A Simulation-Based Study to Analyze the Effects on Surface Quality and Uncut Chip Thickness",
+        "citation": ""
+    },
+    {
+        "title": "Radial throw at the cutting edges of micro-tools when using ultra-high-speed micromachining spindles",
+        "pub_year": "2018",
+        "citation": "Procedia Manufacturing 26, 1517-1526, 2018"
+    },
+    {
+        "title": "Radial throw in micromachining: Measurement and analysis",
+        "pub_year": "2018",
+        "citation": "Precision Engineering 54, 21-32, 2018"
+    },
+    {
+        "title": "Radial throw in micromilling: a simulation-based study to analyze the effects on surface quality and uncut chip thickness",
+        "pub_year": "2019",
+        "citation": "Journal of Micro-and Nano-Manufacturing 7 (1), 010907, 2019"
+    },
+    {
+        "title": "Reproducible modal testing using a flexure-based impact excitation system",
+        "pub_year": "2020",
+        "citation": "Topics in Modal Analysis & Testing, Volume 8: Proceedings of the 37th IMAC …, 2020"
+    },
+    {
+        "title": "Rotational dynamics of micro-scale cutting tools",
+        "pub_year": "2019",
+        "citation": "Precision Engineering 60, 1-11, 2019"
+    },
+    {
+        "title": "Sampling swabs and methods of making the same",
+        "pub_year": "2023",
+        "citation": "US Patent App. 17/920,660, 2023"
+    },
+    {
+        "title": "Scalable manufacturing of liquid metal circuits",
+        "pub_year": "2022",
+        "citation": "Advanced Materials Technologies 7 (11), 2200295, 2022"
+    },
+    {
+        "title": "Skin-targeted delivery of extracellular vesicle-encapsulated curcumin using dissolvable microneedle arrays",
+        "pub_year": "2022",
+        "citation": "Acta Biomaterialia 149, 198-212, 2022"
+    },
+    {
+        "title": "Soft Electronics Manufacturing Using Microcontact Printing",
+        "pub_year": "2019",
+        "citation": "Advanced Functional Materials, 2019"
+    },
+    {
+        "title": "Software Design Considerations for Testing Dynamics of MEMS/Microsystems",
+        "pub_year": "2004",
+        "citation": "Current Proceedings, SEM International Congress X, 2004"
+    },
+    {
         "title": "Stability of single-and parallel-process machining including geometry of corner-radiused tooling",
         "pub_year": "1999",
         "citation": "University of Michigan, 1999"
-    },
-    {
-        "title": "Tip-loaded microneedle arrays for transdermal insertion",
-        "pub_year": "2018",
-        "citation": "US Patent App. 15/936,228, 2018"
-    },
-    {
-        "title": "A transfer process to fabricate ultra-compliant neural probes in dissolvable needles",
-        "pub_year": "2017",
-        "citation": "Journal of Micromechanics and Microengineering 27 (3), 035008, 2017"
-    },
-    {
-        "title": "A model for bending, torsional, and axial vibrations of microand macro-drills including actual drill geometry part I: Model development and numerical solution",
-        "pub_year": "2010",
-        "citation": "J Manuf Sci ET ASME 132 (4), 1-8, 2010"
-    },
-    {
-        "title": "Caroline. M Conely, Mathew. B Wasserman, O Burak Ozdoganlar",
-        "pub_year": "2007",
-        "citation": "An experimental investigation of micro-machinability of Copper 101 using …, 2007"
-    },
-    {
-        "title": "A process-model based methodology for comprehensive process planning of contour turning operations",
-        "pub_year": "2003",
-        "citation": "31st North American Manufacturing Research Conference, NAMRC 31, 547-554, 2003"
     },
     {
         "title": "Swab",
@@ -555,154 +833,9 @@
         "citation": "US Patent App. 29/780,378, 2023"
     },
     {
-        "title": "Freeform 3D Ice Printing (3D‐ICE) at the Micro Scale",
-        "pub_year": "2022",
-        "citation": "Advanced Science 9 (27), 2201566, 2022"
-    },
-    {
-        "title": "Dynamics of miniature and high-compliance structures: Experimental characterization and modeling",
-        "pub_year": "2022",
-        "citation": "Experimental Mechanics, 1-14, 2022"
-    },
-    {
-        "title": "Liquid metal circuits and methods of making the same",
-        "pub_year": "2020",
-        "citation": "US Patent App. 16/817,176, 2020"
-    },
-    {
-        "title": "Insulation of thin-film parylene-C/platinum probes in saline solution through encapsulation in multilayer ALD ceramic films",
-        "pub_year": "2018",
-        "citation": "Biomedical Microdevices 20, 1-11, 2018"
-    },
-    {
-        "title": "Dissolvable microneedle arrays for transdermal delivery to human skin",
-        "pub_year": "2014",
-        "citation": "US Patent App. 14/458,050, 2014"
-    },
-    {
-        "title": "Experimental investigation of sub-surface deformation using EBSD in single crystal aluminum during orthogonal micromachining",
-        "pub_year": "2014",
-        "citation": "Microscopy and Microanalysis 20 (S3), 1472-1473, 2014"
-    },
-    {
-        "title": "Dissolvable microneedle arrays deliver live adenovirus to the skin for genetic immunization.(58.16)",
-        "pub_year": "2012",
-        "citation": "The Journal of Immunology 188 (1_Supplement), 58.16-58.16, 2012"
-    },
-    {
-        "title": "Note: Aligned deposition and modal characterization of micron and submicron poly (methyl methacyrlate) fiber cantilevers",
-        "pub_year": "2010",
-        "citation": "Review of Scientific Instruments 81 (1), 2010"
-    },
-    {
-        "title": "An Analytical, Non-Dimensional Representation of Chip Area for Corner-Radiused Tools Under Depth-of-Cut and Feed Variations",
-        "pub_year": "1998",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 16066, 251-258, 1998"
-    },
-    {
-        "title": "Forces in Green Micromachining of Ceramics: An Experimental Investigation on Micromachining of Aluminum Nitride",
-        "pub_year": "2019",
-        "citation": "Journal of Micro-and Nano-Manufacturing 7 (2), 024509, 2019"
-    },
-    {
-        "title": "Analysis of contact dynamics using controlled impact excitations",
-        "pub_year": "2019",
-        "citation": "Model Validation and Uncertainty Quantification, Volume 3: Proceedings of …, 2019"
-    },
-    {
-        "title": "Modeling and Measurement of Temperature Distributions in Bone Drilling",
-        "pub_year": "2016",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 50534 …, 2016"
-    },
-    {
-        "title": "Dissolvable microneedle arrays enable delivery of live adenovectors to the skin for cutaneous transduction and genetic immunization",
-        "pub_year": "2012",
-        "citation": "Journal of Investigative Dermatology 132, S105-S105, 2012"
-    },
-    {
-        "title": "Dynamic characterization of a miniature ultra-high-speed (UHS) spindle through experimental modal analysis",
-        "pub_year": "2012",
-        "citation": "Proceedings of the 12th euspen International Conference, 2012"
-    },
-    {
-        "title": "Biodegradable dissolving microneedle arrays effectively deliver antigens and adjuvants to skin DCs for the induction of antigen specific immune responses.(48.12)",
-        "pub_year": "2010",
-        "citation": "The Journal of Immunology 184 (1_Supplement), 48.12-48.12, 2010"
-    },
-    {
-        "title": "Topical patch vaccines target antigen to cutaneous dendritic cells efficiently inducing potent cell mediated immune responses (132.19)",
-        "pub_year": "2009",
-        "citation": "The Journal of Immunology 182 (1_Supplement), 132.19-132.19, 2009"
-    },
-    {
-        "title": "An analytical model of micro-endmill dynamics in the presence of tool setup errors",
-        "pub_year": "2006",
-        "citation": "International Manufacturing Science and Engineering Conference 47624, 1051-1061, 2006"
-    },
-    {
-        "title": "Dynamic measurement of gas damping effects in MEMS",
-        "pub_year": "2004",
-        "citation": "Current Proceedings, SEM International Congress X, 2004"
-    },
-    {
-        "title": "Biosensor tattoos and uses therefor for biomarker monitoring",
-        "pub_year": "2021",
-        "citation": "US Patent 10,894,151, 2021"
-    },
-    {
-        "title": "Dissolvable and Coated Microneedle Arrays: Design, Fabrication, Materials and Administration Methods",
-        "pub_year": "2020",
-        "citation": "Microneedling in Clinical Practice, 19-34, 2020"
-    },
-    {
-        "title": "Uncertainty quantification for polymer micromilling force models using Bayesian inference",
-        "pub_year": "2020",
-        "citation": "Procedia Manufacturing 48, 611-618, 2020"
-    },
-    {
-        "title": "Reproducible modal testing using a flexure-based impact excitation system",
-        "pub_year": "2020",
-        "citation": "Topics in Modal Analysis & Testing, Volume 8: Proceedings of the 37th IMAC …, 2020"
-    },
-    {
-        "title": "Measurement of high-bandwidth nanonewton forces in a low-compliance configuration",
-        "pub_year": "2019",
-        "citation": "Sensors and Actuators A: Physical 299, 111474, 2019"
-    },
-    {
-        "title": "Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling (vol 7, 16724, 2017)",
-        "pub_year": "2019",
-        "citation": "SCIENTIFIC REPORTS 9, 2019"
-    },
-    {
-        "title": "Therapeutic intradermal delivery of tumor necrosis factor-alpha antibodies using tip-loaded dissolvable microneedle arrays",
-        "pub_year": "2015",
-        "citation": "JOURNAL OF INVESTIGATIVE DERMATOLOGY 135, S94-S94, 2015"
-    },
-    {
-        "title": "Green micro‐machining and sintering of injection‐molded silicon carbide",
-        "pub_year": "2015",
-        "citation": "PowderMet, 2015"
-    },
-    {
-        "title": "Tip-loaded microneedle arrays for transdermal insertion",
-        "pub_year": "2013",
-        "citation": ""
-    },
-    {
-        "title": "Implementation Of Donaldson Reversal Technique To Measure Error Motions Of Ultra-High-Speed Spindles",
-        "pub_year": "2012",
-        "citation": "American Society of Precision Engineering, San Diego, CA, 2012"
-    },
-    {
-        "title": "Three-dimensional endmill dynamics: Modal development and experimental validation",
-        "pub_year": "2011",
-        "citation": "International Manufacturing Science and Engineering Conference 44304, 111-118, 2011"
-    },
-    {
-        "title": "An Investigation of the Influence of Orientation on CMP through Nanoscratch Testing",
-        "pub_year": "2009",
-        "citation": "MRS Online Proceedings Library (OPL) 1157, 1157-E06-03, 2009"
+        "title": "System and method for fabricating cartilage implants",
+        "pub_year": "2023",
+        "citation": "US Patent 11,540,921, 2023"
     },
     {
         "title": "The Effect of Microstructure on Chemical Mechanical Polishing Process of Thin-Film Metals",
@@ -710,14 +843,59 @@
         "citation": "International Joint Tribology Conference 48108, 1019-1020, 2007"
     },
     {
-        "title": "Software Design Considerations for Testing Dynamics of MEMS/Microsystems",
-        "pub_year": "2004",
-        "citation": "Current Proceedings, SEM International Congress X, 2004"
+        "title": "The effect of spindle dynamics on tool-tip radial throw in micromachining",
+        "pub_year": "2020",
+        "citation": "Journal of Manufacturing Processes 56, 1397-1403, 2020"
     },
     {
-        "title": "Experimental Investigation of Dynamic Response of RF-MEMS Switches",
-        "pub_year": "2004",
-        "citation": "ASME International Mechanical Engineering Congress and Exposition 47144, 397-401, 2004"
+        "title": "The viability of micromilling for manufacturing mechanical attachment components for medical applications",
+        "pub_year": "2006",
+        "citation": "Trans. NAMRI/SME 34, 445-452, 2006"
+    },
+    {
+        "title": "Therapeutic intradermal delivery of tumor necrosis factor-alpha antibodies using tip-loaded dissolvable microneedle arrays",
+        "pub_year": "2015",
+        "citation": "Acta biomaterialia 24, 96-105, 2015"
+    },
+    {
+        "title": "Therapeutic intradermal delivery of tumor necrosis factor-alpha antibodies using tip-loaded dissolvable microneedle arrays",
+        "pub_year": "2015",
+        "citation": "JOURNAL OF INVESTIGATIVE DERMATOLOGY 135, S94-S94, 2015"
+    },
+    {
+        "title": "Three dimensional dynamics of pretwisted beams: A spectral-Tchebychev solution",
+        "pub_year": "2014",
+        "citation": "Journal of Sound and Vibration 333 (10), 2823-2839, 2014"
+    },
+    {
+        "title": "Three dimensional dynamics of rotating structures under mixed boundary conditions",
+        "pub_year": "2015",
+        "citation": "Journal of Sound and Vibration 358, 176-191, 2015"
+    },
+    {
+        "title": "Three-dimensional endmill dynamics: Modal development and experimental validation",
+        "pub_year": "2011",
+        "citation": "International Manufacturing Science and Engineering Conference 44304, 111-118, 2011"
+    },
+    {
+        "title": "Tip-loaded dissolvable microneedle arrays effectively deliver polymer-conjugated antibody inhibitors of tumor-necrosis-factor-alpha into human skin",
+        "pub_year": "2016",
+        "citation": "Journal of pharmaceutical sciences 105 (11), 3453-3457, 2016"
+    },
+    {
+        "title": "Tip-loaded microneedle arrays for transdermal insertion",
+        "pub_year": "2018",
+        "citation": "US Patent 9,944,019, 2018"
+    },
+    {
+        "title": "Tip-loaded microneedle arrays for transdermal insertion",
+        "pub_year": "2018",
+        "citation": "US Patent App. 15/936,228, 2018"
+    },
+    {
+        "title": "Tip-loaded microneedle arrays for transdermal insertion",
+        "pub_year": "2013",
+        "citation": ""
     },
     {
         "title": "Tip-loaded microneedle arrays for transdermal insertion",
@@ -725,220 +903,42 @@
         "citation": "US Patent App. 18/119,197, 2023"
     },
     {
-        "title": "3D Assembly of MXene Networks using a Ceramic Backbone with Controlled Porosity",
+        "title": "Tool-tip dynamics in micromachining with arbitrary tool geometries and the effect of spindle speed",
         "pub_year": "2023",
-        "citation": "Advanced Materials, 2304757, 2023"
+        "citation": "International Journal of Machine Tools and Manufacture 185, 103981, 2023"
     },
     {
-        "title": "Sampling swabs and methods of making the same",
-        "pub_year": "2023",
-        "citation": "US Patent App. 17/920,660, 2023"
-    },
-    {
-        "title": "Hybrid microneedle arrays",
-        "pub_year": "2023",
-        "citation": "US Patent App. 17/917,808, 2023"
-    },
-    {
-        "title": "Method and device for producing vasculature through extrusion-based 3D printing",
-        "pub_year": "2023",
-        "citation": "US Patent 11,639,021, 2023"
-    },
-    {
-        "title": "System and method for fabricating cartilage implants",
-        "pub_year": "2023",
-        "citation": "US Patent 11,540,921, 2023"
-    },
-    {
-        "title": "Microneedle arrays for cancer therapy applications",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/576,141, 2022"
-    },
-    {
-        "title": "High-Density Soft-Matter Electronics",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/181,756, 2021"
-    },
-    {
-        "title": "Biosensor Tattoos and Uses Therefor for Biomarker Monitoring",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/132,511, 2021"
-    },
-    {
-        "title": "Method for Engineering Three-Dimensional Synthetic Vascular Networks Through Mechanical Micromachining and Mutable Polymer Micromolding",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/170,706, 2021"
-    },
-    {
-        "title": "High-density soft-matter electronics",
-        "pub_year": "2021",
-        "citation": "US Patent 10,945,339, 2021"
-    },
-    {
-        "title": "Method for engineering three-dimensional synthetic vascular networks through mechanical micromachining and mutable polymer micromolding",
-        "pub_year": "2021",
-        "citation": "US Patent 10,919,183, 2021"
-    },
-    {
-        "title": "Dissolvable microneedle arrays for transdermal delivery to human skin",
-        "pub_year": "2020",
-        "citation": "US Patent App. 16/861,112, 2020"
-    },
-    {
-        "title": "Apparatus and method for implantation of devices into soft tissue",
-        "pub_year": "2019",
-        "citation": "US Patent 10,350,021, 2019"
-    },
-    {
-        "title": "Fabrication for ultra-compliant probes for neural and other tissues",
-        "pub_year": "2019",
-        "citation": "US Patent 10,292,656, 2019"
-    },
-    {
-        "title": "Author Correction: Mimicking Embedded Vasculature Structure for 3D Cancer on a Chip Approaches through Micromilling",
-        "pub_year": "2019",
-        "citation": "Scientific Reports 9, 2019"
-    },
-    {
-        "title": "120 Microneedle array delivery of skin targeted adenovector vaccines",
-        "pub_year": "2018",
-        "citation": "Journal of Investigative Dermatology 138 (5), S20, 2018"
-    },
-    {
-        "title": "Effective Cutaneous Gene Delivery through Dissolvable Microneedle Mediated Intradermal Delivery of Adeno-Associated Viral Vectors",
-        "pub_year": "2017",
-        "citation": "TISSUE ENGINEERING PART A 23, S147-S147, 2017"
-    },
-    {
-        "title": "Full‐thickness Engineered Skin Tissue with 3D Biomimetic Micro‐topography",
-        "pub_year": "2017",
-        "citation": "The FASEB Journal 31, 590.3-590.3, 2017"
-    },
-    {
-        "title": "Enhanced Cutaneous Delivery of Polymer Complexed Dicer-Substrate Short Interfering RNAs using Carboxymethyl Cellulose-Based Dissolvable Microneedle Arrays for Effective …",
-        "pub_year": "2016",
-        "citation": "TISSUE ENGINEERING PART A 22, S27-S27, 2016"
-    },
-    {
-        "title": "Microstructural Development of Green Micro-Machined, Injection-Molded Silicon Carbide",
-        "pub_year": "2016",
-        "citation": "Microscopy and Microanalysis 22 (S3), 1818-1819, 2016"
-    },
-    {
-        "title": "MICRO-NEEDLES NETWORKS WITH CHARGED END FOR TRANSDERMAL INSERTION",
-        "pub_year": "2016",
-        "citation": ""
-    },
-    {
-        "title": "Accurate Measurement of High-Bandwidth Nanomilling Forces",
-        "pub_year": "2016",
-        "citation": "Procedia Manufacturing 5, 170-181, 2016"
-    },
-    {
-        "title": "Microneedle Array-Mediated Intradermal Delivery of Tumor Necrosis Factor-Alpha-Inhibitors",
-        "pub_year": "2014",
-        "citation": "TISSUE ENGINEERING PART A 20, S59-S59, 2014"
-    },
-    {
-        "title": "CARMEL MAJIDI",
-        "pub_year": "2014",
-        "citation": "Advanced Functional Materials 24, 3351-3356, 2014"
-    },
-    {
-        "title": "Analysis of Heat Transfer in Bone Drilling",
-        "pub_year": "2011",
-        "citation": "Summer Bioengineering Conference 54587, 757-758, 2011"
-    },
-    {
-        "title": "Effective preservation and skin delivery of biologically active cargo including live viruses by dissolvable microneedle arrays (MNAs).",
-        "pub_year": "2011",
-        "citation": "JOURNAL OF INVESTIGATIVE DERMATOLOGY 131, S65-S65, 2011"
-    },
-    {
-        "title": "Interfacing Three-Dimensional Curved Structures and Cellular Adhesion",
-        "pub_year": "2011",
-        "citation": "Biophysical Journal 100, 622, 2011"
-    },
-    {
-        "title": "An investigation of micro-machining parameters for fabrication ear-implants from titanium",
-        "pub_year": "2010",
-        "citation": ""
-    },
-    {
-        "title": "Dissolving microneedle arrays effectively deliver soluble and particulate biologically active molecules into the skin",
+        "title": "Topical patch vaccines target antigen to cutaneous dendritic cells efficiently inducing potent cell mediated immune responses (132.19)",
         "pub_year": "2009",
-        "citation": "Journal of Investigative Dermatology 129, S117-S117, 2009"
+        "citation": "The Journal of Immunology 182 (1_Supplement), 132.19-132.19, 2009"
     },
     {
-        "title": "A Spectral-Tchebychev Technique for Solving Linear and Non-Linear Beam Equations.",
-        "pub_year": "2007",
-        "citation": "The Journal of Sound and Vibration, 2007"
-    },
-    {
-        "title": "Modeling and Experimentation of Viscous Damping for Structures Manufactured using the LIGA Technique.",
-        "pub_year": "2005",
-        "citation": "Sandia National Lab.(SNL-CA), Livermore, CA (United States), 2005"
-    },
-    {
-        "title": "IMECE2005-80018 On the Repetitive Impact Dynamics of One and Two Degree of Freedom Systems",
-        "pub_year": "2005",
-        "citation": "ASME-PUBLICATIONS-DE 118 (2), 903, 2005"
-    },
-    {
-        "title": "Development of a testing facility for experimental investigation of MEMS dynamics.",
-        "pub_year": "2004",
-        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2004"
-    },
-    {
-        "title": "Dynamic measurement of gas damping effects in MEMS.",
-        "pub_year": "2004",
-        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2004"
-    },
-    {
-        "title": "Modeling Chip-Evacuation Forces in Drilling for Various Flute Geometries",
-        "pub_year": "2003",
-        "citation": ""
-    },
-    {
-        "title": "A Stability Solution for the Axial Contour-Turning Process",
-        "pub_year": "2002",
-        "citation": ""
-    },
-    {
-        "title": "Failure Analysis of the Superconducting Magnet and Cryogenic Systems of Two Maglev Concepts",
-        "pub_year": "1995",
-        "citation": "Ohio State University, 1995"
+        "title": "Toward vasculature in skeletal muscle-on-a-chip through thermo-responsive sacrificial templates",
+        "pub_year": "2020",
+        "citation": "Micromachines 11 (10), 907, 2020"
     },
     {
         "title": "Ultra-High-Speed Micromachining Spindle Metrology under Radial Loading Conditions",
         "citation": ""
     },
     {
-        "title": "Optimal Lubrication Enhancement for UHMWPE Tribo-systems through Surface Texturing",
-        "citation": ""
+        "title": "Ultra-compliant neural probes are subject to fluid forces during dissolution of polymer delivery vehicles",
+        "pub_year": "2013",
+        "citation": "2013 35th Annual International Conference of the IEEE Engineering in …, 2013"
     },
     {
-        "title": "Radial Throw in Micromilling: A Simulation-Based Study to Analyze the Effects on Surface Quality and Uncut Chip Thickness",
-        "citation": ""
+        "title": "Ultra-miniature ultra-compliant neural probes with dissolvable delivery needles: design, fabrication and characterization",
+        "pub_year": "2016",
+        "citation": "Biomedical microdevices 18, 1-20, 2016"
     },
     {
-        "title": "Improving accuracy and repeatability in high-speed micromachining",
-        "citation": ""
+        "title": "Uncertainty quantification for polymer micromilling force models using Bayesian inference",
+        "pub_year": "2020",
+        "citation": "Procedia Manufacturing 48, 611-618, 2020"
     },
     {
-        "title": "Modeling and Prediction of Hole Profile in Drilling, Part 1: Modeling Drill Dynamics in the Presence of Drill Alignment Errors",
-        "citation": ""
-    },
-    {
-        "title": "A NOVEL TECHNIQUE FOR FABRICATION OF DISSOLVABLE MICRONEEDLE ARRAYS",
-        "citation": ""
-    },
-    {
-        "title": "CHARACTERISTICS OF MECHANICAL MICROMILLING USING TUNGSTEN CARBIDE TOOLS",
-        "citation": ""
-    },
-    {
-        "title": "A Novel Mechanical Nanofabrication Technique: Nanomilling",
-        "citation": ""
+        "title": "Wear of ultrananocrystalline diamond AFM tips during mechanical nanomanufacturing by nanomilling",
+        "pub_year": "2014",
+        "citation": "Wear 317 (1-2), 39-55, 2014"
     }
 ]

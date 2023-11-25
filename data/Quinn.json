@@ -1,8 +1,67 @@
 [
     {
-        "title": "Isolation of exosomes from whole blood by integrating acoustics and microfluidics",
-        "pub_year": "2017",
-        "citation": "Proceedings of the National Academy of Sciences 114 (40), 10584-10589, 2017"
+        "title": "A systematic approach to process selection in MEMS",
+        "pub_year": "2006",
+        "citation": "Journal of microelectromechanical systems 15 (5), 1039-1050, 2006"
+    },
+    {
+        "title": "Assessing hypoxic damage to placental trophoblasts by measuring membrane viscosity of extracellular vesicles",
+        "pub_year": "2022",
+        "citation": "Placenta 121, 14-22, 2022"
+    },
+    {
+        "title": "Biophysics of malarial parasite exit from infected erythrocytes",
+        "pub_year": "2011",
+        "citation": "PloS one 6 (6), e20869, 2011"
+    },
+    {
+        "title": "Cell alignment modulated by surface nano-topography–Roles of cell-matrix and cell-cell interactions",
+        "pub_year": "2022",
+        "citation": "Acta Biomaterialia 142, 149-159, 2022"
+    },
+    {
+        "title": "Combined simulation and experimental study of large deformation of red blood cells in microfluidic systems",
+        "pub_year": "2011",
+        "citation": "Annals of biomedical engineering 39, 1041-1050, 2011"
+    },
+    {
+        "title": "Computational methods and compositions",
+        "pub_year": "2011",
+        "citation": "US Patent App. 13/053,139, 2011"
+    },
+    {
+        "title": "Controlled molecular self-assembly of complex three-dimensional structures in soft materials",
+        "pub_year": "2018",
+        "citation": "Proceedings of the National Academy of Sciences 115 (1), 70-74, 2018"
+    },
+    {
+        "title": "Controlling C2C12 Cytotoxicity on Liquid Metal Embedded Elastomer (LMEE)",
+        "pub_year": "2023",
+        "citation": "Advanced Healthcare Materials, 2202430, 2023"
+    },
+    {
+        "title": "DROP TESTING OF BIODEGRADABLE PLASTICS FOR CONSUMER PRODUCT APPLICATIONS",
+        "citation": ""
+    },
+    {
+        "title": "Development and experimental validation of an advanced nonlinear, rate-dependent constitutive model for polyether ether ketone (PEEK)",
+        "pub_year": "2013",
+        "citation": "Journal of Medical Devices 7 (4), 040908, 2013"
+    },
+    {
+        "title": "Development of a Non-Linear, Time and Rate-Dependent Constitutive Model for Polyether Ether Ketone (PEEK)",
+        "pub_year": "2013",
+        "citation": ""
+    },
+    {
+        "title": "Differential growth and shape formation in plant organs",
+        "pub_year": "2018",
+        "citation": "Proceedings of the National Academy of Sciences 115 (49), 12359-12364, 2018"
+    },
+    {
+        "title": "Dynamic behavior of healthy and malaria infected human red blood cells",
+        "pub_year": "2010",
+        "citation": "Massachusetts Institute of Technology, 2010"
     },
     {
         "title": "Effect of plasmodial RESA protein on deformability of human red blood cells harboring Plasmodium falciparum",
@@ -15,86 +74,6 @@
         "citation": "Proceedings of the National Academy of Sciences 114 (11), 2910-2915, 2017"
     },
     {
-        "title": "Biophysics of malarial parasite exit from infected erythrocytes",
-        "pub_year": "2011",
-        "citation": "PloS one 6 (6), e20869, 2011"
-    },
-    {
-        "title": "Combined simulation and experimental study of large deformation of red blood cells in microfluidic systems",
-        "pub_year": "2011",
-        "citation": "Annals of biomedical engineering 39, 1041-1050, 2011"
-    },
-    {
-        "title": "Differential growth and shape formation in plant organs",
-        "pub_year": "2018",
-        "citation": "Proceedings of the National Academy of Sciences 115 (49), 12359-12364, 2018"
-    },
-    {
-        "title": "Residual stress and microstructure of as-deposited and annealed, sputtered yttria-stabilized zirconia thin films",
-        "pub_year": "2008",
-        "citation": "Journal of Materials Research 23 (3), 609-618, 2008"
-    },
-    {
-        "title": "Controlled molecular self-assembly of complex three-dimensional structures in soft materials",
-        "pub_year": "2018",
-        "citation": "Proceedings of the National Academy of Sciences 115 (1), 70-74, 2018"
-    },
-    {
-        "title": "A systematic approach to process selection in MEMS",
-        "pub_year": "2006",
-        "citation": "Journal of microelectromechanical systems 15 (5), 1039-1050, 2006"
-    },
-    {
-        "title": "Nonlinear thermomechanical design of microfabricated thin plate devices in the post-buckling regime",
-        "pub_year": "2010",
-        "citation": "Journal of Micromechanics and Microengineering 20 (3), 035027, 2010"
-    },
-    {
-        "title": "Cell alignment modulated by surface nano-topography–Roles of cell-matrix and cell-cell interactions",
-        "pub_year": "2022",
-        "citation": "Acta Biomaterialia 142, 149-159, 2022"
-    },
-    {
-        "title": "Computational methods and compositions",
-        "pub_year": "2011",
-        "citation": "US Patent App. 13/053,139, 2011"
-    },
-    {
-        "title": "Microstructure, residual stress, and mechanical properties of thin film materials for a microfabricated solid oxide fuel cell",
-        "pub_year": "2006",
-        "citation": "Massachusetts Institute of Technology, 2006"
-    },
-    {
-        "title": "Residual stress and microstructural evolution in thin film materials for a micro solid oxide fuel cell (SOFC).",
-        "pub_year": "2004",
-        "citation": "MRS Online Proceedings Library (OPL) 854, U8. 19, 2004"
-    },
-    {
-        "title": "Modeling inertial focusing in straight and curved microfluidic channels",
-        "pub_year": "2013",
-        "citation": "COMSOL News 9, 42-43, 2013"
-    },
-    {
-        "title": "Dynamic behavior of healthy and malaria infected human red blood cells",
-        "pub_year": "2010",
-        "citation": "Massachusetts Institute of Technology, 2010"
-    },
-    {
-        "title": "Controlling C2C12 Cytotoxicity on Liquid Metal Embedded Elastomer (LMEE)",
-        "pub_year": "2023",
-        "citation": "Advanced Healthcare Materials, 2202430, 2023"
-    },
-    {
-        "title": "Development and experimental validation of an advanced nonlinear, rate-dependent constitutive model for polyether ether ketone (PEEK)",
-        "pub_year": "2013",
-        "citation": "Journal of Medical Devices 7 (4), 040908, 2013"
-    },
-    {
-        "title": "Assessing hypoxic damage to placental trophoblasts by measuring membrane viscosity of extracellular vesicles",
-        "pub_year": "2022",
-        "citation": "Placenta 121, 14-22, 2022"
-    },
-    {
         "title": "Golf ball impact: material characterization and transient simulation",
         "pub_year": "2012",
         "citation": "12th International LS-DYNA users conference, 1-9, 2012"
@@ -105,18 +84,41 @@
         "citation": "Proceedings of the 13th International LS-DYNA Users Conference, 7, 2014"
     },
     {
+        "title": "Isolation of exosomes from whole blood by integrating acoustics and microfluidics",
+        "pub_year": "2017",
+        "citation": "Proceedings of the National Academy of Sciences 114 (40), 10584-10589, 2017"
+    },
+    {
+        "title": "Methods and compositions related to the measurement of material properties",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Microfabricated solid-Oxide Fuel cell systems",
+        "citation": "Suspended micro-reactor for fuel processing and TPV energy conversion. Photo …, 0"
+    },
+    {
+        "title": "Microstructure, residual stress, and mechanical properties of thin film materials for a microfabricated solid oxide fuel cell",
+        "pub_year": "2006",
+        "citation": "Massachusetts Institute of Technology, 2006"
+    },
+    {
+        "title": "Modeling inertial focusing in straight and curved microfluidic channels",
+        "pub_year": "2013",
+        "citation": "COMSOL News 9, 42-43, 2013"
+    },
+    {
         "title": "Non-Linear Viscoplastic Material Modeling of the Degradation Response of PLA",
         "pub_year": "2013",
         "citation": "Frontiers in Biomedical Devices 56000, V001T10A028, 2013"
     },
     {
-        "title": "Development of a Non-Linear, Time and Rate-Dependent Constitutive Model for Polyether Ether Ketone (PEEK)",
-        "pub_year": "2013",
-        "citation": ""
+        "title": "Nonlinear thermomechanical design of microfabricated thin plate devices in the post-buckling regime",
+        "pub_year": "2010",
+        "citation": "Journal of Micromechanics and Microengineering 20 (3), 035027, 2010"
     },
     {
-        "title": "Methods and compositions related to the measurement of material properties",
-        "pub_year": "2011",
+        "title": "Realistic Simulation of Golf Ball Impact",
         "citation": ""
     },
     {
@@ -125,15 +127,13 @@
         "citation": "MATERIALS RESEARCH SOCIETY SYMPOSIUM PROCEEDINGS 854, 184, 2004"
     },
     {
-        "title": "DROP TESTING OF BIODEGRADABLE PLASTICS FOR CONSUMER PRODUCT APPLICATIONS",
-        "citation": ""
+        "title": "Residual stress and microstructural evolution in thin film materials for a micro solid oxide fuel cell (SOFC).",
+        "pub_year": "2004",
+        "citation": "MRS Online Proceedings Library (OPL) 854, U8. 19, 2004"
     },
     {
-        "title": "Realistic Simulation of Golf Ball Impact",
-        "citation": ""
-    },
-    {
-        "title": "Microfabricated solid-Oxide Fuel cell systems",
-        "citation": "Suspended micro-reactor for fuel processing and TPV energy conversion. Photo …, 0"
+        "title": "Residual stress and microstructure of as-deposited and annealed, sputtered yttria-stabilized zirconia thin films",
+        "pub_year": "2008",
+        "citation": "Journal of Materials Research 23 (3), 609-618, 2008"
     }
 ]

@@ -1,78 +1,8 @@
 [
     {
-        "title": "Bubble casting soft robotics",
-        "pub_year": "2021",
-        "citation": "Nature 599 (7884), 229-233, 2021"
-    },
-    {
         "title": "A hierarchical, component based approach to screening properties of soft matter",
         "pub_year": "2016",
         "citation": "Foundations of molecular modeling and simulation: Select papers from FOMMS …, 2016"
-    },
-    {
-        "title": "Deformation and bursting of elastic capsules impacting a rigid wall",
-        "pub_year": "2020",
-        "citation": "Nature Physics 16 (5), 585-589, 2020"
-    },
-    {
-        "title": "The fingerprint of a flow: Wrinkle patterns in nonuniform coatings on pre-stretched soft foundations",
-        "pub_year": "2019",
-        "citation": "Soft Matter 15 (6), 1405-1412, 2019"
-    },
-    {
-        "title": "Soft Deployable Structures via Core-Shell Inflatables",
-        "pub_year": "2023",
-        "citation": "Physical Review Letters 130 (12), 128201, 2023"
-    },
-    {
-        "title": "From mindless active particles to buckling-mediated intelligent robots",
-        "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
-    },
-    {
-        "title": "Morphomechanical Rods: From Fabrication to Function",
-        "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
-    },
-    {
-        "title": "Beading is the new jamming: leveraging compliance and rigidity in discrete shape morphing structures",
-        "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
-    },
-    {
-        "title": "Shaping with plasticity",
-        "pub_year": "2023",
-        "citation": "Bulletin of the American Physical Society, 2023"
-    },
-    {
-        "title": "Fabrication, Form, and Function of Morphomechanical Rods",
-        "pub_year": "2023",
-        "citation": "Princeton University, 2023"
-    },
-    {
-        "title": "Growing elastomeric stalactites on different substrate morphologies",
-        "pub_year": "2022",
-        "citation": "Bulletin of the American Physical Society, 2022"
-    },
-    {
-        "title": "First Annual APS DSOFT Gallery of Soft Matter",
-        "pub_year": "2022",
-        "citation": "Physical Review E 106 (5), 050001, 2022"
-    },
-    {
-        "title": "Think big: overcoming gravity in large scale shape morphing structures.",
-        "pub_year": "2022",
-        "citation": "APS March Meeting Abstracts 2022, B21. 006, 2022"
-    },
-    {
-        "title": "Deployable structures with core-shell balloons",
-        "pub_year": "2022",
-        "citation": "APS March Meeting Abstracts 2022, Z08. 005, 2022"
-    },
-    {
-        "title": "Pneumatic morphorods: curvilinear shape morphing and stability",
-        "pub_year": "2022",
-        "citation": "APS March Meeting Abstracts 2022, A21. 009, 2022"
     },
     {
         "title": "All-in-One Design of Soft Machines",
@@ -80,13 +10,83 @@
         "citation": "APS March Meeting Abstracts 2021, C07. 009, 2021"
     },
     {
+        "title": "All-in-One Design of Soft Machines",
+        "pub_year": "2019",
+        "citation": "APS March Meeting Abstracts 2019, K57. 005, 2019"
+    },
+    {
+        "title": "Beading is the new jamming: leveraging compliance and rigidity in discrete shape morphing structures",
+        "pub_year": "2023",
+        "citation": "Bulletin of the American Physical Society, 2023"
+    },
+    {
+        "title": "Bubble casting soft robotics",
+        "pub_year": "2021",
+        "citation": "Nature 599 (7884), 229-233, 2021"
+    },
+    {
+        "title": "Deformation and bursting of elastic capsules impacting a rigid wall",
+        "pub_year": "2020",
+        "citation": "Nature Physics 16 (5), 585-589, 2020"
+    },
+    {
+        "title": "Deployable structures with core-shell balloons",
+        "pub_year": "2022",
+        "citation": "APS March Meeting Abstracts 2022, Z08. 005, 2022"
+    },
+    {
         "title": "Design and mechanics of complex inflatable networks",
         "pub_year": "2020",
         "citation": "Bulletin of the American Physical Society 65, 2020"
     },
     {
-        "title": "All-in-One Design of Soft Machines",
+        "title": "Fabrication, Form, and Function of Morphomechanical Rods",
+        "pub_year": "2023",
+        "citation": "Princeton University, 2023"
+    },
+    {
+        "title": "First Annual APS DSOFT Gallery of Soft Matter",
+        "pub_year": "2022",
+        "citation": "Physical Review E 106 (5), 050001, 2022"
+    },
+    {
+        "title": "From mindless active particles to buckling-mediated intelligent robots",
+        "pub_year": "2023",
+        "citation": "Bulletin of the American Physical Society, 2023"
+    },
+    {
+        "title": "Growing elastomeric stalactites on different substrate morphologies",
+        "pub_year": "2022",
+        "citation": "Bulletin of the American Physical Society, 2022"
+    },
+    {
+        "title": "Morphomechanical Rods: From Fabrication to Function",
+        "pub_year": "2023",
+        "citation": "Bulletin of the American Physical Society, 2023"
+    },
+    {
+        "title": "Pneumatic morphorods: curvilinear shape morphing and stability",
+        "pub_year": "2022",
+        "citation": "APS March Meeting Abstracts 2022, A21. 009, 2022"
+    },
+    {
+        "title": "Shaping with plasticity",
+        "pub_year": "2023",
+        "citation": "Bulletin of the American Physical Society, 2023"
+    },
+    {
+        "title": "Soft Deployable Structures via Core-Shell Inflatables",
+        "pub_year": "2023",
+        "citation": "Physical Review Letters 130 (12), 128201, 2023"
+    },
+    {
+        "title": "The fingerprint of a flow: Wrinkle patterns in nonuniform coatings on pre-stretched soft foundations",
         "pub_year": "2019",
-        "citation": "APS March Meeting Abstracts 2019, K57. 005, 2019"
+        "citation": "Soft Matter 15 (6), 1405-1412, 2019"
+    },
+    {
+        "title": "Think big: overcoming gravity in large scale shape morphing structures.",
+        "pub_year": "2022",
+        "citation": "APS March Meeting Abstracts 2022, B21. 006, 2022"
     }
 ]

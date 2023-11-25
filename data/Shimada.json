@@ -1,893 +1,8 @@
 [
     {
-        "title": "Computer-aided orthopedic surgery",
-        "pub_year": "2004",
-        "citation": "US Patent 6,711,432, 2004"
-    },
-    {
-        "title": "Computer-aided bone distraction",
-        "pub_year": "2004",
-        "citation": "US Patent 6,701,174, 2004"
-    },
-    {
-        "title": "Computer-aided orthopedic surgery",
-        "pub_year": "2004",
-        "citation": "US Patent App. 10/636,311, 2004"
-    },
-    {
-        "title": "Bubble mesh: automated triangular meshing of non-manifold geometry by sphere packing",
-        "pub_year": "1995",
-        "citation": "Proceedings of the third ACM symposium on Solid modeling and applications …, 1995"
-    },
-    {
-        "title": "A survey of computational approaches to three-dimensional layout problems",
-        "pub_year": "2002",
-        "citation": "Computer-Aided Design 34 (8), 597-611, 2002"
-    },
-    {
-        "title": "Surface mesh segmentation and smooth surface extraction through region growing",
-        "pub_year": "2005",
-        "citation": "Computer aided geometric design 22 (8), 771-792, 2005"
-    },
-    {
-        "title": "An Angle-Based Approach to Two-Dimensional Mesh Smoothing.",
-        "pub_year": "2000",
-        "citation": "IMR 2000, 373-384, 2000"
-    },
-    {
-        "title": "Combining geometry and domain knowledge to interpret hand-drawn diagrams",
-        "pub_year": "2005",
-        "citation": "Computers & Graphics 29 (4), 547-562, 2005"
-    },
-    {
-        "title": "Automatic triangular mesh generation of trimmed parametric surfaces for finite element analysis",
-        "pub_year": "1998",
-        "citation": "Computer Aided Geometric Design 15 (3), 199-222, 1998"
-    },
-    {
-        "title": "Method, apparatus, and system for computer-aided tracking, navigation and motion teaching",
-        "pub_year": "2015",
-        "citation": "US Patent 9,082,319, 2015"
-    },
-    {
-        "title": "Physically-based mesh generation: automated triangulation of surfaces and volumes via bubble packing",
-        "pub_year": "1993",
-        "citation": "Massachusetts Institute of Technology, 1993"
-    },
-    {
-        "title": "Computer-aided bone distraction",
-        "pub_year": "2010",
-        "citation": "US Patent 7,837,621, 2010"
-    },
-    {
-        "title": "Anisotropic triangular meshing of parametric surfaces via close packing of ellipsoidal bubbles",
-        "pub_year": "1997",
-        "citation": "6th International Meshing Roundtable 375, 390, 1997"
-    },
-    {
-        "title": "Sketch-based 3D-shape creation for industrial styling design",
-        "pub_year": "2007",
-        "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007"
-    },
-    {
-        "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
-        "pub_year": "2006",
-        "citation": "Proceedings of the 2006 ACM symposium on Solid and physical modeling, 149-160, 2006"
-    },
-    {
-        "title": "The travelling salesman problem with neighbourhoods: MINLP solution",
-        "pub_year": "2013",
-        "citation": "Optimization Methods and Software 28 (2), 364-378, 2013"
-    },
-    {
-        "title": "An efficient numerical technique for bioheat simulations and its application to computerized cryosurgery planning",
-        "pub_year": "2007",
-        "citation": "Computer methods and programs in biomedicine 85 (1), 41-50, 2007"
-    },
-    {
-        "title": "A deep reinforcement learning approach for global routing",
-        "pub_year": "2020",
-        "citation": "Journal of Mechanical Design 142 (6), 061701, 2020"
-    },
-    {
-        "title": "High Quality Anisotropic Tetrahedral Mesh Generation Via Ellipsoidal Bubble Packing.",
-        "pub_year": "2000",
-        "citation": "IMR, 263-274, 2000"
-    },
-    {
-        "title": "Anisotropic triangulation of parametric surfaces via close packing of ellipsoids",
-        "pub_year": "2000",
-        "citation": "International Journal of Computational Geometry & Applications 10 (04), 417-440, 2000"
-    },
-    {
-        "title": "Quadrilateral Meshing with Directionality Control through the Packing of Square Cells.",
-        "pub_year": "1998",
-        "citation": "IMR, 61-75, 1998"
-    },
-    {
-        "title": "Face clustering of a large-scale cad model for surface mesh generation",
-        "pub_year": "2001",
-        "citation": "Computer-Aided Design 33 (3), 251-261, 2001"
-    },
-    {
-        "title": "Unconstrained plastering—Hexahedral mesh generation via advancing‐front geometry decomposition",
-        "pub_year": "2010",
-        "citation": "International journal for numerical methods in engineering 81 (2), 135-171, 2010"
-    },
-    {
-        "title": "Fully‐automated hex‐dominant mesh generation with directionality control via packing rectangular solid cells",
-        "pub_year": "2003",
-        "citation": "International journal for numerical methods in engineering 57 (15), 2099-2129, 2003"
-    },
-    {
-        "title": "Two-phase computerized planning of cryosurgery using bubble-packing and force-field analogy",
-        "pub_year": "2006",
-        "citation": ""
-    },
-    {
-        "title": "Autonomous UAV exploration of dynamic environments via incremental sampling and probabilistic roadmap",
-        "pub_year": "2021",
-        "citation": "IEEE Robotics and Automation Letters 6 (2), 2729-2736, 2021"
-    },
-    {
-        "title": "Skeleton-based computational method for the generation of a 3D finite element mesh sizing function",
-        "pub_year": "2004",
-        "citation": "Engineering with Computers 20, 249-264, 2004"
-    },
-    {
-        "title": "Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry",
-        "pub_year": "2012",
-        "citation": "US Patent 8,259,101, 2012"
-    },
-    {
-        "title": "Subdivision surface fitting with QEM-based mesh simplification and reconstruction of approximated B-spline surfaces",
-        "pub_year": "2000",
-        "citation": "Proceedings the Eighth Pacific Conference on Computer Graphics and …, 2000"
-    },
-    {
-        "title": "A mathematical theory and applications of non-manifold geometric modeling",
-        "pub_year": "1990",
-        "citation": "IFIP WG 5, 89-103, 1990"
-    },
-    {
-        "title": "Objective function effect based pattern search—theoretical framework inspired by 3D component layout",
-        "pub_year": "2007",
-        "citation": ""
-    },
-    {
-        "title": "System and method for three-dimensional shape generation from partial and incomplete views, and interactive design system using same",
-        "pub_year": "2006",
-        "citation": "US Patent App. 11/135,528, 2006"
-    },
-    {
-        "title": "Computerized planning of prostate cryosurgery using variable cryoprobe insertion depth",
-        "pub_year": "2010",
-        "citation": "Cryobiology 60 (1), 71-79, 2010"
-    },
-    {
-        "title": "Computerized planning of cryosurgery using bubble packing: an experimental validation on a phantom material",
-        "pub_year": "2008",
-        "citation": "International journal of heat and mass transfer 51 (23-24), 5671-5678, 2008"
-    },
-    {
-        "title": "Occlusion-free animation of driving routes for car navigation systems",
-        "pub_year": "2006",
-        "citation": "IEEE Transactions on Visualization and Computer Graphics 12 (5), 1141-1148, 2006"
-    },
-    {
-        "title": "Anisotropic tetrahedral meshing via bubble packing and advancing front",
-        "pub_year": "2003",
-        "citation": "International Journal for Numerical Methods in Engineering 57 (13), 1923-1942, 2003"
-    },
-    {
-        "title": "A Framework for 3D Modeling Constraint-Based Description and Non-Manifold Geometric Modeling",
-        "pub_year": "1988",
-        "citation": "A Collection of Contributions based on Lectures Presented at the 2d Toyota …, 1988"
-    },
-    {
-        "title": "Sampling-based view planning for 3d visual coverage task with unmanned aerial vehicle",
-        "pub_year": "2016",
-        "citation": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016"
-    },
-    {
-        "title": "A computational framework for automating generation of sizing function in assembly meshing via disconnected skeletons",
-        "pub_year": "2010",
-        "citation": "Engineering with Computers 26, 231-247, 2010"
-    },
-    {
-        "title": "Cost‐and time‐effective three‐dimensional bone‐shape reconstruction from X‐ray images",
-        "pub_year": "2007",
-        "citation": "The international journal of medical robotics and computer assisted surgery …, 2007"
-    },
-    {
-        "title": "A discrete spring model for generating fair curves and surfaces",
-        "pub_year": "1999",
-        "citation": "Proceedings. Seventh Pacific Conference on Computer Graphics and …, 1999"
-    },
-    {
-        "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
+        "title": "0449 Comparing Deep Feature Representations to Improve Robustness to Subject Variation in Snore Detection",
         "pub_year": "2019",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
-    },
-    {
-        "title": "Object collision detection method and apparatus",
-        "pub_year": "1989",
-        "citation": "US Patent 4,888,707, 1989"
-    },
-    {
-        "title": "Predicting and evaluating the post-assembly shape of thin-walled components via 3D laser digitization and FEA simulation of the assembly process",
-        "pub_year": "2011",
-        "citation": "Computer-aided design 43 (3), 316-328, 2011"
-    },
-    {
-        "title": "Hexahedral Mesh Matching: Converting non‐conforming hexahedral‐to‐hexahedral interfaces into conforming interfaces",
-        "pub_year": "2010",
-        "citation": "International journal for numerical methods in engineering 82 (12), 1475-1509, 2010"
-    },
-    {
-        "title": "Construction and Modification of 3D Geometry Using a Sketch-based Interface.",
-        "pub_year": "2006",
-        "citation": "SBM, 59-66, 2006"
-    },
-    {
-        "title": "Hexhoop: modular templates for converting a hex-dominant mesh to an all-hex mesh",
-        "pub_year": "2002",
-        "citation": "Engineering with computers 18, 211-228, 2002"
-    },
-    {
-        "title": "Finite Element Mesh Sizing for Surfaces Using Skeleton.",
-        "pub_year": "2004",
-        "citation": "IMR, 389-400, 2004"
-    },
-    {
-        "title": "Cryosurgery planning using bubble packing in 3D",
-        "pub_year": "2008",
-        "citation": "Computer methods in biomechanics and biomedical engineering 11 (2), 113-121, 2008"
-    },
-    {
-        "title": "Hex-Layer: Layered All-Hex Mesh Generation on Thin Section Solids via Chordal Surface Transformation.",
-        "pub_year": "2002",
-        "citation": "IMR, 169-180, 2002"
-    },
-    {
-        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
-        "pub_year": "2008",
-        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
-    },
-    {
-        "title": "Automated workpiece localization for robotic welding",
-        "pub_year": "2013",
-        "citation": "2013 IEEE international conference on automation science and engineering …, 2013"
-    },
-    {
-        "title": "Computer‐aided navigation for arthroscopic hip surgery using encoder linkages for position tracking",
-        "pub_year": "2006",
-        "citation": "The International Journal of Medical Robotics and Computer Assisted Surgery …, 2006"
-    },
-    {
-        "title": "Multi-uav coverage path planning for the inspection of large and complex structures",
-        "pub_year": "2020",
-        "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020"
-    },
-    {
-        "title": "Tensor-guided hex-dominant mesh generation with targeted all-hex regions",
-        "pub_year": "2009",
-        "citation": "proceedings of the 18th International Meshing Roundtable, 377-396, 2009"
-    },
-    {
-        "title": "Quadrilateral meshing with anisotropy and directionality control via close packing of rectangular cells",
-        "pub_year": "2000",
-        "citation": "world wide web 10, 12, 2000"
-    },
-    {
-        "title": "A computational framework for automatic online path generation of robotic inspection tasks via coverage planning and reinforcement learning",
-        "pub_year": "2018",
-        "citation": "IEEE Access 6, 54854-54864, 2018"
-    },
-    {
-        "title": "Current issues and trends in meshing and geometric processing for computational engineering analyses",
-        "pub_year": "2011",
-        "citation": ""
-    },
-    {
-        "title": "Computerized planning of prostate cryosurgery with pullback operation",
-        "pub_year": "2008",
-        "citation": "Computer Aided Surgery 13 (1), 1-13, 2008"
-    },
-    {
-        "title": "Towards intra‐operative computerized planning of prostate cryosurgery",
-        "pub_year": "2007",
-        "citation": "The International Journal of Medical Robotics and Computer Assisted Surgery …, 2007"
-    },
-    {
-        "title": "Solid model reconstruction of wireframe CAD models based on topological embeddings of planar graphs",
-        "pub_year": "2003",
-        "citation": "J. Mech. Des. 125 (3), 434-442, 2003"
-    },
-    {
-        "title": "System and method for displaying shadows by dividing surfaces by occlusion into umbra penumbra, and illuminated regions from discontinuity edges and generating mesh",
-        "pub_year": "1998",
-        "citation": "US Patent 5,808,620, 1998"
-    },
-    {
-        "title": "Collision detection among moving objects in simulation",
-        "pub_year": "1988",
-        "citation": "Proceedings of the 4th international symposium on Robotics Research, 489-496, 1988"
-    },
-    {
-        "title": "View planning for 3d shape reconstruction of buildings with unmanned aerial vehicles",
-        "pub_year": "2016",
-        "citation": "2016 14th International Conference on Control, Automation, Robotics and …, 2016"
-    },
-    {
-        "title": "Graphics processing unit-based bioheat simulation to facilitate rapid decision making associated with cryosurgery training",
-        "pub_year": "2016",
-        "citation": "Technology in cancer research & treatment 15 (2), 377-386, 2016"
-    },
-    {
-        "title": "Boundary representation solid modeling system",
-        "pub_year": "1994",
-        "citation": "US Patent 5,278,983, 1994"
-    },
-    {
-        "title": "Calibration of industry robots with consideration of loading effects using Product-Of-Exponential (POE) and Gaussian Process (GP)",
-        "pub_year": "2016",
-        "citation": "2016 IEEE International Conference on Robotics and Automation (ICRA), 4380-4385, 2016"
-    },
-    {
-        "title": "Converting a tetrahedral mesh to a prism-tetrahedral hybrid mesh for FEM accuracy and efficiency",
-        "pub_year": "2008",
-        "citation": "Proceedings of the 2008 ACM symposium on Solid and physical modeling, 287-294, 2008"
-    },
-    {
-        "title": "Data-driven upsampling of point clouds",
-        "pub_year": "2019",
-        "citation": "Computer-Aided Design 112, 1-13, 2019"
-    },
-    {
-        "title": "An evaluation of user experience with a sketch-based 3D modeling system",
-        "pub_year": "2007",
-        "citation": "Computers & Graphics 31 (4), 580-597, 2007"
-    },
-    {
-        "title": "Computational methods for physically-based FE mesh generation",
-        "pub_year": "1992",
-        "citation": "Human Aspects in Computer Integrated Manufacturing, 411-420, 1992"
-    },
-    {
-        "title": "3 D discrete skeleton generation by wave propagation on PR-octree for finite element mesh sizing",
-        "pub_year": "2004",
-        "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings of the ninth ACM …, 2004"
-    },
-    {
-        "title": "Computerized training of cryosurgery–a system approach",
-        "pub_year": "2013",
-        "citation": "CryoLetters 34 (4), 324-337, 2013"
-    },
-    {
-        "title": "Generating prostate models by means of geometric deformation with application to computerized training of cryosurgery",
-        "pub_year": "2013",
-        "citation": "International journal of computer assisted radiology and surgery 8, 301-312, 2013"
-    },
-    {
-        "title": "Current trends and issues in automatic mesh generation",
-        "pub_year": "2006",
-        "citation": "Computer-Aided Design and Applications 3 (6), 741-750, 2006"
-    },
-    {
-        "title": "Clustering Large Number of Faces for 2-Dimensional Mesh Generation.",
-        "pub_year": "1999",
-        "citation": "IMR, 281-292, 1999"
-    },
-    {
-        "title": "Objective function effect based pattern search—an implementation for 3D component layout",
-        "pub_year": "2007",
-        "citation": ""
-    },
-    {
-        "title": "Finite element modeling method and computer system for converting a triangular mesh surface to a quadrilateral mesh surface",
-        "pub_year": "1998",
-        "citation": "US Patent 5,774,124, 1998"
-    },
-    {
-        "title": "Robotic exploration of unknown 2d environment using a frontier-based automatic-differentiable information gain measure",
-        "pub_year": "2020",
-        "citation": "2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics …, 2020"
-    },
-    {
-        "title": "Coverage path planning using path primitive sampling and primitive coverage graph for visual inspection",
-        "pub_year": "2019",
-        "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019"
-    },
-    {
-        "title": "Evaluation of user-guided semi-automatic decomposition tool for hexahedral mesh generation",
-        "pub_year": "2017",
-        "citation": "Journal of Computational Design and Engineering 4 (4), 330-338, 2017"
-    },
-    {
-        "title": "Simulation-based cryosurgery intelligent tutoring system prototype",
-        "pub_year": "2016",
-        "citation": "Technology in cancer research & treatment 15 (2), 396-407, 2016"
-    },
-    {
-        "title": "Three-dimensional shape reconstruction of abdominal aortic aneurysm",
-        "pub_year": "2009",
-        "citation": "Computer-Aided Design 41 (8), 555-565, 2009"
-    },
-    {
-        "title": "A natural interaction interface for UAVs using intuitive gesture recognition",
-        "pub_year": "2017",
-        "citation": "Advances in Human Factors in Robots and Unmanned Systems: Proceedings of the …, 2017"
-    },
-    {
-        "title": "Model-based view planning for building inspection and surveillance using voxel dilation, Medial Objects, and Random-Key Genetic Algorithm",
-        "pub_year": "2018",
-        "citation": "Journal of Computational Design and Engineering 5 (3), 337-347, 2018"
-    },
-    {
-        "title": "Interactive prostate shape reconstruction from 3D TRUS images",
-        "pub_year": "2014",
-        "citation": "Journal of computational design and engineering 1 (4), 272-288, 2014"
-    },
-    {
-        "title": "Polygon crawling: feature edge extraction from a general polygonal surface for mesh generation",
-        "pub_year": "2010",
-        "citation": "Engineering with Computers 26, 249-264, 2010"
-    },
-    {
-        "title": "Removing self intersections of a triangular mesh by edge swapping, edge hammering, and face lifting",
-        "pub_year": "2009",
-        "citation": "Proceedings of the 18th International Meshing Roundtable, 13-29, 2009"
-    },
-    {
-        "title": "Verifying the effectiveness of a computer-aided navigation system for arthroscopic hip surgery",
-        "pub_year": "2008",
-        "citation": "Studies in health technology and informatics 132, 302, 2008"
-    },
-    {
-        "title": "Automatic conversion of triangular meshes into quadrilateral meshes with directionality",
-        "pub_year": "2002",
-        "citation": "International journal of CAD/CAM 1 (1), 11-21, 2002"
-    },
-    {
-        "title": "Cycle time based multi-goal path optimization for redundant robotic systems",
-        "pub_year": "2013",
-        "citation": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2013"
-    },
-    {
-        "title": "Estimating an equivalent wall‐thickness of a cerebral aneurysm through surface parameterization and a non‐linear spring system",
-        "pub_year": "2011",
-        "citation": "International Journal for Numerical Methods in Biomedical Engineering 27 (7 …, 2011"
-    },
-    {
-        "title": "Hex-dominant mesh generation with directionality control via packing rectangular solid cells",
-        "pub_year": "2002",
-        "citation": "Geometric Modeling and Processing. Theory and Applications. GMP 2002 …, 2002"
-    },
-    {
-        "title": "Constraint-based object description for product modeling",
-        "pub_year": "1989",
-        "citation": "Proc. CAPE'89, 95-106, 1989"
-    },
-    {
-        "title": "Custom-Fit three-dimensional-printed BiPAP mask to improve compliance in patients requiring long-term noninvasive ventilatory support",
-        "pub_year": "2018",
-        "citation": "Journal of Medical Devices 12 (3), 031003, 2018"
-    },
-    {
-        "title": "Mesh matching–creating conforming interfaces between hexahedral meshes",
-        "pub_year": "2008",
-        "citation": "Proceedings of the 17th International Meshing Roundtable, 467-484, 2008"
-    },
-    {
-        "title": "Quad-layer: layered quadrilateral meshing of narrow two-dimensional domains by bubble packing and chordal axis transformation",
-        "pub_year": "2002",
-        "citation": "J. Mech. Des. 124 (3), 564-573, 2002"
-    },
-    {
-        "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
-        "pub_year": "2022",
-        "citation": "Computers in Industry 142, 103697, 2022"
-    },
-    {
-        "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic-aware shape optimization",
-        "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2101.04757, 2021"
-    },
-    {
-        "title": "Material characterization and selection for 3D-printed spine models",
-        "pub_year": "2018",
-        "citation": "3D printing in medicine 4, 1-17, 2018"
-    },
-    {
-        "title": "Model-based coverage motion planning for industrial 3D shape inspection applications",
-        "pub_year": "2017",
-        "citation": "2017 13th IEEE Conference on Automation Science and Engineering (CASE), 1293 …, 2017"
-    },
-    {
-        "title": "Segmentation of noisy laser-scanner generated meshes with piecewise polynomial approximations",
-        "pub_year": "2004",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004"
-    },
-    {
-        "title": "Automated conversion of 2D triangular mesh into quadrilateral mesh",
-        "pub_year": "1995",
-        "citation": "Computational Mechanics’ 95: Theory and Applications, 350-355, 1995"
-    },
-    {
-        "title": "Constrained heterogeneous vehicle path planning for large-area coverage",
-        "pub_year": "2019",
-        "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019"
-    },
-    {
-        "title": "Learning-based robot control with localized sparse online Gaussian process",
-        "pub_year": "2013",
-        "citation": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2013"
-    },
-    {
-        "title": "Morphological design optimization of kinematically redundant manipulators using weighted isotropy measures",
-        "pub_year": "2009",
-        "citation": "2009 IEEE International Conference on Robotics and Automation, 2931-2938, 2009"
-    },
-    {
-        "title": "Meshing method and apparatus",
-        "pub_year": "2000",
-        "citation": "US Patent 6,124,857, 2000"
-    },
-    {
-        "title": "Subdivision templates for converting a non-conformal hex-dominant mesh to a conformal hex-dominant mesh without pyramid elements",
-        "pub_year": "2011",
-        "citation": "Engineering with Computers 27, 51-65, 2011"
-    },
-    {
-        "title": "A study of user performance employing a computer-aided navigation system for arthroscopic hip surgery",
-        "pub_year": "2007",
-        "citation": "International Journal of Computer Assisted Radiology and Surgery 2, 245-252, 2007"
-    },
-    {
-        "title": "Sampling-based coverage motion planning for industrial inspection application with redundant robotic system",
-        "pub_year": "2017",
-        "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017"
-    },
-    {
-        "title": "Mechanics of abdominal aortic aneurysm",
-        "pub_year": "2007",
-        "citation": "European Journal of Computational Mechanics/Revue Européenne de Mécanique …, 2007"
-    },
-    {
-        "title": "Smoothing of noisy laser scanner generated meshes using polynomial fitting and neighborhood erosion",
-        "pub_year": "2004",
-        "citation": "J. Mech. Des. 126 (3), 495-503, 2004"
-    },
-    {
-        "title": "Triangular/quadrilateral remeshing of an arbitrary polygonal surface via packing bubbles",
-        "pub_year": "2004",
-        "citation": "Geometric Modeling and Processing, 2004. Proceedings, 153-162, 2004"
-    },
-    {
-        "title": "System and method for converting a hex-dominant mesh to an all-hexahedral mesh",
-        "pub_year": "2003",
-        "citation": "US Patent 6,625,938, 2003"
-    },
-    {
-        "title": "Method and apparatus for updating node position",
-        "pub_year": "2001",
-        "citation": "US Patent 6,226,405, 2001"
-    },
-    {
-        "title": "DPMPC-Planner: A real-time UAV trajectory planning framework for complex static environments with dynamic obstacles",
-        "pub_year": "2022",
-        "citation": "2022 International Conference on Robotics and Automation (ICRA), 250-256, 2022"
-    },
-    {
-        "title": "Pen-based user interface for geometric decomposition for hexahedral mesh generation",
-        "pub_year": "2010",
-        "citation": "Proceedings of the 19th international meshing roundtable, 263-278, 2010"
-    },
-    {
-        "title": "Improvement of kinematically redundant manipulator design and placement using torque-weighted isotropy measures",
-        "pub_year": "2009",
-        "citation": "2009 International Conference on Advanced Robotics, 1-8, 2009"
-    },
-    {
-        "title": "Pattern search algorithm for component layout",
-        "pub_year": "2006",
-        "citation": "US Patent App. 11/254,842, 2006"
-    },
-    {
-        "title": "Automated Conversion of 2D Triangular Mesh into Quadrilateral Mesh with Directionality Control.",
-        "pub_year": "1998",
-        "citation": "IMR, 77-86, 1998"
-    },
-    {
-        "title": "A patient-specific flexible 3D printed orthopedic model for training and teaching of clubfoot correction surgery",
-        "pub_year": "2016",
-        "citation": "3D Printing and Additive Manufacturing 3 (2), 98-105, 2016"
-    },
-    {
-        "title": "Drawing assist device, drawing assist program, and drawing assist method",
-        "pub_year": "2016",
-        "citation": "US Patent 9,335,909, 2016"
-    },
-    {
-        "title": "Computer-aided surgical planner for a new bone deformity correction device using axis-angle representation",
-        "pub_year": "2014",
-        "citation": "Medical engineering & physics 36 (11), 1536-1542, 2014"
-    },
-    {
-        "title": "Position error reduction in a mechanical tracking linkage for arthroscopic hip surgery",
-        "pub_year": "2011",
-        "citation": "International journal of computer assisted radiology and surgery 6, 693-698, 2011"
-    },
-    {
-        "title": "88‐Element solution to Schneiders' pyramid hex‐meshing problem",
-        "pub_year": "2010",
-        "citation": "International Journal for Numerical Methods in Biomedical Engineering 26 (12 …, 2010"
-    },
-    {
-        "title": "System and method for deformation analysis using inverse pre-deformation of finite element mesh",
-        "pub_year": "2009",
-        "citation": "US Patent 7,590,512, 2009"
-    },
-    {
-        "title": "Inverse pre-deformation of finite element mesh for large deformation analysis",
-        "pub_year": "2005",
-        "citation": ""
-    },
-    {
-        "title": "A computational framework for generating sizing function in assembly meshing",
-        "pub_year": "2005",
-        "citation": "Proceedings of the 14th International Meshing Roundtable, 55-72, 2005"
-    },
-    {
-        "title": "Surface extraction from point-sampled data through region growing",
-        "pub_year": "2005",
-        "citation": "International Journal of CAD/CAM 5 (1), 19-27, 2005"
-    },
-    {
-        "title": "Automatic conversion of triangular meshes into quadrilateral meshes with directionality",
-        "pub_year": "2001",
-        "citation": "International Journal of CAD/CAM 1 (2), 20-38, 2001"
-    },
-    {
-        "title": "Automatic Mesh reconstruction for feature-absed sculpting of deformable surfaces",
-        "pub_year": "1992",
-        "citation": "Selected and Expanded Papers from the IFIP TC5/WG5. 2 Working Conference on …, 1992"
-    },
-    {
-        "title": "A high-fidelity tactile hand simulator as a training tool to develop competency in percutaneous pinning in residents",
-        "pub_year": "2018",
-        "citation": "JAAOS Global Research & Reviews 2 (7), 2018"
-    },
-    {
-        "title": "Inverse adaptation of a hex-dominant mesh for large deformation finite element analysis",
-        "pub_year": "2007",
-        "citation": "Computer-Aided Design 39 (5), 427-438, 2007"
-    },
-    {
-        "title": "Generating organic textures with controlled anisotropy and directionality",
-        "pub_year": "2003",
-        "citation": "IEEE Computer Graphics and Applications 23 (3), 38-45, 2003"
-    },
-    {
-        "title": "Increasing the Number and Volume of Hexahedral and Prism Elements in a Hex-Dominant Mesh by Topological Transformations.",
-        "pub_year": "2003",
-        "citation": "IMR, 403-413, 2003"
-    },
-    {
-        "title": "Frontier-based automatic-differentiable information gain measure for robotic exploration of unknown 3D environments",
-        "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2011.05288, 2020"
-    },
-    {
-        "title": "Multi-objective optimization and scenario-based robustness analysis of the MoneyMaker Hip Pump",
-        "pub_year": "2018",
-        "citation": "Development Engineering 3, 23-33, 2018"
-    },
-    {
-        "title": "Framework for automatic generation of facades on free-form surfaces",
-        "pub_year": "2017",
-        "citation": "Frontiers of Architectural Research 6 (3), 273-289, 2017"
-    },
-    {
-        "title": "GPU-based simulation of ultrasound imaging artifacts for cryosurgery training",
-        "pub_year": "2017",
-        "citation": "Technology in cancer research & treatment 16 (1), 5-14, 2017"
-    },
-    {
-        "title": "Geometric reasoning in sketch-based volumetric decomposition framework for hexahedral meshing",
-        "pub_year": "2014",
-        "citation": "Engineering with Computers 30, 237-252, 2014"
-    },
-    {
-        "title": "Learning based robot control with sequential Gaussian process",
-        "pub_year": "2013",
-        "citation": "2013 IEEE Workshop on Robotic Intelligence in Informationally Structured …, 2013"
-    },
-    {
-        "title": "Improvement of redundant manipulator task agility using multiobjective weighted isotropy-based placement optimization",
-        "pub_year": "2009",
-        "citation": "2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), 645-652, 2009"
-    },
-    {
-        "title": "Layered tetrahedral meshing of thin-walled solids for plastic injection molding FEM",
-        "pub_year": "2005",
-        "citation": "Proceedings of the 2005 ACM symposium on Solid and physical modeling, 245-255, 2005"
-    },
-    {
-        "title": "Finding the shortest path on a polyhedral surface and its application to quality assurance of electric components",
-        "pub_year": "2004",
-        "citation": "J. Mech. Des. 126 (6), 1017-1026, 2004"
-    },
-    {
-        "title": "Minimum height packing for layered manufacturing using an extended pattern search algorithm",
-        "pub_year": "2003",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2003"
-    },
-    {
-        "title": "Developing a framework for computerized training of cryosurgery based on finite elements analysis",
-        "pub_year": "2011",
-        "citation": "Summer Bioengineering Conference 54587, 749-750, 2011"
-    },
-    {
-        "title": "Quadrilateral mesh generation method and apparatus",
-        "pub_year": "2000",
-        "citation": "US Patent 6,121,973, 2000"
-    },
-    {
-        "title": "An Approach for Generating Meshes Similar to A Reference Mesh.",
-        "pub_year": "2000",
-        "citation": "IMR, 101-109, 2000"
-    },
-    {
-        "title": "Support vector machines for automated snoring detection: proof-of-concept",
-        "pub_year": "2017",
-        "citation": "Sleep and Breathing 21 (1), 119-133, 2017"
-    },
-    {
-        "title": "Modelling anisotropic material property of cerebral aneurysms for fluid–structure interaction simulation",
-        "pub_year": "2013",
-        "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2013"
-    },
-    {
-        "title": "Volumetric decomposition via medial object and pen-based user interface for hexahedral mesh generation",
-        "pub_year": "2012",
-        "citation": "Proceedings of the 20th international meshing roundtable, 179-196, 2012"
-    },
-    {
-        "title": "A close look at valences in hexahedral element meshes",
-        "pub_year": "2010",
-        "citation": "International journal for numerical methods in engineering 83 (7), 899-914, 2010"
-    },
-    {
-        "title": "Automated mesh generation for finite element analysis of sheet metal forming",
-        "pub_year": "1999",
-        "citation": "International journal of vehicle design 21 (2-3), 278-291, 1999"
-    },
-    {
-        "title": "Vision-aided uav navigation and dynamic obstacle avoidance using gradient-based b-spline trajectory optimization",
-        "pub_year": "2023",
-        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 1214-1220, 2023"
-    },
-    {
-        "title": "Motion planning for kinematically redundant mobile manipulators with genetic algorithm, pose interpolation, and inverse kinematics",
-        "pub_year": "2021",
-        "citation": "2021 IEEE 17th International Conference on Automation Science and …, 2021"
-    },
-    {
-        "title": "Design and Fabrication of Custom-Fit BiPAP and CPAP Masks Using Three-Dimensional Imaging and Three-Dimensional Printing Techniques",
-        "pub_year": "2021",
-        "citation": "Journal of Medical Devices 15 (2), 024502, 2021"
-    },
-    {
-        "title": "Simulation-based cryosurgery training: variable insertion depth planning in prostate cryosurgery",
-        "pub_year": "2016",
-        "citation": "Technology in cancer research & treatment 15 (6), 805-814, 2016"
-    },
-    {
-        "title": "Improving irrigation in remote areas: multi-objective optimization of a treadle pump",
-        "pub_year": "2014",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014"
-    },
-    {
-        "title": "Geometric Modeling and Processing-GMP 2006: 4th International Conference, GMP 2006, Pittsburgh, PA, USA, July 26-28, 2006, Proceedings",
-        "pub_year": "2006",
-        "citation": "Springer, 2006"
-    },
-    {
-        "title": "Surface topology and geometry reconstruction from wire-frame models",
-        "pub_year": "2005",
-        "citation": "US Patent 6,915,243, 2005"
-    },
-    {
-        "title": "Interference-free polyhedral configurations for stacking",
-        "pub_year": "2002",
-        "citation": "IEEE transactions on robotics and automation 18 (2), 147-165, 2002"
-    },
-    {
-        "title": "Meshing curved wire‐frame models through energy minimization and packing of ellipses",
-        "pub_year": "1999",
-        "citation": "International journal for numerical methods in engineering 46 (8), 1221-1236, 1999"
-    },
-    {
-        "title": "Energy-minimizing approach to meshing curved wire-frame models",
-        "pub_year": "1996",
-        "citation": "Proc. of 5th Intl. Meshing Roundtable, 179-191, 1996"
-    },
-    {
-        "title": "A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera",
-        "pub_year": "2023",
-        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 10645 …, 2023"
-    },
-    {
-        "title": "Three-dimensional ship hull encoding and optimization via deep neural networks",
-        "pub_year": "2022",
-        "citation": "Journal of Mechanical Design 144 (10), 101701, 2022"
-    },
-    {
-        "title": "Development of a three-dimensionally printed ultrasound-guided peripheral intravenous catheter phantom",
-        "pub_year": "2021",
-        "citation": "Cureus 13 (8), 2021"
-    },
-    {
-        "title": "Multi-resolution graph neural network for large-scale pointcloud segmentation",
-        "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2009.08924, 2020"
-    },
-    {
-        "title": "A computerized tutor prototype for prostate cryotherapy: key building blocks and system evaluation",
-        "pub_year": "2017",
-        "citation": "Energy-based Treatment of Tissue and Assessment IX 10066, 296-304, 2017"
-    },
-    {
-        "title": "Technique for converting non-conforming hexahedral-to-hexahedral interfaces into conforming interfaces",
-        "pub_year": "2013",
-        "citation": "US Patent 8,390,620, 2013"
-    },
-    {
-        "title": "Geometric deformation of three-dimensional prostate model with applications to computerized training of cryosurgery",
-        "pub_year": "2011",
-        "citation": "Summer Bioengineering Conference 54587, 751-752, 2011"
-    },
-    {
-        "title": "Multi-objective weighted isotropy measures for the morphological design optimisation of kinematically redundant manipulators",
-        "pub_year": "2011",
-        "citation": "International Journal of Mechatronics and Manufacturing Systems 4 (2), 150-170, 2011"
-    },
-    {
-        "title": "Measurement and optimization of minimally invasive intervention device design fitness using a multiobjective weighted isotropy index",
-        "pub_year": "2010",
-        "citation": ""
-    },
-    {
-        "title": "Systems and methods for extracting an approximated medial surface from a thin-wall solid",
-        "pub_year": "2008",
-        "citation": "US Patent App. 11/445,915, 2008"
-    },
-    {
-        "title": "A Sensitivity-Based Pattern Search Algorithm for 3D Component Layout",
-        "pub_year": "2002",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
-    },
-    {
-        "title": "Determining near optimal interference-free polyhedral configurations for stacking",
-        "pub_year": "1999",
-        "citation": "Proceedings of the 1999 IEEE International Symposium on Assembly and Task …, 1999"
-    },
-    {
-        "title": "Heterogeneous vehicles routing for water canal damage assessment",
-        "pub_year": "2018",
-        "citation": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2018"
-    },
-    {
-        "title": "Restructuring surface tessellation with irregular boundary conditions",
-        "pub_year": "2014",
-        "citation": "Frontiers of architectural research 3 (4), 337-347, 2014"
-    },
-    {
-        "title": "A11 Session 3: Computerized tools for cryosurgery training: Imaging artifacts, training interface and computational challenges",
-        "pub_year": "2014",
-        "citation": "Cryobiology 69 (1), 187, 2014"
+        "citation": "Sleep 42 (Supplement_1), A180-A181, 2019"
     },
     {
         "title": "098 Developing an Intelligent tutoring system for prostate cryosurgery",
@@ -895,369 +10,17 @@
         "citation": "Cryobiology 67 (3), 425-426, 2013"
     },
     {
-        "title": "Geometric reasoning in sketch-based volumetric decomposition framework for hexahedral meshing",
-        "pub_year": "2013",
-        "citation": "Proceedings of the 21st International Meshing Roundtable, 297-314, 2013"
-    },
-    {
-        "title": "Feature, design intention and constraint preservation for direct modeling of 3D freeform surfaces",
-        "pub_year": "2012",
-        "citation": "3D Research 3 (2), 1-18, 2012"
-    },
-    {
-        "title": "Automated segmentation of cerebral aneurysms based on conditional random field and gentle adaboost",
-        "pub_year": "2012",
-        "citation": "Mesh Processing in Medical Image Analysis 2012: MICCAI 2012 International …, 2012"
-    },
-    {
-        "title": "Automatic all-hex mesh generation of thin-walled solids via a conformal pyramid-less hex, prism, and tet mixed mesh",
-        "pub_year": "2011",
-        "citation": "Proceedings of the 20th International Meshing Roundtable, 125-141, 2011"
-    },
-    {
-        "title": "Component segmentation of engineering drawings using Graph Convolutional Networks",
-        "pub_year": "2023",
-        "citation": "Computers in Industry 147, 103885, 2023"
-    },
-    {
-        "title": "Robotic depowdering for additive manufacturing via pose tracking",
-        "pub_year": "2022",
-        "citation": "IEEE Robotics and Automation Letters 7 (4), 10770-10777, 2022"
-    },
-    {
-        "title": "Automated generation of repeated geometric patterns for customized additively manufactured personal products",
-        "pub_year": "2016",
-        "citation": "Procedia Manufacturing 5, 944-957, 2016"
-    },
-    {
-        "title": "Identifying technical and economic improvements to the MoneyMaker Hip pump through multi-objective optimization",
-        "pub_year": "2014",
-        "citation": "IEEE Global Humanitarian Technology Conference (GHTC 2014), 338-344, 2014"
-    },
-    {
-        "title": "New distraction osteogenesis device with only two patient-controlled joints by applying the axis-angle representation on three-dimensional bone deformation",
-        "pub_year": "2013",
-        "citation": "Journal of Medical Devices 7 (4), 041010, 2013"
-    },
-    {
-        "title": "Drawing support device, drawing support program, and drawing support method",
-        "pub_year": "2013",
-        "citation": "US Patent 8,593,487, 2013"
-    },
-    {
-        "title": "Automatic generation of a pattern of geometric features for industrial design",
-        "pub_year": "2013",
-        "citation": "Journal of Mechanical Design 135 (11), 115001, 2013"
-    },
-    {
-        "title": "36. Generation of 3D prostate models for computerized cryosurgery training",
-        "pub_year": "2011",
-        "citation": "Cryobiology 3 (63), 315-316, 2011"
-    },
-    {
-        "title": "Improvement of manufacturing workcell layout design using weighted isotropy metrics",
-        "pub_year": "2009",
-        "citation": "2009 International Conference on Mechatronics and Automation, 3408-3414, 2009"
-    },
-    {
-        "title": "Inverse Pre-Deformation of Tetrahedral Mesh for Large Deformation Finite Element Analysis",
-        "pub_year": "2005",
-        "citation": "Computer-Aided Design and Applications 2 (6), 805-814, 2005"
-    },
-    {
-        "title": "Three-dimensional bone shape reconstruction from X-ray images using hierarchical free-form deformation and nonlinear optimization",
-        "pub_year": "2004",
-        "citation": "International Congress Series 1268, 1291-1291, 2004"
-    },
-    {
-        "title": "Automated shape generation of components in mechanical assemblies",
-        "pub_year": "1992",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 1992"
-    },
-    {
-        "title": "Inventory Tracking for Unstructured Environments via Probabilistic Reasoning",
-        "pub_year": "2020",
-        "citation": "Logistics 4 (3), 16, 2020"
-    },
-    {
-        "title": "Feature edge extraction via angle-based edge collapsing and recovery",
-        "pub_year": "2018",
-        "citation": "Journal of Computing and Information Science in Engineering 18 (2), 021001, 2018"
-    },
-    {
-        "title": "Automatic generation of anisotropic patterns of geometric features for industrial design",
-        "pub_year": "2016",
-        "citation": "Journal of Mechanical Design 138 (2), 021403, 2016"
-    },
-    {
-        "title": "Development of Sketch-Based 3-D Modeling System for Rapid Generation and Evaluation of Automotive Seat Shape Using Reference Models",
-        "pub_year": "2014",
-        "citation": "Journal of Mechanical Design 136 (5), 051001, 2014"
-    },
-    {
-        "title": "Modeling flow features with user-guided streamline parameterization",
-        "pub_year": "2014",
-        "citation": "Computer-Aided Design 46, 263-268, 2014"
-    },
-    {
-        "title": "Sketch-based computer-aided design tool for configuration design of automobile instrument panel",
-        "pub_year": "2009",
-        "citation": "Computer-Aided Design and Applications 6 (5), 585-594, 2009"
-    },
-    {
-        "title": "Sensitivity based pattern search algorithm for component layout",
-        "pub_year": "2004",
-        "citation": "US Patent App. 10/672,442, 2004"
-    },
-    {
-        "title": "Collision detection among moving objects in simulation",
-        "pub_year": "1988",
-        "citation": "Journal of the Robotics Society of Japan 6 (1), 35-41, 1988"
-    },
-    {
-        "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
-        "pub_year": "2023",
-        "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023"
-    },
-    {
-        "title": "Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2303.00132, 2023"
-    },
-    {
-        "title": "High-fidelity wrist fracture phantom as a training tool to develop competency in orthopaedic surgical trainees",
-        "pub_year": "2021",
-        "citation": "JAAOS Global Research & Reviews 5 (5), e20, 2021"
-    },
-    {
-        "title": "Coordinated aerial-ground robot exploration via monte-carlo view quality rendering",
-        "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2011.05275, 2020"
-    },
-    {
-        "title": "Flaw detection in metal additive manufacturing using deep learned acoustic features",
-        "pub_year": "2020",
-        "citation": "Workshop of conference on neural information processing systems, 2020"
-    },
-    {
-        "title": "Tracking tagged inventory in unstructured environments through probabilistic dependency graphs",
-        "pub_year": "2019",
-        "citation": "Logistics 3 (4), 21, 2019"
-    },
-    {
-        "title": "Designing a mobility solution for fully autonomous welding of double-hull blocks",
-        "pub_year": "2019",
-        "citation": "Journal of Mechanisms and Robotics 11 (4), 045002, 2019"
-    },
-    {
-        "title": "Compact two degrees-of-freedom external fixator system for correction of persistent clubfoot deformity",
-        "pub_year": "2019",
-        "citation": "Journal of Medical Devices 13 (2), 021005, 2019"
-    },
-    {
-        "title": "Robot model learning with Gaussian process mixture model",
-        "pub_year": "2018",
-        "citation": "2018 IEEE 14th International Conference on Automation Science and …, 2018"
-    },
-    {
-        "title": "Generating a mesh of geometric elements",
-        "pub_year": "2014",
-        "citation": "US Patent App. 14/126,274, 2014"
-    },
-    {
-        "title": "Modeling anisotropic material property of cerebral aneurysms for fluid-structure interaction computational simulation.",
-        "pub_year": "2012",
-        "citation": "CompIMAGE, 261-266, 2012"
-    },
-    {
-        "title": "Using parameterization and springs to determine aneurysm wall thickness",
-        "pub_year": "2009",
-        "citation": "Proceedings of the 18th international meshing roundtable, 397-414, 2009"
-    },
-    {
-        "title": "Inverse adaptation of hex-dominant mesh for large deformation finite element analysis",
-        "pub_year": "2006",
-        "citation": "International Conference on Geometric Modeling and Processing, 189-206, 2006"
-    },
-    {
-        "title": "Computational modeling of abdominal aortic aneurysms: A new simulation technique that demonstrates the importance of including realistic fluid motion, spinal column, and …",
-        "pub_year": "2005",
-        "citation": "Proceedings of the 2005 Summer Bioengineering Conference, Vail CO, 2005"
-    },
-    {
-        "title": "Objective Function Based Pattern Search: A Computationally Efficient Algorithm For 3D Component Layout",
-        "pub_year": "2004",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004"
-    },
-    {
-        "title": "Local Least Squares Fitting for Surface Mesh Fairing in Automobile Panel Design",
-        "pub_year": "2002",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
-    },
-    {
-        "title": "the 8th international meshing roundtable special issue: advances in mesh generation",
-        "pub_year": "2001",
-        "citation": "Computer-Aided Design 33 (3), 197-197, 2001"
-    },
-    {
-        "title": "Organic Texture with Controlled Anisotropy and Directionality",
-        "pub_year": "2001",
-        "citation": "SIGGRAPH 2001, Technical Sketch, 240, 2001"
-    },
-    {
-        "title": "SAGA-net: shape-assisted graph attention neural network for real-time pointcloud completion",
-        "pub_year": "2022",
-        "citation": "ACM SIGAPP Applied Computing Review 22 (2), 21-33, 2022"
-    },
-    {
-        "title": "Data Augmentation of Engineering Drawings for Data-Driven Component Segmentation",
-        "pub_year": "2022",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
-    },
-    {
-        "title": "3D Printing of Customizable Phantoms to Replace Cadaveric Models in Upper Extremity Surgical Residency Training",
-        "pub_year": "2022",
-        "citation": "Materials 15 (2), 694, 2022"
-    },
-    {
-        "title": "Moldable Mask: A Reusable, Hot Water Moldable, Additively Manufactured Mask to Be Used as an N95 Alternative",
-        "pub_year": "2021",
-        "citation": "Materials 14 (22), 7082, 2021"
-    },
-    {
-        "title": "Assessing Tetrahedral Lattice Parameters for Engineering Applications Through Finite Element Analysis",
-        "pub_year": "2021",
-        "citation": "3D Printing and Additive Manufacturing 8 (4), 238-252, 2021"
-    },
-    {
-        "title": "Self-consuming spacecraft concept",
-        "pub_year": "2021",
-        "citation": "AIAA Scitech 2021 Forum, 0046, 2021"
-    },
-    {
-        "title": "Landing a mobile robot safely from tall walls using manipulator motion generated from reinforcement learning",
-        "pub_year": "2020",
-        "citation": "2020 IEEE 16th International Conference on Automation Science and …, 2020"
-    },
-    {
-        "title": "MuGNet: Multi-Resolution Graph Neural Network for Segmenting Large-Scale Pointclouds.",
-        "pub_year": "2020",
-        "citation": "CoRL, 873-882, 2020"
-    },
-    {
-        "title": "Semi-automatic snore detection in polysomnography based on hierarchical clustering",
-        "pub_year": "2018",
-        "citation": "2018 IEEE 14th International Conference on Automation Science and …, 2018"
-    },
-    {
-        "title": "Automatic Hex-Dominant Mesh Generation for Complex Flow Configurations",
-        "pub_year": "2018",
-        "citation": "SAE International Journal of Engines 11 (6), 615-624, 2018"
-    },
-    {
         "title": "099 Generating synthetic ultrasound imaging artifacts for the purpose of computerized training of cryosurgery",
         "pub_year": "2013",
         "citation": "Cryobiology 67 (3), 426, 2013"
     },
     {
-        "title": "Design optimization of single-port minimally invasive intervention devices",
-        "pub_year": "2009",
-        "citation": "The American Society of Mechanical Engineers (ASME), 2009"
+        "title": "0bjective Function Effect Based",
+        "citation": ""
     },
     {
-        "title": "Proceedings of the 4th international conference on Geometric Modeling and Processing",
-        "pub_year": "2006",
-        "citation": "Springer-Verlag, 2006"
-    },
-    {
-        "title": "90. Computerized planning of cryosurgery",
-        "pub_year": "2006",
-        "citation": "Cryobiology 3 (53), 405-406, 2006"
-    },
-    {
-        "title": "Bubble packing application in computerized planning of cryosurgery",
-        "pub_year": "2006",
-        "citation": "Medicine Meets Virtual Reality 14, 541, 2006"
-    },
-    {
-        "title": "Finding the Shortest Path for Quality Assurance of Electric Components",
-        "pub_year": "2002",
-        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
-    },
-    {
-        "title": "A Data Augmentation Method for Data-driven Component Segmentation of Engineering Drawings",
-        "pub_year": "2024",
-        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 2024"
-    },
-    {
-        "title": "Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.09121, 2023"
-    },
-    {
-        "title": "Quadcopter Trajectory Time Minimization and Robust Collision Avoidance via Optimal Time Allocation",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.08544, 2023"
-    },
-    {
-        "title": "Improving Deep Learning-based Defect Detection on Window Frames with Image Processing Strategies",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.06731, 2023"
-    },
-    {
-        "title": "Optimization Framework for Global Path Planning and Local Motion Planning for Robotic Welding of Multiple Large Industrial Parts",
-        "pub_year": "2023",
-        "citation": "2023 IEEE 19th International Conference on Automation Science and …, 2023"
-    },
-    {
-        "title": "A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2301.08422, 2023"
-    },
-    {
-        "title": "SAGA-Net: efficient pointcloud completion with shape-assisted graph attention neural network",
-        "pub_year": "2022",
-        "citation": "Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing, 569-576, 2022"
-    },
-    {
-        "title": "Lessons Learned on the Testing of Additively Manufactured Inconel 625 and 316L Stainless Steel Bimetallic Components",
-        "pub_year": "2022",
-        "citation": "AIAA SCITECH 2022 Forum, 2477, 2022"
-    },
-    {
-        "title": "Design and Fabrication of Custom-Fit Bipap and CPAP Masks Using 3D Imaging and 3D Printing Techniques",
-        "pub_year": "2021",
-        "citation": "Journal of Medical Devices, 2021"
-    },
-    {
-        "title": "Erratum to “Multi-objective optimization and scenario-based robustness analysis of the Money Maker Hip Pump”[Dev. Eng. 3 (2018) 23–33](Development Engineering (2018) 3 (23–33 …",
-        "pub_year": "2021",
-        "citation": "Development Engineering 6, 100079, 2021"
-    },
-    {
-        "title": "Improved Feasible-Set Method for Removing Mesh Inversion",
-        "pub_year": "2020",
-        "citation": "Journal of Computing and Information Science in Engineering 20 (4), 041011, 2020"
-    },
-    {
-        "title": "0449 Comparing Deep Feature Representations to Improve Robustness to Subject Variation in Snore Detection",
-        "pub_year": "2019",
-        "citation": "Sleep 42 (Supplement_1), A180-A181, 2019"
-    },
-    {
-        "title": "Improving Irrigation in Remote Areas: Multi-objective Optimization of a Treadle Pump",
-        "pub_year": "2018",
-        "citation": "Engineering Archive, 2018"
-    },
-    {
-        "title": "A model-based learning controller with predictor augmentation for non-stationary conditions and time delay in water shooting",
-        "pub_year": "2017",
-        "citation": "2017 13th IEEE Conference on Automation Science and Engineering (CASE), 1110 …, 2017"
-    },
-    {
-        "title": "Optimizing path for kinematically redundant robotic inspection system using Obstacle Based Probabilistic Roadmap and Genetic Algorithm",
-        "pub_year": "2016",
-        "citation": "2016 IEEE Region 10 Conference (TENCON), 2716-2721, 2016"
+        "title": "0bjective Function Effect Based Pattern Search–An Implementation for 3D",
+        "citation": ""
     },
     {
         "title": "2D Triangular Mesh into Quadrilateral Mesh",
@@ -1265,19 +28,28 @@
         "citation": "Computational Mechanics’ 95: Volume 1 and Volume 2 Theory and Applications, 350, 2013"
     },
     {
-        "title": "Improving Element-Boundary Alignment in All-Hex Meshes of Thin-Walled Solids by Side-Face Identification",
-        "pub_year": "2013",
-        "citation": "Proceedings of the 21st International Meshing Roundtable, 513-529, 2013"
+        "title": "2DOF EXTERNAL FIXATOR AND SURGICAL SYSTEM FOR CLUBFOOT CORRECTION",
+        "citation": ""
     },
     {
-        "title": "Numerical Reduction of Position Error in a Mechanical Tracking Linkage for Arthroscopic Hip Surgery",
-        "pub_year": "2011",
-        "citation": "Summer Bioengineering Conference 54587, 383-384, 2011"
+        "title": "3 D discrete skeleton generation by wave propagation on PR-octree for finite element mesh sizing",
+        "pub_year": "2004",
+        "citation": "ACM Symposium on Solid and Physical Modeling: Proceedings of the ninth ACM …, 2004"
     },
     {
-        "title": "The Creation and Modification of 3D Models Using Sketches and Curves",
+        "title": "36. Generation of 3D prostate models for computerized cryosurgery training",
         "pub_year": "2011",
-        "citation": "Sketch-based Interfaces and Modeling, 341-367, 2011"
+        "citation": "Cryobiology 3 (63), 315-316, 2011"
+    },
+    {
+        "title": "3D Printing of Customizable Phantoms to Replace Cadaveric Models in Upper Extremity Surgical Residency Training",
+        "pub_year": "2022",
+        "citation": "Materials 15 (2), 694, 2022"
+    },
+    {
+        "title": "3D shape synthesis for conceptual design and optimization using variational autoencoders",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
     },
     {
         "title": "7. A new approach to cryosurgery training using computation tools",
@@ -1285,19 +57,24 @@
         "citation": "Cryobiology 3 (61), 363, 2010"
     },
     {
-        "title": "Ergonomic assisted direct laryngoscopic intubation: Headup display, wireless camera and fiberoptic With resistance to fouling",
-        "pub_year": "2009",
-        "citation": "2009 ICME International Conference on Complex Medical Engineering, 1-5, 2009"
+        "title": "88‐Element solution to Schneiders' pyramid hex‐meshing problem",
+        "pub_year": "2010",
+        "citation": "International Journal for Numerical Methods in Biomedical Engineering 26 (12 …, 2010"
     },
     {
-        "title": "New software helps make 3D product designs",
-        "pub_year": "2009",
-        "citation": "Advanced Coatings & Surface Technology 22 (3), 8-10, 2009"
+        "title": "90. Computerized planning of cryosurgery",
+        "pub_year": "2006",
+        "citation": "Cryobiology 3 (53), 405-406, 2006"
     },
     {
-        "title": "Optimizing Joint Placement and Motion Schedule for 2-DOF Computer-Assisted Distraction Osteogenesis",
-        "pub_year": "2008",
-        "citation": "Studies in health technology and informatics 132, 336, 2008"
+        "title": "A Data Augmentation Method for Data-driven Component Segmentation of Engineering Drawings",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 2024"
+    },
+    {
+        "title": "A Framework for 3D Modeling Constraint-Based Description and Non-Manifold Geometric Modeling",
+        "pub_year": "1988",
+        "citation": "A Collection of Contributions based on Lectures Presented at the 2d Toyota …, 1988"
     },
     {
         "title": "A Framework for Sizing Function Generation in Assembly Meshing.",
@@ -1305,19 +82,94 @@
         "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2007"
     },
     {
-        "title": "Geometric modeling and processing 2006",
+        "title": "A Sensitivity-Based Pattern Search Algorithm for 3D Component Layout",
+        "pub_year": "2002",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
+    },
+    {
+        "title": "A close look at valences in hexahedral element meshes",
+        "pub_year": "2010",
+        "citation": "International journal for numerical methods in engineering 83 (7), 899-914, 2010"
+    },
+    {
+        "title": "A computational framework for automatic online path generation of robotic inspection tasks via coverage planning and reinforcement learning",
+        "pub_year": "2018",
+        "citation": "IEEE Access 6, 54854-54864, 2018"
+    },
+    {
+        "title": "A computational framework for automating generation of sizing function in assembly meshing via disconnected skeletons",
+        "pub_year": "2010",
+        "citation": "Engineering with Computers 26, 231-247, 2010"
+    },
+    {
+        "title": "A computational framework for generating sizing function in assembly meshing",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 14th International Meshing Roundtable, 55-72, 2005"
+    },
+    {
+        "title": "A computerized tutor prototype for prostate cryotherapy: key building blocks and system evaluation",
+        "pub_year": "2017",
+        "citation": "Energy-based Treatment of Tissue and Assessment IX 10066, 296-304, 2017"
+    },
+    {
+        "title": "A deep reinforcement learning approach for global routing",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (6), 061701, 2020"
+    },
+    {
+        "title": "A discrete spring model for generating fair curves and surfaces",
+        "pub_year": "1999",
+        "citation": "Proceedings. Seventh Pacific Conference on Computer Graphics and …, 1999"
+    },
+    {
+        "title": "A high-fidelity tactile hand simulator as a training tool to develop competency in percutaneous pinning in residents",
+        "pub_year": "2018",
+        "citation": "JAAOS Global Research & Reviews 2 (7), 2018"
+    },
+    {
+        "title": "A mathematical theory and applications of non-manifold geometric modeling",
+        "pub_year": "1990",
+        "citation": "IFIP WG 5, 89-103, 1990"
+    },
+    {
+        "title": "A model-based learning controller with predictor augmentation for non-stationary conditions and time delay in water shooting",
+        "pub_year": "2017",
+        "citation": "2017 13th IEEE Conference on Automation Science and Engineering (CASE), 1110 …, 2017"
+    },
+    {
+        "title": "A natural interaction interface for UAVs using intuitive gesture recognition",
+        "pub_year": "2017",
+        "citation": "Advances in Human Factors in Robots and Unmanned Systems: Proceedings of the …, 2017"
+    },
+    {
+        "title": "A patient-specific flexible 3D printed orthopedic model for training and teaching of clubfoot correction surgery",
+        "pub_year": "2016",
+        "citation": "3D Printing and Additive Manufacturing 3 (2), 98-105, 2016"
+    },
+    {
+        "title": "A real-time dynamic obstacle tracking and mapping system for UAV navigation and collision avoidance with an RGB-D camera",
+        "pub_year": "2023",
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 10645 …, 2023"
+    },
+    {
+        "title": "A study of user performance employing a computer-aided navigation system for arthroscopic hip surgery",
         "pub_year": "2007",
-        "citation": "Computer-Aided Design 39 (5), 341-341, 2007"
+        "citation": "International Journal of Computer Assisted Radiology and Surgery 2, 245-252, 2007"
     },
     {
-        "title": "Computerized planning of prostate cryosurgery using bubble packing",
-        "pub_year": "2006",
-        "citation": "JOURNAL OF ENDOUROLOGY 20, A127-A127, 2006"
+        "title": "A survey of computational approaches to three-dimensional layout problems",
+        "pub_year": "2002",
+        "citation": "Computer-Aided Design 34 (8), 597-611, 2002"
     },
     {
-        "title": "Finite element mesh sizing for surfaces using skeleton.",
-        "pub_year": "2006",
-        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2006"
+        "title": "A vision-based autonomous UAV inspection framework for unknown tunnel construction sites with dynamic obstacles",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2301.08422, 2023"
+    },
+    {
+        "title": "A11 Session 3: Computerized tools for cryosurgery training: Imaging artifacts, training interface and computational challenges",
+        "pub_year": "2014",
+        "citation": "Cryobiology 69 (1), 187, 2014"
     },
     {
         "title": "Advances in Geometric Modeling and Processing: 4th International Conference, GMP 2006, Pittsburgh, PA, USA, July 26-28, 2006, Proceedings",
@@ -1325,14 +177,54 @@
         "citation": "Springer-Verlag, 2006"
     },
     {
-        "title": "Special Issue on Mesh-Based Geometric Data Processing",
-        "pub_year": "2005",
-        "citation": ""
+        "title": "Airfoil GAN: Encoding and synthesizing airfoils for aerodynamic-aware shape optimization",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2101.04757, 2021"
     },
     {
-        "title": "Layered Tetrahedral Meshing of Thin-Walled Solids for Plastic",
-        "pub_year": "2005",
-        "citation": "Proceedings: SPM..., 245, 2005"
+        "title": "Airfoil GAN: encoding and synthesizing airfoils for aerodynamic shape optimization",
+        "pub_year": "2023",
+        "citation": "Journal of Computational Design and Engineering 10 (4), 1350-1362, 2023"
+    },
+    {
+        "title": "An Angle-Based Approach to Two-Dimensional Mesh Smoothing.",
+        "pub_year": "2000",
+        "citation": "IMR 2000, 373-384, 2000"
+    },
+    {
+        "title": "An Approach for Generating Meshes Similar to A Reference Mesh.",
+        "pub_year": "2000",
+        "citation": "IMR, 101-109, 2000"
+    },
+    {
+        "title": "An efficient numerical technique for bioheat simulations and its application to computerized cryosurgery planning",
+        "pub_year": "2007",
+        "citation": "Computer methods and programs in biomedicine 85 (1), 41-50, 2007"
+    },
+    {
+        "title": "An evaluation of user experience with a sketch-based 3D modeling system",
+        "pub_year": "2007",
+        "citation": "Computers & Graphics 31 (4), 580-597, 2007"
+    },
+    {
+        "title": "Anisotropic tetrahedral meshing via bubble packing and advancing front",
+        "pub_year": "2003",
+        "citation": "International Journal for Numerical Methods in Engineering 57 (13), 1923-1942, 2003"
+    },
+    {
+        "title": "Anisotropic triangular meshing of parametric surfaces via close packing of ellipsoidal bubbles",
+        "pub_year": "1997",
+        "citation": "6th International Meshing Roundtable 375, 390, 1997"
+    },
+    {
+        "title": "Anisotropic triangulation of parametric surfaces via close packing of ellipsoids",
+        "pub_year": "2000",
+        "citation": "International Journal of Computational Geometry & Applications 10 (04), 417-440, 2000"
+    },
+    {
+        "title": "Assessing Tetrahedral Lattice Parameters for Engineering Applications Through Finite Element Analysis",
+        "pub_year": "2021",
+        "citation": "3D Printing and Additive Manufacturing 8 (4), 238-252, 2021"
     },
     {
         "title": "Assessment of Hex-Dominant Mesh Efficacy for Nonlinear Finite Element Method Structural Analyses",
@@ -1340,8 +232,998 @@
         "citation": "ASME International Mechanical Engineering Congress and Exposition 47039, 333-334, 2004"
     },
     {
+        "title": "Automated Conversion of 2D Triangular Mesh into Quadrilateral Mesh with Directionality Control.",
+        "pub_year": "1998",
+        "citation": "IMR, 77-86, 1998"
+    },
+    {
+        "title": "Automated conversion of 2D triangular mesh into quadrilateral mesh",
+        "pub_year": "1995",
+        "citation": "Computational Mechanics’ 95: Theory and Applications, 350-355, 1995"
+    },
+    {
+        "title": "Automated generation of repeated geometric patterns for customized additively manufactured personal products",
+        "pub_year": "2016",
+        "citation": "Procedia Manufacturing 5, 944-957, 2016"
+    },
+    {
+        "title": "Automated mesh generation for finite element analysis of sheet metal forming",
+        "pub_year": "1999",
+        "citation": "International journal of vehicle design 21 (2-3), 278-291, 1999"
+    },
+    {
+        "title": "Automated segmentation of cerebral aneurysms based on conditional random field and gentle adaboost",
+        "pub_year": "2012",
+        "citation": "Mesh Processing in Medical Image Analysis 2012: MICCAI 2012 International …, 2012"
+    },
+    {
+        "title": "Automated shape generation of components in mechanical assemblies",
+        "pub_year": "1992",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 1992"
+    },
+    {
+        "title": "Automated workpiece localization for robotic welding",
+        "pub_year": "2013",
+        "citation": "2013 IEEE international conference on automation science and engineering …, 2013"
+    },
+    {
+        "title": "Automatic Hex-Dominant Mesh Generation for Complex Flow Configurations",
+        "pub_year": "2018",
+        "citation": "SAE International Journal of Engines 11 (6), 615-624, 2018"
+    },
+    {
+        "title": "Automatic Mesh reconstruction for feature-absed sculpting of deformable surfaces",
+        "pub_year": "1992",
+        "citation": "Selected and Expanded Papers from the IFIP TC5/WG5. 2 Working Conference on …, 1992"
+    },
+    {
+        "title": "Automatic all-hex mesh generation of thin-walled solids via a conformal pyramid-less hex, prism, and tet mixed mesh",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 20th International Meshing Roundtable, 125-141, 2011"
+    },
+    {
+        "title": "Automatic anisotropic mesh generation",
+        "pub_year": "1996",
+        "citation": "RIKEN REVIEW, 49-50, 1996"
+    },
+    {
+        "title": "Automatic conversion of triangular meshes into quadrilateral meshes with directionality",
+        "pub_year": "2002",
+        "citation": "International journal of CAD/CAM 1 (1), 11-21, 2002"
+    },
+    {
+        "title": "Automatic conversion of triangular meshes into quadrilateral meshes with directionality",
+        "pub_year": "2001",
+        "citation": "International Journal of CAD/CAM 1 (2), 20-38, 2001"
+    },
+    {
+        "title": "Automatic generation of a pattern of geometric features for industrial design",
+        "pub_year": "2013",
+        "citation": "Journal of Mechanical Design 135 (11), 115001, 2013"
+    },
+    {
+        "title": "Automatic generation of anisotropic patterns of geometric features for industrial design",
+        "pub_year": "2016",
+        "citation": "Journal of Mechanical Design 138 (2), 021403, 2016"
+    },
+    {
+        "title": "Automatic triangular mesh generation of trimmed parametric surfaces for finite element analysis",
+        "pub_year": "1998",
+        "citation": "Computer Aided Geometric Design 15 (3), 199-222, 1998"
+    },
+    {
+        "title": "Autonomous UAV exploration of dynamic environments via incremental sampling and probabilistic roadmap",
+        "pub_year": "2021",
+        "citation": "IEEE Robotics and Automation Letters 6 (2), 2729-2736, 2021"
+    },
+    {
+        "title": "Boundary representation solid modeling system",
+        "pub_year": "1994",
+        "citation": "US Patent 5,278,983, 1994"
+    },
+    {
+        "title": "Bubble mesh: automated triangular meshing of non-manifold geometry by sphere packing",
+        "pub_year": "1995",
+        "citation": "Proceedings of the third ACM symposium on Solid modeling and applications …, 1995"
+    },
+    {
+        "title": "Bubble packing application in computerized planning of cryosurgery",
+        "pub_year": "2006",
+        "citation": "Medicine Meets Virtual Reality 14, 541, 2006"
+    },
+    {
+        "title": "Calibration of industry robots with consideration of loading effects using Product-Of-Exponential (POE) and Gaussian Process (GP)",
+        "pub_year": "2016",
+        "citation": "2016 IEEE International Conference on Robotics and Automation (ICRA), 4380-4385, 2016"
+    },
+    {
+        "title": "Clustering Large Number of Faces for 2-Dimensional Mesh Generation.",
+        "pub_year": "1999",
+        "citation": "IMR, 281-292, 1999"
+    },
+    {
+        "title": "Collision detection among moving objects in simulation",
+        "pub_year": "1988",
+        "citation": "Proceedings of the 4th international symposium on Robotics Research, 489-496, 1988"
+    },
+    {
+        "title": "Collision detection among moving objects in simulation",
+        "pub_year": "1988",
+        "citation": "Journal of the Robotics Society of Japan 6 (1), 35-41, 1988"
+    },
+    {
+        "title": "Combining geometry and domain knowledge to interpret hand-drawn diagrams",
+        "pub_year": "2005",
+        "citation": "Computers & Graphics 29 (4), 547-562, 2005"
+    },
+    {
+        "title": "Compact two degrees-of-freedom external fixator system for correction of persistent clubfoot deformity",
+        "pub_year": "2019",
+        "citation": "Journal of Medical Devices 13 (2), 021005, 2019"
+    },
+    {
+        "title": "Component segmentation of engineering drawings using Graph Convolutional Networks",
+        "pub_year": "2023",
+        "citation": "Computers in Industry 147, 103885, 2023"
+    },
+    {
+        "title": "Computational methods for physically-based FE mesh generation",
+        "pub_year": "1992",
+        "citation": "Human Aspects in Computer Integrated Manufacturing, 411-420, 1992"
+    },
+    {
+        "title": "Computational modeling of abdominal aortic aneurysms: A new simulation technique that demonstrates the importance of including realistic fluid motion, spinal column, and …",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 2005 Summer Bioengineering Conference, Vail CO, 2005"
+    },
+    {
+        "title": "Computer-aided bone distraction",
+        "pub_year": "2004",
+        "citation": "US Patent 6,701,174, 2004"
+    },
+    {
+        "title": "Computer-aided bone distraction",
+        "pub_year": "2010",
+        "citation": "US Patent 7,837,621, 2010"
+    },
+    {
+        "title": "Computer-aided orthopedic surgery",
+        "pub_year": "2004",
+        "citation": "US Patent 6,711,432, 2004"
+    },
+    {
+        "title": "Computer-aided orthopedic surgery",
+        "pub_year": "2004",
+        "citation": "US Patent App. 10/636,311, 2004"
+    },
+    {
+        "title": "Computer-aided surgical planner for a new bone deformity correction device using axis-angle representation",
+        "pub_year": "2014",
+        "citation": "Medical engineering & physics 36 (11), 1536-1542, 2014"
+    },
+    {
+        "title": "Computerized planning of cryosurgery using bubble packing: an experimental validation on a phantom material",
+        "pub_year": "2008",
+        "citation": "International journal of heat and mass transfer 51 (23-24), 5671-5678, 2008"
+    },
+    {
+        "title": "Computerized planning of prostate cryosurgery using bubble packing",
+        "pub_year": "2006",
+        "citation": "JOURNAL OF ENDOUROLOGY 20, A127-A127, 2006"
+    },
+    {
+        "title": "Computerized planning of prostate cryosurgery using variable cryoprobe insertion depth",
+        "pub_year": "2010",
+        "citation": "Cryobiology 60 (1), 71-79, 2010"
+    },
+    {
+        "title": "Computerized planning of prostate cryosurgery with pullback operation",
+        "pub_year": "2008",
+        "citation": "Computer Aided Surgery 13 (1), 1-13, 2008"
+    },
+    {
+        "title": "Computerized training of cryosurgery–a system approach",
+        "pub_year": "2013",
+        "citation": "CryoLetters 34 (4), 324-337, 2013"
+    },
+    {
+        "title": "Computer‐aided navigation for arthroscopic hip surgery using encoder linkages for position tracking",
+        "pub_year": "2006",
+        "citation": "The International Journal of Medical Robotics and Computer Assisted Surgery …, 2006"
+    },
+    {
+        "title": "Constrained heterogeneous vehicle path planning for large-area coverage",
+        "pub_year": "2019",
+        "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019"
+    },
+    {
+        "title": "Constraint-based object description for product modeling",
+        "pub_year": "1989",
+        "citation": "Proc. CAPE'89, 95-106, 1989"
+    },
+    {
+        "title": "Construction and Modification of 3D Geometry Using a Sketch-based Interface.",
+        "pub_year": "2006",
+        "citation": "SBM, 59-66, 2006"
+    },
+    {
+        "title": "Converting a tetrahedral mesh to a prism-tetrahedral hybrid mesh for FEM accuracy and efficiency",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 2008 ACM symposium on Solid and physical modeling, 287-294, 2008"
+    },
+    {
+        "title": "Coordinated aerial-ground robot exploration via monte-carlo view quality rendering",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2011.05275, 2020"
+    },
+    {
+        "title": "Cost‐and time‐effective three‐dimensional bone‐shape reconstruction from X‐ray images",
+        "pub_year": "2007",
+        "citation": "The international journal of medical robotics and computer assisted surgery …, 2007"
+    },
+    {
+        "title": "Coverage path planning using path primitive sampling and primitive coverage graph for visual inspection",
+        "pub_year": "2019",
+        "citation": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2019"
+    },
+    {
+        "title": "Cryosurgery planning using bubble packing in 3D",
+        "pub_year": "2008",
+        "citation": "Computer methods in biomechanics and biomedical engineering 11 (2), 113-121, 2008"
+    },
+    {
+        "title": "Current issues and trends in meshing and geometric processing for computational engineering analyses",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Current trends and issues in automatic mesh generation",
+        "pub_year": "2006",
+        "citation": "Computer-Aided Design and Applications 3 (6), 741-750, 2006"
+    },
+    {
+        "title": "Custom-Fit three-dimensional-printed BiPAP mask to improve compliance in patients requiring long-term noninvasive ventilatory support",
+        "pub_year": "2018",
+        "citation": "Journal of Medical Devices 12 (3), 031003, 2018"
+    },
+    {
+        "title": "Cycle time based multi-goal path optimization for redundant robotic systems",
+        "pub_year": "2013",
+        "citation": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2013"
+    },
+    {
+        "title": "DPMPC-Planner: A real-time UAV trajectory planning framework for complex static environments with dynamic obstacles",
+        "pub_year": "2022",
+        "citation": "2022 International Conference on Robotics and Automation (ICRA), 250-256, 2022"
+    },
+    {
+        "title": "Data Augmentation of Engineering Drawings for Data-Driven Component Segmentation",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+    },
+    {
+        "title": "Data-driven upsampling of point clouds",
+        "pub_year": "2019",
+        "citation": "Computer-Aided Design 112, 1-13, 2019"
+    },
+    {
+        "title": "Density-Controlled Sampling of Parametric Surfaces",
+        "citation": "Proc. Geometric Modeling and Processing 4077, 465-484, 0"
+    },
+    {
+        "title": "Design and Fabrication of Custom-Fit BiPAP and CPAP Masks Using Three-Dimensional Imaging and Three-Dimensional Printing Techniques",
+        "pub_year": "2021",
+        "citation": "Journal of Medical Devices 15 (2), 024502, 2021"
+    },
+    {
+        "title": "Design and Fabrication of Custom-Fit Bipap and CPAP Masks Using 3D Imaging and 3D Printing Techniques",
+        "pub_year": "2021",
+        "citation": "Journal of Medical Devices, 2021"
+    },
+    {
+        "title": "Design optimization of single-port minimally invasive intervention devices",
+        "pub_year": "2009",
+        "citation": "The American Society of Mechanical Engineers (ASME), 2009"
+    },
+    {
+        "title": "Designing a mobility solution for fully autonomous welding of double-hull blocks",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanisms and Robotics 11 (4), 045002, 2019"
+    },
+    {
+        "title": "Determining Near Optimal Interference-free Polyhedral Conﬁgurations",
+        "citation": ""
+    },
+    {
+        "title": "Determining near optimal interference-free polyhedral configurations for stacking",
+        "pub_year": "1999",
+        "citation": "Proceedings of the 1999 IEEE International Symposium on Assembly and Task …, 1999"
+    },
+    {
+        "title": "Developing a framework for computerized training of cryosurgery based on finite elements analysis",
+        "pub_year": "2011",
+        "citation": "Summer Bioengineering Conference 54587, 749-750, 2011"
+    },
+    {
+        "title": "Development of Sketch-Based 3-D Modeling System for Rapid Generation and Evaluation of Automotive Seat Shape Using Reference Models",
+        "pub_year": "2014",
+        "citation": "Journal of Mechanical Design 136 (5), 051001, 2014"
+    },
+    {
+        "title": "Development of a three-dimensionally printed ultrasound-guided peripheral intravenous catheter phantom",
+        "pub_year": "2021",
+        "citation": "Cureus 13 (8), 2021"
+    },
+    {
+        "title": "Drawing assist device, drawing assist program, and drawing assist method",
+        "pub_year": "2016",
+        "citation": "US Patent 9,335,909, 2016"
+    },
+    {
+        "title": "Drawing support device, drawing support program, and drawing support method",
+        "pub_year": "2013",
+        "citation": "US Patent 8,593,487, 2013"
+    },
+    {
+        "title": "Energy-minimizing approach to meshing curved wire-frame models",
+        "pub_year": "1996",
+        "citation": "Proc. of 5th Intl. Meshing Roundtable, 179-191, 1996"
+    },
+    {
+        "title": "Ergonomic assisted direct laryngoscopic intubation: Headup display, wireless camera and fiberoptic With resistance to fouling",
+        "pub_year": "2009",
+        "citation": "2009 ICME International Conference on Complex Medical Engineering, 1-5, 2009"
+    },
+    {
+        "title": "Erratum to “Multi-objective optimization and scenario-based robustness analysis of the Money Maker Hip Pump”[Dev. Eng. 3 (2018) 23–33](Development Engineering (2018) 3 (23–33 …",
+        "pub_year": "2021",
+        "citation": "Development Engineering 6, 100079, 2021"
+    },
+    {
+        "title": "Estimating an equivalent wall‐thickness of a cerebral aneurysm through surface parameterization and a non‐linear spring system",
+        "pub_year": "2011",
+        "citation": "International Journal for Numerical Methods in Biomedical Engineering 27 (7 …, 2011"
+    },
+    {
+        "title": "Evaluation of user-guided semi-automatic decomposition tool for hexahedral mesh generation",
+        "pub_year": "2017",
+        "citation": "Journal of Computational Design and Engineering 4 (4), 330-338, 2017"
+    },
+    {
+        "title": "Face clustering of a large-scale cad model for surface mesh generation",
+        "pub_year": "2001",
+        "citation": "Computer-Aided Design 33 (3), 251-261, 2001"
+    },
+    {
+        "title": "Feature edge extraction via angle-based edge collapsing and recovery",
+        "pub_year": "2018",
+        "citation": "Journal of Computing and Information Science in Engineering 18 (2), 021001, 2018"
+    },
+    {
+        "title": "Feature, design intention and constraint preservation for direct modeling of 3D freeform surfaces",
+        "pub_year": "2012",
+        "citation": "3D Research 3 (2), 1-18, 2012"
+    },
+    {
+        "title": "Finding the Shortest Path for Quality Assurance of Electric Components",
+        "pub_year": "2002",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
+    },
+    {
+        "title": "Finding the shortest path on a polyhedral surface and its application to quality assurance of electric components",
+        "pub_year": "2004",
+        "citation": "J. Mech. Des. 126 (6), 1017-1026, 2004"
+    },
+    {
+        "title": "Finite Element Mesh Sizing for Surfaces Using Skeleton.",
+        "pub_year": "2004",
+        "citation": "IMR, 389-400, 2004"
+    },
+    {
+        "title": "Finite element mesh sizing for surfaces using skeleton.",
+        "pub_year": "2006",
+        "citation": "Sandia National Laboratories (SNL), Albuquerque, NM, and Livermore, CA …, 2006"
+    },
+    {
+        "title": "Finite element modeling method and computer system for converting a triangular mesh surface to a quadrilateral mesh surface",
+        "pub_year": "1998",
+        "citation": "US Patent 5,774,124, 1998"
+    },
+    {
+        "title": "Flaw detection in metal additive manufacturing using deep learned acoustic features",
+        "pub_year": "2020",
+        "citation": "Workshop of conference on neural information processing systems, 2020"
+    },
+    {
+        "title": "Framework for automatic generation of facades on free-form surfaces",
+        "pub_year": "2017",
+        "citation": "Frontiers of Architectural Research 6 (3), 273-289, 2017"
+    },
+    {
+        "title": "Frontier-based automatic-differentiable information gain measure for robotic exploration of unknown 3D environments",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2011.05288, 2020"
+    },
+    {
+        "title": "Fully‐automated hex‐dominant mesh generation with directionality control via packing rectangular solid cells",
+        "pub_year": "2003",
+        "citation": "International journal for numerical methods in engineering 57 (15), 2099-2129, 2003"
+    },
+    {
+        "title": "Fundamentals I",
+        "pub_year": "1990",
+        "citation": "Advanced Geometric Modelling for Engineering Applications: Proceedings of …, 1990"
+    },
+    {
+        "title": "GPU-based simulation of ultrasound imaging artifacts for cryosurgery training",
+        "pub_year": "2017",
+        "citation": "Technology in cancer research & treatment 16 (1), 5-14, 2017"
+    },
+    {
+        "title": "Generating a mesh of geometric elements",
+        "pub_year": "2014",
+        "citation": "US Patent App. 14/126,274, 2014"
+    },
+    {
+        "title": "Generating organic textures with controlled anisotropy and directionality",
+        "pub_year": "2003",
+        "citation": "IEEE Computer Graphics and Applications 23 (3), 38-45, 2003"
+    },
+    {
+        "title": "Generating prostate models by means of geometric deformation with application to computerized training of cryosurgery",
+        "pub_year": "2013",
+        "citation": "International journal of computer assisted radiology and surgery 8, 301-312, 2013"
+    },
+    {
+        "title": "Geometric Modeling and Processing-GMP 2006: 4th International Conference, GMP 2006, Pittsburgh, PA, USA, July 26-28, 2006, Proceedings",
+        "pub_year": "2006",
+        "citation": "Springer, 2006"
+    },
+    {
+        "title": "Geometric deformation of three-dimensional prostate model with applications to computerized training of cryosurgery",
+        "pub_year": "2011",
+        "citation": "Summer Bioengineering Conference 54587, 751-752, 2011"
+    },
+    {
+        "title": "Geometric modeling and processing 2006",
+        "pub_year": "2007",
+        "citation": "Computer-Aided Design 39 (5), 341-341, 2007"
+    },
+    {
+        "title": "Geometric reasoning in sketch-based volumetric decomposition framework for hexahedral meshing",
+        "pub_year": "2014",
+        "citation": "Engineering with Computers 30, 237-252, 2014"
+    },
+    {
+        "title": "Geometric reasoning in sketch-based volumetric decomposition framework for hexahedral meshing",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 21st International Meshing Roundtable, 297-314, 2013"
+    },
+    {
+        "title": "Graph neural network-enabled manufacturing method classification from engineering drawings",
+        "pub_year": "2022",
+        "citation": "Computers in Industry 142, 103697, 2022"
+    },
+    {
+        "title": "Graphics processing unit-based bioheat simulation to facilitate rapid decision making associated with cryosurgery training",
+        "pub_year": "2016",
+        "citation": "Technology in cancer research & treatment 15 (2), 377-386, 2016"
+    },
+    {
+        "title": "Heterogeneous vehicles routing for water canal damage assessment",
+        "pub_year": "2018",
+        "citation": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2018"
+    },
+    {
+        "title": "Heuristic-based Incremental Probabilistic Roadmap for Efficient UAV Exploration in Dynamic Environments",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.09121, 2023"
+    },
+    {
+        "title": "Hex-Layer: Layered All-Hex Mesh Generation on Thin Section Solids via Chordal Surface Transformation.",
+        "pub_year": "2002",
+        "citation": "IMR, 169-180, 2002"
+    },
+    {
+        "title": "Hex-dominant mesh generation with directionality control via packing rectangular solid cells",
+        "pub_year": "2002",
+        "citation": "Geometric Modeling and Processing. Theory and Applications. GMP 2002 …, 2002"
+    },
+    {
+        "title": "Hexahedral Mesh Matching: Converting non‐conforming hexahedral‐to‐hexahedral interfaces into conforming interfaces",
+        "pub_year": "2010",
+        "citation": "International journal for numerical methods in engineering 82 (12), 1475-1509, 2010"
+    },
+    {
+        "title": "Hexhoop: modular templates for converting a hex-dominant mesh to an all-hex mesh",
+        "pub_year": "2002",
+        "citation": "Engineering with computers 18, 211-228, 2002"
+    },
+    {
+        "title": "High Quality Anisotropic Tetrahedral Mesh Generation Via Ellipsoidal Bubble Packing.",
+        "pub_year": "2000",
+        "citation": "IMR, 263-274, 2000"
+    },
+    {
+        "title": "High-fidelity wrist fracture phantom as a training tool to develop competency in orthopaedic surgical trainees",
+        "pub_year": "2021",
+        "citation": "JAAOS Global Research & Reviews 5 (5), e20, 2021"
+    },
+    {
+        "title": "Identifying technical and economic improvements to the MoneyMaker Hip pump through multi-objective optimization",
+        "pub_year": "2014",
+        "citation": "IEEE Global Humanitarian Technology Conference (GHTC 2014), 338-344, 2014"
+    },
+    {
+        "title": "Improved Feasible-Set Method for Removing Mesh Inversion",
+        "pub_year": "2020",
+        "citation": "Journal of Computing and Information Science in Engineering 20 (4), 041011, 2020"
+    },
+    {
+        "title": "Improvement of kinematically redundant manipulator design and placement using torque-weighted isotropy measures",
+        "pub_year": "2009",
+        "citation": "2009 International Conference on Advanced Robotics, 1-8, 2009"
+    },
+    {
+        "title": "Improvement of manufacturing workcell layout design using weighted isotropy metrics",
+        "pub_year": "2009",
+        "citation": "2009 International Conference on Mechatronics and Automation, 3408-3414, 2009"
+    },
+    {
+        "title": "Improvement of redundant manipulator task agility using multiobjective weighted isotropy-based placement optimization",
+        "pub_year": "2009",
+        "citation": "2009 IEEE International Conference on Robotics and Biomimetics (ROBIO), 645-652, 2009"
+    },
+    {
+        "title": "Improving Deep Learning-based Defect Detection on Window Frames with Image Processing Strategies",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.06731, 2023"
+    },
+    {
+        "title": "Improving Element-Boundary Alignment in All-Hex Meshes of Thin-Walled Solids by Side-Face Identification",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 21st International Meshing Roundtable, 513-529, 2013"
+    },
+    {
+        "title": "Improving Irrigation in Remote Areas: Multi-objective Optimization of a Treadle Pump",
+        "pub_year": "2018",
+        "citation": "Engineering Archive, 2018"
+    },
+    {
+        "title": "Improving irrigation in remote areas: multi-objective optimization of a treadle pump",
+        "pub_year": "2014",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2014"
+    },
+    {
+        "title": "Increasing the Number and Volume of Hexahedral and Prism Elements in a Hex-Dominant Mesh by Topological Transformations.",
+        "pub_year": "2003",
+        "citation": "IMR, 403-413, 2003"
+    },
+    {
+        "title": "Interactive prostate shape reconstruction from 3D TRUS images",
+        "pub_year": "2014",
+        "citation": "Journal of computational design and engineering 1 (4), 272-288, 2014"
+    },
+    {
+        "title": "Interference-free polyhedral configurations for stacking",
+        "pub_year": "2002",
+        "citation": "IEEE transactions on robotics and automation 18 (2), 147-165, 2002"
+    },
+    {
+        "title": "Inventory Tracking for Unstructured Environments via Probabilistic Reasoning",
+        "pub_year": "2020",
+        "citation": "Logistics 4 (3), 16, 2020"
+    },
+    {
+        "title": "Inverse Pre-Deformation of Tetrahedral Mesh for Large Deformation Finite Element Analysis",
+        "pub_year": "2005",
+        "citation": "Computer-Aided Design and Applications 2 (6), 805-814, 2005"
+    },
+    {
+        "title": "Inverse adaptation of a hex-dominant mesh for large deformation finite element analysis",
+        "pub_year": "2007",
+        "citation": "Computer-Aided Design 39 (5), 427-438, 2007"
+    },
+    {
+        "title": "Inverse adaptation of hex-dominant mesh for large deformation finite element analysis",
+        "pub_year": "2006",
+        "citation": "International Conference on Geometric Modeling and Processing, 189-206, 2006"
+    },
+    {
+        "title": "Inverse pre-deformation of finite element mesh for large deformation analysis",
+        "pub_year": "2005",
+        "citation": ""
+    },
+    {
+        "title": "Landing a mobile robot safely from tall walls using manipulator motion generated from reinforcement learning",
+        "pub_year": "2020",
+        "citation": "2020 IEEE 16th International Conference on Automation Science and …, 2020"
+    },
+    {
+        "title": "Layered Tetrahedral Meshing of Thin-Walled Solids for Plastic",
+        "pub_year": "2005",
+        "citation": "Proceedings: SPM..., 245, 2005"
+    },
+    {
+        "title": "Layered tetrahedral meshing of thin-walled solids for plastic injection molding FEM",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 2005 ACM symposium on Solid and physical modeling, 245-255, 2005"
+    },
+    {
+        "title": "Learning based robot control with sequential Gaussian process",
+        "pub_year": "2013",
+        "citation": "2013 IEEE Workshop on Robotic Intelligence in Informationally Structured …, 2013"
+    },
+    {
+        "title": "Learning-based robot control with localized sparse online Gaussian process",
+        "pub_year": "2013",
+        "citation": "2013 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2013"
+    },
+    {
+        "title": "Lessons Learned on the Testing of Additively Manufactured Inconel 625 and 316L Stainless Steel Bimetallic Components",
+        "pub_year": "2022",
+        "citation": "AIAA SCITECH 2022 Forum, 2477, 2022"
+    },
+    {
+        "title": "Local Least Squares Fitting for Surface Mesh Fairing in Automobile Panel Design",
+        "pub_year": "2002",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2002"
+    },
+    {
+        "title": "Material characterization and selection for 3D-printed spine models",
+        "pub_year": "2018",
+        "citation": "3D printing in medicine 4, 1-17, 2018"
+    },
+    {
+        "title": "Measurement and optimization of minimally invasive intervention device design fitness using a multiobjective weighted isotropy index",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "Mechanics of abdominal aortic aneurysm",
+        "pub_year": "2007",
+        "citation": "European Journal of Computational Mechanics/Revue Européenne de Mécanique …, 2007"
+    },
+    {
+        "title": "Mesh matching–creating conforming interfaces between hexahedral meshes",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 17th International Meshing Roundtable, 467-484, 2008"
+    },
+    {
+        "title": "Meshing curved wire‐frame models through energy minimization and packing of ellipses",
+        "pub_year": "1999",
+        "citation": "International journal for numerical methods in engineering 46 (8), 1221-1236, 1999"
+    },
+    {
+        "title": "Meshing method and apparatus",
+        "pub_year": "2000",
+        "citation": "US Patent 6,124,857, 2000"
+    },
+    {
+        "title": "Method and apparatus for updating node position",
+        "pub_year": "2001",
+        "citation": "US Patent 6,226,405, 2001"
+    },
+    {
+        "title": "Method, apparatus, and system for computer-aided tracking, navigation and motion teaching",
+        "pub_year": "2015",
+        "citation": "US Patent 9,082,319, 2015"
+    },
+    {
+        "title": "Metric-Field Conditioning for Mesh Adaptation Problems",
+        "citation": ""
+    },
+    {
+        "title": "Minimum height packing for layered manufacturing using an extended pattern search algorithm",
+        "pub_year": "2003",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2003"
+    },
+    {
+        "title": "Model-based coverage motion planning for industrial 3D shape inspection applications",
+        "pub_year": "2017",
+        "citation": "2017 13th IEEE Conference on Automation Science and Engineering (CASE), 1293 …, 2017"
+    },
+    {
+        "title": "Model-based view planning for building inspection and surveillance using voxel dilation, Medial Objects, and Random-Key Genetic Algorithm",
+        "pub_year": "2018",
+        "citation": "Journal of Computational Design and Engineering 5 (3), 337-347, 2018"
+    },
+    {
+        "title": "Modeling anisotropic material property of cerebral aneurysms for fluid-structure interaction computational simulation.",
+        "pub_year": "2012",
+        "citation": "CompIMAGE, 261-266, 2012"
+    },
+    {
+        "title": "Modeling flow features with user-guided streamline parameterization",
+        "pub_year": "2014",
+        "citation": "Computer-Aided Design 46, 263-268, 2014"
+    },
+    {
+        "title": "Modelling anisotropic material property of cerebral aneurysms for fluid–structure interaction simulation",
+        "pub_year": "2013",
+        "citation": "Computer Methods in Biomechanics and Biomedical Engineering: Imaging …, 2013"
+    },
+    {
+        "title": "Moldable Mask: A Reusable, Hot Water Moldable, Additively Manufactured Mask to Be Used as an N95 Alternative",
+        "pub_year": "2021",
+        "citation": "Materials 14 (22), 7082, 2021"
+    },
+    {
+        "title": "Morphological design optimization of kinematically redundant manipulators using weighted isotropy measures",
+        "pub_year": "2009",
+        "citation": "2009 IEEE International Conference on Robotics and Automation, 2931-2938, 2009"
+    },
+    {
+        "title": "Motion planning for kinematically redundant mobile manipulators with genetic algorithm, pose interpolation, and inverse kinematics",
+        "pub_year": "2021",
+        "citation": "2021 IEEE 17th International Conference on Automation Science and …, 2021"
+    },
+    {
+        "title": "MuGNet: Multi-Resolution Graph Neural Network for Segmenting Large-Scale Pointclouds.",
+        "pub_year": "2020",
+        "citation": "CoRL, 873-882, 2020"
+    },
+    {
+        "title": "Multi-objective optimization and scenario-based robustness analysis of the MoneyMaker Hip Pump",
+        "pub_year": "2018",
+        "citation": "Development Engineering 3, 23-33, 2018"
+    },
+    {
+        "title": "Multi-objective weighted isotropy measures for the morphological design optimisation of kinematically redundant manipulators",
+        "pub_year": "2011",
+        "citation": "International Journal of Mechatronics and Manufacturing Systems 4 (2), 150-170, 2011"
+    },
+    {
+        "title": "Multi-resolution graph neural network for large-scale pointcloud segmentation",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2009.08924, 2020"
+    },
+    {
+        "title": "Multi-uav coverage path planning for the inspection of large and complex structures",
+        "pub_year": "2020",
+        "citation": "2020 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2020"
+    },
+    {
+        "title": "New distraction osteogenesis device with only two patient-controlled joints by applying the axis-angle representation on three-dimensional bone deformation",
+        "pub_year": "2013",
+        "citation": "Journal of Medical Devices 7 (4), 041010, 2013"
+    },
+    {
+        "title": "New software helps make 3D product designs",
+        "pub_year": "2009",
+        "citation": "Advanced Coatings & Surface Technology 22 (3), 8-10, 2009"
+    },
+    {
+        "title": "Numerical Reduction of Position Error in a Mechanical Tracking Linkage for Arthroscopic Hip Surgery",
+        "pub_year": "2011",
+        "citation": "Summer Bioengineering Conference 54587, 383-384, 2011"
+    },
+    {
+        "title": "Object collision detection method and apparatus",
+        "pub_year": "1989",
+        "citation": "US Patent 4,888,707, 1989"
+    },
+    {
+        "title": "Objective Function Based Pattern Search: A Computationally Efficient Algorithm For 3D Component Layout",
+        "pub_year": "2004",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004"
+    },
+    {
+        "title": "Objective function effect based pattern search—an implementation for 3D component layout",
+        "pub_year": "2007",
+        "citation": ""
+    },
+    {
+        "title": "Objective function effect based pattern search—theoretical framework inspired by 3D component layout",
+        "pub_year": "2007",
+        "citation": ""
+    },
+    {
+        "title": "Occlusion-free animation of driving routes for car navigation systems",
+        "pub_year": "2006",
+        "citation": "IEEE Transactions on Visualization and Computer Graphics 12 (5), 1141-1148, 2006"
+    },
+    {
+        "title": "Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2303.00132, 2023"
+    },
+    {
+        "title": "Optimization Framework for Global Path Planning and Local Motion Planning for Robotic Welding of Multiple Large Industrial Parts",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 19th International Conference on Automation Science and …, 2023"
+    },
+    {
+        "title": "Optimizing Joint Placement and Motion Schedule for 2-DOF Computer-Assisted Distraction Osteogenesis",
+        "pub_year": "2008",
+        "citation": "Studies in health technology and informatics 132, 336, 2008"
+    },
+    {
+        "title": "Optimizing path for kinematically redundant robotic inspection system using Obstacle Based Probabilistic Roadmap and Genetic Algorithm",
+        "pub_year": "2016",
+        "citation": "2016 IEEE Region 10 Conference (TENCON), 2716-2721, 2016"
+    },
+    {
+        "title": "Organic Texture with Controlled Anisotropy and Directionality",
+        "pub_year": "2001",
+        "citation": "SIGGRAPH 2001, Technical Sketch, 240, 2001"
+    },
+    {
+        "title": "Pattern search algorithm for component layout",
+        "pub_year": "2006",
+        "citation": "US Patent App. 11/254,842, 2006"
+    },
+    {
+        "title": "Pen-based styling design of 3D geometry using concept sketches and template models",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 2006 ACM symposium on Solid and physical modeling, 149-160, 2006"
+    },
+    {
+        "title": "Pen-based user interface for geometric decomposition for hexahedral mesh generation",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 19th international meshing roundtable, 263-278, 2010"
+    },
+    {
+        "title": "Physically-based mesh generation: automated triangulation of surfaces and volumes via bubble packing",
+        "pub_year": "1993",
+        "citation": "Massachusetts Institute of Technology, 1993"
+    },
+    {
+        "title": "Polygon Crawling: Feature Edge Extraction from",
+        "citation": "of the 14th International Meshing Roundtable, 257, 0"
+    },
+    {
+        "title": "Polygon crawling: feature edge extraction from a general polygonal surface for mesh generation",
+        "pub_year": "2010",
+        "citation": "Engineering with Computers 26, 249-264, 2010"
+    },
+    {
+        "title": "Position error reduction in a mechanical tracking linkage for arthroscopic hip surgery",
+        "pub_year": "2011",
+        "citation": "International journal of computer assisted radiology and surgery 6, 693-698, 2011"
+    },
+    {
+        "title": "Predicting and evaluating the post-assembly shape of thin-walled components via 3D laser digitization and FEA simulation of the assembly process",
+        "pub_year": "2011",
+        "citation": "Computer-aided design 43 (3), 316-328, 2011"
+    },
+    {
+        "title": "Proceedings of the 4th international conference on Geometric Modeling and Processing",
+        "pub_year": "2006",
+        "citation": "Springer-Verlag, 2006"
+    },
+    {
+        "title": "Quad-layer: layered quadrilateral meshing of narrow two-dimensional domains by bubble packing and chordal axis transformation",
+        "pub_year": "2002",
+        "citation": "J. Mech. Des. 124 (3), 564-573, 2002"
+    },
+    {
+        "title": "Quadcopter Trajectory Time Minimization and Robust Collision Avoidance via Optimal Time Allocation",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.08544, 2023"
+    },
+    {
+        "title": "Quadrilateral Meshing with Directionality Control through the Packing of Square Cells.",
+        "pub_year": "1998",
+        "citation": "IMR, 61-75, 1998"
+    },
+    {
+        "title": "Quadrilateral mesh generation method and apparatus",
+        "pub_year": "2000",
+        "citation": "US Patent 6,121,973, 2000"
+    },
+    {
+        "title": "Quadrilateral meshing with anisotropy and directionality control via close packing of rectangular cells",
+        "pub_year": "2000",
+        "citation": "world wide web 10, 12, 2000"
+    },
+    {
+        "title": "Removing self intersections of a triangular mesh by edge swapping, edge hammering, and face lifting",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 18th International Meshing Roundtable, 13-29, 2009"
+    },
+    {
+        "title": "Restructuring surface tessellation with irregular boundary conditions",
+        "pub_year": "2014",
+        "citation": "Frontiers of architectural research 3 (4), 337-347, 2014"
+    },
+    {
+        "title": "Robot model learning with Gaussian process mixture model",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 14th International Conference on Automation Science and …, 2018"
+    },
+    {
+        "title": "Robotic depowdering for additive manufacturing via pose tracking",
+        "pub_year": "2022",
+        "citation": "IEEE Robotics and Automation Letters 7 (4), 10770-10777, 2022"
+    },
+    {
+        "title": "Robotic exploration of unknown 2d environment using a frontier-based automatic-differentiable information gain measure",
+        "pub_year": "2020",
+        "citation": "2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics …, 2020"
+    },
+    {
+        "title": "SAGA-Net: efficient pointcloud completion with shape-assisted graph attention neural network",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing, 569-576, 2022"
+    },
+    {
+        "title": "SAGA-net: shape-assisted graph attention neural network for real-time pointcloud completion",
+        "pub_year": "2022",
+        "citation": "ACM SIGAPP Applied Computing Review 22 (2), 21-33, 2022"
+    },
+    {
+        "title": "Sampling-based coverage motion planning for industrial inspection application with redundant robotic system",
+        "pub_year": "2017",
+        "citation": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2017"
+    },
+    {
+        "title": "Sampling-based view planning for 3d visual coverage task with unmanned aerial vehicle",
+        "pub_year": "2016",
+        "citation": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2016"
+    },
+    {
+        "title": "Segmentation of noisy laser-scanner generated meshes with piecewise polynomial approximations",
+        "pub_year": "2004",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2004"
+    },
+    {
+        "title": "Self-consuming spacecraft concept",
+        "pub_year": "2021",
+        "citation": "AIAA Scitech 2021 Forum, 0046, 2021"
+    },
+    {
+        "title": "Semi-automatic snore detection in polysomnography based on hierarchical clustering",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 14th International Conference on Automation Science and …, 2018"
+    },
+    {
+        "title": "Sensitivity based pattern search algorithm for component layout",
+        "pub_year": "2004",
+        "citation": "US Patent App. 10/672,442, 2004"
+    },
+    {
+        "title": "Simulation-based cryosurgery intelligent tutoring system prototype",
+        "pub_year": "2016",
+        "citation": "Technology in cancer research & treatment 15 (2), 396-407, 2016"
+    },
+    {
+        "title": "Simulation-based cryosurgery training: variable insertion depth planning in prostate cryosurgery",
+        "pub_year": "2016",
+        "citation": "Technology in cancer research & treatment 15 (6), 805-814, 2016"
+    },
+    {
+        "title": "Skeleton-based computational method for the generation of a 3D finite element mesh sizing function",
+        "pub_year": "2004",
+        "citation": "Engineering with Computers 20, 249-264, 2004"
+    },
+    {
+        "title": "Sketch-based 3D-shape creation for industrial styling design",
+        "pub_year": "2007",
+        "citation": "IEEE Computer Graphics and Applications 27 (1), 60-71, 2007"
+    },
+    {
+        "title": "Sketch-based computer-aided design tool for configuration design of automobile instrument panel",
+        "pub_year": "2009",
+        "citation": "Computer-Aided Design and Applications 6 (5), 585-594, 2009"
+    },
+    {
+        "title": "Sketch-based design system, apparatus, and method for the construction and modification of three-dimensional geometry",
+        "pub_year": "2012",
+        "citation": "US Patent 8,259,101, 2012"
+    },
+    {
         "title": "Smoothing of Noisy Laser Scanner Generated Meshes Using Polynomial Fitting and Neighborhood Erosion",
         "pub_year": "2004",
+        "citation": ""
+    },
+    {
+        "title": "Smoothing of noisy laser scanner generated meshes using polynomial fitting and neighborhood erosion",
+        "pub_year": "2004",
+        "citation": "J. Mech. Des. 126 (3), 495-503, 2004"
+    },
+    {
+        "title": "Social Scene Understanding from Social Cameras Hyun Soo Park",
         "citation": ""
     },
     {
@@ -1350,49 +1232,167 @@
         "citation": "International Design Engineering Technical Conferences and Computers and …, 2001"
     },
     {
-        "title": "Automatic anisotropic mesh generation",
-        "pub_year": "1996",
-        "citation": "RIKEN REVIEW, 49-50, 1996"
+        "title": "Solid model reconstruction of wireframe CAD models based on topological embeddings of planar graphs",
+        "pub_year": "2003",
+        "citation": "J. Mech. Des. 125 (3), 434-442, 2003"
     },
     {
-        "title": "Fundamentals I",
-        "pub_year": "1990",
-        "citation": "Advanced Geometric Modelling for Engineering Applications: Proceedings of …, 1990"
-    },
-    {
-        "title": "Social Scene Understanding from Social Cameras Hyun Soo Park",
+        "title": "Special Issue on Mesh-Based Geometric Data Processing",
+        "pub_year": "2005",
         "citation": ""
     },
     {
-        "title": "2DOF EXTERNAL FIXATOR AND SURGICAL SYSTEM FOR CLUBFOOT CORRECTION",
-        "citation": ""
+        "title": "Subdivision surface fitting with QEM-based mesh simplification and reconstruction of approximated B-spline surfaces",
+        "pub_year": "2000",
+        "citation": "Proceedings the Eighth Pacific Conference on Computer Graphics and …, 2000"
     },
     {
-        "title": "Polygon Crawling: Feature Edge Extraction from",
-        "citation": "of the 14th International Meshing Roundtable, 257, 0"
+        "title": "Subdivision templates for converting a non-conformal hex-dominant mesh to a conformal hex-dominant mesh without pyramid elements",
+        "pub_year": "2011",
+        "citation": "Engineering with Computers 27, 51-65, 2011"
     },
     {
-        "title": "Determining Near Optimal Interference-free Polyhedral Conﬁgurations",
-        "citation": ""
+        "title": "Support vector machines for automated snoring detection: proof-of-concept",
+        "pub_year": "2017",
+        "citation": "Sleep and Breathing 21 (1), 119-133, 2017"
     },
     {
-        "title": "Density-Controlled Sampling of Parametric Surfaces",
-        "citation": "Proc. Geometric Modeling and Processing 4077, 465-484, 0"
+        "title": "Supporting early styling design of automobiles using sketch-based 3d shape construction",
+        "pub_year": "2008",
+        "citation": "Computer-Aided Design and Applications 5 (6), 867-876, 2008"
+    },
+    {
+        "title": "Surface extraction from point-sampled data through region growing",
+        "pub_year": "2005",
+        "citation": "International Journal of CAD/CAM 5 (1), 19-27, 2005"
+    },
+    {
+        "title": "Surface mesh segmentation and smooth surface extraction through region growing",
+        "pub_year": "2005",
+        "citation": "Computer aided geometric design 22 (8), 771-792, 2005"
+    },
+    {
+        "title": "Surface topology and geometry reconstruction from wire-frame models",
+        "pub_year": "2005",
+        "citation": "US Patent 6,915,243, 2005"
+    },
+    {
+        "title": "System and method for converting a hex-dominant mesh to an all-hexahedral mesh",
+        "pub_year": "2003",
+        "citation": "US Patent 6,625,938, 2003"
+    },
+    {
+        "title": "System and method for deformation analysis using inverse pre-deformation of finite element mesh",
+        "pub_year": "2009",
+        "citation": "US Patent 7,590,512, 2009"
+    },
+    {
+        "title": "System and method for displaying shadows by dividing surfaces by occlusion into umbra penumbra, and illuminated regions from discontinuity edges and generating mesh",
+        "pub_year": "1998",
+        "citation": "US Patent 5,808,620, 1998"
+    },
+    {
+        "title": "System and method for three-dimensional shape generation from partial and incomplete views, and interactive design system using same",
+        "pub_year": "2006",
+        "citation": "US Patent App. 11/135,528, 2006"
+    },
+    {
+        "title": "Systems and methods for extracting an approximated medial surface from a thin-wall solid",
+        "pub_year": "2008",
+        "citation": "US Patent App. 11/445,915, 2008"
+    },
+    {
+        "title": "Technique for converting non-conforming hexahedral-to-hexahedral interfaces into conforming interfaces",
+        "pub_year": "2013",
+        "citation": "US Patent 8,390,620, 2013"
+    },
+    {
+        "title": "Tensor-guided hex-dominant mesh generation with targeted all-hex regions",
+        "pub_year": "2009",
+        "citation": "proceedings of the 18th International Meshing Roundtable, 377-396, 2009"
     },
     {
         "title": "Tessellating A Freeform Surface with Irregular Boundary Conditions",
         "citation": "Carnegie Mellon University, 0"
     },
     {
-        "title": "0bjective Function Effect Based Pattern Search–An Implementation for 3D",
+        "title": "The Creation and Modification of 3D Models Using Sketches and Curves",
+        "pub_year": "2011",
+        "citation": "Sketch-based Interfaces and Modeling, 341-367, 2011"
+    },
+    {
+        "title": "The travelling salesman problem with neighbourhoods: MINLP solution",
+        "pub_year": "2013",
+        "citation": "Optimization Methods and Software 28 (2), 364-378, 2013"
+    },
+    {
+        "title": "Three-dimensional bone shape reconstruction from X-ray images using hierarchical free-form deformation and nonlinear optimization",
+        "pub_year": "2004",
+        "citation": "International Congress Series 1268, 1291-1291, 2004"
+    },
+    {
+        "title": "Three-dimensional shape reconstruction of abdominal aortic aneurysm",
+        "pub_year": "2009",
+        "citation": "Computer-Aided Design 41 (8), 555-565, 2009"
+    },
+    {
+        "title": "Three-dimensional ship hull encoding and optimization via deep neural networks",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design 144 (10), 101701, 2022"
+    },
+    {
+        "title": "Towards intra‐operative computerized planning of prostate cryosurgery",
+        "pub_year": "2007",
+        "citation": "The International Journal of Medical Robotics and Computer Assisted Surgery …, 2007"
+    },
+    {
+        "title": "Tracking tagged inventory in unstructured environments through probabilistic dependency graphs",
+        "pub_year": "2019",
+        "citation": "Logistics 3 (4), 21, 2019"
+    },
+    {
+        "title": "Triangular/quadrilateral remeshing of an arbitrary polygonal surface via packing bubbles",
+        "pub_year": "2004",
+        "citation": "Geometric Modeling and Processing, 2004. Proceedings, 153-162, 2004"
+    },
+    {
+        "title": "Two-phase computerized planning of cryosurgery using bubble-packing and force-field analogy",
+        "pub_year": "2006",
         "citation": ""
     },
     {
-        "title": "Metric-Field Conditioning for Mesh Adaptation Problems",
-        "citation": ""
+        "title": "Unconstrained plastering—Hexahedral mesh generation via advancing‐front geometry decomposition",
+        "pub_year": "2010",
+        "citation": "International journal for numerical methods in engineering 81 (2), 135-171, 2010"
     },
     {
-        "title": "0bjective Function Effect Based",
-        "citation": ""
+        "title": "Using parameterization and springs to determine aneurysm wall thickness",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 18th international meshing roundtable, 397-414, 2009"
+    },
+    {
+        "title": "Verifying the effectiveness of a computer-aided navigation system for arthroscopic hip surgery",
+        "pub_year": "2008",
+        "citation": "Studies in health technology and informatics 132, 302, 2008"
+    },
+    {
+        "title": "View planning for 3d shape reconstruction of buildings with unmanned aerial vehicles",
+        "pub_year": "2016",
+        "citation": "2016 14th International Conference on Control, Automation, Robotics and …, 2016"
+    },
+    {
+        "title": "Vision-aided uav navigation and dynamic obstacle avoidance using gradient-based b-spline trajectory optimization",
+        "pub_year": "2023",
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 1214-1220, 2023"
+    },
+    {
+        "title": "Volumetric decomposition via medial object and pen-based user interface for hexahedral mesh generation",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 20th international meshing roundtable, 179-196, 2012"
+    },
+    {
+        "title": "the 8th international meshing roundtable special issue: advances in mesh generation",
+        "pub_year": "2001",
+        "citation": "Computer-Aided Design 33 (3), 197-197, 2001"
     }
 ]

@@ -1,78 +1,23 @@
 [
     {
-        "title": "Mixed convective cooling of a rectangular cavity with inlet and exit openings on differentially heated side walls",
-        "pub_year": "2003",
-        "citation": "Numerical Heat Transfer: Part A: Applications 44 (3), 233-253, 2003"
-    },
-    {
-        "title": "Comparison of the characteristic time (CTC), representative interactive flamelet (RIF), and direct integration with detailed chemistry combustion models against optical …",
-        "pub_year": "2006",
-        "citation": "SAE transactions, 61-82, 2006"
-    },
-    {
-        "title": "Strategies for Reduced NOx Emissions in Pilot-Ignited Natural Gas Engines",
-        "pub_year": "2004",
-        "citation": "J. Eng. Gas Turbines Power 126 (3), 665-671, 2004"
-    },
-    {
-        "title": "Gradient effects on two-color soot optical pyrometry in a heavy-duty DI diesel engine",
-        "pub_year": "2008",
-        "citation": "Combustion and flame 153 (1-2), 216-227, 2008"
-    },
-    {
-        "title": "Mixing and flame structures inferred from OH-PLIF for conventional and low-temperature diesel engine combustion",
-        "pub_year": "2009",
-        "citation": "Combustion and Flame 156 (10), 1898-1908, 2009"
-    },
-    {
-        "title": "The advanced injection low pilot ignited natural gas engine: A combustion analysis",
-        "pub_year": "2006",
-        "citation": "Journal of engineering for gas turbines and power 128 (1), 213-218, 2006"
-    },
-    {
-        "title": "Validation of engine combustion models against detailed in-cylinder optical diagnostics data for a heavy-duty compression-ignition engine",
-        "pub_year": "2007",
-        "citation": "International Journal of Engine Research 8 (1), 97-126, 2007"
-    },
-    {
-        "title": "Effect of pilot injection timing, pilot quantity and intake charge conditions on performance and emissions for an advanced low-pilot-ignited natural gas engine",
-        "pub_year": "2004",
-        "citation": "International journal of Engine research 5 (4), 329-348, 2004"
-    },
-    {
-        "title": "Modeling and experiments of dual-fuel engine combustion and emissions",
-        "pub_year": "2004",
-        "citation": "SAE transactions, 124-133, 2004"
-    },
-    {
         "title": "2-color thermometry experiments and high-speed imaging of multi-mode diesel engine combustion",
         "pub_year": "2005",
         "citation": "SAE transactions, 1605-1621, 2005"
     },
     {
-        "title": "Development of a flame propagation model for dual-fuel partially premixed compression ignition engines",
-        "pub_year": "2006",
-        "citation": "International journal of Engine research 7 (1), 65-75, 2006"
+        "title": "2005-01-3842 2-Color Thermometry Experiments and High-Speed Imaging of Multi-Mode Diesel Engine Combustion",
+        "pub_year": "2005",
+        "citation": "SAE TRANSACTIONS 114 (4), 1605, 2005"
     },
     {
-        "title": "Simulations of aerosol filtration by vegetation: Validation of existing models with available lab data and application to near-roadway scenario",
-        "pub_year": "2016",
-        "citation": "Aerosol Science and Technology 50 (9), 937-946, 2016"
-    },
-    {
-        "title": "Simultaneous optical diagnostic imaging of low-temperature, double-injection combustion in a heavy-duty DI diesel engine",
+        "title": "2007-01-0171 Development of a Hybrid, Auto-Ignition/Flame-Propagation Model and Validation Against Engine Experiments and Flame Liftoff",
         "pub_year": "2007",
-        "citation": "Combustion Science and Technology 179 (11), 2381-2414, 2007"
+        "citation": "SAE SP 2125, 253, 2007"
     },
     {
-        "title": "NOx and soot reduction in diesel engine premixed charge compression ignition combustion: a computational investigation",
-        "pub_year": "2008",
-        "citation": "International Journal of Engine Research 9 (3), 195-214, 2008"
-    },
-    {
-        "title": "Combustion modeling of diesel combustion with partially premixed conditions",
-        "pub_year": "2007",
-        "citation": "SAE Technical Paper, 2007"
+        "title": "A dynamic global-coefficient mixed subgrid-scale model for large eddy simulation of turbulent flows",
+        "pub_year": "2011",
+        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 64, H11. 001, 2011"
     },
     {
         "title": "A dynamic global-coefficient mixed subgrid-scale model for large-eddy simulation of turbulent flows",
@@ -80,29 +25,44 @@
         "citation": "International Journal of Heat and Fluid Flow 42, 94-104, 2013"
     },
     {
-        "title": "Development of a Hybrid, Auto-lgnition/Flame-Propagation Model and Validation Against Engine Experiments and Flame Liftoff",
+        "title": "A multi-block ADI finite-volume method for incompressible Navier–Stokes equations in complex geometries",
+        "pub_year": "2011",
+        "citation": "Journal of Computational Physics 230 (19), 7400-7417, 2011"
+    },
+    {
+        "title": "ACCURACY OF SUBFILTER-SCALE MODELS FOR EXPLICIT FILTER LARGE-EDDY SIMULATION IN TURBULENT CHANNEL FLOW",
+        "pub_year": "2011",
+        "citation": "Seventh International Symposium on Turbulence and Shear Flow Phenomena, 2011"
+    },
+    {
+        "title": "Assessment of Large-Eddy Simulation (LES) Models for Engine Type Flows: Effect of Model Type and Grid Size",
+        "pub_year": "2013",
+        "citation": "Internal Combustion Engine Division Fall Technical Conference 56109, V002T06A001, 2013"
+    },
+    {
+        "title": "Bowl piston geometry as an alternative to enlarged crevice pistons for rapid compression machines",
+        "pub_year": "2021",
+        "citation": "Proceedings of the Combustion Institute 38 (4), 5723-5731, 2021"
+    },
+    {
+        "title": "Combustion modeling of diesel combustion with partially premixed conditions",
         "pub_year": "2007",
-        "citation": "SAE transactions, 176-194, 2007"
+        "citation": "SAE Technical Paper, 2007"
     },
     {
-        "title": "Importance of spray-bowl interaction in a DI diesel engine operating under PCCI combustion mode",
-        "pub_year": "2009",
-        "citation": "SAE Technical Paper, 2009"
-    },
-    {
-        "title": "Experimental investigation of multi-mode diesel engine combustion and validation of advanced combustion models",
+        "title": "Comparison of the characteristic time (CTC), representative interactive flamelet (RIF), and direct integration with detailed chemistry combustion models against optical …",
         "pub_year": "2006",
-        "citation": "The University of Wisconsin-Madison, 2006"
+        "citation": "SAE transactions, 61-82, 2006"
     },
     {
-        "title": "Numerical modeling and analysis of entrainment in turbulent jets after the end of injection",
-        "pub_year": "2010",
-        "citation": "Journal of fluids engineering 132 (8), 2010"
+        "title": "Computational Analysis of Particle Nucleation in Dilution Tunnels: Effects of Flow Configuration and Tunnel Geometry",
+        "pub_year": "2014",
+        "citation": "Aerosol Science and Technology 48 (6), 638-648, 2014"
     },
     {
-        "title": "Large-eddy simulation of turbulent channel flow using explicit filtering and dynamic mixed models",
-        "pub_year": "2012",
-        "citation": "Physics of Fluids 24 (8), 085105, 2012"
+        "title": "Computational Study of Injection Rate-Shaping for Emissions Control in Diesel Engines",
+        "pub_year": "2011",
+        "citation": ""
     },
     {
         "title": "Computational analysis of combustion of high and low cetane fuels in a compression ignition engine",
@@ -110,24 +70,104 @@
         "citation": "Journal of Engineering for Gas Turbines and Power 136 (12), 2014"
     },
     {
+        "title": "Development of a Hybrid, Auto-lgnition/Flame-Propagation Model and Validation Against Engine Experiments and Flame Liftoff",
+        "pub_year": "2007",
+        "citation": "SAE transactions, 176-194, 2007"
+    },
+    {
+        "title": "Development of a flame propagation model for dual-fuel partially premixed compression ignition engines",
+        "pub_year": "2006",
+        "citation": "International journal of Engine research 7 (1), 65-75, 2006"
+    },
+    {
+        "title": "Effect of pilot injection timing, pilot quantity and intake charge conditions on performance and emissions for an advanced low-pilot-ignited natural gas engine",
+        "pub_year": "2004",
+        "citation": "International journal of Engine research 5 (4), 329-348, 2004"
+    },
+    {
+        "title": "Experimental investigation of multi-mode diesel engine combustion and validation of advanced combustion models",
+        "pub_year": "2006",
+        "citation": "The University of Wisconsin-Madison, 2006"
+    },
+    {
+        "title": "Exploring the Benefits of Oxidative Coupling of Methane on Natural Gas Engine Efficiency Through One-Dimensional Simulation",
+        "pub_year": "2022",
+        "citation": "Internal Combustion Engine Division Fall Technical Conference 86540, V001T02A012, 2022"
+    },
+    {
+        "title": "Gradient effects on two-color soot optical pyrometry in a heavy-duty DI diesel engine",
+        "pub_year": "2008",
+        "citation": "Combustion and flame 153 (1-2), 216-227, 2008"
+    },
+    {
+        "title": "Grid-independent large-eddy simulation (LES) of turbulent flow around a circular cylinder using explicit filtering",
+        "pub_year": "2013",
+        "citation": "Bulletin of the American Physical Society 58, 2013"
+    },
+    {
+        "title": "Grid-independent large-eddy simulation of turbulent wake flow using explicit differential filters",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Science and Technology 33, 1641-1649, 2019"
+    },
+    {
+        "title": "Importance of spray-bowl interaction in a DI diesel engine operating under PCCI combustion mode",
+        "pub_year": "2009",
+        "citation": "SAE Technical Paper, 2009"
+    },
+    {
+        "title": "Influence of Discretization Schemes and LES Subgrid Models on Flow Field Predictions for a Motored Optical Engine",
+        "pub_year": "2018",
+        "citation": "SAE International Journal of Engines 11 (2018-01-0185), 1505-1529, 2018"
+    },
+    {
+        "title": "Investigation of particulate emissions for cluster-nozzle concepts in DI diesel engines",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 11th International Conference on Liquid atomization and …, 2009"
+    },
+    {
+        "title": "Large-eddy simulation of turbulent channel flow using explicit filtering and dynamic mixed models",
+        "pub_year": "2012",
+        "citation": "Physics of Fluids 24 (8), 085105, 2012"
+    },
+    {
+        "title": "Mixed convective cooling of a rectangular cavity with inlet and exit openings on differentially heated side walls",
+        "pub_year": "2003",
+        "citation": "Numerical Heat Transfer: Part A: Applications 44 (3), 233-253, 2003"
+    },
+    {
+        "title": "Mixing and flame structures inferred from OH-PLIF for conventional and low-temperature diesel engine combustion",
+        "pub_year": "2009",
+        "citation": "Combustion and Flame 156 (10), 1898-1908, 2009"
+    },
+    {
+        "title": "Modeling and experiments of dual-fuel engine combustion and emissions",
+        "pub_year": "2004",
+        "citation": "SAE transactions, 124-133, 2004"
+    },
+    {
+        "title": "NOx and soot reduction in diesel engine premixed charge compression ignition combustion: a computational investigation",
+        "pub_year": "2008",
+        "citation": "International Journal of Engine Research 9 (3), 195-214, 2008"
+    },
+    {
+        "title": "Numerical Investigation of NO2- Formation Mechanism in H2-Diesel Dual-Fuel Engine",
+        "pub_year": "2012",
+        "citation": "SAE World Congress, 2012"
+    },
+    {
+        "title": "Numerical modeling and analysis of entrainment in turbulent jets after the end of injection",
+        "pub_year": "2010",
+        "citation": "Journal of fluids engineering 132 (8), 2010"
+    },
+    {
         "title": "Numerical study of combustion characteristics and emissions of a diesel–methane dual-fuel engine for a wide range of injection timings",
         "pub_year": "2020",
         "citation": "International journal of engine research 21 (5), 781-793, 2020"
     },
     {
-        "title": "The Advanced Low Pilot Ignited Natural Gas Engine: A Low NOx Alternative to the Diesel Engine",
-        "pub_year": "2003",
-        "citation": "International Joint Power Generation Conference 36924, 905-912, 2003"
-    },
-    {
-        "title": "A multi-block ADI finite-volume method for incompressible Navier–Stokes equations in complex geometries",
-        "pub_year": "2011",
-        "citation": "Journal of Computational Physics 230 (19), 7400-7417, 2011"
-    },
-    {
-        "title": "Computational Study of Injection Rate-Shaping for Emissions Control in Diesel Engines",
-        "pub_year": "2011",
-        "citation": ""
+        "title": "OPTICAL DIAGNOSTICS OF A LATE INJECTION LOW-TEMPERATURE COMBUSTION IN A HEAVY DUTY DIESEL ENGINE.",
+        "pub_year": "2007",
+        "citation": "Sandia National Lab.(SNL-CA), Livermore, CA (United States), 2007"
     },
     {
         "title": "Predictions of flow separation at the valve seat for steady-state port-flow simulation",
@@ -140,59 +180,9 @@
         "citation": "Energy Conversion and Management 268, 116030, 2022"
     },
     {
-        "title": "Numerical Investigation of NO2- Formation Mechanism in H2-Diesel Dual-Fuel Engine",
-        "pub_year": "2012",
-        "citation": "SAE World Congress, 2012"
-    },
-    {
-        "title": "Investigation of particulate emissions for cluster-nozzle concepts in DI diesel engines",
-        "pub_year": "2009",
-        "citation": "Proceedings of the 11th International Conference on Liquid atomization and …, 2009"
-    },
-    {
-        "title": "Computational Analysis of Particle Nucleation in Dilution Tunnels: Effects of Flow Configuration and Tunnel Geometry",
-        "pub_year": "2014",
-        "citation": "Aerosol Science and Technology 48 (6), 638-648, 2014"
-    },
-    {
-        "title": "Bowl piston geometry as an alternative to enlarged crevice pistons for rapid compression machines",
-        "pub_year": "2021",
-        "citation": "Proceedings of the Combustion Institute 38 (4), 5723-5731, 2021"
-    },
-    {
-        "title": "Simulations of vehicle-induced mixing and near-road aerosol microphysics using computational fluid dynamics",
-        "pub_year": "2018",
-        "citation": "AIMS Environmental Science 5 (5), 315-339, 2018"
-    },
-    {
-        "title": "2005-01-3842 2-Color Thermometry Experiments and High-Speed Imaging of Multi-Mode Diesel Engine Combustion",
-        "pub_year": "2005",
-        "citation": "SAE TRANSACTIONS 114 (4), 1605, 2005"
-    },
-    {
-        "title": "OPTICAL DIAGNOSTICS OF A LATE INJECTION LOW-TEMPERATURE COMBUSTION IN A HEAVY DUTY DIESEL ENGINE.",
-        "pub_year": "2007",
-        "citation": "Sandia National Lab.(SNL-CA), Livermore, CA (United States), 2007"
-    },
-    {
-        "title": "Exploring the Benefits of Oxidative Coupling of Methane on Natural Gas Engine Efficiency Through One-Dimensional Simulation",
-        "pub_year": "2022",
-        "citation": "Internal Combustion Engine Division Fall Technical Conference 86540, V001T02A012, 2022"
-    },
-    {
-        "title": "Influence of Discretization Schemes and LES Subgrid Models on Flow Field Predictions for a Motored Optical Engine",
-        "pub_year": "2018",
-        "citation": "SAE International Journal of Engines 11 (2018-01-0185), 1505-1529, 2018"
-    },
-    {
-        "title": "Assessment of Large-Eddy Simulation (LES) Models for Engine Type Flows: Effect of Model Type and Grid Size",
-        "pub_year": "2013",
-        "citation": "Internal Combustion Engine Division Fall Technical Conference 56109, V002T06A001, 2013"
-    },
-    {
-        "title": "A dynamic global-coefficient mixed subgrid-scale model for large eddy simulation of turbulent flows",
-        "pub_year": "2011",
-        "citation": "APS Division of Fluid Dynamics Meeting Abstracts 64, H11. 001, 2011"
+        "title": "Simulations of aerosol filtration by vegetation: Validation of existing models with available lab data and application to near-roadway scenario",
+        "pub_year": "2016",
+        "citation": "Aerosol Science and Technology 50 (9), 937-946, 2016"
     },
     {
         "title": "Simulations of near-source wind development and pollution dispersion over complex terrain under different thermal conditions",
@@ -200,23 +190,33 @@
         "citation": "arXiv preprint arXiv:2211.07050, 2022"
     },
     {
-        "title": "Grid-independent large-eddy simulation of turbulent wake flow using explicit differential filters",
-        "pub_year": "2019",
-        "citation": "Journal of Mechanical Science and Technology 33, 1641-1649, 2019"
+        "title": "Simulations of vehicle-induced mixing and near-road aerosol microphysics using computational fluid dynamics",
+        "pub_year": "2018",
+        "citation": "AIMS Environmental Science 5 (5), 315-339, 2018"
     },
     {
-        "title": "Grid-independent large-eddy simulation (LES) of turbulent flow around a circular cylinder using explicit filtering",
-        "pub_year": "2013",
-        "citation": "Bulletin of the American Physical Society 58, 2013"
-    },
-    {
-        "title": "ACCURACY OF SUBFILTER-SCALE MODELS FOR EXPLICIT FILTER LARGE-EDDY SIMULATION IN TURBULENT CHANNEL FLOW",
-        "pub_year": "2011",
-        "citation": "Seventh International Symposium on Turbulence and Shear Flow Phenomena, 2011"
-    },
-    {
-        "title": "2007-01-0171 Development of a Hybrid, Auto-Ignition/Flame-Propagation Model and Validation Against Engine Experiments and Flame Liftoff",
+        "title": "Simultaneous optical diagnostic imaging of low-temperature, double-injection combustion in a heavy-duty DI diesel engine",
         "pub_year": "2007",
-        "citation": "SAE SP 2125, 253, 2007"
+        "citation": "Combustion Science and Technology 179 (11), 2381-2414, 2007"
+    },
+    {
+        "title": "Strategies for Reduced NOx Emissions in Pilot-Ignited Natural Gas Engines",
+        "pub_year": "2004",
+        "citation": "J. Eng. Gas Turbines Power 126 (3), 665-671, 2004"
+    },
+    {
+        "title": "The Advanced Low Pilot Ignited Natural Gas Engine: A Low NOx Alternative to the Diesel Engine",
+        "pub_year": "2003",
+        "citation": "International Joint Power Generation Conference 36924, 905-912, 2003"
+    },
+    {
+        "title": "The advanced injection low pilot ignited natural gas engine: A combustion analysis",
+        "pub_year": "2006",
+        "citation": "Journal of engineering for gas turbines and power 128 (1), 213-218, 2006"
+    },
+    {
+        "title": "Validation of engine combustion models against detailed in-cylinder optical diagnostics data for a heavy-duty compression-ignition engine",
+        "pub_year": "2007",
+        "citation": "International Journal of Engine Research 8 (1), 97-126, 2007"
     }
 ]
