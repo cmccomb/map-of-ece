@@ -1,0 +1,932 @@
+[
+    {
+        "title": "Lifting the Veil: Drawing Insights about Design Teams from a Cognitively-inspired Computational Model",
+        "pub_year": "2015",
+        "citation": "Design Studies 40, 119-142, 2015"
+    },
+    {
+        "title": "Rolling with the Punches: An Examination of Team Performance in a Design Task Subject to Drastic Changes",
+        "pub_year": "2015",
+        "citation": "Design Studies 36, 99-121, 2015"
+    },
+    {
+        "title": "Learning To Design From Humans: Imitating Human Designers Through Deep Learning",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design, 2019"
+    },
+    {
+        "title": "Optimizing Design Teams Based on Problem Properties: Computational Team Simulations and an Applied Empirical Test",
+        "pub_year": "2017",
+        "citation": "Journal of Mechanical Design, 2017"
+    },
+    {
+        "title": "Design Repository Effectiveness for 3D Convolutional Neural Networks: Application to Additive Manufacturing",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design, 2019"
+    },
+    {
+        "title": "A cautionary tale about the impact of AI on human design teams",
+        "pub_year": "2021",
+        "citation": "Design Studies 72, 100990, 2021"
+    },
+    {
+        "title": "Mining Process Heuristics from Designer Action  Data via Hidden Markov Models",
+        "pub_year": "2017",
+        "citation": "Journal of Mechanical Design, 2017"
+    },
+    {
+        "title": "Capturing Human Sequence-Learning Abilities in Configuration Design Tasks through Markov Chains",
+        "pub_year": "2017",
+        "citation": "Journal of Mechanical Design 139 (9), 2017"
+    },
+    {
+        "title": "KABOOM: An Agent-Based Model for Simulating Cognitive Style in Team Problem Solving",
+        "pub_year": "2019",
+        "citation": "Design Science, 2019"
+    },
+    {
+        "title": "Toward Hybrid Teams: A Platform To Understand Human-Computer Collaboration During the Design of Complex Engineered Systems",
+        "pub_year": "2020",
+        "citation": "International Design Conference - DESIGN 2020, 2020"
+    },
+    {
+        "title": "Utilizing Markov Chains to Understand Operation Sequencing in Design Tasks",
+        "pub_year": "2016",
+        "citation": "Eight International Conference on Design Computing and Cognition, 2016"
+    },
+    {
+        "title": "Are you feeling me? An exploration of empathy development in engineering design education",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Design, 2021"
+    },
+    {
+        "title": "Transferring Design Strategies from Human to Computer and Across Design Problems",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design, 2019"
+    },
+    {
+        "title": "Using Autoencoded Voxel Patterns To Predict Part Mass, Required Support Material, and Build Time",
+        "pub_year": "2018",
+        "citation": "29th Annual International Solid Freeform Fabrication Symposium, 2018"
+    },
+    {
+        "title": "Using Hidden Markov Models to Uncover Underlying States in Neuroimaging Data for a Design Ideation Task",
+        "pub_year": "2019",
+        "citation": "International Conference on Engineering Design, 2019"
+    },
+    {
+        "title": "Towards the Rapid Design of Engineered Systems Through Deep Neural Networks",
+        "pub_year": "2018",
+        "citation": "Eight International Conference on Design Computing and Cognition, 2018"
+    },
+    {
+        "title": "Drawing Inspiration From Human Design Teams For Better Search And Optimization: The Heterogeneous Simulated Annealing Teams Algorithm",
+        "pub_year": "2016",
+        "citation": "Journal of Mechanical Design, 2016"
+    },
+    {
+        "title": "Mining Design Heuristics for Additive Manufacturing Via Eye-Tracking Methods and Hidden Markov Modeling",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design 142 (12), 2020"
+    },
+    {
+        "title": "A Conceptual Framework for Multidisciplinary Design Research with Example Application to Agent-Based Modeling",
+        "pub_year": "2022",
+        "citation": "Design Studies, 2022"
+    },
+    {
+        "title": "Human versus Artificial Intelligence: A Data-Driven Approach to Real-Time Process Management During Complex Engineering Design",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design, 2022"
+    },
+    {
+        "title": "Can Design Teams Be Empathically Creative? A Simulation-Based Investigation on the Role of Team Empathy on Concept Generation and Selection",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Using Workplace Thriving Theory to Investigate First-Year Engineering Students’ Abilities to Thrive during the Transition to Online Learning due to COVID-19",
+        "pub_year": "2022",
+        "citation": "Journal of Engineering Education, 2022"
+    },
+    {
+        "title": "Expanding the Solution Space in Engineering Design Education: A Simulation-Based Investigation of Product Dissection",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design 141 (3), 032001, 2019"
+    },
+    {
+        "title": "Design Strategy Transfer in Cognitively-Inspired Agents",
+        "pub_year": "2018",
+        "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018"
+    },
+    {
+        "title": "Pulling at the Digital Thread: Exploring the Tolerance Stack Up Between Automatic Procedures and Expert Strategies in Scan To Print Processes",
+        "pub_year": "2018",
+        "citation": "Journal of Mechanical Design, 2018"
+    },
+    {
+        "title": "Impossible by design? Fairness, strategy, and Arrow’s impossibility theorem",
+        "pub_year": "2017",
+        "citation": "Design Science, 2017"
+    },
+    {
+        "title": "Using Physics-Informed Generative Adversarial Networks to Perform Super-Resolution for Multiphase Fluid Simulations",
+        "pub_year": "2022",
+        "citation": "Journal of Computing and Information Science in Engineering, 2022"
+    },
+    {
+        "title": "\"Thus, I had to go with what I had\": A Multiple Methods Exploration of Novice Designers Articulation of Prototyping Decisions",
+        "pub_year": "2018",
+        "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018"
+    },
+    {
+        "title": "Goal-Directed Design Agents: Integrating Visual Imitation with One-Step Lookahead Optimization for Generative Design",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Design, 2021"
+    },
+    {
+        "title": "An Analysis of Design Process and Performance in Distributed Data Science Teams",
+        "pub_year": "2019",
+        "citation": "Team Performance Management, 2019"
+    },
+    {
+        "title": "Design strategy network: a deep hierarchical framework to represent generative design strategies in complex action spaces",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design 144 (2), 021404, 2022"
+    },
+    {
+        "title": "Decoding the Agility of Artificial Intelligence-Assisted Human Design Teams",
+        "pub_year": "2022",
+        "citation": "Design Studies, 2022"
+    },
+    {
+        "title": "The Cognitive Experience of Engineering Design: An Examination of First-Year Student Stress Across Principal Activities of the Engineering Design Process",
+        "pub_year": "2021",
+        "citation": "Design Science, 2021"
+    },
+    {
+        "title": "Does Empathy Beget Creativity? Investigating the Role of Trait Empathy in Idea Generation and Selection",
+        "pub_year": "2020",
+        "citation": "Design Computing and Cognition’20, 437, 2020"
+    },
+    {
+        "title": "Collaborating with Style: Using an Agent-Based Model to Simulate Cognitive Style Diversity in Problem Solving Teams",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Data on the Design of Truss Structures by Teams of Engineering Students",
+        "pub_year": "2018",
+        "citation": "Data in Brief, 2018"
+    },
+    {
+        "title": "A Strategic Decision-making Architecture Toward Hybrid Teams for Dynamic Competitive Problems",
+        "pub_year": "2021",
+        "citation": "Decision Support Systems, 2021"
+    },
+    {
+        "title": "Detection Of System Compromise In Additive Manufacturing Using Video Motion Magnification",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design, 2020"
+    },
+    {
+        "title": "Enhancement of Shear Transfer in Composite Deck with Mechanical Fasteners",
+        "pub_year": "2015",
+        "citation": "Engineering Structures 88, 251-261, 2015"
+    },
+    {
+        "title": "Combining Multi-body Dynamics and Potential Flow Simulation Methods to Model a Wave Energy Converter",
+        "pub_year": "2013",
+        "citation": "First Marine Energy Technology Symposium, 2013"
+    },
+    {
+        "title": "Predicting Elastic Strain Fields in Defective Microstructures using Image Colorization Algorithms",
+        "pub_year": "2020",
+        "citation": "Computational Material Science, 2020"
+    },
+    {
+        "title": "Natural Language Processing for Theoretical Framework Selection in Engineering Education Research",
+        "pub_year": "2020",
+        "citation": "IEEE Frontiers in Education Conference, 2020"
+    },
+    {
+        "title": "Modeling a Strategic Human Engineering Design Process: Human-Inspired Heuristic Guidance Through Learned Visual Design Agents",
+        "pub_year": "2020",
+        "citation": "International Design Conference - DESIGN 2020, 2020"
+    },
+    {
+        "title": "Quantitative Comparison of High- and Low-Performing Teams in a Design Task Subject to Drastic Changes",
+        "pub_year": "2014",
+        "citation": "ASME 2014 International Design Engineering Technical Conferences and …, 2014"
+    },
+    {
+        "title": "Artificial intelligence and engineering design",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design 144 (2), 020301, 2022"
+    },
+    {
+        "title": "The story novice designers tell: How rhetorical structures and prototyping shape communication with external audiences",
+        "pub_year": "2022",
+        "citation": "Design Studies 82, 2022"
+    },
+    {
+        "title": "Data on the Design and Operation of Drones by Both Individuals and Teams",
+        "pub_year": "2021",
+        "citation": "Data in Brief, 2021"
+    },
+    {
+        "title": "Analyzing the Characteristics of Cognitive-Assistant-Facilitated Ideation Groups",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Towards an Ontology of Cognitive Assistants",
+        "pub_year": "2019",
+        "citation": "International Conference on Engineering Design, 2019"
+    },
+    {
+        "title": "A Comparative Study Of Virtual Reality And Computer-Aided Design To Evaluate Parts For Additive Manufacturing",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Opportunities for Natural Language Processing in Qualitative Engineering Education Research: Two Examples",
+        "pub_year": "2018",
+        "citation": "IEEE Frontiers in Education Conference, 2018"
+    },
+    {
+        "title": "Data on the Configuration Design of Internet-Connected Home Cooling Systems by Engineering Students",
+        "pub_year": "2017",
+        "citation": "Data in Brief, 2017"
+    },
+    {
+        "title": "When faced with increasing complexity: The effectiveness of AI assistance for drone design",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design, 2022"
+    },
+    {
+        "title": "A Multi-Agent Reinforcement Learning Framework for Intelligent Manufacturing with Autonomous Mobile Robots",
+        "pub_year": "2021",
+        "citation": "International Conference on Engineering Design, 2021"
+    },
+    {
+        "title": "Analysing the Effect of Self-Efficacy and Influencers on Design Team Performance",
+        "pub_year": "2020",
+        "citation": "Proceedings of the Design Society: DESIGN Conference 1, 2571-2580, 2020"
+    },
+    {
+        "title": "Data-Driven Heuristic Induction from Human Design Behavior",
+        "pub_year": "2020",
+        "citation": "Journal of Computing and Information Science in Engineering, 2020"
+    },
+    {
+        "title": "Towards Enhanced Creativity in Interface Design through Automated Usability Evaluation",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 11th International Conference on Computational Creativity, 2020"
+    },
+    {
+        "title": "A Review of Part Filtering Methods for Additive Manufacturing",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Multi-objective optimization and scenario-based robustness analysis of the MoneyMaker Hip Pump",
+        "pub_year": "2018",
+        "citation": "Development Engineering 3, 23-33, 2018"
+    },
+    {
+        "title": "Linking Properties of Design Problem to Optimal Team Characteristics",
+        "pub_year": "2016",
+        "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2016"
+    },
+    {
+        "title": "Fairness and Manipulation: An Empirical Study of Arrow’s Impossibility Theorem",
+        "pub_year": "2015",
+        "citation": "International Conference on Engineering Design, 2015"
+    },
+    {
+        "title": "Lost in Translation: Examining the Complex Relationship between Prototyping and Communication",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Design, 2021"
+    },
+    {
+        "title": "Assessing Engineering Design: A Comparison of the Effect of Exams and Design Practica on First-Year Students Design Self-Efficacy",
+        "pub_year": "2020",
+        "citation": "Journal of Mechanical Design, 2020"
+    },
+    {
+        "title": "Stochastic Stackelberg Games for Agent-Driven Robust Design",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Heuristic-Guided Solution Search through a Two-Tiered Design Grammar",
+        "pub_year": "2019",
+        "citation": "Journal of Computing and Information Science in Engineering, 2019"
+    },
+    {
+        "title": "Designing Improved Teams for Crowdsourced Competitions",
+        "pub_year": "2018",
+        "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018"
+    },
+    {
+        "title": "Communication in AI-assisted Teams During an Interdisciplinary Drone Design Problem",
+        "pub_year": "2021",
+        "citation": "International Conference on Engineering Design, 2021"
+    },
+    {
+        "title": "A Query Conundrum: The Mental Challenges of Using a Cognitive Assistant",
+        "pub_year": "2021",
+        "citation": "SN Computer Science, 2021"
+    },
+    {
+        "title": "The Prototyping Behaviors of Startups: Exploring the Relationship Between Prototyping Behaviors and Startup Strategies",
+        "pub_year": "2019",
+        "citation": "Journal of Mechanical Design, 2019"
+    },
+    {
+        "title": "Validating a Tool for Predicting Problem-Specific Optimized Team Characteristics",
+        "pub_year": "2017",
+        "citation": "ASME 2017 International Design Engineering Technical Conferences and …, 2017"
+    },
+    {
+        "title": "Understanding Effects of Permafrost Degradation and Coastal Erosion on Civil Infrastructure in Arctic Coastal Villages: A Community Survey and Knowledge Co-Production",
+        "pub_year": "2022",
+        "citation": "Journal of Marine Science and Engineering, 2022"
+    },
+    {
+        "title": "Comparing design outcomes achieved by teams of expert and novice designers through agent-based simulation",
+        "pub_year": "2021",
+        "citation": "International Conference on Engineering Design, 2021"
+    },
+    {
+        "title": "Identifying Stress Signatures Across the Engineering Design Process: Perceived Stress During Concept Generation, Concept Selection, and Prototyping",
+        "pub_year": "2020",
+        "citation": "International Design Conference - DESIGN 2020, 2020"
+    },
+    {
+        "title": "The Prototyping Behaviors Of Startups: Exploring The Relationship Between Prototyping Behavior And The Financial Success Of Startups",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "A Two-Tiered Grammatical Approach For Agent-Based Computational Design",
+        "pub_year": "2018",
+        "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018"
+    },
+    {
+        "title": "Studying Human Design Teams via Computational Teams of Simulated Annealing Agents",
+        "pub_year": "2015",
+        "citation": "ASME 2015 International Design Engineering Technical Conferences and …, 2015"
+    },
+    {
+        "title": "Improving Irrigation in Remote Areas: Multi-objective Optimization of a Treadle Pump",
+        "pub_year": "2014",
+        "citation": "ASME 2014 International Design Engineering Technical Conferences and …, 2014"
+    },
+    {
+        "title": "Empathic creativity: can trait empathy predict creative concept generation and selection?",
+        "pub_year": "2021",
+        "citation": "AI EDAM 35 (4), 369-383, 2021"
+    },
+    {
+        "title": "Stochastically-Trained Physics-Informed Neural Networks: Application to Thermal Analysis in Metal Laser Powder Bed Fusion",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021"
+    },
+    {
+        "title": "Topic Modeling and Sentiment Analysis of Social Media Data to Drive Experiential Redesign",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Decision-Making In The Prescription Of Orthotics And Prosthetics For Partial-Foot Amputees",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Helping Teams Expand the Breadth of Their Solution Space Through Product Dissection: A Simulation Based Investigation",
+        "pub_year": "2018",
+        "citation": "ASME 2018 International Design Engineering Technical Conferences and …, 2018"
+    },
+    {
+        "title": "Research and Practice Group Methodology: A Case Study in Student Success",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 ASEE Pacific-Southwest Conference, 2014"
+    },
+    {
+        "title": "Synthesis of physical processes of permafrost degradation and geophysical and geomechanical properties of permafrost",
+        "pub_year": "2022",
+        "citation": "Cold Regions Science and Technology 198, 103522, 2022"
+    },
+    {
+        "title": "No Time for That?: An Investigation of Mindfulness and Stress in First-Year Engineering Design",
+        "pub_year": "2022",
+        "citation": "Design Science, 2022"
+    },
+    {
+        "title": "Comparing Human and Cognitive Assistant Facilitated Brainstorming Sessions",
+        "pub_year": "2022",
+        "citation": "Journal of Engineering Design, 2022"
+    },
+    {
+        "title": "Assessing The Impact Of Cognitive Assistants On Mental Workload In Simple Tasks",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Critical Thinking In The Design Classroom: An Analysis Of Student Design Reflections",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Design Practica as Authentic Assessments in First-year Engineering Design Courses",
+        "pub_year": "2018",
+        "citation": "First-Year Engineering Experience Conference, 2018"
+    },
+    {
+        "title": "Scenario-Based Robustness Analysis of Optimized I.D.E.-Style Treadle Pump Designs",
+        "pub_year": "2016",
+        "citation": "ASME 2016 International Design Engineering Technical Conferences and …, 2016"
+    },
+    {
+        "title": "Heterogeneous Simulated Annealing Teams: An Optimizing Search Algorithm Inspired by Engineering Design Teams",
+        "pub_year": "2015",
+        "citation": "International Conference on Engineering Design, 2015"
+    },
+    {
+        "title": "Virtual and face-to-face team collaboration comparison through an agent-based simulation",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design, 2022"
+    },
+    {
+        "title": "Influencers in Design Teams: A Computational Framework to Study their Impact on Idea Generation",
+        "pub_year": "2021",
+        "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing, 2021"
+    },
+    {
+        "title": "Deriving Metamodels to Relate Machine Learning Quality to Repository Characteristics in the Context of Additive Manufacturing",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Comparing Student and Sponsor Perceptions of Interdisciplinary Teams' Capstone Performance",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Modelling the Dynamics of Influence on Individual Thinking During Idea Generation in Co-design Teams",
+        "pub_year": "2020",
+        "citation": "Ninth International Conference on Design Computing and Cognition, 2020"
+    },
+    {
+        "title": "Eliciting Configuration Design Heuristics with Hidden Markov Models",
+        "pub_year": "2017",
+        "citation": "International Conference on Engineering Design, 2017"
+    },
+    {
+        "title": "Designing the Characteristics of Design Teams via Cognitively-Inspired Computational Modeling",
+        "pub_year": "2016",
+        "citation": "Carnegie Mellon University, 2016"
+    },
+    {
+        "title": "Identifying Technical and Economic Improvements to the MoneyMaker Hip Pump through Multi-Objective Optimization",
+        "pub_year": "2014",
+        "citation": "IEEE Global Humanitarian Technology Conference, 2014"
+    },
+    {
+        "title": "Modeling Human Behavior in Cyber-Physical-Social Infrastructure Systems",
+        "pub_year": "2023",
+        "citation": "10th ACM International Conference on Systems for Energy-Efficient Buildings …, 2023"
+    },
+    {
+        "title": "Exploring the Potentials and Challenges of Cyber-Physical-Social Infrastructure Systems for Achieving Human-Centered Objectives",
+        "pub_year": "2023",
+        "citation": "10th ACM International Conference on Systems for Energy-Efficient Buildings …, 2023"
+    },
+    {
+        "title": "Learning to design without prior data: Discovering generalizable design strategies using deep learning and tree search",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design, 2023"
+    },
+    {
+        "title": "Comparing the Impacts on Team Behaviors Between AI and Human Process Management in Interdisciplinary Design Teams",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design, 2022"
+    },
+    {
+        "title": "Assessing Machine Learnability Of Image And Graph Representations For Drone Performance Prediction",
+        "pub_year": "2022",
+        "citation": "International Design Conference - DESIGN 2022, 2022"
+    },
+    {
+        "title": "Novice Designers' Use of Prototypes as Communication Tools",
+        "pub_year": "2021",
+        "citation": "International Conference on Engineering Design, 2021"
+    },
+    {
+        "title": "When the Going Gets Tough: Exploring Changes in the Startup Landscape Due to the Challenges of 2020",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021"
+    },
+    {
+        "title": "A Quantitative Approach to Evaluate the Application of the Extended  Situational Teaching Model in Engineering Education",
+        "pub_year": "2021",
+        "citation": "Stats, 2021"
+    },
+    {
+        "title": "Comparing Attribute- and Form-Based Machine Learning Techniques for Component Prediction",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Using Deep Image Colorization to Predict Microstructure-Dependent Strain Fields",
+        "pub_year": "2020",
+        "citation": "North American Manufacturing Research Conference, 2020"
+    },
+    {
+        "title": "Engineering Futures: Updating a Successful Professional Development Program to Address New Challenges",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 2019 ASEE Annual Conference & Exposition, 2019"
+    },
+    {
+        "title": "Skeleton-based Human Action Recognition in a Thermal Comfort Context",
+        "pub_year": "2023",
+        "citation": "10th ACM International Conference on Systems for Energy-Efficient Buildings …, 2023"
+    },
+    {
+        "title": "Exploring the Impact of Set-Based Concurrent Engineering Through Multi Agent System Simulation",
+        "pub_year": "2023",
+        "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing, 2023"
+    },
+    {
+        "title": "Reinforcement Learning for Efficient Design Space Exploration with Variable Fidelity Analysis Models",
+        "pub_year": "2023",
+        "citation": "Journal of Computing and Information Science in Engineering, 2023"
+    },
+    {
+        "title": "A Data-driven Approach for Multi-Lattice Transitions",
+        "pub_year": "2022",
+        "citation": "2022 International Solid Freeform Fabrication Symposium, 2022"
+    },
+    {
+        "title": "The Relationship Between Performance and Trust in AI in E-Finance",
+        "pub_year": "2022",
+        "citation": "Frontiers in Artificial Intelligence, 2022"
+    },
+    {
+        "title": "Comparing Nominal and Interacting Sub-Structured Teams in an Interdisciplinary Engineering Design Task",
+        "pub_year": "2022",
+        "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022"
+    },
+    {
+        "title": "Self Learning Design Agent (SLDA): Enabling Deep Learning and Tree Search in Complex Action Spaces",
+        "pub_year": "2022",
+        "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022"
+    },
+    {
+        "title": "Data on the Human versus Artificial Intelligence Process Management Experiment",
+        "pub_year": "2022",
+        "citation": "Data in Brief, 2022"
+    },
+    {
+        "title": "Agents and the Arctic: The Case for Increased Use of Agent-Based Modeling to Study Permafrost",
+        "pub_year": "2021",
+        "citation": "https://www.thearcticinstitute.org/agents-arctic-case-increased-use-agent …, 2021"
+    },
+    {
+        "title": "Part Filtering Methods for Additive Manufacturing: A Detailed Review and a Novel Process-Agnostic Method  ",
+        "pub_year": "2021",
+        "citation": "Additive Manufacturing, 2021"
+    },
+    {
+        "title": "Addressing Challenges to Problem Complexity: Effectiveness of AI Assistance During the Design Process",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021"
+    },
+    {
+        "title": "Comparing Virtual and Face-to-Face Team Collaboration: Insights From an Agent-Based Simulation",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021"
+    },
+    {
+        "title": "Using Deep Learning to Simulate Multi-Disciplinary Design Teams",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021"
+    },
+    {
+        "title": "An Adversarial Agent-Based Design Method Using Stochastic Stackelberg Game Conditions",
+        "pub_year": "2021",
+        "citation": "Journal of Mechanical Design, 2021"
+    },
+    {
+        "title": "Image-based Data on Strain Fields of Microstructures with Porosity Defects",
+        "pub_year": "2021",
+        "citation": "Data in Brief, 2021"
+    },
+    {
+        "title": "Using Adaption-Innovation Theory to Simulate Robustness in Design Teams",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 11th International Conference on Computational Creativity, 2020"
+    },
+    {
+        "title": "Comparison of Exams and Design Practica for Assessment in First Year Engineering Design Courses",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "On The Analysis Of A Compromised Additive Manufacturing System Using Spatio-Temporal Decomposition",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "A Differential Game Approach to Dynamic Competitive Decisions Toward Human-Computer Collaboration",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Creation and Implementation of a Project Framework to Improve Cornerstone Engineering Design",
+        "pub_year": "2019",
+        "citation": "ASEE First-Year Engineering Education Conference, 2019"
+    },
+    {
+        "title": "Application of Project-based Learning within the Context of Sustainable Development in Education of International Engineer Citizens",
+        "pub_year": "2017",
+        "citation": "The 5th Iran International Conference on Engineering Education, 2017"
+    },
+    {
+        "title": "Arctic geohazard mapping tools for civil infrastructure planning: A systematic review",
+        "pub_year": "2023",
+        "citation": "Cold Regions Science and Technology, 103969, 2023"
+    },
+    {
+        "title": "Smoothing the Rough Edges: Evaluating Automatically Generated Multi-Lattice Transitions",
+        "pub_year": "2023",
+        "citation": "3D Printing and Additive Manufacturing, 2023"
+    },
+    {
+        "title": "Design for Artificial Intelligence: Proposing a Conceptual Framework Grounded in Data Wrangling",
+        "pub_year": "2022",
+        "citation": "Journal of Computing and Information Science in Engineering, 2022"
+    },
+    {
+        "title": "Idea Selection in Design Teams: A Computational Framework and Insights in the Presence of Influencers",
+        "pub_year": "2022",
+        "citation": "Design Science, 2022"
+    },
+    {
+        "title": "The problem with printing pitch: challenges in designing 3D printed claves",
+        "pub_year": "2022",
+        "citation": "Rapid Prototyping Journal, 2022"
+    },
+    {
+        "title": "Student and Instructor Reflections on Integrating Short Mindfulness-Based Meditation Practices into a First-Year Engineering Design Course",
+        "pub_year": "2022",
+        "citation": "ASEE First Year Engineering Education Conference, 2022"
+    },
+    {
+        "title": "DTM Past, Present, and Future: Reflections on and by the Design Theory and Methodology Research Community",
+        "pub_year": "2022",
+        "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022"
+    },
+    {
+        "title": "Towards Characterizing Cognitive Style Coping Behavior in Engineering Design",
+        "pub_year": "2022",
+        "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022"
+    },
+    {
+        "title": "Comparing Strategies for Visualizing the High-Dimensional Exploration Behavior of CPS Design Agents",
+        "pub_year": "2022",
+        "citation": "2022 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2022"
+    },
+    {
+        "title": "Pitch Imperfect: Designing 3D Printed Claves to Mimic the Sound of Their Wooden Counterparts",
+        "pub_year": "2021",
+        "citation": "Solid Freeform Fabrication Symposium, 2021"
+    },
+    {
+        "title": "Composing Diverse Design Teams: A Simulation-Based Investigation on the Role of Personality Traits and Risk-Taking Attitudes on Team Empathy",
+        "pub_year": "2020",
+        "citation": "Design Computing and Cognition’20, 509, 2020"
+    },
+    {
+        "title": "Emergence of Engineering Design Self-efficacy in Engineering Identity Development",
+        "pub_year": "2020",
+        "citation": "Ninth International Conference on Design Computing and Cognition, 2020"
+    },
+    {
+        "title": "Automated Heuristic Induction From Human Design Data",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "Towards an Understanding of Semantic Memory During Idea Generation",
+        "pub_year": "2020",
+        "citation": "ASME 2020 International Design Engineering Technical Conferences and …, 2020"
+    },
+    {
+        "title": "A Standardized Framework for Communicating and Modelling Parametrically Defined Mesostructure Patterns",
+        "pub_year": "2019",
+        "citation": "30th Annual International Solid Freeform Fabrication Symposium, 2019"
+    },
+    {
+        "title": "Evaluating Idea Quantity And Variety When Using Digital Collaboration Tools To Support Brainstorming In Non-Collocated Teams",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Accelerating Thermal Simulations in Additive Manufacturing by Training Physics-Informed Neural Networks with Randomly-Synthesized Data",
+        "pub_year": "2024",
+        "citation": "Journal of Computing and Information Science in Engineering 24 (1), 011004, 2024"
+    },
+    {
+        "title": "Taylor series error correction network for super-resolution of discretized fluid solutions",
+        "pub_year": "2023",
+        "citation": "Bulletin of the American Physical Society, 2023"
+    },
+    {
+        "title": "AircraftVerse: A Large-Scale Multimodal Dataset of Aerial Vehicle Designs",
+        "pub_year": "2023",
+        "citation": "Advances in Neural Information Processing Systems (NeurIPS 2023) Datasets …, 2023"
+    },
+    {
+        "title": "Delimiting Design: Expanding the Limits of Concurrency through Set-Based Concurrent Engineering",
+        "pub_year": "2023",
+        "citation": "Journal of Engineering Design, 2023"
+    },
+    {
+        "title": "Does empathy lead to creativity? A simulation-based investigation on the role of team trait empathy on nominal group concept generation and early concept screening",
+        "pub_year": "2023",
+        "citation": "AI EDAM 37, e23, 2023"
+    },
+    {
+        "title": "Hybrid Geometric/Functional Autoencoders for Multi-Lattice Transitions",
+        "pub_year": "2023",
+        "citation": "34th Annual International Solid Freeform Fabrication Symposium, 2023"
+    },
+    {
+        "title": "Dreaming of Data: Examining Data Augmentation for Machine Learning in Additive Manufacturing",
+        "pub_year": "2023",
+        "citation": "34th Annual International Solid Freeform Fabrication Symposium, 2023"
+    },
+    {
+        "title": "Arctic Coastal Hazard Assessment Considering Permafrost Thaw Subsidence, Coastal Erosion, and Flooding",
+        "pub_year": "2023",
+        "citation": "Environmental Research Letters, 2023"
+    },
+    {
+        "title": "Toward a Permafrost Vulnerability Index for Critical Infrastructure, Community Resilience and National Security",
+        "pub_year": "2023",
+        "citation": "Geographies, 2023"
+    },
+    {
+        "title": "AddLat2D the 2D Lattice Generator",
+        "pub_year": "2023",
+        "citation": "Software Impacts, 2023"
+    },
+    {
+        "title": "Uncovering Potential Bias in Engineering Design: A Comparative Review of Bias Research in Medicine",
+        "pub_year": "2023",
+        "citation": "Design Science, 2023"
+    },
+    {
+        "title": "Investigating the Relationship between Mindfulness, Stress, and Creativity in Introductory Engineering Design",
+        "pub_year": "2023",
+        "citation": "Design Science, 2023"
+    },
+    {
+        "title": "Adaptation and Challenges in Human-AI Partnership for the Design of Complex Engineering Systems",
+        "pub_year": "2023",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
+    },
+    {
+        "title": "Capturing Local Temperature Evolution during Additive Manufacturing with Fourier Neural Operator",
+        "pub_year": "2023",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
+    },
+    {
+        "title": "Conceptual Design Generation Using Large Language Models",
+        "pub_year": "2023",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2023"
+    },
+    {
+        "title": "MegaFlow2D: A Parametric Dataset for Machine Learning Super-resolution in Computational Fluid Dynamics Simulations",
+        "pub_year": "2023",
+        "citation": "2023 IEEE Workshop on Design Automation for CPS and IoT (DESTION), 2023"
+    },
+    {
+        "title": "Focus and Modality: Defining A Roadmap to Future AI-Human Teaming in Design",
+        "pub_year": "2023",
+        "citation": "International Conference on Engineering Design, 2023"
+    },
+    {
+        "title": "Uncovering Hidden Patterns of Design Ideation Using Hidden Markov Modeling and Neuroimaging",
+        "pub_year": "2023",
+        "citation": "Artificial Intelligence for Engineering Design, Analysis and Manufacturing, 2023"
+    },
+    {
+        "title": "Emerging Technologies and Methods for Early-Stage Product Design and Development",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design, 2023"
+    },
+    {
+        "title": "Independence or Interaction? Understanding the  Benefits and Limitations of Nominally-Inspired and  Interacting Sub-Structured Teams in a Virtual and Interdisciplinary …",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design, 2023"
+    },
+    {
+        "title": "Manufacturing Fixation in Design: Exploring the Effects of Manufacturing Fixation during Idea Generation",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design 145 (1), 1-8, 2023"
+    },
+    {
+        "title": "Design for Advanced Manufacturing",
+        "pub_year": "2023",
+        "citation": "Journal of Mechanical Design, 2023"
+    },
+    {
+        "title": "Promoting Data Science in Mechanical Engineering Research and Education: An Exploration of the Hackathon Mechanism",
+        "pub_year": "2023",
+        "citation": "Emotional Engineering 9, 2023"
+    },
+    {
+        "title": "Deriving Recommendations for the Use of Agent-Based Models in Engineering Design",
+        "pub_year": "2022",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2022"
+    },
+    {
+        "title": "Simulating Heterogeneous Portfolio Choices and Financial Market Outcomes",
+        "pub_year": "2022",
+        "citation": "AMPM 2022: 2nd Workshop on Agent-based Modelling and Policy-Making, 2022"
+    },
+    {
+        "title": "Designing a New AI",
+        "pub_year": "2022",
+        "citation": "Issues in Science and Technology 38 (2), 2022"
+    },
+    {
+        "title": "A Computational Study of Design Team Robustness Through the Lens of Cognitive Style",
+        "pub_year": "2022",
+        "citation": "Journal of Mechanical Design, 2022"
+    },
+    {
+        "title": "Analyzing Expert Design Cost Estimation for Additive Manufacturing",
+        "pub_year": "2022",
+        "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022"
+    },
+    {
+        "title": "A Real-Time Artificial Intelligence Process Manager for Engineering Design",
+        "pub_year": "2022",
+        "citation": "ASME 2022 International Design Engineering Technical Conferences and …, 2022"
+    },
+    {
+        "title": "Process Monitoring: Distinguishing Defect Shapes by Strain Field Signatures",
+        "pub_year": "2022",
+        "citation": "North American Manufacturing Research Conference, 2022"
+    },
+    {
+        "title": "Identification of the Barriers to Data-Centric Approach in the Construction Industry",
+        "pub_year": "2022",
+        "citation": "2022 Construction Research Congress, 2022"
+    },
+    {
+        "title": "Infrastructure and Community Resilience in the Changing Arctic: Status, Challenges, and Research Needs",
+        "pub_year": "2021",
+        "citation": "https://www.thearcticinstitute.org/infrastructure-community-resilience …, 2021"
+    },
+    {
+        "title": "Multi-Objective Model-Based Optimization of Pilot Decision Making for Urban Air Mobility",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Mechanical Engineering Congress and Exposition, 2021"
+    },
+    {
+        "title": "Using Physics-Informed Generative Adversarial Networks to Perform Super-Resolution for Multiphase Fluid Simulations",
+        "pub_year": "2021",
+        "citation": "ASME 2021 International Design Engineering Technical Conferences and …, 2021"
+    },
+    {
+        "title": "Learning to Design From Humans: Imitating Human Designers Through Deep Learning",
+        "pub_year": "2019",
+        "citation": "International Design Engineering Technical Conferences and Computers and …, 2019"
+    },
+    {
+        "title": "Image collection of 3D-printed prototypes and non-3D-printed prototypes",
+        "pub_year": "2019",
+        "citation": "Data in Brief, 2019"
+    },
+    {
+        "title": "Complexity Reduction in Mass Customization To Facilitate Better Decision Support",
+        "pub_year": "2019",
+        "citation": "ASME 2019 International Design Engineering Technical Conferences and …, 2019"
+    },
+    {
+        "title": "Ethical Design of Gendered Products",
+        "pub_year": "2018",
+        "citation": "13th Engineering, Social Justice and Peace Conference, 2018"
+    },
+    {
+        "title": "Enhancement of Concrete Composite Decks",
+        "pub_year": "2012",
+        "citation": "California State University, Fresno, 2012"
+    }
+]
