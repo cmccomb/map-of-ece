@@ -1,0 +1,993 @@
+[
+    {
+        "title": "A Bayesian-entropy network for information fusion and reliability assessment of national airspace systems",
+        "pub_year": "2018",
+        "citation": "PHM Society Conference 10 (1), 2018"
+    },
+    {
+        "title": "A Comparative Analysis of the Sense of Construction Delays of Experienced and Inexperienced Engineers",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "A Multi-sensor Integration Approach toward Astronaut Navigation",
+        "citation": ""
+    },
+    {
+        "title": "A Novel Project Controls Approach to Accurately Estimate, Monitor, and Stabilize Work Flow",
+        "citation": ""
+    },
+    {
+        "title": "A Robust Registration Algorithm for Automatic and Reliable Geometric Change Detection 1 of Bridges using 3D Laser Scanning Data 2",
+        "pub_year": "2017",
+        "citation": ""
+    },
+    {
+        "title": "A Spatial-Context-Based Framework for Automated Spatial Change Analysis of Curvilinear Building Elements",
+        "pub_year": "2014",
+        "citation": ""
+    },
+    {
+        "title": "A Spatial‐Context‐Based Approach for Automated Spatial Change Analysis of Piece‐Wise Linear Building Elements",
+        "pub_year": "2016",
+        "citation": "Computer‐Aided Civil and Infrastructure Engineering 31 (1), 65-80, 2016"
+    },
+    {
+        "title": "A combined planning and controls approach to accurately estimate, monitor, and stabilize work flow",
+        "pub_year": "2014",
+        "citation": "Computing in Civil and Building Engineering (2014), 105-112, 2014"
+    },
+    {
+        "title": "A comparative analysis of depth-discontinuity and mixed-pixel detection algorithms",
+        "pub_year": "2007",
+        "citation": "3-D Digital Imaging and Modeling, 2007. 3DIM'07. Sixth International …, 2007"
+    },
+    {
+        "title": "A comparative study on the use of laser scanners for construction quality control and progress monitoring purposes",
+        "pub_year": "2009",
+        "citation": ""
+    },
+    {
+        "title": "A computational framework for characterizing multiple object tracking methods in construction field applications",
+        "pub_year": "2019",
+        "citation": "ASCE International Conference on Computing in Civil Engineering 2019, 290-297, 2019"
+    },
+    {
+        "title": "A divide-and-conquer algorithm for 3D imaging planning in dynamic construction environments",
+        "pub_year": "2015",
+        "citation": ""
+    },
+    {
+        "title": "A metaheuristic-guided machine learning approach for concrete strength prediction with high mix design variability using ultrasonic pulse velocity data",
+        "pub_year": "2023",
+        "citation": "Developments in the Built Environment 15, 100220, 2023"
+    },
+    {
+        "title": "A multi-level 3D data registration approach for supporting reliable spatial change classification of single-pier bridges",
+        "pub_year": "2018",
+        "citation": "Advanced Engineering Informatics 38, 187-202, 2018"
+    },
+    {
+        "title": "A multisensor integration approach toward astronaut navigation for landed lunar missions",
+        "pub_year": "2014",
+        "citation": "Journal of Field Robotics 31 (2), 245-262, 2014"
+    },
+    {
+        "title": "A spatial orientation and information system for indoor spatial awareness",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Indoor …, 2010"
+    },
+    {
+        "title": "Adaptive 3D imaging and tolerance analysis of prefabricated components for accelerated construction",
+        "pub_year": "2015",
+        "citation": "Procedia engineering 118, 1060-1067, 2015"
+    },
+    {
+        "title": "An Extensible Construction Ontology to Guide Job-Site Sensing and Support Information Management",
+        "pub_year": "2023",
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2023"
+    },
+    {
+        "title": "Analyzing Operation Logs of Nuclear Power Plants for Safety and Efficiency Diagnosis of Real-Time Operations",
+        "pub_year": "2022",
+        "citation": "The 29th EG-ICE International Workshop on Intelligent Computing in Engineering, 2022"
+    },
+    {
+        "title": "Analyzing abnormal cycles of pilot tube microtunneling through pattern recognition in time-series data of hydraulic pressure",
+        "pub_year": "2014",
+        "citation": "Construction Research Congress 2014: Construction in a Global Network, 994-1003, 2014"
+    },
+    {
+        "title": "Applying crowdsourcing techniques in urban planning: A bibliometric analysis of research and practice prospects",
+        "pub_year": "2019",
+        "citation": "Cities 94, 33-43, 2019"
+    },
+    {
+        "title": "As-built error modeling for effective 3D laser scanning on construction sites",
+        "pub_year": "2013",
+        "citation": "Computing in Civil Engineering (2013), 533-540, 2013"
+    },
+    {
+        "title": "Assessment of quality of as-is building information models generated from point clouds using deviation analysis",
+        "pub_year": "2011",
+        "citation": "Proceedings of SPIE 7864, 78640F, 2011"
+    },
+    {
+        "title": "Augmented reality communication on active construction sites: a pilot study exploring non-technological factors",
+        "pub_year": "2022",
+        "citation": "Construction Research Congress 2022, 1202-1211, 2022"
+    },
+    {
+        "title": "Augmenting a deep-learning algorithm with canal inspection knowledge for reliable water leak detection from multispectral satellite images",
+        "pub_year": "2020",
+        "citation": "Advanced Engineering Informatics 46, 101161, 2020"
+    },
+    {
+        "title": "Automated Measurement Extraction from Laser Scanned Point Clouds to Support Bridge Inspection",
+        "pub_year": "2008",
+        "citation": "IABSE Symposium Report 94 (6), 15-22, 2008"
+    },
+    {
+        "title": "Automated Productivity Analysis of Pilot Tube Microtunneling Installations through Workflow Recognition in the Time-Series Data of Hydraulic Pressure",
+        "pub_year": "2014",
+        "citation": "ICPTT 2014: Creating Infrastructure for a Sustainable World, 818-827, 2014"
+    },
+    {
+        "title": "Automated change diagnosis of single-column-pier bridges based on 3d imagery data",
+        "pub_year": "2017",
+        "citation": "Computing in Civil Engineering 2017, 91-98, 2017"
+    },
+    {
+        "title": "Automated monitoring of pilot tube microtunneling installations through pattern recognition in time-series data of hydraulic pressure",
+        "pub_year": "2013",
+        "citation": "Pipelines 2013: Pipelines and Trenchless Construction and Renewals—A Global …, 2013"
+    },
+    {
+        "title": "Automated spatial change analysis of building systems using 3D imagery data",
+        "pub_year": "2013",
+        "citation": "Proceedings of the 30th CIB W78 International Conference, 2013"
+    },
+    {
+        "title": "Automated tolerance analysis of curvilinear components using 3D point clouds for adaptive construction quality control",
+        "pub_year": "2015",
+        "citation": "Computing in Civil Engineering 2015, 57-65, 2015"
+    },
+    {
+        "title": "Automatic Change-based Diagnosis of Structures Using Spatiotemporal Data and As-Designed Model",
+        "pub_year": "2017",
+        "citation": "Arizona State University, 2017"
+    },
+    {
+        "title": "Automatic Imagery Data Analysis for Proactive Computer-Based Workflow Management during Nuclear Power Plant Outages",
+        "pub_year": "2019",
+        "citation": "Arizona State Univ., Tempe, AZ (United States), 2019"
+    },
+    {
+        "title": "Automatic building information model reconstruction in high-density urban areas: Augmenting multi-source data with architectural knowledge",
+        "pub_year": "2018",
+        "citation": "Automation in Construction 93, 22-34, 2018"
+    },
+    {
+        "title": "Automatic communication error detection using speech recognition and linguistic analysis for proactive control of loss of separation",
+        "pub_year": "2021",
+        "citation": "Transportation Research Record 2675 (5), 1-12, 2021"
+    },
+    {
+        "title": "Automatic correlated vibration pattern analysis for a rapid remote scour assessment of civil infrastructure",
+        "pub_year": "2016",
+        "citation": "Construction Research Congress 2016, 819-828, 2016"
+    },
+    {
+        "title": "Automatic crane-related workflow control for nuclear plant outages through computer vision and simulation",
+        "pub_year": "2016",
+        "citation": "ISARC. Proceedings of the International Symposium on Automation and Robotics …, 2016"
+    },
+    {
+        "title": "Automatic execution of workflows on laser-scanned data for extracting bridge surveying goals",
+        "pub_year": "2012",
+        "citation": "Advanced Engineering Informatics 26 (4), 889-903, 2012"
+    },
+    {
+        "title": "Automatic imagery data analysis for diagnosing human factors in the outage of a nuclear plant",
+        "pub_year": "2016",
+        "citation": "Digital Human Modeling: Applications in Health, Safety, Ergonomics and Risk …, 2016"
+    },
+    {
+        "title": "Automatic logical inconsistency detection in the National Bridge Inventory",
+        "pub_year": "2016",
+        "citation": "Procedia Engineering 145, 729-737, 2016"
+    },
+    {
+        "title": "Automatic reconstruction of as-built building information models from laser-scanned point clouds: A review of related techniques",
+        "pub_year": "2010",
+        "citation": "Automation in Construction 19 (7), 829-843, 2010"
+    },
+    {
+        "title": "Automating and optimizing spatial data processing workflows for civil infrastructure inspection",
+        "pub_year": "2012",
+        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012"
+    },
+    {
+        "title": "BUILDING INFORMATION MODELING SKILLS FOR CAREER SUCCESS",
+        "citation": ""
+    },
+    {
+        "title": "Bayesian network modeling of airport runway incursion occurring processes for predictive accident control",
+        "pub_year": "2019",
+        "citation": "Advances in Informatics and Computing in Civil and Construction Engineering …, 2019"
+    },
+    {
+        "title": "Bridge scour identification and field application based on ambient vibration measurements of superstructures",
+        "pub_year": "2019",
+        "citation": "Journal of Marine Science and Engineering 7 (5), 121, 2019"
+    },
+    {
+        "title": "Building information modelling skills in construction-related disciplines: a social network and job advertisement-based comparative analysis",
+        "pub_year": "2017",
+        "citation": "Eng. Proj. Organ. J 7, 2017"
+    },
+    {
+        "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
+        "pub_year": "2023",
+        "citation": "Building and Environment, 111053, 2023"
+    },
+    {
+        "title": "Carnegie Mellon University, Department of Civil and Environmental Engineering, Pittsburgh, PA, USA",
+        "citation": ""
+    },
+    {
+        "title": "Characterization of laser scanners and algorithms for detecting flatness defects on concrete surfaces",
+        "pub_year": "2011",
+        "citation": "Journal of Computing in Civil Engineering 25, 31, 2011"
+    },
+    {
+        "title": "Characterization of three algorithms for detecting surface flatness defects from dense point clouds",
+        "pub_year": "2009",
+        "citation": "Proceedings of SPIE 7239, 72390N, 2009"
+    },
+    {
+        "title": "Characterizing Perceived Data Sharing Barriers and Promotion Strategies in Civil Engineering",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 42-49, 2021"
+    },
+    {
+        "title": "Characterizing Point Cloud Data Density for Spatial Change-Based Maintenance Planning of Civil Infrastructure Systems",
+        "pub_year": "2018",
+        "citation": "Construction Research Congress 2018, 776-785, 2018"
+    },
+    {
+        "title": "Characterizing data sharing in civil infrastructure engineering: Current practice, future vision, barriers, and promotion strategies",
+        "pub_year": "2023",
+        "citation": "Journal of Computing in Civil Engineering 37 (2), 04023001, 2023"
+    },
+    {
+        "title": "Characterizing the Role of Communications in Teams Carrying Out Building Inspection",
+        "pub_year": "2018",
+        "citation": "Construction Research Congress 2018, 554-564, 2018"
+    },
+    {
+        "title": "Collaborative scientific workflow composition as a service: An infrastructure supporting collaborative data analytics workflow design and management",
+        "pub_year": "2016",
+        "citation": "2016 IEEE 2nd International Conference on Collaboration and Internet …, 2016"
+    },
+    {
+        "title": "Comparative analysis of machine learning and point-based algorithms for detecting 3D changes in buildings over time using bi-temporal lidar data",
+        "pub_year": "2019",
+        "citation": "Automation in Construction 105, 102841, 2019"
+    },
+    {
+        "title": "Comparative case study on the use of laser scanners for construction quality control and progress monitoring",
+        "pub_year": "2009",
+        "citation": ""
+    },
+    {
+        "title": "Comparing building information modeling skills of project managers and BIM managers based on social media analysis",
+        "pub_year": "2016",
+        "citation": "Procedia Engineering 145, 812-819, 2016"
+    },
+    {
+        "title": "Computational simulation of live-bed bridge scour considering suspended sediment loads",
+        "pub_year": "2017",
+        "citation": "Journal of Computing in Civil Engineering 31 (5), 04017040, 2017"
+    },
+    {
+        "title": "Computationally efficient change analysis of piece-wise cylindrical building elements for proactive project control",
+        "pub_year": "2017",
+        "citation": "Automation in Construction 81, 300-312, 2017"
+    },
+    {
+        "title": "Computing in Civil Engineering 2017",
+        "pub_year": "2017",
+        "citation": ""
+    },
+    {
+        "title": "Computing in Civil Engineering 2017: Information Modeling and Data Analytics",
+        "pub_year": "2017",
+        "citation": "American Society of Civil Engineers, 2017"
+    },
+    {
+        "title": "Computing in Civil Engineering 2017: Sensing, Simulation, and Visualization",
+        "pub_year": "2017",
+        "citation": "American Society of Civil Engineers, 2017"
+    },
+    {
+        "title": "Computing in Civil Engineering 2017: Smart Safety, Sustainability, and Resilience",
+        "pub_year": "2017",
+        "citation": "American Society of Civil Engineers, 2017"
+    },
+    {
+        "title": "Condition diagnostics of steel water tanks using correlated visual patterns",
+        "pub_year": "2015",
+        "citation": ""
+    },
+    {
+        "title": "Construction Research Congress 2020: Computer Applications",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 2020"
+    },
+    {
+        "title": "Construction Research Congress 2020: Infrastructure Systems and Sustainability",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 2020"
+    },
+    {
+        "title": "Construction Research Congress 2020: Project Management and Controls, Materials, and Contracts",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 2020"
+    },
+    {
+        "title": "Construction Research Congress 2020: Safety, Workforce, and Education",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 2020"
+    },
+    {
+        "title": "Construction supply chain management handbook",
+        "pub_year": "2008",
+        "citation": "CRC, 2008"
+    },
+    {
+        "title": "Contractor’s cognitive analysis for exploring the mechanism of construction bid-rigging",
+        "pub_year": "2020",
+        "citation": "ASCE Construction Research Congress 2020, 2020"
+    },
+    {
+        "title": "Crowdsourced reliable labeling of safety-rule violations on images of complex construction scenes for advanced vision-based workplace safety",
+        "pub_year": "2019",
+        "citation": "Advanced Engineering Informatics 42, 101001, 2019"
+    },
+    {
+        "title": "Daniel Huber Robotics Institute (RI), Newell-Simon Hall, Carnegie Mellon University, Pittsburgh, PA 15213, USA, Email: dhuber@ cs. cmu. edu",
+        "citation": ""
+    },
+    {
+        "title": "Data quality-oriented 3D laser scan planning",
+        "pub_year": "2014",
+        "citation": "Construction Research Congress 2014: Construction in a Global Network, 984-993, 2014"
+    },
+    {
+        "title": "Data-driven spatiotemporal simulation of ground movements of aircraft for preventive airport safety",
+        "pub_year": "2019",
+        "citation": "2019 Winter Simulation Conference (WSC), 2992-3000, 2019"
+    },
+    {
+        "title": "Deep learning and anthropometric plane based workflow monitoring by detecting and tracking workers",
+        "pub_year": "2018",
+        "citation": "The International Archives of the Photogrammetry, Remote Sensing and Spatial …, 2018"
+    },
+    {
+        "title": "Defining factors that support or hinder commercially available augmented reality (AR) devices for construction communication",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 1302-1310, 2021"
+    },
+    {
+        "title": "Detecting anomalous behaviors of air traffic controllers in time series of facial expressions and head poses",
+        "pub_year": "2019",
+        "citation": "AIAA Aviation 2019 Forum, 1-8, 2019"
+    },
+    {
+        "title": "Development of a Lunar Astronaut Spatial Orientation and Information System",
+        "pub_year": "2010",
+        "citation": "41st Annual Lunar and Planetary Science Conference, 1782, 2010"
+    },
+    {
+        "title": "Development of a Lunar Astronaut Spatial Orientation and Information System (LASOIS)",
+        "pub_year": "2010",
+        "citation": "Proceedings of the ASPRS 2010 Annual Conference, 2010"
+    },
+    {
+        "title": "Developments in the Built Environment",
+        "citation": ""
+    },
+    {
+        "title": "Developments in the Built Environment",
+        "citation": ""
+    },
+    {
+        "title": "Developments in the Built Environment",
+        "citation": ""
+    },
+    {
+        "title": "Deviation analysis method for the assessment of the quality of the as-is Building Information Models generated from point cloud data",
+        "pub_year": "2013",
+        "citation": "Automation in construction 35, 507-516, 2013"
+    },
+    {
+        "title": "Diagnosing Supervision Failures in Preventing Falling Accidents in China",
+        "pub_year": "2018",
+        "citation": "Construction Research Congress 2018, 443-453, 2018"
+    },
+    {
+        "title": "Discovering Factors that Influence the Use of Augmented Reality for Communication on Active Highway Construction Sites",
+        "pub_year": "2023",
+        "citation": "Transportation Research Record 2677 (5), 376-389, 2023"
+    },
+    {
+        "title": "Discovering factors that influence the use of augmented reality for communication on active highway construction sites",
+        "pub_year": "2023",
+        "citation": "Transportation research record, 03611981221131311, 2023"
+    },
+    {
+        "title": "Dynamic human systems risk prognosis and control of lifting operations during prefabricated building construction",
+        "pub_year": "2023",
+        "citation": "Developments in the Built Environment, 100143, 2023"
+    },
+    {
+        "title": "ESA ExoMars rover localization and topographic mapping: Pre-launch PanCam modeling and error analysis",
+        "pub_year": "2010",
+        "citation": "Lunar and Planetary Science XLI 1533, 1819, 2010"
+    },
+    {
+        "title": "ESA ExoMars rover pancam prelaunch modeling and accuracy assessment for localization and topographic mapping",
+        "pub_year": "2012",
+        "citation": "Proc. European Planetary Science Congr 5, 252, 2012"
+    },
+    {
+        "title": "Efficient and effective quality assessment of as-is building information models and 3D laser-scanned data",
+        "pub_year": "2011",
+        "citation": "Computing in civil engineering (2011), 486-493, 2011"
+    },
+    {
+        "title": "Evaluating Operators’ Real-Time Mental Workload with Eye Movement Analysis in Nuclear Power Plants’ Operations",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 1457-1464, 2021"
+    },
+    {
+        "title": "Extracting surveying goals from point clouds to support construction and infrastructure inspection",
+        "pub_year": "2009",
+        "citation": "Construction Research Congress 2009: Building a Sustainable Future, 1164-1173, 2009"
+    },
+    {
+        "title": "Extraction of surveying goals from point clouds obtained from laser scanners to support bridge inspection",
+        "pub_year": "2009",
+        "citation": "Dissertation Abstracts International 70 (09), 2009"
+    },
+    {
+        "title": "Facilitating Construction Scene Understanding Knowledge Sharing and Reuse via Lifelong Site Object Detection",
+        "pub_year": "2022",
+        "citation": "European Conference on Computer Vision, 228-243, 2022"
+    },
+    {
+        "title": "Fast and Reliable Map Matching from Large-Scale Noisy Positioning Records",
+        "pub_year": "2023",
+        "citation": "Journal of Computing in Civil Engineering 37 (1), 04022040, 2023"
+    },
+    {
+        "title": "Feasibility of augmented reality technology for communication in the construction industry",
+        "pub_year": "2021",
+        "citation": "Advanced Engineering Informatics 50, 101363, 2021"
+    },
+    {
+        "title": "Field technologies and their impact on management of supply chains",
+        "pub_year": "2008",
+        "citation": "Construction Supply Chain Management Handbook, 16-1-16-28, 2008"
+    },
+    {
+        "title": "Formalization of workflows for extracting bridge surveying goals from laser-scanned data",
+        "pub_year": "2011",
+        "citation": "Automation in Construction, 2011"
+    },
+    {
+        "title": "Frequency analysis of bridge condition explanatory data items for customized data collection and bridge management",
+        "pub_year": "2012",
+        "citation": "CICTP 2012: Multimodal Transportation Systems—Convenient, Safe, Cost …, 2012"
+    },
+    {
+        "title": "Geometry-based optimized point cloud compression methodology for construction and infrastructure management",
+        "pub_year": "2017",
+        "citation": "Computing in Civil Engineering 2017, 377-385, 2017"
+    },
+    {
+        "title": "Grand challenges in data and information visualization for the architecture, engineering, construction, and facility management industries",
+        "pub_year": "2013",
+        "citation": "Computing in Civil Engineering (2013), 849-856, 2013"
+    },
+    {
+        "title": "Hierarchical sampling for efficient and comprehensive community connectivity analysis: A Michigan case",
+        "pub_year": "2012",
+        "citation": "Computing in Civil Engineering (2012), 33-40, 2012"
+    },
+    {
+        "title": "High-speed videogrammetric measurement of the deformation of shaking table multi-layer structures",
+        "pub_year": "2020",
+        "citation": "Measurement 154, 107486, 2020"
+    },
+    {
+        "title": "Human Reliability Analysis and Prediction for Visual Inspection in Bridge Maintenance",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 254-262, 2021"
+    },
+    {
+        "title": "Human reliability for safe and efficient civil infrastructure operation and maintenance–A review",
+        "pub_year": "2020",
+        "citation": "Developments in the Built Environment 4, 100028, 2020"
+    },
+    {
+        "title": "Human-Augmented Technology Interaction (HATI) for Improving Construction Quality Control and Task Monitoring: An Application of Augmented Reality (AR) for Visualization and …",
+        "pub_year": "2022",
+        "citation": "Nevada. Dept. of Transportation, 2022"
+    },
+    {
+        "title": "Human-Centered Automation for Resilience in Acquiring Construction Field Information",
+        "pub_year": "2017",
+        "citation": "Arizona State University, 2017"
+    },
+    {
+        "title": "Human-centered automation for resilient nuclear power plant outage control",
+        "pub_year": "2017",
+        "citation": "Automation in Construction 82, 179-192, 2017"
+    },
+    {
+        "title": "Identification Method for Pylon Scour Depth of Cable-stayed Bridges by Tracing Dynamic Index",
+        "pub_year": "2017",
+        "citation": "Hunan Daxue Xuebao/Journal of Hunan University Natural Sciences 44 (11), 145-155, 2017"
+    },
+    {
+        "title": "Identification Method for Pylon Scour Depth of Cable-stayed Bridges by Tracing Dynamic Index",
+        "pub_year": "2017",
+        "citation": "Journal of Hunan University 44 (11), 145-155, 2017"
+    },
+    {
+        "title": "Identification of bridge scour depth by tracing dynamic behaviors of superstructures",
+        "pub_year": "2018",
+        "citation": "KSCE Journal of Civil Engineering 22, 1316-1327, 2018"
+    },
+    {
+        "title": "Image-based 3D reconstruction for Multi-Scale civil and infrastructure Projects: A review from 2012 to 2022 with new perspective from deep learning methods",
+        "pub_year": "2024",
+        "citation": "Advanced Engineering Informatics 59, 102268, 2024"
+    },
+    {
+        "title": "Imagery-Based Risk Assessment Using Crowdsourcing Technology in Complex Workspaces",
+        "pub_year": "2017",
+        "citation": "Computing in Civil Engineering 2017, 174-182, 2017"
+    },
+    {
+        "title": "Improving post-occupancy evaluation engagement using social robots",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 9th ACM International Conference on Systems for Energy …, 2022"
+    },
+    {
+        "title": "Information Fusion and Finite Element Model Simulations for Bridge Condition Prognosis with Conflicting Data",
+        "pub_year": "2022",
+        "citation": "Construction Research Congress 2022, 445-454, 2022"
+    },
+    {
+        "title": "Infrastructure computer vision",
+        "pub_year": "2019",
+        "citation": "Butterworth-Heinemann, 2019"
+    },
+    {
+        "title": "Integrated Analysis of Aerial and Terrestrial Imagery Data for Efficient and Effective Water Loss Mapping of a Canal System",
+        "pub_year": "2017",
+        "citation": "Pipelines 2017, 136-147, 2017"
+    },
+    {
+        "title": "Integrating Sensing and Modeling Technology into a Construction Engineering Curriculum",
+        "pub_year": "2012",
+        "citation": "American Society for Engineering Education, 2012"
+    },
+    {
+        "title": "Integrating sensing technology and Building Information Modeling into a construction engineering curriculum",
+        "pub_year": "2012",
+        "citation": "2012 ASEE annual conference & exposition, 25.806. 1-25.806. 10, 2012"
+    },
+    {
+        "title": "Intelligent Process Visualization through Nuclear Operation Process Modeling, Reasoning, and Object Detection from Field Videos",
+        "pub_year": "2022",
+        "citation": "Department of Energy, Idaho National Laboratory, 2022"
+    },
+    {
+        "title": "Knowledge-based Registration for Reliable Correlated Change Detection on High-pier Curved Continuous Rigid Frame Bridge",
+        "pub_year": "2019",
+        "citation": "EG-ICE 2019 Workshop on Intelligent Computing in Engineering, 2019"
+    },
+    {
+        "title": "Knowledge-based Registration for Reliable Correlated Change Detection on High-pier Curved Continuous Rigid Frame Bridge",
+        "pub_year": "2019",
+        "citation": "26th International Workshop on Intelligent Computing in Engineering, EG-ICE 2019, 2019"
+    },
+    {
+        "title": "Laser scanning for bridge inspection and management",
+        "pub_year": "2007",
+        "citation": "IABSE Symposium Report 93 (18), 17-24, 2007"
+    },
+    {
+        "title": "MER Spirit rover localization: Comparison of ground image–and orbital image–based methods and science applications",
+        "pub_year": "2011",
+        "citation": "J. Geophys. Res 116, E00F16, 2011"
+    },
+    {
+        "title": "MER Spirit rover localization: Comparison of ground image—and orbital image—based methods and science applications",
+        "pub_year": "2011",
+        "citation": "Journal of Geophysical Research Planets (1991–2012) 116 (E7), 2011"
+    },
+    {
+        "title": "Machine learning using synthetic images for detecting dust emissions on construction sites",
+        "pub_year": "2021",
+        "citation": "Smart and Sustainable Built Environment 10 (3), 487-503, 2021"
+    },
+    {
+        "title": "Method of bridge structural analysis based on bridge information modeling",
+        "pub_year": "2017",
+        "citation": "Computing in Civil Engineering 2017, 92-100, 2017"
+    },
+    {
+        "title": "Mining observation and cognitive behavior process patterns of bridge inspectors",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 604-612, 2021"
+    },
+    {
+        "title": "Mobile virtual design and construction adoption in the architecture, engineering, construction and operation fields",
+        "pub_year": "2015",
+        "citation": "Proc., 15th Int. Conf. on Construction Applications of Virtual Reality …, 2015"
+    },
+    {
+        "title": "Modeling and simulating the impact of forgetting and communication errors on delays in civil infrastructure shutdowns",
+        "pub_year": "2021",
+        "citation": "Frontiers of Engineering Management 8 (1), 109-121, 2021"
+    },
+    {
+        "title": "Monitoring Defects in Attention Allocations of Nuclear Power Plant Operators through Operational Knowledge Representation",
+        "pub_year": "2022",
+        "citation": "Lifelines 2022, 605-612, 2022"
+    },
+    {
+        "title": "Non-Invasive 3D Imaging and Sensor Data-Based Diagnosis of Water Treatment Plant Filter Integrity",
+        "citation": "ASCE Inspire 2023, 932-940, 0"
+    },
+    {
+        "title": "Non-contact bridge deflection measurement: Application of laser technology",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Physics-based model and data dual-driven approaches for predictive evacuation",
+        "pub_year": "2023",
+        "citation": "Developments in the Built Environment, 100269, 2023"
+    },
+    {
+        "title": "Pingbo Tang, Department of Civil and Environmental Engineering, Carnegie Mellon University, 5000 Forbes Avenue, Pittsburgh, PA 15213, USA, Email: tangpingbo@ cmu. edu Burcu …",
+        "citation": ""
+    },
+    {
+        "title": "Planning for terrestrial laser scanning in construction: A review",
+        "pub_year": "2021",
+        "citation": "Automation in Construction 125, 103551, 2021"
+    },
+    {
+        "title": "Pose guided anchoring for detecting proper use of personal protective equipment",
+        "pub_year": "2021",
+        "citation": "Automation in Construction 130, 103828, 2021"
+    },
+    {
+        "title": "Precision photogrammetric modeling of LROC NAC cameras and topographic products",
+        "pub_year": "2010",
+        "citation": "Annual Meeting of the Lunar Exploration Analysis Group 1595, 36, 2010"
+    },
+    {
+        "title": "Predicting Collisions between Aircraft through Spatiotemporal Data-Driven Simulation of Airport Ground Operations",
+        "pub_year": "2019",
+        "citation": "AIAA Aviation 2019 Forum, 3414, 2019"
+    },
+    {
+        "title": "Predicting separation errors of air traffic controllers through integrated sequence analysis of multimodal behaviour indicators",
+        "pub_year": "2023",
+        "citation": "Advanced Engineering Informatics 55, 101894, 2023"
+    },
+    {
+        "title": "Predicting terminal mid-air collisions through simulator experiments of air traffic control",
+        "pub_year": "2020",
+        "citation": "2020 Winter Simulation Conference (WSC), 2536-2548, 2020"
+    },
+    {
+        "title": "Predictive Control of Interpersonal Communication Processes in Civil Infrastructure Systems Operations",
+        "pub_year": "2020",
+        "citation": "Arizona State University, 2020"
+    },
+    {
+        "title": "Predictive nuclear power plant outage control through computer vision and data-driven simulation",
+        "pub_year": "2020",
+        "citation": "Progress in Nuclear Energy 127, 103448, 2020"
+    },
+    {
+        "title": "Process-oriented guidelines for systematic improvement of supervised learning research in construction engineering",
+        "pub_year": "2023",
+        "citation": "Advanced Engineering Informatics 58, 102215, 2023"
+    },
+    {
+        "title": "Prognostics of operational failures based on pattern mining of operators' eye movement during nuclear power plant operations",
+        "pub_year": "2021",
+        "citation": "Transactions of the American Nuclear Society 124 (1), 436-439, 2021"
+    },
+    {
+        "title": "Propagation mechanics from workplace hazards to human errors with dissipative structure theory",
+        "pub_year": "2020",
+        "citation": "Safety science 126, 104661, 2020"
+    },
+    {
+        "title": "Quantification of edge loss of laser scanned data at spatial discontinuities",
+        "pub_year": "2009",
+        "citation": "Automation in Construction 18 (8), 1070-1083, 2009"
+    },
+    {
+        "title": "Quantifying the reliability of defects located by bridge inspectors through human observation behavioral analysis",
+        "pub_year": "2023",
+        "citation": "Developments in the Built Environment 14, 100167, 2023"
+    },
+    {
+        "title": "Rapid data quality oriented laser scan planning for dynamic construction environments",
+        "pub_year": "2016",
+        "citation": "Advanced Engineering Informatics 30 (2), 218-232, 2016"
+    },
+    {
+        "title": "Real-time Facial Expression and Head Pose Analysis for Monitoring the Workloads of Air Traffic Controllers",
+        "pub_year": "2019",
+        "citation": "AIAA Aviation 2019 Forum, 3412, 2019"
+    },
+    {
+        "title": "Regression-Based Prioritization and Data Modeling for Customized Civil Engineering Data Collection",
+        "pub_year": "2012",
+        "citation": ""
+    },
+    {
+        "title": "Reinforcement learning in construction engineering and management: A review",
+        "pub_year": "2022",
+        "citation": "Journal of Construction Engineering and Management 148 (11), 03122009, 2022"
+    },
+    {
+        "title": "Reliable bridge scour simulation using Eulerian two-phase flow theory",
+        "pub_year": "2016",
+        "citation": "Journal of Computing in Civil Engineering 30 (5), 04016009, 2016"
+    },
+    {
+        "title": "Semi-Automated As-Built Modeling of Light Rail System Guide Beams",
+        "pub_year": "2010",
+        "citation": "Construction Research Congress 2010. Innovation for Reshaping Construction …, 2010"
+    },
+    {
+        "title": "Sensing and field data capture for construction and facility operations",
+        "pub_year": "2011",
+        "citation": "Journal of construction engineering and management 137 (10), 870-881, 2011"
+    },
+    {
+        "title": "Sensitivity Analysis of Missing Data Imputation Methods for Reliable Bridge Condition Assessment",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 230-237, 2021"
+    },
+    {
+        "title": "Sensor Modeling and Cost Benefit of Using Laser Scanning Technology in AEC",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Sensor Modeling of Laser Scanners for Automated Scan Planning on Construction Jobsites",
+        "pub_year": "2017",
+        "citation": "Construction Research Congress 2012 6 (22), 2012, 2017"
+    },
+    {
+        "title": "Sensor modeling of laser scanners for automated scan planning on construction jobsites",
+        "pub_year": "2012",
+        "citation": "Construction Research Congress 2012: Construction Challenges in a Flat World …, 2012"
+    },
+    {
+        "title": "Sharing Construction Safety Inspection Experiences and Site-Specific Knowledge through XR-Augmented Visual Assistance",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2205.15833, 2022"
+    },
+    {
+        "title": "Simulation for characterizing a progressive registration algorithm aligning as-built 3D point clouds against as-designed models",
+        "pub_year": "2013",
+        "citation": "2013 Winter Simulations Conference (WSC), 3169-3180, 2013"
+    },
+    {
+        "title": "Simulation-Based Optimization of Communication Protocols for Reducing Delays during Nuclear Power Plant Outages",
+        "pub_year": "2018",
+        "citation": "Construction Research Congress 2018, 455-464, 2018"
+    },
+    {
+        "title": "Simulation-based optimization of communication protocol for nuclear power plant outages",
+        "pub_year": "2017",
+        "citation": "Transactions of the American Nuclear Society 117, 391-392, 2017"
+    },
+    {
+        "title": "Simulation-based optimization of resilient communication protocol for nuclear power plant outages",
+        "pub_year": "2018",
+        "citation": "Advances in Human Error, Reliability, Resilience, and Performance …, 2018"
+    },
+    {
+        "title": "Solar Modeling and Cost-Benefit Analysis of Energy Efficiency Window Arrangements",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Spatiotemporal data-driven simulation and clustering of ground operations of aircraft for comprehending airport jams and collisions",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 982-991, 2020"
+    },
+    {
+        "title": "Statistical and Visualization Approach for Ranking Factors Affecting NBI Bridge Rating",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Statistical identification of items importants for evaluating bridge conditions",
+        "pub_year": "2012",
+        "citation": "Transportation Research Board, 2012"
+    },
+    {
+        "title": "Surveying Goal Extraction from 3D Point Clouds to Support Bridge Inspection",
+        "citation": ""
+    },
+    {
+        "title": "Surveying Goal Extraction from 3D Point Clouds to Support Construction and Infrastructure Inspection",
+        "citation": ""
+    },
+    {
+        "title": "Surveying Goal Extraction from Laser-Scanned Point Clouds to Support Bridge Inspection",
+        "citation": ""
+    },
+    {
+        "title": "Surveying, geomatics, and 3D reconstruction",
+        "pub_year": "2020",
+        "citation": "Infrastructure Computer Vision, 13-64, 2020"
+    },
+    {
+        "title": "Systems and methods for automated spatial change detection and control of buildings and construction sites using three-dimensional laser scanning data",
+        "pub_year": "2020",
+        "citation": "US Patent 10,706,185, 2020"
+    },
+    {
+        "title": "Target-focused Local Workspace Modeling for Construction Automation Applications",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Target‐Focused Local Workspace Modeling for Construction Automation Applications",
+        "pub_year": "2011",
+        "citation": "Journal of Computing in Civil Engineering 1, 116, 2011"
+    },
+    {
+        "title": "Technological assessment and process implications of field data capture technologies for construction and facility/infrastructure management",
+        "pub_year": "2008",
+        "citation": "ITcon 13, 134-154, 2008"
+    },
+    {
+        "title": "The formation of construction bid-rigging: An analysis based on the theory of planned behavior",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 1239-1246, 2020"
+    },
+    {
+        "title": "Time series analysis of hydraulic data for automated productivity monitoring of pilot tube microtunneling",
+        "pub_year": "2016",
+        "citation": "Journal of Pipeline Systems Engineering and Practice 7 (2), 04015022, 2016"
+    },
+    {
+        "title": "Time-Quality Analysis of Spatial Data Processing for Bridge Management",
+        "pub_year": "2013",
+        "citation": ""
+    },
+    {
+        "title": "Time-quality analysis of spatial data processing for bridge management",
+        "pub_year": "2014",
+        "citation": "Computing in Civil and Building Engineering (2014), 900-908, 2014"
+    },
+    {
+        "title": "Toward automated spatial change analysis of MEP components using 3D point clouds and as-designed BIM models",
+        "pub_year": "2014",
+        "citation": "2014 2nd International Conference on 3D Vision 2, 145-152, 2014"
+    },
+    {
+        "title": "Toward integrated human-machine intelligence for civil engineering: An interdisciplinary perspective",
+        "pub_year": "2021",
+        "citation": "Computing in Civil Engineering 2021, 279-286, 2021"
+    },
+    {
+        "title": "Track: Data Sensing and Analysis (Room 201-A)",
+        "citation": ""
+    },
+    {
+        "title": "Use of value engineering to develop creative design solutions for marine construction projects",
+        "pub_year": "2014",
+        "citation": "Practice Periodical on Structural Design and Construction 19 (1), 129-136, 2014"
+    },
+    {
+        "title": "Using Computer Vision to Reduce Human Errors of Operating on the Wrong Control Valves in Nuclear Power Plants",
+        "pub_year": "2022",
+        "citation": "Human Factors in Energy: Oil, Gas, Nuclear and Electric Power 54, 23, 2022"
+    },
+    {
+        "title": "Using laser scanners for modeling and analysis in architecture, engineering, and construction",
+        "pub_year": "2010",
+        "citation": "Information Sciences and Systems (CISS), 2010 44th Annual Conference on, 1-6, 2010"
+    },
+    {
+        "title": "Vibration-based identification for the presence of scouring of cable-stayed bridges",
+        "pub_year": "2018",
+        "citation": "Journal of Aerospace Engineering 31 (2), 04018007, 2018"
+    },
+    {
+        "title": "Vision-Based Correlated Change Analysis for Supporting Finite Element Model Updating on Curved Continuous Rigid Frame Bridges",
+        "pub_year": "2020",
+        "citation": "Construction Research Congress 2020, 380-389, 2020"
+    },
+    {
+        "title": "Visual complexity analysis of sparse imageries for automatic laser scan planning in dynamic environments",
+        "pub_year": "2015",
+        "citation": "Computing in Civil Engineering 2015, 271-279, 2015"
+    },
+    {
+        "title": "Visual-semantic alignments for automated interpretation of 3D imagery data of high-pier bridges",
+        "pub_year": "2019",
+        "citation": "ASCE International Conference on Computing in Civil Engineering 2019, 209-216, 2019"
+    },
+    {
+        "title": "Visualizing laser scanner data for bridge inspection",
+        "pub_year": "2010",
+        "citation": "27th International Symposium on Automation and Robotics in Construction …, 2010"
+    },
+    {
+        "title": "Visualizing laser scanner data for bridge inspection",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "Visualizing laser scanner data for bridge inspection",
+        "pub_year": "2010",
+        "citation": "2010 Proceedings of the 27th ISARC, Bratislava, Slovakia, 2010"
+    },
+    {
+        "title": "Water chlorophyll estimation in an urban canal system with high-resolution remote sensing data",
+        "pub_year": "2020",
+        "citation": "IEEE Geoscience and Remote Sensing Letters 18 (11), 1876-1880, 2020"
+    },
+    {
+        "title": "Workflow stabilization with finegrained work packaging and near real-time progress monitoring",
+        "pub_year": "2014",
+        "citation": "22nd Annual Conference of the International Group for Lean Construction …, 2014"
+    },
+    {
+        "title": "基于上部结构振动响应的杭州湾大桥桥塔冲刷状态分析",
+        "pub_year": "2018",
+        "citation": "Dongnan Daxue Xuebao (Ziran Kexue Ban)/Journal of Southeast University …, 2018"
+    },
+    {
+        "title": "基于上部结构振动响应的杭州湾大桥桥塔冲刷状态分析",
+        "pub_year": "2018",
+        "citation": "东南大学学报 (自然科学版) 5, 2018"
+    },
+    {
+        "title": "基于动力指纹的斜拉桥桥塔冲刷深度识别方法",
+        "pub_year": "2017",
+        "citation": "湖南大学学报: 自然科学版 44 (11), 145-155, 2017"
+    },
+    {
+        "title": "基于点云模型的桥梁构件形态变化趋势识别与分析",
+        "pub_year": "2018",
+        "citation": "桥梁建设 48 (6), 35-40, 2018"
+    },
+    {
+        "title": "桥梁 CAD 系统集成化相关研究的现状与展望",
+        "pub_year": "2004",
+        "citation": "第十六届全国桥梁学术会议论文集 (上册), 2004"
+    }
+]
