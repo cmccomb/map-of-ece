@@ -1,0 +1,653 @@
+[
+    {
+        "title": "2022 IEEE 8th International Conference on Collaboration and Internet Computing (CIC)| 978-1-6654-7300-2/22/$31.00© 2022 IEEE| DOI: 10.1109/CIC56439. 2022.00029",
+        "citation": ""
+    },
+    {
+        "title": "A Dynamic Reweighting Strategy For Fair Federated Learning",
+        "pub_year": "2022",
+        "citation": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022"
+    },
+    {
+        "title": "A Field Guide to Federated Optimization",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2107.06917, 2021"
+    },
+    {
+        "title": "A Novel Framework for the Analysis and Design of Heterogeneous Federated Learning",
+        "pub_year": "2021",
+        "citation": "IEEE Transactions on Signal Processing 69, 5234-5249, 2021"
+    },
+    {
+        "title": "A Unified Approach to Translate Classical Bandit Algorithms to Structured Bandits",
+        "pub_year": "2021",
+        "citation": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021"
+    },
+    {
+        "title": "A unified approach to translate classical bandit algorithms to the structured bandit setting",
+        "pub_year": "2020",
+        "citation": "IEEE Journal on Selected Areas in Information Theory, 2020"
+    },
+    {
+        "title": "A unified approach to translate classical bandit algorithms to the structured bandit setting",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1810.08164, 2018"
+    },
+    {
+        "title": "Accelerating Deep Learning by Focusing on the Biggest Losers",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1910.00762, 2019"
+    },
+    {
+        "title": "Active distribution learning from˘ indirect samples",
+        "pub_year": "2018",
+        "citation": "2018 56th Annual Allerton Conference on Communication, Control, and …, 2018"
+    },
+    {
+        "title": "Adaptive communication strategies to achieve the best error-runtime trade-off in local-update SGD",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1810.08313, 2018"
+    },
+    {
+        "title": "Adaptive learning rate schedule in distributed stochastic gradient descent",
+        "pub_year": "2021",
+        "citation": "US Patent 11,182,689, 2021"
+    },
+    {
+        "title": "Adaptive quantization of model updates for communication-efficient federated learning",
+        "pub_year": "2021",
+        "citation": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021"
+    },
+    {
+        "title": "Advances and open problems in federated learning",
+        "pub_year": "2021",
+        "citation": "Foundations and Trends® in Machine Learning 14 (1–2), 1-210, 2021"
+    },
+    {
+        "title": "Advances and open problems in federated learning",
+        "pub_year": "2021",
+        "citation": ""
+    },
+    {
+        "title": "Advances and open problems in federated learning",
+        "pub_year": "2021",
+        "citation": "Foundations and Trends® in Machine Learning 14 (1–2), 1-210, 2021"
+    },
+    {
+        "title": "Advances and open problems in federated learning. arXiv 2019",
+        "pub_year": "1912",
+        "citation": "arXiv preprint arXiv:1912.04977, 1912"
+    },
+    {
+        "title": "Asynchronous SGD and Staleness-Reduced Variants",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 51-66, 2022"
+    },
+    {
+        "title": "Bandit-based Communication-Efficient Client Selection Strategies for Federated Learning",
+        "pub_year": "2020",
+        "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 1066-1069, 2020"
+    },
+    {
+        "title": "Best-Arm Identification in Correlated Multi-Armed Bandits",
+        "pub_year": "2021",
+        "citation": "IEEE Journal on Selected Areas in Information Theory 2 (2), 549-563, 2021"
+    },
+    {
+        "title": "Beyond Distributed Training inátheáCloud",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 123-127, 2022"
+    },
+    {
+        "title": "Calculus, Probability and Order Statistics Review",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 13-25, 2022"
+    },
+    {
+        "title": "Client selection in federated learning: Convergence analysis and power-of-choice selection strategies",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2010.01243, 2020"
+    },
+    {
+        "title": "Coding for fast content download",
+        "pub_year": "2012",
+        "citation": "arXiv preprint arXiv:1210.3012, 2012"
+    },
+    {
+        "title": "Communication-Efficient Distributed Optimization Algorithms",
+        "pub_year": "2022",
+        "citation": "Federated Learning: A Comprehensive Overview of Methods and Applications …, 2022"
+    },
+    {
+        "title": "Communication-Efficient and Model-Heterogeneous Personalized Federated Learning via Clustered Knowledge Transfer",
+        "pub_year": "2023",
+        "citation": "IEEE Journal of Selected Topics in Signal Processing 17 (1), 234-247, 2023"
+    },
+    {
+        "title": "Convergence of SGD and Variance-Reduced Variants",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 27-38, 2022"
+    },
+    {
+        "title": "Cooperative SGD: A Unified Framework for the Design and Analysis of Local-Update SGD Algorithms",
+        "pub_year": "2021",
+        "citation": "Journal of Machine Learning Research 22 (213), 1-50, 2021"
+    },
+    {
+        "title": "Cooperative SGD: A unified Framework for the Design and Analysis of Communication-Efficient SGD Algorithms",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1808.07576, 2018"
+    },
+    {
+        "title": "Correlated combinatorial bandits for online resource allocation",
+        "pub_year": "2022",
+        "citation": "Proceedings of the Twenty-Third International Symposium on Theory …, 2022"
+    },
+    {
+        "title": "Correlated multi-armed bandits with a latent random source",
+        "pub_year": "2020",
+        "citation": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020"
+    },
+    {
+        "title": "Correlated multi-armed bandits with a latent random source",
+        "pub_year": "2020",
+        "citation": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020"
+    },
+    {
+        "title": "Correlation Aware Sparsified Mean Estimation Using Random Projection",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.18868, 2023"
+    },
+    {
+        "title": "Decentralized SGD and Its Variants",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 107-121, 2022"
+    },
+    {
+        "title": "Deep Probabilistic Kernels for Sample Efficient Learning",
+        "pub_year": "2019",
+        "citation": "Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States), 2019"
+    },
+    {
+        "title": "Deep kernels with probabilistic embeddings for small-data learning",
+        "pub_year": "2021",
+        "citation": "Uncertainty in Artificial Intelligence, 918-928, 2021"
+    },
+    {
+        "title": "Distributed Optimization in Machine Learning",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 1-12, 2022"
+    },
+    {
+        "title": "Downlink Erlang capacity of cellular OFDMA",
+        "pub_year": "2011",
+        "citation": "2011 National conference on communications (NCC), 1-5, 2011"
+    },
+    {
+        "title": "Efficient Redundancy Techniques to Reduce Delay in Cloud Systems",
+        "pub_year": "2016",
+        "citation": "Massachusetts Institute of Technology, 2016"
+    },
+    {
+        "title": "Efficient Straggler Replication in Large-Scale Parallel Computing",
+        "pub_year": "2019",
+        "citation": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems …, 2019"
+    },
+    {
+        "title": "Efficient Straggler Replication in Large-scale Parallel Computing",
+        "pub_year": "2015",
+        "citation": "arXiv preprint arXiv:1503.03128, 2015"
+    },
+    {
+        "title": "Efficient redundancy techniques for latency reduction in cloud systems",
+        "pub_year": "2017",
+        "citation": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems …, 2017"
+    },
+    {
+        "title": "Efficient replication of queued tasks for latency reduction in cloud systems",
+        "pub_year": "2015",
+        "citation": "2015 53rd Annual Allerton Conference on Communication, Control, and …, 2015"
+    },
+    {
+        "title": "Efficient task replication for fast response times in parallel computation",
+        "pub_year": "2014",
+        "citation": "The 2014 ACM international conference on Measurement and modeling of …, 2014"
+    },
+    {
+        "title": "Erasure Coding Techniques for Faster Distributed Computing and Content Download",
+        "citation": ""
+    },
+    {
+        "title": "Exploring the Error-Runtime Trade-off in Decentralized Optimization",
+        "pub_year": "2020",
+        "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 910-914, 2020"
+    },
+    {
+        "title": "Fast and efficient distributed matrix-vector multiplication using rateless fountain codes",
+        "pub_year": "2019",
+        "citation": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019"
+    },
+    {
+        "title": "FedExP: Speeding up Federated Averaging Via Extrapolation",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2301.09604, 2023"
+    },
+    {
+        "title": "FedLite: A Scalable Approach for Federated Learning on Resource-constrained Clients",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2201.11865, 2022"
+    },
+    {
+        "title": "FedLite: Improving Communication Efficiency in Federated Split Learning",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
+        "title": "Federated Learning: Recent Advances and New Challenges",
+        "pub_year": "2022",
+        "citation": "Annual Conference on Neural Information Processing Systems, 2022"
+    },
+    {
+        "title": "Federated Minimax Optimization with Client Heterogeneity",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2302.04249, 2023"
+    },
+    {
+        "title": "Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling",
+        "pub_year": "2022",
+        "citation": "International Conference on Machine Learning, 10997-11057, 2022"
+    },
+    {
+        "title": "Federated learning under distributed concept drift",
+        "pub_year": "2023",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 5834-5853, 2023"
+    },
+    {
+        "title": "Federated minimax optimization: Improved convergence analyses and algorithms",
+        "pub_year": "2022",
+        "citation": "International Conference on Machine Learning, 19683-19730, 2022"
+    },
+    {
+        "title": "Fedvarp: Tackling the variance due to partial client participation in federated learning",
+        "pub_year": "2022",
+        "citation": "Uncertainty in Artificial Intelligence, 906-916, 2022"
+    },
+    {
+        "title": "Fountain Codes",
+        "pub_year": "2010",
+        "citation": "http://www.mit.edu/~gauri/FountainCodes.pdf, 2010"
+    },
+    {
+        "title": "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2204.12703, 2022"
+    },
+    {
+        "title": "Heterogeneous LoRA for Federated Fine-tuning of On-device Foundation Models",
+        "pub_year": "2023",
+        "citation": "International Workshop on Federated Learning in the Age of Foundation Models …, 2023"
+    },
+    {
+        "title": "High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.18784, 2023"
+    },
+    {
+        "title": "International Workshop on Federated Learning in the Age of Foundation Models",
+        "pub_year": "2023",
+        "citation": "Annual Conference on Neural Information Processing Systems, 2023"
+    },
+    {
+        "title": "Introduction to ScaDL 2019",
+        "pub_year": "2019",
+        "citation": "2019 IEEE International Parallel and Distributed Processing Symposium …, 2019"
+    },
+    {
+        "title": "Job dispatching policies for queueing systems with unknown service rates",
+        "pub_year": "2021",
+        "citation": "Proceedings of the Twenty-second International Symposium on Theory …, 2021"
+    },
+    {
+        "title": "Leveraging Spatial and Temporal Correlations in Sparsified Mean Estimation",
+        "pub_year": "2021",
+        "citation": "Advances in Neural Information Processing Systems 34, 14280-14292, 2021"
+    },
+    {
+        "title": "Leveraging Synergies Between AI and Networking to Build Next Generation Edge Networks",
+        "pub_year": "2022",
+        "citation": "2022 IEEE 8th International Conference on Collaboration and Internet …, 2022"
+    },
+    {
+        "title": "Local Adaptivity in Federated Learning: Convergence and Consistency",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2106.02305, 2021"
+    },
+    {
+        "title": "Local or Global: Selective Knowledge Assimilation for Federated Learning with Limited Labels",
+        "pub_year": "2023",
+        "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2023"
+    },
+    {
+        "title": "Local-Update and Overlap SGD",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 67-92, 2022"
+    },
+    {
+        "title": "MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1905.09435, 2019"
+    },
+    {
+        "title": "MLSys: The New Frontier of Machine Learning Systems",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1904.03257, 2019"
+    },
+    {
+        "title": "Machine Learning on Volatile Instances: Convergence, Runtime, and Cost Tradeoffs",
+        "pub_year": "2021",
+        "citation": "IEEE/ACM Transactions on Networking 30 (1), 215-228, 2021"
+    },
+    {
+        "title": "Machine learning on the cheap: An optimized strategy to exploit spot instance",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Machine learning on volatile instances",
+        "pub_year": "2020",
+        "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 139-148, 2020"
+    },
+    {
+        "title": "Mariana Raykova, Dawn Song, Weikang Song, Sebastian U",
+        "pub_year": "2021",
+        "citation": "Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth …, 2021"
+    },
+    {
+        "title": "Maruan Al-Shedivat, Galen Andrew, Salman Avestimehr, Katharine Daly, Deepesh Data, et al. A field guide to federated optimization",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2107.06917 2 (9), 2021"
+    },
+    {
+        "title": "Matcha: A Matching-Based Link Scheduling Strategy to Speed up Distributed Optimization",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Signal Processing 70, 5208-5221, 2022"
+    },
+    {
+        "title": "Matchmaker: Data Drift Mitigation in Machine Learning for Large-Scale Systems",
+        "pub_year": "2022",
+        "citation": "Proceedings of Machine Learning and Systems 4, 77-94, 2022"
+    },
+    {
+        "title": "Multi-Model Federated Learning with Provable Guarantees",
+        "pub_year": "2023",
+        "citation": "Performance Evaluation Methodologies and Tools: 15th EAI International …, 2023"
+    },
+    {
+        "title": "Multi-armed bandits with correlated arms",
+        "pub_year": "2021",
+        "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021"
+    },
+    {
+        "title": "On Throughput-Smoothness Trade-offs in Streaming Communication",
+        "pub_year": "2015",
+        "citation": "arXiv preprint arXiv:1511.08143, 2015"
+    },
+    {
+        "title": "On playback delay in streaming communication",
+        "pub_year": "2012",
+        "citation": "2012 IEEE International Symposium on Information Theory Proceedings, 2856-2860, 2012"
+    },
+    {
+        "title": "On relay-assisted cellular networks",
+        "pub_year": "2010",
+        "citation": "Graduate thesis, India Institute of Technology-Bombay, 2010"
+    },
+    {
+        "title": "On relay-assisted cellular networks",
+        "pub_year": "2010",
+        "citation": "Graduate thesis, India Institute of Technology-Bombay, 2010"
+    },
+    {
+        "title": "On the Convergence of Federated Averaging with Cyclic Client Participation",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2302.03109, 2023"
+    },
+    {
+        "title": "On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2206.04723, 2022"
+    },
+    {
+        "title": "On the delay-storage trade-off in content download from coded distributed storage systems",
+        "pub_year": "2014",
+        "citation": "IEEE Journal on Selected Areas in Communications 32 (5), 989-997, 2014"
+    },
+    {
+        "title": "On the service capacity region of accessing erasure coded content",
+        "pub_year": "2017",
+        "citation": "2017 55th Annual Allerton Conference on Communication, Control, and …, 2017"
+    },
+    {
+        "title": "On the service capacity region of accessing erasure coded content",
+        "pub_year": "2017",
+        "citation": "2017 55th Annual Allerton Conference on Communication, Control, and …, 2017"
+    },
+    {
+        "title": "On the service capacity region of accessing erasure coded content",
+        "pub_year": "2017",
+        "citation": "2017 55th Annual Allerton Conference on Communication, Control, and …, 2017"
+    },
+    {
+        "title": "Optimal relay placement for cellular coverage extension",
+        "pub_year": "2011",
+        "citation": "2011 National Conference on Communications (NCC), 1-5, 2011"
+    },
+    {
+        "title": "Optimization Algorithms for Distributed Machine Learning",
+        "pub_year": "2022",
+        "citation": "Springer Nature, 2022"
+    },
+    {
+        "title": "Overlap local-SGD: An algorithmic approach to hide communication delays in distributed SGD",
+        "pub_year": "2020",
+        "citation": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020"
+    },
+    {
+        "title": "Packet Loss Analysis of ARQ in Relay based Cellular Networks",
+        "citation": ""
+    },
+    {
+        "title": "Performance analysis of active handoff in CDMA2000 femtocells",
+        "pub_year": "2010",
+        "citation": "2010 National Conference on Communications (NCC), 1-5, 2010"
+    },
+    {
+        "title": "Personalized Federated Learning for Heterogeneous Clients with Clustered Knowledge Transfer",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2109.08119, 2021"
+    },
+    {
+        "title": "Playback delay in on-demand streaming communication with feedback",
+        "pub_year": "2015",
+        "citation": "2015 IEEE International Symposium on Information Theory (ISIT), 2281-2285, 2015"
+    },
+    {
+        "title": "Probabilistic Neighbourhood Component Analysis: Sample Efficient Uncertainty Estimation in Deep Learning (preprint)",
+        "pub_year": "2020",
+        "citation": ""
+    },
+    {
+        "title": "Probabilistic neighbourhood component analysis: Sample efficient uncertainty estimation in deep learning",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2007.10800, 2020"
+    },
+    {
+        "title": "Quantized and Sparsified Distributed SGD",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 93-106, 2022"
+    },
+    {
+        "title": "Queues with Redundancy: Latency-Cost Analysis.",
+        "pub_year": "2015",
+        "citation": "SIGMETRICS Performance Evaluation Review 43 (2), 54-56, 2015"
+    },
+    {
+        "title": "Rateless Codes for Distributed Computations with Sparse Compressed Matrices",
+        "pub_year": "2019",
+        "citation": "2019 IEEE International Symposium on Information Theory (ISIT), 2793-2797, 2019"
+    },
+    {
+        "title": "Rateless Codes for Distributed Non-linear Computations",
+        "pub_year": "2021",
+        "citation": "2021 11th International Symposium on Topics in Coding (ISTC), 1-5, 2021"
+    },
+    {
+        "title": "Rateless Codes for Near-Perfect Load Balancing in Distributed Matrix-Vector Multiplication",
+        "pub_year": "2019",
+        "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (3 …, 2019"
+    },
+    {
+        "title": "Rateless Sum-Recovery Codes For Distributed Non-Linear Computations",
+        "pub_year": "2022",
+        "citation": "2022 IEEE Information Theory Workshop (ITW), 160-165, 2022"
+    },
+    {
+        "title": "Rateless codes for near-perfect load balancing in distributed matrix-vector multiplication",
+        "pub_year": "2020",
+        "citation": "Abstracts of the 2020 SIGMETRICS/Performance Joint International Conference …, 2020"
+    },
+    {
+        "title": "Rateless codes for near-perfect load balancing in distributed matrix-vector multiplication",
+        "pub_year": "2019",
+        "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (3 …, 2019"
+    },
+    {
+        "title": "Rateless codes for near-perfect load balancing in distributed matrix-vector multiplication",
+        "pub_year": "2019",
+        "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (3 …, 2019"
+    },
+    {
+        "title": "Rateless codes for near-perfect load balancing in distributed matrix-vector multiplication",
+        "pub_year": "2022",
+        "citation": "Communications of the ACM 65 (5), 111-118, 2022"
+    },
+    {
+        "title": "Rateless codes for straggler mitigation in distributed computing",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Round-robin overlapping generations coding for fast content download",
+        "pub_year": "2013",
+        "citation": "2013 IEEE International Symposium on Information Theory, 2740-2744, 2013"
+    },
+    {
+        "title": "Runtime estimation for machine learning tasks",
+        "pub_year": "2021",
+        "citation": "US Patent 11,200,512, 2021"
+    },
+    {
+        "title": "Runtime estimation for machine learning tasks",
+        "pub_year": "2023",
+        "citation": "US Patent 11,727,309, 2023"
+    },
+    {
+        "title": "Scalable Deep Learning over Parallel and Distributed Infrastructures (ScaDL)",
+        "citation": ""
+    },
+    {
+        "title": "Service rate region of content access from erasure coded storage",
+        "pub_year": "2018",
+        "citation": "2018 IEEE Information Theory Workshop (ITW), 1-5, 2018"
+    },
+    {
+        "title": "Service rate region: A new aspect of coded distributed system design",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2009.01598, 2020"
+    },
+    {
+        "title": "Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Slow and stale gradients can win the race",
+        "pub_year": "2021",
+        "citation": "IEEE Journal on Selected Areas in Information Theory, 2021"
+    },
+    {
+        "title": "Slow and stale gradients can win the race: Error-runtime trade-offs in distributed SGD",
+        "pub_year": "2018",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 803-812, 2018"
+    },
+    {
+        "title": "Synchronous SGD and Straggler-Resilient Variants",
+        "pub_year": "2022",
+        "citation": "Optimization Algorithms for Distributed Machine Learning, 39-49, 2022"
+    },
+    {
+        "title": "Synergy via Redundancy: Adaptive Replication Strategies and Fundamental Limits",
+        "pub_year": "2021",
+        "citation": "IEEE/ACM Transactions on Networking, 2021"
+    },
+    {
+        "title": "SysML: The New Frontier of Machine Learning Systems",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Tackling Heterogeneous Traffic in Multi-access Systems via Erasure Coded Servers",
+        "pub_year": "2021",
+        "citation": ""
+    },
+    {
+        "title": "Tackling heterogeneous traffic in multi-access systems via erasure coded servers",
+        "pub_year": "2022",
+        "citation": "Proceedings of the Twenty-Third International Symposium on Theory …, 2022"
+    },
+    {
+        "title": "Tackling the objective inconsistency problem in heterogeneous federated optimization",
+        "pub_year": "2020",
+        "citation": "Advances in neural information processing systems 33, 7611-7623, 2020"
+    },
+    {
+        "title": "The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.10697, 2023"
+    },
+    {
+        "title": "The Effect of Block-wise Feedback on the Throughput-Delay Trade-off",
+        "pub_year": "2014",
+        "citation": "in Streaming,” INFOCOM Workshop on Contemporary Video, 2014"
+    },
+    {
+        "title": "Thesis: Using Redundancy to Reduce Latency in Cloud Systems",
+        "pub_year": "2010",
+        "citation": ""
+    },
+    {
+        "title": "To federate or not to federate: Incentivizing client participation in federated learning",
+        "pub_year": "2022",
+        "citation": "Workshop on Federated Learning: Recent Advances and New Challenges (in …, 2022"
+    },
+    {
+        "title": "Towards Understanding Biased Client Selection in Federated Learning",
+        "pub_year": "2022",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 10351-10375, 2022"
+    },
+    {
+        "title": "Towards a Theoretical and Practical Understanding of One-Shot Federated Learning with Fisher Information",
+        "pub_year": "2023",
+        "citation": "Federated Learning and Analytics in Practice: Algorithms, Systems …, 2023"
+    },
+    {
+        "title": "Towards understanding biased client selection in federated learning",
+        "pub_year": "2022",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 10351-10375, 2022"
+    },
+    {
+        "title": "Using straggler replication to reduce latency in large-scale parallel computing",
+        "pub_year": "2015",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 43 (3), 7-11, 2015"
+    }
+]

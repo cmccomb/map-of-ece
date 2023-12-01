@@ -1,0 +1,211 @@
+[
+    {
+        "title": "A Generalizable Physics-informed Learning Framework for Risk Probability Estimation",
+        "pub_year": "2023",
+        "citation": "Learning for Dynamics and Control Conference, 358-370, 2023"
+    },
+    {
+        "title": "A Learning and Control Perspective for Microfinance",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2207.12631, 2022"
+    },
+    {
+        "title": "A Learning and Control Perspective for Microfinance",
+        "pub_year": "2023",
+        "citation": "Learning for Dynamics and Control Conference, 915-927, 2023"
+    },
+    {
+        "title": "A linear programming framework for networked control system design",
+        "pub_year": "2015",
+        "citation": "IFAC Workshop on Distributed Estimation and Control in Networked Systems 48 …, 2015"
+    },
+    {
+        "title": "Adaptive safe control for driving in uncertain environments",
+        "pub_year": "2022",
+        "citation": "2022 IEEE Intelligent Vehicles Symposium (IV), 1662-1668, 2022"
+    },
+    {
+        "title": "Algorithms for optimal control with fixed-rate feedback",
+        "pub_year": "2017",
+        "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 6015-6020, 2017"
+    },
+    {
+        "title": "An Integrative Perspective to LQ and  Control for Delayed and Quantized Systems",
+        "pub_year": "2020",
+        "citation": "IEEE Transactions on Automatic Control 65 (11), 4781-4792, 2020"
+    },
+    {
+        "title": "An occlusion-and interaction-aware safe control strategy for autonomous vehicles",
+        "pub_year": "2023",
+        "citation": "https://ppms.cit.cmu.edu/media/project_files/IFAC_AV_final.pdf, 2023"
+    },
+    {
+        "title": "Attack-Resilient H2, H-infinity, and L1 State Estimator",
+        "pub_year": "2018",
+        "citation": "IEEE Transactions on Automatic Control, 2018"
+    },
+    {
+        "title": "Attack-Resilient ℋ2, ℋ∩, and ℓ1 State Estimator.",
+        "pub_year": "2018",
+        "citation": "IEEE Trans. Autom. Control. 63 (12), 4353-4360, 2018"
+    },
+    {
+        "title": "Axon Arbor Trade-off Between Wiring Cost, Delay, and Synchronization in Neuronal Networks",
+        "pub_year": "2021",
+        "citation": "2021 55th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2021"
+    },
+    {
+        "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
+        "pub_year": "2023",
+        "citation": "Building and Environment, 111053, 2023"
+    },
+    {
+        "title": "Computational Model for Probability Prediction of Scan Paths in Static Scenes.",
+        "pub_year": "2012",
+        "citation": "VISAPP (1), 427-430, 2012"
+    },
+    {
+        "title": "Connecting the speed-accuracy trade-offs in sensorimotor control and neurophysiology reveals diversity sweet spots in layered control architectures",
+        "pub_year": "2019",
+        "citation": "California Institute of Technology, 2019"
+    },
+    {
+        "title": "Diversity deconstrains component limitations in sensorimotor control",
+        "pub_year": "2022",
+        "citation": ""
+    },
+    {
+        "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
+        "pub_year": "2021",
+        "citation": "Proceedings of the National Academy of Sciences, 2021"
+    },
+    {
+        "title": "Dynamic state estimation in the presence of compromised sensory data",
+        "pub_year": "2015",
+        "citation": "Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 5808-5813, 2015"
+    },
+    {
+        "title": "Electric vehicle charging: a queueing approach",
+        "pub_year": "2017",
+        "citation": "SIGMETRICS Performance Evaluation Review 45 (2), 33-35, 2017"
+    },
+    {
+        "title": "Energy Efficient Computing R&D Roadmap Outline for Automated Vehicles",
+        "pub_year": "2021",
+        "citation": "Sandia National Lab.(SNL-NM), Albuquerque, NM (United States), 2021"
+    },
+    {
+        "title": "Experimental and educational platforms for studying architecture and tradeoffs in human sensorimotor control",
+        "pub_year": "2019",
+        "citation": "2019 American Control Conference (ACC), 483-488, 2019"
+    },
+    {
+        "title": "Feasibility of computational estimation of task-oriented visual attention",
+        "pub_year": "2012",
+        "citation": "Proceedings of the Thirteenth Australasian User Interface Conference-Volume …, 2012"
+    },
+    {
+        "title": "Fitts' law for speed-accuracy trade-off is a diversity sweet spot in sensorimotor control",
+        "pub_year": "2019",
+        "citation": "arXiv, 2019"
+    },
+    {
+        "title": "Fundamental limits and achievable performance in biomolecular control",
+        "pub_year": "2018",
+        "citation": "2018 Annual American Control Conference (ACC), 2707-2714, 2018"
+    },
+    {
+        "title": "Generalized Exact Scheduling: A Minimal-Variance Distributed Deadline Scheduler",
+        "pub_year": "2022",
+        "citation": "Operations Research, 2022"
+    },
+    {
+        "title": "Hard limits on robust control over delayed and quantized communication channels with applications to sensorimotor control",
+        "pub_year": "2015",
+        "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 7522-7529, 2015"
+    },
+    {
+        "title": "Medical application on internet of things",
+        "pub_year": "2011",
+        "citation": "IET international conference on communication technology and application …, 2011"
+    },
+    {
+        "title": "Minimal-variance distributed deadline scheduling in a stationary environment",
+        "pub_year": "2019",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 46 (3), 56-61, 2019"
+    },
+    {
+        "title": "Minimal-variance distributed scheduling under strict demands and deadlines",
+        "pub_year": "2019",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 46 (2), 12-14, 2019"
+    },
+    {
+        "title": "Myopically Verifiable Probabilistic Certificate for Long-term Safety",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2110.13380, 2021"
+    },
+    {
+        "title": "On identification of parameterized switched linear systems",
+        "pub_year": "2016",
+        "citation": "2016 35th Chinese Control Conference (CCC), 2189-2195, 2016"
+    },
+    {
+        "title": "Probabilistic safety certificate for multi-agent systems",
+        "pub_year": "2022",
+        "citation": "2022 IEEE 61st Conference on Decision and Control (CDC), 5343-5350, 2022"
+    },
+    {
+        "title": "Research Challenges for Energy-Efficient Computing in Automated Vehicles",
+        "pub_year": "2023",
+        "citation": "Computer 56 (3), 47-58, 2023"
+    },
+    {
+        "title": "Rethinking safe control in the presence of self-seeking humans",
+        "pub_year": "2023",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (12), 15331 …, 2023"
+    },
+    {
+        "title": "Safe Control in the Presence of Stochastic Uncertainties",
+        "pub_year": "2021",
+        "citation": "60th IEEE Conference on Decision and Control (CDC), 6640-6645, 2021"
+    },
+    {
+        "title": "Scalable Long-Term Safety Certificate for Large-Scale Systems",
+        "pub_year": "2023",
+        "citation": "IEEE Control Systems Letters 7, 1285-1290, 2023"
+    },
+    {
+        "title": "Smoothed least-laxity-first algorithm for EV charging",
+        "pub_year": "2017",
+        "citation": "Proceedings of the Eighth International Conference on Future Energy Systems …, 2017"
+    },
+    {
+        "title": "Smoothed least-laxity-first algorithm for EV charging",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2102.08610, 2021"
+    },
+    {
+        "title": "Smoothed least-laxity-first algorithm for electric vehicle charging: Online decision and performance analysis with resource augmentation",
+        "pub_year": "2021",
+        "citation": "IEEE transactions on smart grid 13 (3), 2209-2217, 2021"
+    },
+    {
+        "title": "Teaching control theory in high school",
+        "pub_year": "2016",
+        "citation": "2016 IEEE 55th Conference on Decision and Control (CDC), 5925-5949, 2016"
+    },
+    {
+        "title": "Theoretical foundations for layered architectures and speed-accuracy tradeoffs in sensorimotor control",
+        "pub_year": "2019",
+        "citation": "2019 American Control Conference (ACC), 809-814, 2019"
+    },
+    {
+        "title": "Towards Proactive Safe Human-Robot Collaborations via Data-Efficient Conditional Behavior Prediction",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.11893, 2023"
+    },
+    {
+        "title": "Universal Laws and Architectures (普遍法则与结构)",
+        "citation": ""
+    }
+]

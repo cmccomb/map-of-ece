@@ -1,0 +1,817 @@
+[
+    {
+        "title": "2009 MEMOCODE co-design contest",
+        "pub_year": "2009",
+        "citation": "2009 7th IEEE/ACM International Conference on Formal Methods and Models for …, 2009"
+    },
+    {
+        "title": "21.4 GS/s real-time DSP-based optical OFDM signal generation and transmission over 1600 km of uncompensated fibre",
+        "pub_year": "2009",
+        "citation": "2009 35th European Conference on Optical Communication 2009, 1-2, 2009"
+    },
+    {
+        "title": "3D-stacked memory-side acceleration: Accelerator and system design",
+        "pub_year": "2014",
+        "citation": "WoNDP, 2014"
+    },
+    {
+        "title": "3d point cloud reduction using mixed-integer quadratic programming",
+        "pub_year": "2013",
+        "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2013"
+    },
+    {
+        "title": "A 3D-stacked logic-in-memory accelerator for application-specific data intensive computing",
+        "pub_year": "2013",
+        "citation": "2013 IEEE international 3D systems integration conference (3DIC), 1-7, 2013"
+    },
+    {
+        "title": "A Roadmap for Enabling a Future-Proof In-Network Computing Data Plane Ecosystem",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2111.04563, 2021"
+    },
+    {
+        "title": "A Service-Oriented Memory Architecture for FPGA Computing",
+        "pub_year": "2020",
+        "citation": "2020 30th International Conference on Field Programmable Logic and …, 2020"
+    },
+    {
+        "title": "A TRS Model for a Modern Microprocessor Computation Structures",
+        "pub_year": "1998",
+        "citation": ""
+    },
+    {
+        "title": "A complexity-effective architecture for accelerating full-system multiprocessor simulations using FPGAs",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 16th international ACM/SIGDA symposium on Field …, 2008"
+    },
+    {
+        "title": "A personal supercomputer for climate research",
+        "pub_year": "1999",
+        "citation": "Proceedings of the 1999 ACM/IEEE conference on Supercomputing, 59-es, 1999"
+    },
+    {
+        "title": "A study of pointer-chasing performance on shared-memory processor-FPGA systems",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 2016 ACM/SIGDA International Symposium on Field …, 2016"
+    },
+    {
+        "title": "Accelerating Computer System Simulators with FPGAs",
+        "pub_year": "2014",
+        "citation": "FPGA-Accelerated Simulation of Computer Systems, 25-30, 2014"
+    },
+    {
+        "title": "Accelerating blocked matrix-matrix multiplication using a software-managed memory hierarchy with DMA",
+        "pub_year": "2005",
+        "citation": "High Performance Embedded Computing Workshop, 2005"
+    },
+    {
+        "title": "Achieving 100gbps intrusion prevention on a single server",
+        "pub_year": "2020",
+        "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020"
+    },
+    {
+        "title": "Algorithm and architecture optimization for large size two dimensional discrete fourier transform",
+        "pub_year": "2012",
+        "citation": "Proceedings of the ACM/SIGDA international symposium on Field Programmable …, 2012"
+    },
+    {
+        "title": "Algorithm/hardware co-optimized sar image reconstruction with 3d-stacked logic in memory",
+        "pub_year": "2014",
+        "citation": "IEEE High Performance Extreme Computing Conference, 2014"
+    },
+    {
+        "title": "Amorphous dynamic partial reconfiguration with flexible boundaries to remove fragmentation",
+        "pub_year": "2017",
+        "citation": "arXiv preprint arXiv:1710.08270, 2017"
+    },
+    {
+        "title": "An evaluation of stratified sampling of microarchitecture simulations",
+        "pub_year": "2004",
+        "citation": "Proceedings of the IEEE Workshop on Duplicating, Deconstructing and Debunking, 2004"
+    },
+    {
+        "title": "Applying Smarts to SPEC CPU2000",
+        "pub_year": "2003",
+        "citation": "Computer Architecture Lab at Carnegie Mellon University, Tech. Rep 1, 2003"
+    },
+    {
+        "title": "Automatic cost minimization for multiplierless implementations of discrete signal transforms",
+        "pub_year": "2004",
+        "citation": "2004 IEEE International Conference on Acoustics, Speech, and Signal …, 2004"
+    },
+    {
+        "title": "Automatic generation of customized discrete Fourier transform IPs",
+        "pub_year": "2005",
+        "citation": "Proceedings of the 42nd annual Design Automation Conference, 471-474, 2005"
+    },
+    {
+        "title": "Automatic generation of streaming datapaths for arbitrary fixed permutations",
+        "pub_year": "2009",
+        "citation": "2009 Design, Automation & Test in Europe Conference & Exhibition, 1118-1123, 2009"
+    },
+    {
+        "title": "Automatic multithreaded pipeline synthesis from transactional datapath specifications",
+        "pub_year": "2010",
+        "citation": "Proceedings of the 47th Design Automation Conference, 314-319, 2010"
+    },
+    {
+        "title": "Automatic pipelining from transactional datapath specifications",
+        "pub_year": "2011",
+        "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2011"
+    },
+    {
+        "title": "Beyond Peak Performance: Comparing the Real Performance of AI-Optimized FPGAs and GPUs",
+        "pub_year": "2020",
+        "citation": ""
+    },
+    {
+        "title": "C-to-coram: Compiling perfect loop nests to the portable coram abstraction",
+        "pub_year": "2013",
+        "citation": "Proceedings of the ACM/SIGDA international symposium on Field programmable …, 2013"
+    },
+    {
+        "title": "CONNECT: re-examining conventional wisdom for designing nocs in the context of FPGAs",
+        "pub_year": "2012",
+        "citation": "Proceedings of the ACM/SIGDA international symposium on Field Programmable …, 2012"
+    },
+    {
+        "title": "Chip-level redundancy in distributed shared-memory multiprocessors",
+        "pub_year": "2009",
+        "citation": "2009 15th IEEE Pacific Rim International Symposium on Dependable Computing …, 2009"
+    },
+    {
+        "title": "CoRAM++: Supporting data-structure-specific memory interfaces for FPGA computing",
+        "pub_year": "2015",
+        "citation": "2015 25th International conference on field programmable logic and …, 2015"
+    },
+    {
+        "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
+        "pub_year": "2011",
+        "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011"
+    },
+    {
+        "title": "Commercial antivirus software effectiveness: an empirical study",
+        "pub_year": "2011",
+        "citation": "Computer 3 (44), 63-70, 2011"
+    },
+    {
+        "title": "Computer generation of hardware for linear digital signal processing transforms",
+        "pub_year": "2012",
+        "citation": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 17 (2 …, 2012"
+    },
+    {
+        "title": "Cross-platform FPGA accelerator development using CoRAM and CONNECT",
+        "pub_year": "2013",
+        "citation": "Proceedings of the ACM/SIGDA international symposium on Field programmable …, 2013"
+    },
+    {
+        "title": "Custom Reduction of Arithmetic in Linear DSP Transforms",
+        "pub_year": "2001",
+        "citation": "Signal Processing 49 (12), 3032-3044, 2001"
+    },
+    {
+        "title": "Custom-optimized multiplierless implementations of DSP algorithms",
+        "pub_year": "2004",
+        "citation": "IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004 …, 2004"
+    },
+    {
+        "title": "DELPHI: a framework for RTL-based architecture design evaluation using DSENT models",
+        "pub_year": "2015",
+        "citation": "Performance Analysis of Systems and Software (ISPASS), 2015 IEEE …, 2015"
+    },
+    {
+        "title": "Data reorganization in memory using 3D-stacked DRAM",
+        "pub_year": "2015",
+        "citation": "Proc. ACM/IEEE International Symposium on Computer Architecture (ISCA), 131-143, 2015"
+    },
+    {
+        "title": "Dependence of optical OFDM transceiver ASIC complexity on FFT size",
+        "pub_year": "2012",
+        "citation": "Optical Fiber Communication Conference, JW2A. 58, 2012"
+    },
+    {
+        "title": "Design and simulation of 25 Gb/s optical OFDM transceiver ASICs",
+        "pub_year": "2011",
+        "citation": "Optics express 19 (26), B337-B342, 2011"
+    },
+    {
+        "title": "Design studies for ASIC implementations of 28 GS/s optical QPSK-and 16-QAM-OFDM transceivers",
+        "pub_year": "2011",
+        "citation": "Optics express 19 (21), 20857-20864, 2011"
+    },
+    {
+        "title": "Design studies for an ASIC implementation of an optical OFDM transceiver",
+        "pub_year": "2010",
+        "citation": "36th European Conference and Exhibition on Optical Communication, 1-3, 2010"
+    },
+    {
+        "title": "Detecting emerging wearout faults",
+        "pub_year": "2007",
+        "citation": "Proc. of Workshop on SELSE, 2007"
+    },
+    {
+        "title": "Digital circuit synthesis system",
+        "pub_year": "2003",
+        "citation": "US Patent 6,597,664, 2003"
+    },
+    {
+        "title": "Digital circuit synthesis system",
+        "pub_year": "2005",
+        "citation": "US Patent 6,977,907, 2005"
+    },
+    {
+        "title": "Discrete Fourier transform compiler: From mathematical representation to efficient hardware",
+        "pub_year": "2007",
+        "citation": "Center for Silicon System Implementation, Carnegie Mellon University, Tech …, 2007"
+    },
+    {
+        "title": "Domain-specific library generation for parallel software and hardware platforms",
+        "pub_year": "2008",
+        "citation": "2008 IEEE International Symposium on Parallel and Distributed Processing, 1-5, 2008"
+    },
+    {
+        "title": "Dual use of superscalar datapath for transient-fault detection and recovery",
+        "pub_year": "2001",
+        "citation": "Proceedings. 34th ACM/IEEE International Symposium on Microarchitecture …, 2001"
+    },
+    {
+        "title": "Effective parallel computation on workstation cluster with a user-level communication network",
+        "pub_year": "1994",
+        "citation": "Massachusetts Institute of Technology, 1994"
+    },
+    {
+        "title": "Efficient resource sharing in concurrent error detecting superscalar microarchitectures",
+        "pub_year": "2004",
+        "citation": "37th International Symposium on Microarchitecture (MICRO-37'04), 257-268, 2004"
+    },
+    {
+        "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019"
+    },
+    {
+        "title": "Enabling portable energy efficiency with memory accelerated library",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 48th International Symposium on Microarchitecture, 750-761, 2015"
+    },
+    {
+        "title": "Exploiting the Common Case When Accelerating Input-Dependent Stream Processing by FPGA",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Computers 72 (5), 1343-1355, 2022"
+    },
+    {
+        "title": "FFT Compiler: from math to efficient hardware HLDVT invited short paper",
+        "pub_year": "2007",
+        "citation": "2007 IEEE International High Level Design Validation and Test Workshop, 137-139, 2007"
+    },
+    {
+        "title": "FFTs with Near-Optimal Memory Access Through Block Data Layouts: Algorithm, Architecture and Design Automation",
+        "pub_year": "2015",
+        "citation": "Journal of Signal Processing Systems, 1-16, 2015"
+    },
+    {
+        "title": "FFTs with near-optimal memory access through block data layouts",
+        "pub_year": "2014",
+        "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014"
+    },
+    {
+        "title": "FIST: A fast, lightweight, FPGA-friendly packet latency estimator for NoC modeling in full-system simulations",
+        "pub_year": "2011",
+        "citation": "Proceedings of the Fifth ACM/IEEE International Symposium on Networks-on …, 2011"
+    },
+    {
+        "title": "FPGA-based optical transmitters for electronic predistortion and advanced signal format generation",
+        "pub_year": "2009",
+        "citation": "2009 IEEE LEOS Annual Meeting Conference Proceedings, 199-200, 2009"
+    },
+    {
+        "title": "Fast and accurate resource estimation of automatically generated custom DFT IP cores",
+        "pub_year": "2006",
+        "citation": "Proceedings of the 2006 ACM/SIGDA 14th international symposium on Field …, 2006"
+    },
+    {
+        "title": "Fast bilateral filtering by adapting block size",
+        "pub_year": "2010",
+        "citation": "2010 IEEE International Conference on Image Processing, 3281-3284, 2010"
+    },
+    {
+        "title": "Fingerprinting across on-chip memory interconnects",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 3rd IEEE Workshop on Silicon Errors in Logic–System …, 2007"
+    },
+    {
+        "title": "Fingerprinting: Bounding Soft-Error Detection Latency and Bandwidth",
+        "pub_year": "2004",
+        "citation": "Proceedings, 224, 2004"
+    },
+    {
+        "title": "Fingerprinting: Bounding soft-error detection latency and bandwidth",
+        "pub_year": "2004",
+        "citation": "ACM SIGOPS Operating Systems Review 38 (5), 224-234, 2004"
+    },
+    {
+        "title": "Flexible Hardware Accelerator Design Generation with Spiral",
+        "pub_year": "2022",
+        "citation": "2022 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2022"
+    },
+    {
+        "title": "Flexible User-level Network Interface based on Embedded Processors",
+        "pub_year": "1995",
+        "citation": ""
+    },
+    {
+        "title": "Formal datapath representation and manipulation for implementing DSP transforms",
+        "pub_year": "2008",
+        "citation": "Proceedings of the 45th annual Design Automation Conference, 385-390, 2008"
+    },
+    {
+        "title": "Fpga-accelerated simulation of computer systems",
+        "pub_year": "2014",
+        "citation": "Morgan & Claypool, 2014"
+    },
+    {
+        "title": "Full-system architectural exploration sandbox",
+        "pub_year": "2005",
+        "citation": "Proceedings of the Workshop on Architecture Research using FPGA Platforms …, 2005"
+    },
+    {
+        "title": "Functional Specification for a High-Performance Network Interface Unit on a Peripheral Bus",
+        "pub_year": "1997",
+        "citation": "CSG Memo 389, Computation Structures Group, LCS, MIT, 1997"
+    },
+    {
+        "title": "Generating FPGA-accelerated DFT libraries",
+        "pub_year": "2007",
+        "citation": "15th Annual IEEE Symposium on Field-Programmable Custom Computing Machines …, 2007"
+    },
+    {
+        "title": "Generation of custom DSP transform IP cores: Case study Walsh-Hadamard transform",
+        "pub_year": "2002",
+        "citation": "High Performance Embedded Computing (HPEC), 2002"
+    },
+    {
+        "title": "Generation of optical OFDM signals using 21.4 GS/s real time digital signal processing",
+        "pub_year": "2009",
+        "citation": "Optics Express 17 (20), 17658-17668, 2009"
+    },
+    {
+        "title": "GraphGen: An FPGA framework for vertex-centric graph computation",
+        "pub_year": "2014",
+        "citation": "2014 IEEE 22nd Annual International Symposium on Field-Programmable Custom …, 2014"
+    },
+    {
+        "title": "Graphgen for coram: Graph computation on FPGAs",
+        "pub_year": "2013",
+        "citation": "Workshop on the Intersections of Computer Architecture and Reconfigurable Logic, 2013"
+    },
+    {
+        "title": "Hamlet architecture for parallel data reorganization in memory",
+        "pub_year": "2015",
+        "citation": "IEEE Micro 36 (1), 14-23, 2015"
+    },
+    {
+        "title": "Hamlet: Hardware accelerated memory layout transform within 3d-stacked dram",
+        "pub_year": "2014",
+        "citation": "IEEE High Performance Extreme Computing Conference, 2014"
+    },
+    {
+        "title": "Hardware implementation of the discrete fourier transform with non-power-of-two problem size",
+        "pub_year": "2010",
+        "citation": "2010 IEEE International Conference on Acoustics, Speech and Signal …, 2010"
+    },
+    {
+        "title": "Hardware synthesis from term rewriting systems",
+        "pub_year": "2000",
+        "citation": "VLSI: Systems on a chip, 595-619, 2000"
+    },
+    {
+        "title": "HerQules: Securing programs via hardware-enforced message queues",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 26th ACM International Conference on Architectural …, 2021"
+    },
+    {
+        "title": "High performance stereo vision designed for massively data parallel platforms",
+        "pub_year": "2010",
+        "citation": "IEEE Transactions on Circuits and Systems for Video Technology 20 (11), 1509 …, 2010"
+    },
+    {
+        "title": "High-Level design and validation of the BlueSPARC multithreaded processor",
+        "pub_year": "2010",
+        "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2010"
+    },
+    {
+        "title": "High-level Programming for Reconfigurable Computing",
+        "pub_year": "1996",
+        "citation": ""
+    },
+    {
+        "title": "High-level modeling and FPGA prototyping of microprocessors",
+        "pub_year": "2003",
+        "citation": "Proceedings of the 2003 ACM/SIGDA eleventh international symposium on Field …, 2003"
+    },
+    {
+        "title": "High-performance memory snapshotting for real-time, consistent, hypervisor-based monitors",
+        "pub_year": "2018",
+        "citation": "IEEE Transactions on Dependable and Secure Computing 17 (3), 518-535, 2018"
+    },
+    {
+        "title": "Highly Efficient Performance Portable Tracking of Evolving Surfaces",
+        "pub_year": "2012",
+        "citation": "2012 IEEE 26th International Parallel and Distributed Processing Symposium …, 2012"
+    },
+    {
+        "title": "Highly-parallel special-purpose multicore architecture for SystemC/TLM simulations",
+        "pub_year": "2014",
+        "citation": "2014 International Conference on Embedded Computer Systems: Architectures …, 2014"
+    },
+    {
+        "title": "Implementing a high-performance multithreaded microprocessor: A case study in high-level design and validation",
+        "pub_year": "2009",
+        "citation": "2009 7th IEEE/ACM International Conference on Formal Methods and Models for …, 2009"
+    },
+    {
+        "title": "Improving fixed-point accuracy of FFT cores in O-OFDM systems",
+        "pub_year": "2012",
+        "citation": "2012 IEEE International Conference on Acoustics, Speech and Signal …, 2012"
+    },
+    {
+        "title": "In-system FPGA prototyping of an Itanium microarchitecture",
+        "pub_year": "2004",
+        "citation": "IEEE International Conference on Computer Design: VLSI in Computers and …, 2004"
+    },
+    {
+        "title": "Integrating formal verification and high-level processor pipeline synthesis",
+        "pub_year": "2011",
+        "citation": "2011 IEEE 9th Symposium on Application Specific Processors (SASP), 22-29, 2011"
+    },
+    {
+        "title": "Linear transforms: From math to efficient hardware",
+        "pub_year": "2008",
+        "citation": "Workshop on High-Level Synthesis colocated with DAC, 2008"
+    },
+    {
+        "title": "MEMOCODE 2007 co-design contest",
+        "pub_year": "2007",
+        "citation": "2007 5th IEEE/ACM International Conference on Formal Methods and Models for …, 2007"
+    },
+    {
+        "title": "MEMOCODE 2008 co-design contest",
+        "pub_year": "2008",
+        "citation": "2008 6th ACM/IEEE International Conference on Formal Methods and Models for …, 2008"
+    },
+    {
+        "title": "MPI-StarT: Delivering network performance to numerical applications",
+        "pub_year": "1998",
+        "citation": "SC'98: Proceedings of the 1998 ACM/IEEE Conference on Supercomputing, 17-17, 1998"
+    },
+    {
+        "title": "Memory bandwidth efficient two-dimensional fast Fourier transform algorithm and implementation for large problem sizes",
+        "pub_year": "2012",
+        "citation": "2012 IEEE 20th International Symposium on Field-Programmable Custom …, 2012"
+    },
+    {
+        "title": "Multi-bit error tolerant caches using two-dimensional error coding",
+        "pub_year": "2007",
+        "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007"
+    },
+    {
+        "title": "Multiple constant multiplication by time-multiplexed mapping of addition chains",
+        "pub_year": "2004",
+        "citation": "Proceedings of the 41st annual Design Automation Conference, 826-829, 2004"
+    },
+    {
+        "title": "Nautilus: Fast Automated IP Design Space Search Using Guided Genetic Algorithms",
+        "pub_year": "2015",
+        "citation": "Design Automation Conference, 2015"
+    },
+    {
+        "title": "Network interface for message-passing parallel computation on a workstation cluster",
+        "pub_year": "1994",
+        "citation": "Symposium Record Hot Interconnects II, 229-238, 1994"
+    },
+    {
+        "title": "OpenSPARC: An open platform for hardware reliability experimentation",
+        "pub_year": "2008",
+        "citation": "Fourth Workshop on Silicon Errors in Logic-System Effects (SELSE), 1-6, 2008"
+    },
+    {
+        "title": "Operation-centric hardware description and synthesis",
+        "pub_year": "2004",
+        "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2004"
+    },
+    {
+        "title": "Operation-centric hardware description and synthesis",
+        "pub_year": "2000",
+        "citation": "Massachusetts Institute of Technology, 2000"
+    },
+    {
+        "title": "Optical OFDM for the data center",
+        "pub_year": "2010",
+        "citation": "2010 12th International Conference on Transparent Optical Networks, 1-4, 2010"
+    },
+    {
+        "title": "Optimizing FFT precision in optical OFDM transceivers",
+        "pub_year": "2011",
+        "citation": "IEEE Photonics Technology Letters 23 (20), 1550-1552, 2011"
+    },
+    {
+        "title": "Optimizing FFT resource efficiency on FPGA using high-level synthesis",
+        "pub_year": "2017",
+        "citation": "Proc. IEEE HPEC, 2017"
+    },
+    {
+        "title": "PAI: A lightweight mechanism for single-node memory recovery in DSM servers",
+        "pub_year": "2007",
+        "citation": "13th Pacific Rim International Symposium on Dependable Computing (PRDC 2007 …, 2007"
+    },
+    {
+        "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
+        "pub_year": "2018",
+        "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018"
+    },
+    {
+        "title": "Partial Reconfiguration for Design Optimization",
+        "pub_year": "2020",
+        "citation": "2020 30th International Conference on Field Programmable Logic and …, 2020"
+    },
+    {
+        "title": "Permuting streaming data using RAMs",
+        "pub_year": "2009",
+        "citation": "Journal of the ACM (JACM) 56 (2), 1-34, 2009"
+    },
+    {
+        "title": "Pigasus 2.0: making the pigasus IDS robust to attacks and different workloads",
+        "pub_year": "2022",
+        "citation": "Proceedings of the SIGCOMM'22 Poster and Demo Sessions, 61-62, 2022"
+    },
+    {
+        "title": "Predistortion and OFDM realizations",
+        "pub_year": "2011",
+        "citation": "IEEE Photonic Society 24th Annual Meeting, 684-685, 2011"
+    },
+    {
+        "title": "Processor assisted worklist scheduling for FPGA accelerated graph processing on a shared-memory platform",
+        "pub_year": "2019",
+        "citation": "2019 IEEE 27th Annual International Symposium on Field-Programmable Custom …, 2019"
+    },
+    {
+        "title": "Program generation with Spiral: Beyond transforms",
+        "pub_year": "2008",
+        "citation": "way 3, 79, 2008"
+    },
+    {
+        "title": "ProtoFlex: Co-simulation for component-wise FPGA emulator development",
+        "pub_year": "2006",
+        "citation": "Proceedings of the Workshop on Architecture Research Using FPGA Platforms, 2006"
+    },
+    {
+        "title": "ProtoFlex: FPGA-accelerated hybrid functional simulator",
+        "pub_year": "2007",
+        "citation": "Parallel and Distributed Processing Symposium, 2007. IPDPS 2007. IEEE …, 2007"
+    },
+    {
+        "title": "ProtoFlex: Towards scalable, full-system multiprocessor simulations using FPGAs",
+        "pub_year": "2009",
+        "citation": "ACM Transactions on Reconfigurable Technology and Systems (TRETS) 2 (2), 1-32, 2009"
+    },
+    {
+        "title": "Prototype and evaluation of the coram memory architecture for fpga-based computing",
+        "pub_year": "2012",
+        "citation": "Proceedings of the ACM/SIGDA international symposium on Field Programmable …, 2012"
+    },
+    {
+        "title": "PyCoRAM: Yet another implementation of CoRAM memory architecture for modern FPGA-based computing",
+        "pub_year": "2013",
+        "citation": "Intersections of Computer Architecture and Reconfigurable Logic (CARL 2013), 1-6, 2013"
+    },
+    {
+        "title": "Quantifying the benefits of dynamic partial reconfiguration for embedded vision applications",
+        "pub_year": "2019",
+        "citation": "2019 29th International Conference on Field Programmable Logic and …, 2019"
+    },
+    {
+        "title": "RAMP: Research accelerator for multiple processors",
+        "pub_year": "2007",
+        "citation": "IEEE micro 27 (2), 46-57, 2007"
+    },
+    {
+        "title": "REDAC: distributed, asynchronous redundancy in shared memory servers",
+        "pub_year": "2008",
+        "citation": "Computer Architecture Lab at Carnegie Mellon (CALCM) Technical Report 2008–2, 2008"
+    },
+    {
+        "title": "Ramp: Research accelerator for multiple processors-a community vision for a shared experimental parallel hw/sw platform",
+        "pub_year": "2005",
+        "citation": ""
+    },
+    {
+        "title": "Real time stereo vision using exponential step cost aggregation on gpu",
+        "pub_year": "2009",
+        "citation": "2009 16th IEEE International Conference on Image Processing (ICIP), 4281-4284, 2009"
+    },
+    {
+        "title": "Real-time DSP-based optical OFDM transmission",
+        "pub_year": "2010",
+        "citation": "2010 23rd Annual Meeting of the IEEE Photonics Society, 665-666, 2010"
+    },
+    {
+        "title": "Real-time digital signal processing for the generation of optical orthogonal frequency-division-multiplexed signals",
+        "pub_year": "2010",
+        "citation": "IEEE Journal of Selected Topics in Quantum Electronics 16 (5), 1235-1244, 2010"
+    },
+    {
+        "title": "Recent progress on real-time DSP for direct detection optical OFDM transceivers",
+        "pub_year": "2011",
+        "citation": "Optical Fiber Communication Conference, OMS1, 2011"
+    },
+    {
+        "title": "Reunion: Complexity-effective multicore redundancy",
+        "pub_year": "2006",
+        "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006"
+    },
+    {
+        "title": "SMARTS: Accelerating microarchitecture simulation via rigorous statistical sampling",
+        "pub_year": "2003",
+        "citation": "Proceedings of the 30th annual international symposium on Computer …, 2003"
+    },
+    {
+        "title": "SPIRAL: Extreme performance portability",
+        "pub_year": "2018",
+        "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018"
+    },
+    {
+        "title": "SPIRAL: Joint runtime and energy optimization of linear transforms",
+        "pub_year": "2006",
+        "citation": "2006 IEEE International Conference on Acoustics Speech and Signal Processing …, 2006"
+    },
+    {
+        "title": "SimFlex: statistical sampling of computer system simulation",
+        "pub_year": "2006",
+        "citation": "IEEE Micro 26 (4), 18-31, 2006"
+    },
+    {
+        "title": "Simflex: A fast, accurate, flexible full-system simulation framework for performance evaluation of server architecture",
+        "pub_year": "2004",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 31 (4), 31-34, 2004"
+    },
+    {
+        "title": "Simulation sampling with live-points",
+        "pub_year": "2006",
+        "citation": "2006 IEEE International Symposium on Performance Analysis of Systems and …, 2006"
+    },
+    {
+        "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
+        "pub_year": "2010",
+        "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010"
+    },
+    {
+        "title": "Spiral AI/ML: Co-optimization for High-Performance, Data-Intensive Computing in Resource-Constrained Environments",
+        "pub_year": "2021",
+        "citation": ""
+    },
+    {
+        "title": "StarT-Jr: A parallel system from commodity technology",
+        "pub_year": "1996",
+        "citation": "July, 1996"
+    },
+    {
+        "title": "StarT-NG: Delivering seamless parallel computing",
+        "pub_year": "1995",
+        "citation": "EURO-PAR'95 Parallel Processing: First International EURO-PAR Conference …, 1995"
+    },
+    {
+        "title": "StarT-X: A one-man-year exercise in network interface engineering",
+        "pub_year": "1998",
+        "citation": "Proceedings of Hot Interconnects VI, 137-146, 1998"
+    },
+    {
+        "title": "Statistical sampling of microarchitecture simulation",
+        "pub_year": "2006",
+        "citation": "ACM Transactions on Modeling and Computer Simulation (TOMACS) 16 (3), 197-224, 2006"
+    },
+    {
+        "title": "Statistical sampling of microarchitecture simulation",
+        "pub_year": "2006",
+        "citation": "Proceedings 20th IEEE International Parallel & Distributed Processing …, 2006"
+    },
+    {
+        "title": "Superscalar out-of-order demystified in four instructions",
+        "pub_year": "2003",
+        "citation": "Proceedings of the 2003 workshop on Computer architecture education: Held in …, 2003"
+    },
+    {
+        "title": "Synchronous circuit synthesis using an asynchronous specification",
+        "pub_year": "2005",
+        "citation": "US Patent 6,901,055, 2005"
+    },
+    {
+        "title": "Synchronous circuit synthesis using an asynchronous specification",
+        "pub_year": "2012",
+        "citation": "US Patent 8,108,810, 2012"
+    },
+    {
+        "title": "Synchronous circuit synthesis using an asynchronous specification",
+        "pub_year": "2005",
+        "citation": "US Patent App. 11/142,003, 2005"
+    },
+    {
+        "title": "Synchronous extensions to operation centric hardware description languages",
+        "pub_year": "2004",
+        "citation": "Proceedings. Second ACM and IEEE International Conference on Formal Methods …, 2004"
+    },
+    {
+        "title": "Synthesis of operation-centric hardware descriptions",
+        "pub_year": "2000",
+        "citation": "Proceedings of the 2000 IEEE/ACM international conference on Computer-aided …, 2000"
+    },
+    {
+        "title": "Synthesis system for pipelined digital circuits",
+        "pub_year": "2011",
+        "citation": "US Patent App. 13/158,081, 2011"
+    },
+    {
+        "title": "System and method for designing architecture for specified permutation and datapath circuits for permutation",
+        "pub_year": "2012",
+        "citation": "US Patent 8,321,823, 2012"
+    },
+    {
+        "title": "TRUSS: a reliable, scalable server architecture",
+        "pub_year": "2005",
+        "citation": "IEEE Micro 25 (6), 51-59, 2005"
+    },
+    {
+        "title": "Technical perspective: FPGA compute acceleration is first about energy efficiency",
+        "pub_year": "2016",
+        "citation": "Communications of the ACM 59 (11), 113-113, 2016"
+    },
+    {
+        "title": "The CONNECT network-on-chip generator",
+        "pub_year": "2015",
+        "citation": "Computer 48 (12), 72-79, 2015"
+    },
+    {
+        "title": "The future of architectural simulation",
+        "pub_year": "2010",
+        "citation": "IEEE Micro 30 (3), 8-18, 2010"
+    },
+    {
+        "title": "The granularity of soft-error containment in shared-memory multiprocessors",
+        "pub_year": "2006",
+        "citation": ""
+    },
+    {
+        "title": "Time-multiplexed multiple-constant multiplication",
+        "pub_year": "2007",
+        "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2007"
+    },
+    {
+        "title": "Time-shared execution of realtime computer vision pipelines by dynamic partial reconfiguration",
+        "pub_year": "2018",
+        "citation": "2018 28th International Conference on Field Programmable Logic and …, 2018"
+    },
+    {
+        "title": "Tolerating Processor Failures in a Distributed Shared-Memory Multiprocessor",
+        "pub_year": "2006",
+        "citation": "Computer Architecture Lab at Carnegie Mellon (CALCM) Technical Report 1, 1-10, 2006"
+    },
+    {
+        "title": "TurboSMARTS: Accurate microarchitecture simulation sampling in minutes",
+        "pub_year": "2005",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 33 (1), 408-409, 2005"
+    },
+    {
+        "title": "Understanding the design space of dram-optimized hardware FFT accelerators",
+        "pub_year": "2014",
+        "citation": "2014 IEEE 25th International Conference on Application-Specific Systems …, 2014"
+    },
+    {
+        "title": "Understanding the performance of concurrent error detecting superscalar microarchitectures",
+        "pub_year": "2005",
+        "citation": "Proceedings of the Fifth IEEE International Symposium on Signal Processing …, 2005"
+    },
+    {
+        "title": "Using Vivado-HLS for Structural Design: a NoC Case Study",
+        "pub_year": "2017",
+        "citation": "Tech Report (poster and abstract at FPGA'17), 2017"
+    },
+    {
+        "title": "Virtualized full-system emulation of multiprocessors using FPGAs",
+        "pub_year": "2007",
+        "citation": "2nd Workshop on Architectural Research Prototyping, 2007"
+    },
+    {
+        "title": "We need kernel interposition over the network dataplane",
+        "pub_year": "2021",
+        "citation": "Proceedings of the Workshop on Hot Topics in Operating Systems, 152-158, 2021"
+    },
+    {
+        "title": "Zoom Out: Abstractions for Efficient Radar Algorithms on COTS architectures",
+        "pub_year": "2022",
+        "citation": "2022 IEEE International Symposium on Phased Array Systems & Technology (PAST …, 2022"
+    },
+    {
+        "title": "{Ensō}: A Streaming Interface for {NIC-Application} Communication",
+        "pub_year": "2023",
+        "citation": "17th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2023"
+    }
+]

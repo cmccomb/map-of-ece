@@ -1,0 +1,313 @@
+[
+    {
+        "title": "An airdrop that preserves recipient privacy",
+        "pub_year": "2020",
+        "citation": "Financial Cryptography and Data Security: 24th International Conference, FC …, 2020"
+    },
+    {
+        "title": "BLS signatures",
+        "pub_year": "2020",
+        "citation": "Internet-Draft draft-irtf-cfrg-bls-signature-04, Internet Engineering Task Force, 2020"
+    },
+    {
+        "title": "Bounded Verification for Finite-Field-Blasting (In a Compiler for Zero Knowledge Proofs)",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
+        "title": "Brakedown: Linear-time and field-agnostic SNARKs for R1CS",
+        "pub_year": "2023",
+        "citation": "Annual International Cryptology Conference, 193-226, 2023"
+    },
+    {
+        "title": "Brakedown: Linear-time and post-quantum SNARKs for R1CS",
+        "pub_year": "2021",
+        "citation": "Cryptology ePrint Archive, 2021"
+    },
+    {
+        "title": "Checking Passwords on Leaky Computers: A Side Channel Analysis of Chrome's Password Leak Detect Protocol",
+        "pub_year": "2023",
+        "citation": "32nd USENIX Security Symposium (USENIX Security 23), 7107-7124, 2023"
+    },
+    {
+        "title": "CirC: Compiler infrastructure for proof systems, software verification, and more",
+        "pub_year": "2022",
+        "citation": "2022 IEEE Symposium on Security and Privacy (SP), 2248-2266, 2022"
+    },
+    {
+        "title": "Compact certificates of collective knowledge",
+        "pub_year": "2021",
+        "citation": "2021 IEEE Symposium on Security and Privacy (SP), 626-641, 2021"
+    },
+    {
+        "title": "Concretely Efficient Interactive Proofs and Their Applications",
+        "pub_year": "2021",
+        "citation": "Stanford University, 2021"
+    },
+    {
+        "title": "Customizable constraint systems for succinct arguments",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
+        "title": "DIMACS/MACS Workshop on Cryptography for the RAM Model of Computation",
+        "citation": ""
+    },
+    {
+        "title": "Defending against malicious peripherals",
+        "pub_year": "2015",
+        "citation": "arXiv preprint arXiv 1506, 2015"
+    },
+    {
+        "title": "Defending against malicious peripherals with Cinch",
+        "pub_year": "2016",
+        "citation": "25th USENIX Security Symposium (USENIX Security 16), 397-414, 2016"
+    },
+    {
+        "title": "Doubly-efficient zkSNARKs without trusted setup",
+        "pub_year": "2018",
+        "citation": "2018 IEEE Symposium on Security and Privacy (SP), 926-943, 2018"
+    },
+    {
+        "title": "Efficient RAM and control flow in verifiable outsourced computation",
+        "pub_year": "2014",
+        "citation": "Cryptology ePrint Archive, 2014"
+    },
+    {
+        "title": "Efficient Representation of Numerical Optimization Problems for {SNARKs}",
+        "pub_year": "2022",
+        "citation": "31st USENIX Security Symposium (USENIX Security 22), 4273-4290, 2022"
+    },
+    {
+        "title": "Encoding, fast and slow:{Low-Latency} video processing using thousands of tiny threads",
+        "pub_year": "2017",
+        "citation": "14th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2017"
+    },
+    {
+        "title": "FaCT: a DSL for timing-sensitive computation",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …, 2019"
+    },
+    {
+        "title": "Fast and simple constant-time hashing to the BLS12-381 elliptic curve",
+        "pub_year": "2019",
+        "citation": "Cryptology ePrint Archive, 2019"
+    },
+    {
+        "title": "Finding and preventing bugs in javascript bindings",
+        "pub_year": "2017",
+        "citation": "2017 IEEE Symposium on Security and Privacy (SP), 559-578, 2017"
+    },
+    {
+        "title": "Full accounting for verifiable outsourcing",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …, 2017"
+    },
+    {
+        "title": "Harmful devices considered harmless.",
+        "pub_year": "2015",
+        "citation": "CoRR, 2015"
+    },
+    {
+        "title": "Hashing to elliptic curves",
+        "pub_year": "2021",
+        "citation": "Internet Research Task Force, Informational, 2021"
+    },
+    {
+        "title": "Isolated serializer-deserializer",
+        "pub_year": "2015",
+        "citation": "US Patent 9,118,392, 2015"
+    },
+    {
+        "title": "Isolation receiver",
+        "pub_year": "2015",
+        "citation": "US Patent 8,975,914, 2015"
+    },
+    {
+        "title": "Just-in-time checking for just-in-time compilers",
+        "citation": ""
+    },
+    {
+        "title": "Linear-time and post-quantum zero-knowledge SNARKs for R1CS",
+        "pub_year": "2021",
+        "citation": "Cryptology ePrint Archive, 2021"
+    },
+    {
+        "title": "Low-Latency Network Video Through Tighter Integration Between a Video Codec and a Transport Protocol",
+        "citation": ""
+    },
+    {
+        "title": "Method and apparatus for switched-mode power conversion at radio frequencies",
+        "pub_year": "2005",
+        "citation": "US Patent App. 11/109,498, 2005"
+    },
+    {
+        "title": "My work up to now attacks implicit trust in three areas: probabilistic proofs, applied cryptog-raphy, and systems. After describing each, I briefly discuss future directions.",
+        "citation": ""
+    },
+    {
+        "title": "New architectures for radio-frequency DC–DC power conversion",
+        "pub_year": "2006",
+        "citation": "IEEE Transactions on Power Electronics 21 (2), 380-393, 2006"
+    },
+    {
+        "title": "Pairing-friendly curves",
+        "pub_year": "2020",
+        "citation": "Internet Engineering Task Force, 2020"
+    },
+    {
+        "title": "Pantheon: the training ground for Internet congestion-control research",
+        "pub_year": "2018",
+        "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 731-743, 2018"
+    },
+    {
+        "title": "Power Supply with Digital Control Loop",
+        "pub_year": "2009",
+        "citation": "US Patent App. 12/060,261, 2009"
+    },
+    {
+        "title": "Power Supply with Digital Control Loop",
+        "pub_year": "2009",
+        "citation": "US Patent App. 12/060,262, 2009"
+    },
+    {
+        "title": "Power supply with digital control loop",
+        "pub_year": "2013",
+        "citation": "US Patent 8,462,937, 2013"
+    },
+    {
+        "title": "Power supply with digital control loop",
+        "pub_year": "2010",
+        "citation": "US Patent 7,688,119, 2010"
+    },
+    {
+        "title": "Practical proof systems: implementations, applications, and next steps",
+        "pub_year": "2019",
+        "citation": "September, 2019"
+    },
+    {
+        "title": "Pseudo-constant frequency control for voltage converter",
+        "pub_year": "2016",
+        "citation": "US Patent 9,531,284, 2016"
+    },
+    {
+        "title": "RFC 9380 Hashing to Elliptic Curves",
+        "pub_year": "2023",
+        "citation": "Terminology 2, 1, 2023"
+    },
+    {
+        "title": "Radio frequency rectifiers for DC-DC power conversion",
+        "pub_year": "2004",
+        "citation": "Massachusetts Institute of Technology, 2004"
+    },
+    {
+        "title": "Resonant mems lorentz-force magnetometer using force-feedback and frequency-locked coil excitation",
+        "pub_year": "2017",
+        "citation": "US Patent 9,588,190, 2017"
+    },
+    {
+        "title": "Riggs: Decentralized sealed-bid auctions",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
+        "title": "Robust, low-cost, auditable random number generation for embedded system security",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 14th ACM conference on embedded network sensor systems CD …, 2016"
+    },
+    {
+        "title": "Salsify:{Low-Latency} network video through tighter integration between a video codec and a transport protocol",
+        "pub_year": "2018",
+        "citation": "15th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2018"
+    },
+    {
+        "title": "Scaling verifiable computation using efficient set accumulators",
+        "pub_year": "2020",
+        "citation": "29th USENIX Security Symposium (USENIX Security 20), 2075-2092, 2020"
+    },
+    {
+        "title": "Silph: A framework for scalable and accurate generation of hybrid MPC protocols",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
+        "title": "Soft-start for isolated power converter",
+        "pub_year": "2016",
+        "citation": "US Patent 9,531,253, 2016"
+    },
+    {
+        "title": "Soft-start for isolated power converter",
+        "pub_year": "2022",
+        "citation": "US Patent 11,218,077, 2022"
+    },
+    {
+        "title": "Specialized Proof of Confidential Knowledge (SPoCK)",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
+        "title": "Suppression of transients in communications across an isolation barrier",
+        "pub_year": "2016",
+        "citation": "US Patent 9,257,836, 2016"
+    },
+    {
+        "title": "System and method for authentication with out-of-band user interaction",
+        "pub_year": "2022",
+        "citation": "US Patent 11,410,175, 2022"
+    },
+    {
+        "title": "System and method for authentication with out-of-band user interaction",
+        "pub_year": "2022",
+        "citation": "US Patent App. 17/808,191, 2022"
+    },
+    {
+        "title": "Techniques for reduced jitter in digital isolators",
+        "pub_year": "2018",
+        "citation": "US Patent 9,923,643, 2018"
+    },
+    {
+        "title": "The ghost is the machine: Weird machines in transient execution",
+        "pub_year": "2023",
+        "citation": "2023 IEEE Security and Privacy Workshops (SPW), 264-272, 2023"
+    },
+    {
+        "title": "Trust but verify: Auditing the secure Internet of things",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 15th Annual International Conference on Mobile Systems …, 2017"
+    },
+    {
+        "title": "Unifying Compilers for SNARKs, SMT, and More.",
+        "pub_year": "2020",
+        "citation": "IACR Cryptol. ePrint Arch. 2020, 1586, 2020"
+    },
+    {
+        "title": "Universal Composability is Robust Compilation",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1910.08634, 2019"
+    },
+    {
+        "title": "Universal composability is secure compilation",
+        "pub_year": "2020",
+        "citation": ""
+    },
+    {
+        "title": "Unlocking the lookup singularity with Lasso",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
+        "title": "Verifiable ASICs: trustworthy hardware with untrusted components",
+        "pub_year": "2016",
+        "citation": ""
+    },
+    {
+        "title": "Verifiable asics",
+        "pub_year": "2016",
+        "citation": "2016 IEEE Symposium on Security and Privacy (SP), 759-778, 2016"
+    },
+    {
+        "title": "Wide-swing cascode current mirror",
+        "pub_year": "2013",
+        "citation": "US Patent 8,450,992, 2013"
+    }
+]
