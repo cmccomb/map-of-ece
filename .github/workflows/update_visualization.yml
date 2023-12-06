@@ -1,13 +1,17 @@
-name: update viz
+name: update visualization
 
 permissions:
   contents: write
 
 on:
+  workflow_run:
+    workflows: ["update data"]
+    types:
+      - completed
   push:
     branches: [ main ]
     paths:
-      - 'data/*.json'
+      - 'data/**'
   workflow_dispatch:
 
 env:
@@ -18,10 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: install dependencies
-        run: pip install -r requirements_viz.txt
+      - name: install library
+        run: pip install git+https://github.com/cmccomb/map-of-research.git
       - name: create the visualization
-        run: python update_viz.py
+        run: visualize_faculty_data
       - name: commit and push changes
         uses: actions-js/push@master
         with:

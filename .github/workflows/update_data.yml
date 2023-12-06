@@ -4,6 +4,10 @@ permissions:
   contents: write
   
 on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'faculty.csv'
   schedule:
   - cron: "0 0 1 * *"
   workflow_dispatch:
@@ -16,10 +20,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: install dependencies
-        run: pip install -r requirements_data.txt
+      - name: install library
+        run: pip install git+https://github.com/cmccomb/map-of-research.git
       - name: scrape the data
-        run: python update_data.py
+        run: scrape_faculty_data
       - name: commit and push changes
         uses: actions-js/push@master
         with:
