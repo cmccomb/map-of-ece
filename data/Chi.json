@@ -7,7 +7,7 @@
     {
         "title": "A Lightweight Transformer for Faster and Robust EBSD Data Collection",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2308.09693, 2023"
+        "citation": "Scientific Reports, accepted; arXiv preprint arXiv:2308.09693, 2023"
     },
     {
         "title": "A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated Learning",
@@ -110,6 +110,11 @@
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence 36 (8), 1519-1531, 2013"
     },
     {
+        "title": "Communication-Efficient Federated Optimization over Semi-Decentralized Networks",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2311.18787, 2023"
+    },
+    {
         "title": "Communication-efficient distributed optimization in networks with gradient tracking and variance reduction",
         "pub_year": "2020",
         "citation": "The Journal of Machine Learning Research 21 (1), 7331-7381, 2020"
@@ -177,7 +182,7 @@
     {
         "title": "Counterfactual Generation with Identifiability Guarantees",
         "pub_year": "2023",
-        "citation": "37th International Conference on Neural Information Processing Systems (NeurIPS), 2023"
+        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     },
     {
         "title": "Covariance tracking from sketches of rapid data streams",
@@ -312,7 +317,7 @@
     {
         "title": "Identification of Nonlinear Latent Hierarchical Models",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.07916, 2023"
+        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     },
     {
         "title": "Implicit regularization in nonconvex statistical estimation: Gradient descent converges linearly for phase retrieval, matrix completion and blind deconvolution",
@@ -537,7 +542,7 @@
     {
         "title": "Reward-agnostic Fine-tuning: Provable Statistical Benefits of Hybrid Reinforcement Learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.10282, 2023"
+        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     },
     {
         "title": "Robust and universal covariance estimation from quadratic measurements via convex programming",
@@ -567,7 +572,7 @@
     {
         "title": "Seeing is not believing: Robust reinforcement learning against spurious correlation",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2307.07907, 2023"
+        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     },
     {
         "title": "Self-calibrated super resolution",
@@ -581,8 +586,8 @@
     },
     {
         "title": "Settling the sample complexity of model-based offline reinforcement learning",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2204.05275, 2022"
+        "pub_year": "2023",
+        "citation": "Annals of Statistics, accepted; arXiv preprint arXiv:2204.05275, 2023"
     },
     {
         "title": "Sharp high-probability sample complexities for policy evaluation with linear function approximation",
@@ -657,12 +662,12 @@
     {
         "title": "The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.10697, 2023"
+        "citation": "International Conference on Machine Learning, 2023"
     },
     {
         "title": "The Curious Price of Distributional Robustness in Reinforcement Learning with a Generative Model",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.16589, 2023"
+        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     },
     {
         "title": "The Power of Preconditioning in Overparameterized Low-Rank Matrix Sensing",

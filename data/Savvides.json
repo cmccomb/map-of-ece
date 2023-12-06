@@ -871,11 +871,6 @@
         "citation": "Multimedia Content Representation, Classification and Security …, 2006"
     },
     {
-        "title": "IMPROVED FINE-TUNING STRATEGY FOR FEW SHOT LEARNING",
-        "pub_year": "2023",
-        "citation": "US Patent App. 18/009,860, 2023"
-    },
-    {
         "title": "Illumination Tolerant Face Identification using Advanced Correlation Filters trained from a single face image",
         "citation": "Biometrics Consortium Conference BC2004, 0"
     },
@@ -931,6 +926,11 @@
         "title": "Improved face recognition using multiband Gabor quaternion correlation filters",
         "pub_year": "2005",
         "citation": "Biometric Technology for Human Identification II 5779, 418-425, 2005"
+    },
+    {
+        "title": "Improved fine-tuning strategy for few shot learning",
+        "pub_year": "2023",
+        "citation": "US Patent App. 18/009,860, 2023"
     },
     {
         "title": "Improved generative adversarial networks having ranking loss",
@@ -1117,8 +1117,8 @@
     },
     {
         "title": "Method and architecture for blind image deconvolution",
-        "pub_year": "2023",
-        "citation": "US Patent 11,748,853, 2023"
+        "pub_year": "2021",
+        "citation": "US Patent App. 17/241,379, 2021"
     },
     {
         "title": "Method and system for facial landmark localization",
@@ -1536,11 +1536,6 @@
         "citation": "Pattern Recognition 90, 308-324, 2019"
     },
     {
-        "title": "SYSTEM AND METHOD FOR DETECTING AND CLASSIFYING ABNORMAL CELLS",
-        "pub_year": "2023",
-        "citation": "US Patent App. 18/246,430, 2023"
-    },
-    {
         "title": "Scl: Towards accurate domain adaptive object detection via gradient detach based stacked complementary losses",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1911.02559, 2019"
@@ -1653,6 +1648,11 @@
         "title": "System and method for depth-recovery of a face in an image",
         "pub_year": "2018",
         "citation": "US Patent 9,916,685, 2018"
+    },
+    {
+        "title": "System and method for detecting and classifying abnormal cells",
+        "pub_year": "2023",
+        "citation": "US Patent App. 18/246,430, 2023"
     },
     {
         "title": "System and method for detecting products and product labels",
