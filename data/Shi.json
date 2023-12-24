@@ -193,6 +193,11 @@
         "citation": "US Patent 9,015,853, 2015"
     },
     {
+        "title": "Connected Components in Linear Work and Near-Optimal Time",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.02332, 2023"
+    },
+    {
         "title": "Consensus through herding",
         "pub_year": "2019",
         "citation": "Advances in Cryptology–EUROCRYPT 2019: 38th Annual International Conference …, 2019"
@@ -695,6 +700,11 @@
         "citation": "Theory of Cryptography: 13th International Conference, TCC 2016-A, Tel Aviv …, 2016"
     },
     {
+        "title": "Opaak",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 10th international conference on Mobile systems …, 2012"
+    },
+    {
         "title": "Opaak: using mobile phones to limit anonymous identities online",
         "pub_year": "2012",
         "citation": "Proceedings of the 10th international conference on Mobile systems …, 2012"
@@ -910,6 +920,11 @@
     {
         "title": "Program Co-Chairs",
         "citation": ""
+    },
+    {
+        "title": "Proof of Compliance for Anonymous, Unlinkable Messages",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
     },
     {
         "title": "Pseudonymous broadcast and secure computation from cryptographic puzzles",

@@ -59,7 +59,7 @@
         "citation": ""
     },
     {
-        "title": "AdaCoOpt: Leverage the Interplay of Batch Size and Aggregation Frequency for Federated Learning",
+        "title": "Adacoopt: Leverage the interplay of batch size and aggregation frequency for federated learning",
         "pub_year": "2023",
         "citation": "2023 IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 1-10, 2023"
     },
@@ -161,7 +161,7 @@
     {
         "title": "DYNAMITE: Dynamic Interplay of Mini-Batch Size and Aggregation Frequency for Federated Learning with Static and Streaming Dataset",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.14906, 2023"
+        "citation": "IEEE Transactions on Mobile Computing, 2023"
     },
     {
         "title": "Datanet: Enabling Seamless, Metered and Trusted Internet Connectivity without Subscriptions",
@@ -383,6 +383,11 @@
         "title": "Learning cloud dynamics to optimize spot instance bidding strategies",
         "pub_year": "2018",
         "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2762-2770, 2018"
+    },
+    {
+        "title": "Learning with Side Information: Elastic Multi-resource Control for the Open RAN",
+        "pub_year": "2023",
+        "citation": "IEEE Journal on Selected Areas in Communications, 2023"
     },
     {
         "title": "MOVI: A model-free approach to dynamic fleet management",
@@ -735,8 +740,8 @@
     },
     {
         "title": "Towards Effective Resource Procurement in MEC: a Resource Re-selling Framework",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2203.00825, 2022"
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Services Computing, 2023"
     },
     {
         "title": "Towards flexible device participation in federated learning",

@@ -9,6 +9,11 @@
         "citation": "Carnegie Mellon University, 2007"
     },
     {
+        "title": "3Sigma",
+        "pub_year": "2018",
+        "citation": "Proceedings of the Thirteenth EuroSys Conference, 2018"
+    },
+    {
         "title": "3sigma: distribution-based cluster scheduling for runtime uncertainty",
         "pub_year": "2018",
         "citation": "Proceedings of the Thirteenth EuroSys Conference, 1-17, 2018"
@@ -249,6 +254,11 @@
         "title": "Balancing locality and randomness in DHTs",
         "pub_year": "2003",
         "citation": "School of Computer Science, Carnegie Mellon University, 2003"
+    },
+    {
+        "title": "Baleen: ML admission & prefetching for flash caches",
+        "pub_year": "2023",
+        "citation": "Under submission, 2023"
     },
     {
         "title": "Better security via smarter devices",

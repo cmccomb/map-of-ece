@@ -56,8 +56,8 @@
     },
     {
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
-        "pub_year": "2023",
-        "citation": "Building and Environment, 111053, 2023"
+        "pub_year": "2024",
+        "citation": "Building and Environment 247, 111053, 2024"
     },
     {
         "title": "Computational Model for Probability Prediction of Scan Paths in Static Scenes.",
@@ -148,6 +148,11 @@
         "title": "On identification of parameterized switched linear systems",
         "pub_year": "2016",
         "citation": "2016 35th Chinese Control Conference (CCC), 2189-2195, 2016"
+    },
+    {
+        "title": "Physics-informed Representation and Learning: Control and Risk Quantification",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.10594, 2023"
     },
     {
         "title": "Probabilistic safety certificate for multi-agent systems",

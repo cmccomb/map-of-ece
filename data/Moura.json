@@ -748,11 +748,6 @@
         "citation": "US Patent 7,734,075, 2010"
     },
     {
-        "title": "Convergence Analysis of Distributed Inference with Vector-Valued Gaussian Belief Propagation.",
-        "pub_year": "2017",
-        "citation": "J. Mach. Learn. Res. 18 (1), 6302-6339, 2017"
-    },
-    {
         "title": "Convergence analysis of belief propagation for pairwise linear Gaussian models",
         "pub_year": "2017",
         "citation": "2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2017"
@@ -761,6 +756,11 @@
         "title": "Convergence analysis of belief propagation on Gaussian graphical models",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1801.06430, 2018"
+    },
+    {
+        "title": "Convergence analysis of distributed inference with vector-valued Gaussian belief propagation",
+        "pub_year": "2018",
+        "citation": "Journal of Machine Learning Research 18 (172), 1-38, 2018"
     },
     {
         "title": "Convergence analysis of the information matrix in Gaussian belief propagation",
@@ -2070,6 +2070,11 @@
         "citation": "2015 49th Asilomar Conference on Signals, Systems and Computers, 1535-1538, 2015"
     },
     {
+        "title": "Inferring the Graph of Networked Dynamical Systems under Partial Observability and Spatially Colored Noise",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.11324, 2023"
+    },
+    {
         "title": "Information Loss in Markov Approximations",
         "pub_year": "1998",
         "citation": "tech. rep., Department of Electrical Engineering, Carnegie Mellon University …, 1998"
@@ -2207,6 +2212,11 @@
         "title": "Learning cooperative visual dialog agents with deep reinforcement learning",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE international conference on computer vision, 2951-2960, 2017"
+    },
+    {
+        "title": "Learning the causal structure of networked dynamical systems under latent nodes and structured noise",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.05974, 2023"
     },
     {
         "title": "Learning to understand image blur",
@@ -2855,6 +2865,11 @@
         "citation": "IEEE Transactions on Acoustics, Speech, and Signal Processing 36 (5), 617-630, 1988"
     },
     {
+        "title": "PhyOT: Physics-informed object tracking in surveillance cameras",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.08650, 2023"
+    },
+    {
         "title": "Platform location in underwater acoustics",
         "pub_year": "1979",
         "citation": "OCEANS'79, 48-53, 1979"
@@ -2907,6 +2922,11 @@
         "title": "Proceedings of Meetings on Acoustics",
         "pub_year": "2014",
         "citation": "Proceedings of Meetings on Acoustics 20 (060008), 1, 2014"
+    },
+    {
+        "title": "Proceedings of Meetings on Acoustics",
+        "pub_year": "2022",
+        "citation": "Signal Processing 5, 9, 2022"
     },
     {
         "title": "Program generation with Spiral: Beyond transforms",

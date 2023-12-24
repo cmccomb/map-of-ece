@@ -1,5 +1,10 @@
 [
     {
+        "title": "A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.04371, 2023"
+    },
+    {
         "title": "A random forest method for real-time price forecasting in New York electricity market",
         "pub_year": "2014",
         "citation": "2014 IEEE PES General Meeting| Conference & Exposition, 1-5, 2014"
@@ -213,6 +218,11 @@
         "title": "Stability and Regret bounds on Distributed Truncated Predictive Control for Networked Dynamical Systems",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.06194, 2023"
+    },
+    {
+        "title": "Stability constrained reinforcement learning for decentralized real-time voltage control",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Control of Network Systems, 2023"
     },
     {
         "title": "Stability constrained reinforcement learning for real-time voltage control",

@@ -106,8 +106,8 @@
     },
     {
         "title": "A convex method of generalized state estimation using circuit-theoretic node-breaker model",
-        "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2109.14742, 2021"
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Power Systems, 2023"
     },
     {
         "title": "A fast simulation approach for inductive effects of VLSI interconnects",
@@ -742,6 +742,11 @@
         "title": "Contingency Analyses with Warm Starter using Probabilistic Graphical Model",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2304.06727, 2023"
+    },
+    {
+        "title": "Continuous Switch Model and Heuristics for Mixed-Integer Nonlinear Problems in Power Systems",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Power Systems, 2023"
     },
     {
         "title": "Continuously differentiable analytical models for implicit control within power flow",

@@ -255,7 +255,7 @@
         "citation": ""
     },
     {
-        "title": "Galápagos: Developing Verified Low-Level Cryptography on Heterogeneous Hardware",
+        "title": "Galápagos: Developing Verified Low Level Cryptography on Heterogeneous Hardwares",
         "pub_year": "2023",
         "citation": "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications …, 2023"
     },
@@ -419,7 +419,7 @@
     {
         "title": "Mariposa: Measuring SMT Instability in Automated Program Verification",
         "pub_year": "2023",
-        "citation": "CONFERENCE ON FORMAL METHODS IN COMPUTER-AIDED DESIGN–FMCAD 2023, 178, 2023"
+        "citation": "2023 Formal Methods in Computer-Aided Design (FMCAD), 178-188, 2023"
     },
     {
         "title": "Mariposa: Measuring SMT Instability in Automated Program Verification (Technical Report)",
@@ -488,7 +488,7 @@
     {
         "title": "No Root Store Left Behind",
         "pub_year": "2023",
-        "citation": "Proceedings of the 22nd ACM Workshop on Hot Topics in Networks, 295-301, 2023"
+        "citation": "ACM, 2023"
     },
     {
         "title": "Non-interactive verifiable computing: Outsourcing computation to untrusted workers",
@@ -816,6 +816,11 @@
         "title": "Verus: Verifying rust programs using linear ghost types",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Programming Languages 7 (OOPSLA1), 286-315, 2023"
+    },
+    {
+        "title": "WaveCert: Formal Compiler Validation for Asynchronous Dataflow Programs",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.09326, 2023"
     },
     {
         "title": "WebAssembly as an intermediate language for provably-safe software sandboxing",

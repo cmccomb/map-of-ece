@@ -192,6 +192,11 @@
         "citation": "International Conference on Machine Learning, 108-116, 2016"
     },
     {
+        "title": "Mixture-of-Linear-Experts for Long-term Time Series Forecasting",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2312.06786, 2023"
+    },
+    {
         "title": "Multi-server private information retrieval over unsynchronized databases",
         "pub_year": "2014",
         "citation": "2014 52nd Annual Allerton Conference on Communication, Control, and …, 2014"
@@ -219,6 +224,11 @@
     {
         "title": "PC Chairs",
         "citation": ""
+    },
+    {
+        "title": "POMACS V7, N3, December 2023 Editorial",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (3 …, 2023"
     },
     {
         "title": "Pacgan: The power of two samples in generative adversarial networks",
@@ -292,6 +302,11 @@
         "title": "Privately Customizing Prefinetuning to Better Match User Data in Federated Learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.09042, 2023"
+    },
+    {
+        "title": "Proof of Compliance for Anonymous, Unlinkable Messages",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
     },
     {
         "title": "Raft-Forensics: High Performance CFT Consensus with Accountability for Byzantine Faults",

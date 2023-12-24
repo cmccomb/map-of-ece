@@ -146,6 +146,11 @@
         "citation": ""
     },
     {
+        "title": "NOTRY: deniable messaging with retroactive avowal",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
         "title": "New architectures for radio-frequency DC–DC power conversion",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Power Electronics 21 (2), 380-393, 2006"
@@ -208,7 +213,7 @@
     {
         "title": "Riggs: Decentralized sealed-bid auctions",
         "pub_year": "2023",
-        "citation": "Cryptology ePrint Archive, 2023"
+        "citation": "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications …, 2023"
     },
     {
         "title": "Robust, low-cost, auditable random number generation for embedded system security",

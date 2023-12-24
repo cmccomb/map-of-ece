@@ -5,11 +5,6 @@
         "citation": "Biomedical Optics Express 6 (3), 902-917, 2015"
     },
     {
-        "title": "A Lightweight Transformer for Faster and Robust EBSD Data Collection",
-        "pub_year": "2023",
-        "citation": "Scientific Reports, accepted; arXiv preprint arXiv:2308.09693, 2023"
-    },
-    {
         "title": "A Multi-Token Coordinate Descent Method for Semi-Decentralized Vertical Federated Learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2309.09977, 2023"
@@ -18,6 +13,11 @@
         "title": "A large collection of real-world pediatric sleep studies",
         "pub_year": "2022",
         "citation": "Scientific Data 9 (1), 421, 2022"
+    },
+    {
+        "title": "A lightweight transformer for faster and robust EBSD data collection",
+        "pub_year": "2023",
+        "citation": "Scientific Reports 13 (1), 21253, 2023"
     },
     {
         "title": "A non-convex approach to joint sensor calibration and spectrum estimation",
@@ -178,11 +178,6 @@
         "title": "Convex relaxations of spectral sparsity for robust super-resolution and line spectrum estimation",
         "pub_year": "2017",
         "citation": "Wavelets and Sparsity XVII 10394, 314-321, 2017"
-    },
-    {
-        "title": "Counterfactual Generation with Identifiability Guarantees",
-        "pub_year": "2023",
-        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     },
     {
         "title": "Covariance tracking from sketches of rapid data streams",

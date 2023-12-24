@@ -120,6 +120,11 @@
         "citation": "arXiv preprint arXiv:1912.04977, 1912"
     },
     {
+        "title": "Agents of Autonomy: A Systematic Study of Robotics on Modern Hardware",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (3 …, 2023"
+    },
+    {
         "title": "Ambit: In-memory accelerator for bulk bitwise operations using commodity DRAM technology",
         "pub_year": "2017",
         "citation": "Proceedings of the 50th Annual IEEE/ACM International Symposium on …, 2017"
@@ -215,6 +220,11 @@
         "citation": "Proceedings of the 34th ACM Symposium on Parallelism in Algorithms and …, 2022"
     },
     {
+        "title": "Brief announcement",
+        "pub_year": "2012",
+        "citation": "Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …, 2012"
+    },
+    {
         "title": "Brief announcement: Low depth cache-oblivious sorting",
         "pub_year": "2009",
         "citation": "Proceedings of the twenty-first annual symposium on Parallelism in …, 2009"
@@ -287,6 +297,11 @@
         "title": "Combinable memory-block transactions",
         "pub_year": "2008",
         "citation": "Proceedings of the twentieth annual symposium on Parallelism in algorithms …, 2008"
+    },
+    {
+        "title": "Communicating via fireflies",
+        "pub_year": "2007",
+        "citation": "Proceedings of the 6th international conference on Information processing in …, 2007"
     },
     {
         "title": "Communicating via fireflies: Geographic routing on duty-cycled sensors",
