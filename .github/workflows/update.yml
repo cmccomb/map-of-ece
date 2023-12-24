@@ -1,0 +1,19 @@
+name: Update Map
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'faculty.csv'
+  schedule:
+  - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  call-workflow-passing-data:
+    uses: cmccomb/map-of-research/.github/workflows/update.yml@main
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
