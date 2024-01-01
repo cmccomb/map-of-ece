@@ -590,8 +590,9 @@
         "citation": "15th Annual IEEE Symposium on Field-Programmable Custom Computing Machines …, 2007"
     },
     {
-        "title": "Generating Number Theoretic Transforms for Multi-Word Integer Data Types",
-        "citation": ""
+        "title": "Generating High-Performance Number Theoretic Transform Implementations for Vector Architectures",
+        "pub_year": "2023",
+        "citation": "2023 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2023"
     },
     {
         "title": "Generating SIMD vectorized permutations",
@@ -607,6 +608,11 @@
         "title": "Generating high-performance general size linear transform libraries using Spiral",
         "pub_year": "2008",
         "citation": "High Performance Embedded Computing (HPEC) 85 (86), 136, 2008"
+    },
+    {
+        "title": "Generating number theoretic transforms for multi-word integer data types",
+        "pub_year": "2023",
+        "citation": "IEEE/ACM International Symposium on Code Generation and Optimization (CGO), 2023"
     },
     {
         "title": "Generating optimized Fourier interpolation routines for density functional theory using SPIRAL",
@@ -809,6 +815,11 @@
         "citation": "AURORA Technical Report TR2003-10, Institute for Applied Mathematics and …, 2003"
     },
     {
+        "title": "Optimization and Performance Analysis of Shor's Algorithm in Qiskit",
+        "pub_year": "2023",
+        "citation": "2023 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2023"
+    },
+    {
         "title": "Optimized Quantum Circuit Generation with SPIRAL",
         "pub_year": "2021",
         "citation": "2021 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2021"
@@ -933,7 +944,7 @@
     {
         "title": "ProtoX: A First Look",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2307.07931, 2023"
+        "citation": "2023 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2023"
     },
     {
         "title": "Quantum Circuit Optimization with SPIRAL: A First Look",
@@ -1083,6 +1094,10 @@
         "title": "Towards full-stack acceleration for fully homomorphic encryption",
         "pub_year": "2022",
         "citation": "IEEE HPEC, 2022"
+    },
+    {
+        "title": "Twiddle Factor Generation for a Vectorized Number Theoretic Transform",
+        "citation": ""
     },
     {
         "title": "Understanding the design space of dram-optimized hardware FFT accelerators",

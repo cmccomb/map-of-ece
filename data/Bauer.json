@@ -127,14 +127,14 @@
         "citation": ""
     },
     {
-        "title": "Adversarial Training for {Raw-Binary} Malware Classifiers",
-        "pub_year": "2023",
-        "citation": "32nd USENIX Security Symposium (USENIX Security 23), 1163-1180, 2023"
-    },
-    {
         "title": "Adversarial generative nets: Neural network attacks on state-of-the-art face recognition",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1801.00349 2 (3), 139, 2017"
+    },
+    {
+        "title": "Adversarial training for {Raw-Binary} malware classifiers",
+        "pub_year": "2023",
+        "citation": "32nd USENIX Security Symposium (USENIX Security 23), 1163-1180, 2023"
     },
     {
         "title": "Analyzing the dangers posed by Chrome Extensions.(2014)",
