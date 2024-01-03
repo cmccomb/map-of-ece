@@ -8,7 +8,7 @@ on:
     paths:
       - '**.html'
   workflow_run:
-    workflows: ["update visualization"]
+    workflows: ["Update Map"]
     types:
       - completed
 
