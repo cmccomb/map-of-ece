@@ -27,7 +27,12 @@
     {
         "title": "Capacitance measurements for assessing DNA origami nanostructures",
         "pub_year": "2023",
-        "citation": "bioRxiv, 2023.03. 02.530881, 2023"
+        "citation": "BioRxiv, 2023.03. 02.530881, 2023"
+    },
+    {
+        "title": "Challenge-Response Pair Space Enhancement for Imager-Based Physically Unclonable Functions",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 66th International Midwest Symposium on Circuits and Systems …, 2023"
     },
     {
         "title": "Characterization of Single-Photon Avalanche Diodes in a 0.5 μm Standard CMOS Process—Part 1: Perimeter Breakdown Suppression",
@@ -45,7 +50,7 @@
         "citation": "SENSORS, 2009 IEEE, 1889-1892, 2009"
     },
     {
-        "title": "Concealable Physically Unclonable Functions and Key Generation Using a Geiger Mode Imager",
+        "title": "Concealable physically unclonable functions and key generation using a Geiger mode imager",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2023"
     },
@@ -72,6 +77,11 @@
     {
         "title": "Extensions upon the Versatile BioLab-On-A-Chip",
         "citation": ""
+    },
+    {
+        "title": "Field Uniformity Optimization for Integrated Capacitance Sensing of Tumor Treating Field-Treated Cancer Cell Cultures",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 66th International Midwest Symposium on Circuits and Systems …, 2023"
     },
     {
         "title": "Handheld fluorometers for lab-on-a-chip applications",
@@ -173,7 +183,7 @@
         "citation": "Journal of Nuclear Medicine 48 (supplement 2), 163P-163P, 2007"
     },
     {
-        "title": "Perimeter-Gated Single-Photon Avalanche Diode Imager with Vanishing Room Temperature Dark Count Probability",
+        "title": "Perimeter-gated single-photon avalanche diode imager with vanishing room temperature dark count probability",
         "pub_year": "2022",
         "citation": "2022 29th IEEE International Conference on Electronics, Circuits and Systems …, 2022"
     },
@@ -186,6 +196,11 @@
         "title": "Post-CMOS packaging methods for integrated biosensors",
         "pub_year": "2009",
         "citation": "SENSORS, 2009 IEEE, 795-798, 2009"
+    },
+    {
+        "title": "Pulsed ToF LiDAR-Based Depth Imaging: SPAD Circuit Considerations and Simulation Study",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 66th International Midwest Symposium on Circuits and Systems …, 2023"
     },
     {
         "title": "Real-time measurements of cell proliferation using a lab-on-CMOS capacitance sensor array",
@@ -208,6 +223,11 @@
         "citation": "US Patent 9,671,284, 2017"
     },
     {
+        "title": "Spectral Responsivity and Photoresponse Non-Uniformity of a Perimeter-Gated Single-Photon Avalanche Diode Imager",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 66th International Midwest Symposium on Circuits and Systems …, 2023"
+    },
+    {
         "title": "System and method to measure car-t cell quality",
         "pub_year": "2023",
         "citation": "US Patent App. 18/316,200, 2023"
@@ -223,6 +243,11 @@
         "citation": "2019 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2019"
     },
     {
+        "title": "Towards CMOS Capacitance Sensors for DNA Origami Characterization",
+        "pub_year": "2023",
+        "citation": "2023 International Electron Devices Meeting (IEDM), 1-4, 2023"
+    },
+    {
         "title": "Towards Integrated Fluorescence Sensing",
         "pub_year": "2008",
         "citation": ""
@@ -231,5 +256,10 @@
         "title": "Tracking the effects of tumor treating fields on human breast cancer cells in vitro using a capacitance sensing lab-on-CMOS microsystem",
         "pub_year": "2022",
         "citation": "2022 29th IEEE International Conference on Electronics, Circuits and Systems …, 2022"
+    },
+    {
+        "title": "True Random Number Generation Using Dark Noise Modulation of a Single-Photon Avalanche Diode",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2023"
     }
 ]

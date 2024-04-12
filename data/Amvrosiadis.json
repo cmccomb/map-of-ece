@@ -39,17 +39,13 @@
         "citation": "Technical Report, 2019"
     },
     {
-        "title": "DeltaFS: A scalable no-ground-truth filesystem for massively-parallel computing",
+        "title": "DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing",
         "pub_year": "2021",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2021"
     },
     {
         "title": "Failures of dynamic control systems",
         "pub_year": "2019",
-        "citation": ""
-    },
-    {
-        "title": "File Systems Unfit as Distributed Storage Back Ends",
         "citation": ""
     },
     {
@@ -77,7 +73,7 @@
         "citation": "2015 USENIX Annual Technical Conference (USENIX ATC 15), 151-164, 2015"
     },
     {
-        "title": "It’s time to talk about HPC storage: Perspectives on the past and future",
+        "title": "It’s time to talk about hpc storage: Perspectives on the past and future",
         "pub_year": "2021",
         "citation": "Computing in Science & Engineering 23 (6), 63-68, 2021"
     },
@@ -135,14 +131,9 @@
         "citation": "8th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage 16), 2016"
     },
     {
-        "title": "RAIZN: Redundant Array of Independent Zoned Namespaces",
+        "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023"
-    },
-    {
-        "title": "Raregan: Generating samples for rare classes",
-        "pub_year": "2022",
-        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (7), 7506-7515, 2022"
     },
     {
         "title": "Reconciling LSM-Trees with Modern Hard Drives using BlueFS",
@@ -185,7 +176,7 @@
         "citation": ""
     },
     {
-        "title": "The Atlas cluster trace repository",
+        "title": "The atlas cluster trace repository",
         "pub_year": "2018",
         "citation": "Usenix Mag 43 (4), 2018"
     },
@@ -220,7 +211,7 @@
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021"
     },
     {
-        "title": "{SketchLib}: Enabling Efficient Sketch-based Monitoring on Programmable Switches",
+        "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
     }

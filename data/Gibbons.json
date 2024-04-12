@@ -112,7 +112,7 @@
     {
         "title": "Advances and open problems in federated learning",
         "pub_year": "2021",
-        "citation": "Foundations and Trends® in Machine Learning 14 (1–2), 1-210, 2021"
+        "citation": "Foundations and trends® in machine learning 14 (1–2), 1-210, 2021"
     },
     {
         "title": "Advances and open problems in federated learning. arXiv 2019",
@@ -397,11 +397,6 @@
         "citation": "Manuscript submitted for publication, 1998"
     },
     {
-        "title": "Detecting Violations of Sequential Consistency",
-        "pub_year": "1991",
-        "citation": "SPAA: Proceedings of the... ACM Symposium on Parallel Algorithms and …, 1991"
-    },
-    {
         "title": "Detecting violations of sequential consistency",
         "pub_year": "1991",
         "citation": "Proceedings of the third annual ACM symposium on Parallel algorithms and …, 1991"
@@ -425,10 +420,6 @@
         "title": "Distributed Computing in Sensor Systems: Second IEEE International Conference",
         "pub_year": "2006",
         "citation": "Second IEEE International Conference, DCOSS 2006, 2006"
-    },
-    {
-        "title": "Distributed Snapshots: Determining Global States of Distributed Systems",
-        "citation": ""
     },
     {
         "title": "Distributed streams algorithms for sliding windows",
@@ -572,7 +563,7 @@
     {
         "title": "Flash in a DBMS: Where and How?",
         "pub_year": "2010",
-        "citation": "IEEE Data Engineering Bulletin 33 (ARTICLE), 28-34, 2010"
+        "citation": "IEEE Data Engineering Bulletin 33 (4), 28-34, 2010"
     },
     {
         "title": "Flexible hardware acceleration for instruction-grain lifeguards",
@@ -612,11 +603,6 @@
         "title": "Gather-scatter DRAM: In-DRAM address translation to improve the spatial locality of non-unit strided accesses",
         "pub_year": "2015",
         "citation": "Proceedings of the 48th International Symposium on Microarchitecture, 267-280, 2015"
-    },
-    {
-        "title": "GeePS",
-        "pub_year": "2016",
-        "citation": "Proceedings of the Eleventh European Conference on Computer Systems, 2016"
     },
     {
         "title": "Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server",
@@ -661,11 +647,6 @@
         "title": "HerQules: Securing programs via hardware-enforced message queues",
         "pub_year": "2021",
         "citation": "Proceedings of the 26th ACM International Conference on Architectural …, 2021"
-    },
-    {
-        "title": "Hierarchies, Clouds, and Specialization",
-        "pub_year": "2012",
-        "citation": ""
     },
     {
         "title": "HotCloud’13: 5th uSENIX Workshop on Hot topics in Cloud Computing",
@@ -742,7 +723,7 @@
     {
         "title": "IrisNet: An architecture for compute-intensive wide-area sensor network services",
         "pub_year": "2002",
-        "citation": "Intel Research Pittsburgh Technical Report IRP-TR-02 10, 2002"
+        "citation": "Intel Corporation, Pittsburgh IRPTR-02-10, 2002"
     },
     {
         "title": "IrisNet: An architecture for enabling sensor-enriched Internet service",
@@ -941,7 +922,7 @@
     {
         "title": "Modeling parallel bandwidth: local versus global restrictions",
         "pub_year": "1999",
-        "citation": "Algorithmica 24 (3-4), 381-404, 1999"
+        "citation": "Algorithmica 24 (3), 381-404, 1999"
     },
     {
         "title": "Models and Algorithms under Asymmetric Read and Write Costs",
@@ -1003,16 +984,6 @@
         "citation": "Proceedings of the twenty-sixth annual ACM symposium on Principles of …, 2007"
     },
     {
-        "title": "PDL ABSTRACT",
-        "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1803.07445, 2018"
-    },
-    {
-        "title": "PIM-tree: A Skew-resistant Index for Processing-in-Memory",
-        "pub_year": "2023",
-        "citation": "Proceedings of the 2023 ACM Workshop on Highlights of Parallel Computing, 13-14, 2023"
-    },
-    {
         "title": "PIM-trie: A Skew-resistant Trie for Processing-in-Memory",
         "pub_year": "2023",
         "citation": "Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and …, 2023"
@@ -1048,14 +1019,14 @@
         "citation": "Proceedings of the twentieth annual symposium on Parallelism in algorithms …, 2008"
     },
     {
-        "title": "PipeDream: Generalized pipeline parallelism for DNN training",
-        "pub_year": "2019",
-        "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 1-15, 2019"
-    },
-    {
         "title": "PipeDream: Pipeline parallelism for DNN training",
         "pub_year": "2018",
         "citation": "Proceedings of the 1st Conference on Systems and Machine Learning (SysML), 2018"
+    },
+    {
+        "title": "PipeDream: generalized pipeline parallelism for DNN training",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 27th ACM symposium on operating systems principles, 1-15, 2019"
     },
     {
         "title": "Post-mortem black-box correctness tests for basic parallel data structures",
@@ -1066,6 +1037,11 @@
         "title": "Pr-join: a non-blocking join achieving higher early result rate with statistical guarantees",
         "pub_year": "2010",
         "citation": "Proceedings of the 2010 ACM SIGMOD International Conference on Management of …, 2010"
+    },
+    {
+        "title": "Praveen Yalagandula",
+        "pub_year": "2004",
+        "citation": "ACM SIGCOMM, 2004"
     },
     {
         "title": "Priority update as a parallel primitive",
@@ -1191,9 +1167,9 @@
         "citation": "2022 IEEE International Symposium on Performance Analysis of Systems and …, 2022"
     },
     {
-        "title": "Runahead A: Speculative Parallelism for A with Slow Expansions",
+        "title": "Runahead A*: Speculative Parallelism for A* with Slow Expansions",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "Proceedings of the International Conference on Automated Planning and …, 2023"
     },
     {
         "title": "Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data",
@@ -1284,6 +1260,11 @@
         "citation": "NSDI 6, 225-238, 2006"
     },
     {
+        "title": "Subtree Isomorphism is in",
+        "pub_year": "1989",
+        "citation": ""
+    },
+    {
         "title": "Subtree isomorphism is in random NC",
         "pub_year": "1990",
         "citation": "Discrete Applied Mathematics 29 (1), 35-62, 1990"
@@ -1326,7 +1307,7 @@
     {
         "title": "Sysml: The new frontier of machine learning systems",
         "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1904.03257, 2019"
+        "citation": "arXiv preprint arXiv:1904.03257 98, 2019"
     },
     {
         "title": "System and method for improving index performance through prefetching",
@@ -1445,6 +1426,11 @@
         "title": "The locality descriptor: A holistic cross-layer abstraction to express data locality in GPUs",
         "pub_year": "2018",
         "citation": "2018 ACM/IEEE 45th Annual International Symposium on Computer Architecture …, 2018"
+    },
+    {
+        "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
+        "pub_year": "1999",
+        "citation": "Communications of the ACM 42 (2), 42-47, 1999"
     },
     {
         "title": "The non-iid data quagmire of decentralized machine learning",

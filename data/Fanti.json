@@ -39,6 +39,11 @@
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (1 …, 2023"
     },
     {
+        "title": "Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown",
+        "pub_year": "2024",
+        "citation": "PPAI-24: The 5th AAAI Workshop on Privacy-Preserving Artificial Intelligence, 2024"
+    },
+    {
         "title": "Building Dissent Networks: Towards Effective Countermeasures against {Large-Scale} Communications Blackouts",
         "pub_year": "2013",
         "citation": "3rd USENIX Workshop on Free and Open Communications on the Internet (FOCI 13), 2013"
@@ -51,6 +56,11 @@
     {
         "title": "Central bank digital currency in an historical perspective",
         "citation": ""
+    },
+    {
+        "title": "Central bankers’ new cybersecurity challenge",
+        "pub_year": "2022",
+        "citation": "Finance & Development 59 (3), 30-32, 2022"
     },
     {
         "title": "Circulant structures and graph signal processing",
@@ -93,6 +103,11 @@
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 1 (1 …, 2017"
     },
     {
+        "title": "Data Distribution Valuation with Incentive Compatibility",
+        "pub_year": "2023",
+        "citation": ""
+    },
+    {
         "title": "Deanonymization in the bitcoin P2P network",
         "pub_year": "2017",
         "citation": "Advances in Neural Information Processing Systems 30, 2017"
@@ -131,6 +146,11 @@
         "title": "Efficient private information retrieval over unsynchronized databases",
         "pub_year": "2015",
         "citation": "IEEE Journal of Selected Topics in Signal Processing 9 (7), 1229-1239, 2015"
+    },
+    {
+        "title": "El nuevo reto de ciberseguridad de los bancos centrales: las monedas digitales de los bancos centrales pueden plantear riesgos de seguridad, pero si están bien diseñadas …",
+        "pub_year": "2022",
+        "citation": "Finanzas y desarrollo: publicación trimestral del Fondo Monetario …, 2022"
     },
     {
         "title": "Enabling AI innovation via data and model sharing: An overview of the NSF Convergence Accelerator Track D",
@@ -172,6 +192,11 @@
         "citation": "international conference on machine learning, 6127-6139, 2020"
     },
     {
+        "title": "Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.10116, 2024"
+    },
+    {
         "title": "Introduction to machine learning",
         "pub_year": "2019",
         "citation": ""
@@ -192,9 +217,14 @@
         "citation": "International Conference on Machine Learning, 108-116, 2016"
     },
     {
+        "title": "Missing Key: The challenge of cybersecurity and central bank digital currency",
+        "pub_year": "2022",
+        "citation": "Atlantic Council, 2022"
+    },
+    {
         "title": "Mixture-of-Linear-Experts for Long-term Time Series Forecasting",
         "pub_year": "2023",
-        "citation": "Carnegie Mellon University, 2023"
+        "citation": "arXiv preprint arXiv:2312.06786, 2023"
     },
     {
         "title": "Multi-server private information retrieval over unsynchronized databases",
@@ -210,6 +240,11 @@
         "title": "Multistage stepsize schedule in federated learning: Bridging theory and practice",
         "pub_year": "2021",
         "citation": "ICML Workshop 12, 2021"
+    },
+    {
+        "title": "On the Convergence of Differentially-Private Fine-tuning: To Linearly Probe or to Fully Fine-tune?",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.18905, 2024"
     },
     {
         "title": "On the privacy properties of gan-generated samples",
@@ -231,6 +266,11 @@
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (3 …, 2023"
     },
     {
+        "title": "POMACS V8, N1, March 2024 Editorial",
+        "pub_year": "2024",
+        "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 8 (1 …, 2024"
+    },
+    {
         "title": "Pacgan: The power of two samples in generative adversarial networks",
         "pub_year": "2018",
         "citation": "Advances in neural information processing systems 31, 2018"
@@ -241,14 +281,14 @@
         "citation": "2010 IEEE International Energy Conference, 728-733, 2010"
     },
     {
-        "title": "Practical Low Latency Proof of Work Consensus",
-        "pub_year": "2019",
-        "citation": "arXiv e-prints, arXiv: 1909.11261, 2019"
-    },
-    {
         "title": "Practical gan-based synthetic ip header trace generation using netshare",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 458-472, 2022"
+    },
+    {
+        "title": "Practical low latency proof of work consensus",
+        "pub_year": "2019",
+        "citation": "arXiv preprint arXiv:1909.11261, 2019"
     },
     {
         "title": "Pretrained deep models outperform GBDTs in Learning-To-Rank under label scarcity",
@@ -266,10 +306,6 @@
         "citation": "arXiv preprint arXiv:1909.11261, 2019"
     },
     {
-        "title": "Privacy in Cross-border Digital Currency",
-        "citation": ""
-    },
-    {
         "title": "Privacy in Cross-border Digital Currency. A Transatlantic Approach",
         "pub_year": "2022",
         "citation": "Frankfurt Forum on US-European GeoEconomics, 1-25, 2022"
@@ -279,8 +315,7 @@
         "citation": "Atlantic Council, 0"
     },
     {
-        "title": "Privacy in the Blockchain Era (Podcast Series)",
-        "pub_year": "2021",
+        "title": "Privacy in the Blockchain Era",
         "citation": ""
     },
     {
@@ -299,7 +334,7 @@
         "citation": "submitted for publication, 2012"
     },
     {
-        "title": "Privately Customizing Prefinetuning to Better Match User Data in Federated Learning",
+        "title": "Privately customizing prefinetuning to better match user data in federated learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.09042, 2023"
     },
@@ -368,12 +403,12 @@
         "citation": "arXiv preprint arXiv:1912.01798, 2019"
     },
     {
-        "title": "Strategic Latency Reduction in Blockchain Peer-to-Peer Networks",
+        "title": "Strategic latency reduction in blockchain peer-to-peer networks",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (2 …, 2023"
     },
     {
-        "title": "Summary Statistic Privacy in Data Sharing",
+        "title": "Summary statistic privacy in data sharing",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.02014, 2023"
     },
@@ -398,14 +433,14 @@
         "citation": "Proceedings of International Conference on Multimedia Retrieval, 49-56, 2014"
     },
     {
-        "title": "Towards a Defense against Backdoor Attacks in Continual Federated Learning",
+        "title": "Towards a defense against backdoor attacks in continual federated learning",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2205.11736, 2022"
+        "citation": ""
     },
     {
         "title": "Towards a defense against federated backdoor attacks under continuous training",
-        "pub_year": "2023",
-        "citation": "Transactions on Machine Learning Research, 2023"
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2205.11736, 2022"
     },
     {
         "title": "Towards oblivious network analysis using generative adversarial networks",
@@ -448,7 +483,7 @@
         "citation": "32nd USENIX Security Symposium (USENIX Security 23), 319-336, 2023"
     },
     {
-        "title": "{SketchLib}: Enabling Efficient Sketch-based Monitoring on Programmable Switches",
+        "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
     }

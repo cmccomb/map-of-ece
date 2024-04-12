@@ -101,11 +101,6 @@
         "citation": ""
     },
     {
-        "title": "A Reconfigurable High-Bandwidth CMOS-MEMS Capacitive Accelerometer Array with High-g Measurement Capability and Low Bias Instability",
-        "pub_year": "2020",
-        "citation": "2020 IEEE Symposium on VLSI Circuits, 1-2, 2020"
-    },
-    {
         "title": "A SCS CMOS micromirror for optical coherence tomographic imaging",
         "pub_year": "2002",
         "citation": "Technical Digest. MEMS 2002 IEEE International Conference. Fifteenth IEEE …, 2002"
@@ -206,6 +201,11 @@
         "citation": "Journal of Micromechanics and Microengineering 23 (9), 095007, 2013"
     },
     {
+        "title": "A reconfigurable high-bandwidth CMOS-MEMS capacitive accelerometer array with high-g measurement capability and low bias instability",
+        "pub_year": "2020",
+        "citation": "2020 IEEE Symposium on VLSI Circuits, 1-2, 2020"
+    },
+    {
         "title": "A schematic-based design model for microphone and circuit integration",
         "pub_year": "2007",
         "citation": "2007 International Microsystems, Packaging, Assembly and Circuits Technology …, 2007"
@@ -297,11 +297,6 @@
         "title": "Advanced micro & nanosystems",
         "pub_year": "2005",
         "citation": "CMOS-MEMS 2, 2005"
-    },
-    {
-        "title": "Advanced micro & nanosystems. Volume 1. Enabling technology for MEMS and nanodevices",
-        "pub_year": "2004",
-        "citation": "Wiley-VCH Verlag GmbH&Co. KGaA, P319, 2004"
     },
     {
         "title": "Aerosol-Jet-Printed Stretchable Electronic Decal Technology",
@@ -583,11 +578,6 @@
         "citation": "Interactions 21 (3), 6-9, 2014"
     },
     {
-        "title": "Department of Electrical and Computer Engineering",
-        "pub_year": "2012",
-        "citation": "Tribology Issues and Opportunities in MEMS: Proceedings of the NSF/AFOSR …, 2012"
-    },
-    {
         "title": "Desensitizing method for measurement of third-order intermodulation distortion in CMOS-MEMS micromechanical resonators",
         "pub_year": "2006",
         "citation": "A Solid State Sensor, Actuator and Microsystems Workshop, 2006"
@@ -610,7 +600,7 @@
     {
         "title": "Design and fabrication of an integrated CMOS-MEMS 3-axis accelerometer",
         "pub_year": "2003",
-        "citation": "The 2003 Nanotechnology Conference, 292-295, 2003"
+        "citation": "MSM’03 (San Francisco, CA, 23–27 February), 292-5, 2003"
     },
     {
         "title": "Design and modeling of a fluid-based micro-scale electrocaloric refrigeration system",
@@ -780,7 +770,7 @@
     {
         "title": "Endoscopic optical coherence tomographic imaging with a CMOS-MEMS micromirror",
         "pub_year": "2003",
-        "citation": "Sensors and Actuators A: Physical 103 (1-2), 237-241, 2003"
+        "citation": "Sensors and actuators A: physical 103 (1-2), 237-241, 2003"
     },
     {
         "title": "Endoscopic optical coherence tomography based on a microelectromechanical mirror",
@@ -862,9 +852,9 @@
         "citation": "Tech. Dig. Solid-State Sensors, Actuators and Microsystems Workshop, 10-13, 2008"
     },
     {
-        "title": "Focused Epicranial Brain Stimulation by Spatial Sculpting of Pulsed Electric Fields Using High Density Electrode Arrays",
+        "title": "Focused epicranial brain stimulation by spatial sculpting of pulsed electric fields using high density electrode arrays",
         "pub_year": "2023",
-        "citation": "Advanced Science, 2207251, 2023"
+        "citation": "Advanced Science 10 (20), 2207251, 2023"
     },
     {
         "title": "Foundations of Microelectromechanical System Synthesis",
@@ -945,7 +935,7 @@
         "citation": "2023 11th International IEEE/EMBS Conference on Neural Engineering (NER), 1-4, 2023"
     },
     {
-        "title": "High-g Capacitive Accelerometer Arrays with Low Bias Instability",
+        "title": "High-g capacitive accelerometer arrays with low bias instability",
         "pub_year": "2020",
         "citation": "2020 IEEE/ION Position, Location and Navigation Symposium (PLANS), 9-15, 2020"
     },
@@ -955,7 +945,7 @@
         "citation": "Advanced Materials Technologies 7 (12), 2200396, 2022"
     },
     {
-        "title": "Hourglass-beam Nanogram-proof-mass Array: Toward a High Dynamic Range Accelerometer",
+        "title": "Hourglass-beam Nanogram-proof-mass array: Toward a high dynamic range accelerometer",
         "pub_year": "2019",
         "citation": "2019 IEEE International Symposium on Inertial Sensors and Systems (INERTIAL …, 2019"
     },
@@ -980,7 +970,7 @@
     {
         "title": "In vitro electrochemical characterization of polydopamine melanin as a tissue stimulating electrode material",
         "pub_year": "2016",
-        "citation": "Journal of Materials Chemistry B 4 (18), 3031-3036, 2016"
+        "citation": "Journal of materials chemistry B 4 (18), 3031-3036, 2016"
     },
     {
         "title": "Inkjet printed chemical sensor array based on polythiophene conductive polymers",
@@ -1158,14 +1148,14 @@
         "citation": "Proc. Int. Conf. Modeling and Simulation of Microsystems (MSM ‘01), 88-91, 2001"
     },
     {
+        "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
+        "pub_year": "2016",
+        "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016"
+    },
+    {
         "title": "Material characterization and transfer of large-area ultra-thin polydimethylsiloxane membranes",
         "pub_year": "2015",
         "citation": "Journal of Microelectromechanical systems 24 (6), 2170-2177, 2015"
-    },
-    {
-        "title": "Material gradients in stretchable substrates toward integrated electronic functionality",
-        "pub_year": "2016",
-        "citation": "Advanced Materials 28 (18), 3584-3591, 2016"
     },
     {
         "title": "Mechanical Properties Measurements of 0.35-µm BiCMOS MEMS Structures",
@@ -1436,6 +1426,11 @@
         "citation": ""
     },
     {
+        "title": "PA 15213-3890, USA",
+        "pub_year": "1995",
+        "citation": "Simulation and Design of Microsystems and Microstructures 13, 175, 1995"
+    },
+    {
         "title": "PART 3-Symposium on Magnetic Technology for a Single Chip Computer-Single-chip computers with microelectromechanical systems-based magnetic memory",
         "pub_year": "2000",
         "citation": "Journal of Applied Physics 87 (9), 6680-6685, 2000"
@@ -1637,11 +1632,6 @@
         "citation": ""
     },
     {
-        "title": "SUSPENDED, POROUS CELLULOSE ACETATE MEMBRANES",
-        "pub_year": "2004",
-        "citation": "Microtas 2004 2, 252, 2004"
-    },
-    {
         "title": "Safety profile of localized non-invasive brain stimulation using uHD-PES: histological analysis",
         "pub_year": "2022",
         "citation": "JOURNAL OF NEUROCHEMISTRY 162, 144-144, 2022"
@@ -1752,14 +1742,19 @@
         "citation": "Journal of Microelectromechanical Systems 26 (3), 569-579, 2017"
     },
     {
-        "title": "Stress-and-Temperature-Induced Drift Compensation on a High Dynamic Range Accelerometer Array Using Deep Neural Networks",
+        "title": "Stress-and-temperature-induced drift compensation on a high dynamic range accelerometer array using deep neural networks",
         "pub_year": "2021",
         "citation": "2021 IEEE 34th International Conference on Micro Electro Mechanical Systems …, 2021"
     },
     {
-        "title": "Stretchable 3d-printed circuit boards",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/699,446, 2022"
+        "title": "Stretchable 3D Printed Circuits",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/539,899, 2024"
+    },
+    {
+        "title": "Stretchable 3D-printed circuit boards",
+        "pub_year": "2023",
+        "citation": "US Patent 11,856,708, 2023"
     },
     {
         "title": "Structured design methodology for MEMS",
@@ -1782,9 +1777,19 @@
         "citation": "Proc. IEEE Int. Conf. on Microelectromechanical Systems, 1-8, 1999"
     },
     {
+        "title": "Suspended, porous cellulose acetate membranes for microdialysis use",
+        "pub_year": "2004",
+        "citation": "Carnegie Mellon University, 2004"
+    },
+    {
         "title": "System-Level Modeling of MEMS",
         "pub_year": "2013",
         "citation": "John Wiley & Sons, Limited, 2013"
+    },
+    {
+        "title": "System-level modeling of MEMS",
+        "pub_year": "2012",
+        "citation": "Hoboken: Wiley, 2012"
     },
     {
         "title": "System-level simulation of microsystems",

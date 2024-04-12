@@ -11,7 +11,7 @@
     {
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
-        "citation": "WoNDP, 2014"
+        "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014"
     },
     {
         "title": "3DIC memory chips including computational logic-in-memory for performing accelerated data processing",
@@ -133,11 +133,6 @@
         "citation": "Proceedings of the 52Nd Annual Design Automation Conference, 1-6, 2015"
     },
     {
-        "title": "AI Division Advanced Computing Lab",
-        "pub_year": "2022",
-        "citation": ""
-    },
-    {
         "title": "Accelerated AC contingency calculation on commodity multi-core SIMD CPUs",
         "pub_year": "2014",
         "citation": "2014 IEEE PES General Meeting| Conference & Exposition, 1-5, 2014"
@@ -154,17 +149,13 @@
     },
     {
         "title": "Adaptation of A64 Scalable Vector Extension for Spiral",
+        "pub_year": "2021",
         "citation": ""
     },
     {
         "title": "Algebraic description and automatic generation of multigrid methods in SPIRAL",
         "pub_year": "2017",
         "citation": "Concurrency and Computation: Practice and Experience 29 (17), e4105, 2017"
-    },
-    {
-        "title": "Algorithm Design for Large Scale FFT-Based Simulations on CPU-GPU Platforms",
-        "pub_year": "2018",
-        "citation": "composites 2, 1, 2018"
     },
     {
         "title": "Algorithm Design for Large Scale Parallel FFT-Based Simulations on Heterogeneous Platforms",
@@ -179,6 +170,11 @@
         "title": "Algorithm and hardware co-optimized solution for large SpMV problems",
         "pub_year": "2017",
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2017"
+    },
+    {
+        "title": "Algorithm design for large scale FFT-based simulations on cpu-gpu platforms",
+        "pub_year": "2018",
+        "citation": "composites 2, 1, 2018"
     },
     {
         "title": "Algorithm/hardware co-optimized sar image reconstruction with 3d-stacked logic in memory",
@@ -230,11 +226,6 @@
     },
     {
         "title": "Automated Code Generation for High-Performance, Future-Compatible Graph Libraries",
-        "pub_year": "2018",
-        "citation": ""
-    },
-    {
-        "title": "Automatic Code Generation for Graph Algorithms",
         "pub_year": "2018",
         "citation": ""
     },
@@ -409,6 +400,10 @@
         "citation": "2008 IEEE International Symposium on Parallel and Distributed Processing, 1-5, 2008"
     },
     {
+        "title": "EVPFFTX: A First Look at FFTX Applications in Material Science",
+        "citation": ""
+    },
+    {
         "title": "Efficient and secure intellectual property (IP) design with split fabrication",
         "pub_year": "2014",
         "citation": "2014 IEEE international symposium on hardware-oriented security and trust …, 2014"
@@ -482,6 +477,10 @@
         "citation": "2019 IEEE High Performance Extreme Computing Conference (HPEC), 1-2, 2019"
     },
     {
+        "title": "FFTX-IRIS: A Dynamic Execution System for Heterogeneous Platforms",
+        "citation": ""
+    },
+    {
         "title": "FFTX-IRIS: Towards Performance Portability and Heterogeneity for SPIRAL Generated Code",
         "pub_year": "2023",
         "citation": "Proceedings of the SC'23 Workshops of The International Conference on High …, 2023"
@@ -495,11 +494,6 @@
         "title": "FFTs with near-optimal memory access through block data layouts: Algorithm, architecture and design automation",
         "pub_year": "2016",
         "citation": "Journal of Signal Processing Systems 85, 67-82, 2016"
-    },
-    {
-        "title": "Fast Fourier Transform",
-        "pub_year": "2011",
-        "citation": "Encyclopedia of Parallel Computing. Springer, 51, 2011"
     },
     {
         "title": "Fast Fourier Transform on FPGA: Design Choices and Evaluation",
@@ -519,6 +513,11 @@
         "title": "Fast bilateral filtering by adapting block size",
         "pub_year": "2010",
         "citation": "2010 IEEE International Conference on Image Processing, 3281-3284, 2010"
+    },
+    {
+        "title": "Fast fourier transform",
+        "pub_year": "2011",
+        "citation": "Encyclopedia of Parallel Computing. Springer, 51, 2011"
     },
     {
         "title": "Fesia: A fast and simd-efficient set intersection approach on modern cpus",
@@ -541,7 +540,7 @@
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2017"
     },
     {
-        "title": "Flexible Hardware Accelerator Design Generation with Spiral",
+        "title": "Flexible hardware accelerator design generation with spiral",
         "pub_year": "2022",
         "citation": "2022 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2022"
     },
@@ -739,7 +738,7 @@
     {
         "title": "Large-scale first-principles molecular dynamics simulations on the bluegene/l platform using the qbox code",
         "pub_year": "2005",
-        "citation": "SC'05: Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 24-24, 2005"
+        "citation": "SC'05: Proceedings of the 2005 ACM/IEEE Conference on Supercomputing, 24-24, 2005"
     },
     {
         "title": "Leveraging High Dimensional Spatial Graph Embedding as a Heuristic for Graph Algorithms",
@@ -952,14 +951,14 @@
         "citation": "Supercomputing (SC) 6, 2020"
     },
     {
-        "title": "RPU: The Ring Processing Unit",
-        "pub_year": "2023",
-        "citation": "2023 IEEE International Symposium on Performance Analysis of Systems and …, 2023"
-    },
-    {
         "title": "Real-time software implementation of an IEEE 802.11 a baseband receiver on Intel multicore",
         "pub_year": "2011",
         "citation": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011"
+    },
+    {
+        "title": "Rpu: The ring processing unit",
+        "pub_year": "2023",
+        "citation": "2023 IEEE International Symposium on Performance Analysis of Systems and …, 2023"
     },
     {
         "title": "SIMD vectorization of non-two-power sized FFTs",
@@ -970,10 +969,6 @@
         "title": "SIMD vectorization of straight line FFT code",
         "pub_year": "2003",
         "citation": "Euro-Par 2003 Parallel Processing: 9th International Euro-Par Conference …, 2003"
-    },
-    {
-        "title": "SIMD vectorization of straight line code",
-        "citation": "Available: citeseer. ist. psu. edu/kral03simd. html, 0"
     },
     {
         "title": "SPECIAL SECTION ON COMPUTATIONAL INTELLIGENCE APPLICATIONS IN SMART GRIDS",
@@ -1029,6 +1024,10 @@
         "citation": "Proceedings International Parallel and Distributed Processing Symposium, 10 pp., 2003"
     },
     {
+        "title": "Simd vectorization of straight line code",
+        "citation": "Available: citeseer. ist. psu. edu/kral03simd. html, 0"
+    },
+    {
         "title": "Smart Memory Synthesis for Energy-Efficient Computed Tomography Reconstruction",
         "citation": "Carnegie Mellon University, 0"
     },
@@ -1082,6 +1081,10 @@
         "citation": ""
     },
     {
+        "title": "TREBUCHET Fully Homomorphic Encryption Accelerator: Phase Two Performance Estimation Results",
+        "citation": ""
+    },
+    {
         "title": "Top Performance SIMD FFTs",
         "pub_year": "2003",
         "citation": "AURORA Technical Report TR2003-31, Institute for Applied Mathematics and …, 2003"
@@ -1091,9 +1094,18 @@
         "citation": ""
     },
     {
+        "title": "Towards Automating Black Belt Programming",
+        "citation": ""
+    },
+    {
         "title": "Towards full-stack acceleration for fully homomorphic encryption",
         "pub_year": "2022",
         "citation": "IEEE HPEC, 2022"
+    },
+    {
+        "title": "Trebuchet: Fully homomorphic encryption accelerator for deep computation",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2304.05237, 2023"
     },
     {
         "title": "Twiddle Factor Generation for a Vectorized Number Theoretic Transform",
