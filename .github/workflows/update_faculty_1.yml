@@ -27,3 +27,5 @@ jobs:
         run: mv faculty.csv faculty1.csv
       - name: commit and push changes
         uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
