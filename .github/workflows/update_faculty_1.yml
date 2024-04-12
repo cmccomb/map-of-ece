@@ -9,7 +9,7 @@ on:
     paths:
       - 'faculty.csv'
   schedule:
-  - cron: "0 0 1 * *"
+  - cron: "0 0 7 * *"
   workflow_dispatch:
 
 jobs:
