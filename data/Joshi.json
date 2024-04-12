@@ -155,8 +155,8 @@
     },
     {
         "title": "Correlation Aware Sparsified Mean Estimation Using Random Projection",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.18868, 2023"
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "Decentralized SGD and Its Variants",
@@ -187,6 +187,11 @@
         "title": "Efficient Redundancy Techniques to Reduce Delay in Cloud Systems",
         "pub_year": "2016",
         "citation": "Massachusetts Institute of Technology, 2016"
+    },
+    {
+        "title": "Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.01147, 2024"
     },
     {
         "title": "Efficient Straggler Replication in Large-Scale Parallel Computing",
@@ -233,6 +238,11 @@
         "citation": "arXiv preprint arXiv:2301.09604, 2023"
     },
     {
+        "title": "FedFisher: Leveraging Fisher Information for One-Shot Federated Learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.12329, 2024"
+    },
+    {
         "title": "FedLite: A Scalable Approach for Federated Learning on Resource-constrained Clients",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2201.11865, 2022"
@@ -251,6 +261,11 @@
         "title": "Federated Minimax Optimization with Client Heterogeneity",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.04249, 2023"
+    },
+    {
+        "title": "Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.05876, 2024"
     },
     {
         "title": "Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling",
@@ -286,6 +301,11 @@
         "title": "Heterogeneous LoRA for Federated Fine-tuning of On-device Foundation Models",
         "pub_year": "2023",
         "citation": "International Workshop on Federated Learning in the Age of Foundation Models …, 2023"
+    },
+    {
+        "title": "Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.06432, 2024"
     },
     {
         "title": "High-probability Convergence Bounds for Nonlinear Stochastic Gradient Descent Under Heavy-tailed Noise",
@@ -348,8 +368,8 @@
         "citation": "IEEE/ACM Transactions on Networking 30 (1), 215-228, 2021"
     },
     {
-        "title": "Machine learning on the cheap: An optimized strategy to exploit spot instance",
-        "pub_year": "2019",
+        "title": "Machine Learning on the Cheap: An Optimized Strategy to Exploit Spot Instances",
+        "pub_year": "2017",
         "citation": ""
     },
     {
@@ -363,9 +383,9 @@
         "citation": "Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth …, 2021"
     },
     {
-        "title": "Maruan Al-Shedivat, Galen Andrew, Salman Avestimehr, Katharine Daly, Deepesh Data, et al. A field guide to federated optimization",
+        "title": "Maruan Al-Shedivat, Galen Andrew, Salman Avestimehr, Katharine Daly, et al. A field guide to federated optimization",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2107.06917 2 (9), 2021"
+        "citation": "arXiv preprint arXiv:2107.06917 3 (4), 5, 2021"
     },
     {
         "title": "Matcha: A Matching-Based Link Scheduling Strategy to Speed up Distributed Optimization",
@@ -378,6 +398,11 @@
         "citation": "Proceedings of Machine Learning and Systems 4, 77-94, 2022"
     },
     {
+        "title": "Maximizing global model appeal in federated learning",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2205.14840, 2022"
+    },
+    {
         "title": "Multi-Model Federated Learning with Provable Guarantees",
         "pub_year": "2023",
         "citation": "Performance Evaluation Methodologies and Tools: 15th EAI International …, 2023"
@@ -386,6 +411,11 @@
         "title": "Multi-armed bandits with correlated arms",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021"
+    },
+    {
+        "title": "On Improved Distributed Random Reshuffling over Networks",
+        "pub_year": "2024",
+        "citation": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024"
     },
     {
         "title": "On Throughput-Smoothness Trade-offs in Streaming Communication",
@@ -408,14 +438,14 @@
         "citation": "Graduate thesis, India Institute of Technology-Bombay, 2010"
     },
     {
-        "title": "On the Convergence of Federated Averaging with Cyclic Client Participation",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2302.03109, 2023"
-    },
-    {
         "title": "On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2206.04723, 2022"
+    },
+    {
+        "title": "On the convergence of federated averaging with cyclic client participation",
+        "pub_year": "2023",
+        "citation": "International Conference on Machine Learning, 5677-5721, 2023"
     },
     {
         "title": "On the delay-storage trade-off in content download from coded distributed storage systems",
@@ -446,6 +476,11 @@
         "title": "Optimization Algorithms for Distributed Machine Learning",
         "pub_year": "2022",
         "citation": "Springer Nature, 2022"
+    },
+    {
+        "title": "Optimized Tradeoffs for Private Majority Ensembling",
+        "pub_year": "2023",
+        "citation": ""
     },
     {
         "title": "Overlap local-SGD: An algorithmic approach to hide communication delays in distributed SGD",
@@ -611,14 +646,14 @@
         "citation": "Advances in neural information processing systems 33, 7611-7623, 2020"
     },
     {
-        "title": "The Blessing of Heterogeneity in Federated Q-learning: Linear Speedup and Beyond",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.10697, 2023"
-    },
-    {
         "title": "The Effect of Block-wise Feedback on the Throughput-Delay Trade-off",
         "pub_year": "2014",
         "citation": "in Streaming,” INFOCOM Workshop on Contemporary Video, 2014"
+    },
+    {
+        "title": "The blessing of heterogeneity in federated q-learning: Linear speedup and beyond",
+        "pub_year": "2023",
+        "citation": "International Conference on Machine Learning, 37157-37216, 2023"
     },
     {
         "title": "Thesis: Using Redundancy to Reduce Latency in Cloud Systems",

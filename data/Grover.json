@@ -161,7 +161,7 @@
         "citation": "2007 IEEE Information Theory Workshop, 196-201, 2007"
     },
     {
-        "title": "Building a culture of responsible neurotech: neuroethics as socio-technical challenges",
+        "title": "Building a culture of responsible neurotech: Neuroethics as socio-technical challenges",
         "pub_year": "2022",
         "citation": "Neuron 110 (13), 2057-2062, 2022"
     },
@@ -180,7 +180,7 @@
         "citation": "Advances in Neural Information Processing Systems 34, 3149-3162, 2021"
     },
     {
-        "title": "Cell-Specific Effects of Temporal Interference Stimulation on Cortical Function",
+        "title": "Cell-specific effects of temporal interference stimulation on cortical function",
         "pub_year": "2023",
         "citation": ""
     },
@@ -320,9 +320,9 @@
         "citation": "Vision 2 (4), 44, 2018"
     },
     {
-        "title": "Diffuse Optical Tomography Spatial Prior for EEG Source Localization in Human Visual Cortex",
+        "title": "Diffuse optical tomography spatial prior for EEG source localization in human visual cortex",
         "pub_year": "2023",
-        "citation": "NeuroImage, 120210, 2023"
+        "citation": "NeuroImage 277, 120210, 2023"
     },
     {
         "title": "Distributed Control: A New Frontier of Information Theory",
@@ -348,6 +348,11 @@
         "citation": "2023 45th Annual International Conference of the IEEE Engineering in …, 2023"
     },
     {
+        "title": "EEG electrode assembly",
+        "pub_year": "2023",
+        "citation": "US Patent 11,839,477, 2023"
+    },
+    {
         "title": "EEG for Accommodating Thick and Curly Hair",
         "citation": ""
     },
@@ -360,11 +365,6 @@
         "title": "EchoExplorer​ TM​: A game app for understanding echolocation and learning to navigate using echo cues",
         "pub_year": "2017",
         "citation": "ICAD Proceedings 2017, 2017"
-    },
-    {
-        "title": "Eeg electrode assembly",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/025,715, 2021"
     },
     {
         "title": "Effect of electric field direction on neuronal activity: an ex-vivo study*",
@@ -500,9 +500,9 @@
         "citation": "2018 IEEE Biomedical Circuits and Systems Conference (BioCAS), 1-4, 2018"
     },
     {
-        "title": "Focused Epicranial Brain Stimulation by Spatial Sculpting of Pulsed Electric Fields Using High Density Electrode Arrays",
+        "title": "Focused epicranial brain stimulation by spatial sculpting of pulsed electric fields using high density electrode arrays",
         "pub_year": "2023",
-        "citation": "Advanced Science, 2207251, 2023"
+        "citation": "Advanced Science 10 (20), 2207251, 2023"
     },
     {
         "title": "Fundamental bounds on the interconnect complexity of decoder implementations",
@@ -662,6 +662,11 @@
         "citation": "2011 49th Annual Allerton Conference on Communication, Control, and …, 2011"
     },
     {
+        "title": "Information-Theoretic Approaches for Non-classical Information Patterns",
+        "pub_year": "2021",
+        "citation": "Encyclopedia of Systems and Control, 1016-1021, 2021"
+    },
+    {
         "title": "Information-theoretic tradeoffs of throughput and chip power consumption for decoding error-correcting codes",
         "pub_year": "2010",
         "citation": "2010 IEEE International Symposium on Information Theory, 2373-2377, 2010"
@@ -730,9 +735,9 @@
         "citation": "2018 56th Annual Allerton Conference on Communication, Control, and …, 2018"
     },
     {
-        "title": "Method for detecting and localizing brain silences using eeg",
-        "pub_year": "2021",
-        "citation": "US Patent App. 17/183,545, 2021"
+        "title": "Method for detecting and localizing brain silences in EEG signals using correlation of sources in a low-resolution grid to localize silences in a high-resolution grid of EEG …",
+        "pub_year": "2024",
+        "citation": "US Patent 11,925,470, 2024"
     },
     {
         "title": "Near vs far field: interference aggregation in TV whitespaces Extended Edition",
@@ -746,7 +751,7 @@
     {
         "title": "Neural silences can be localized rapidly using noninvasive scalp EEG",
         "pub_year": "2021",
-        "citation": "Communications Biology 4 (1), 429, 2021"
+        "citation": "Communications biology 4 (1), 429, 2021"
     },
     {
         "title": "Neural silences can be localized rapidly using noninvasive scalp EEG",
@@ -823,14 +828,14 @@
         "citation": "Clinical and Translational Neurophotonics 2022 11945, 19-23, 2022"
     },
     {
-        "title": "PATHFINDER: Designing Stimulus for Neuromodulation through Data-driven Inverse Estimation of Non-linear Functions",
+        "title": "PATHFINDER: Designing Stimulus for Neuromodulation Through Data-Driven Inverse Estimation of Non-Linear Functions",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering, 2023"
     },
     {
         "title": "Projections and the potential societal impact of the future of neurotechnologies",
         "pub_year": "2021",
-        "citation": "Frontiers in Neuroscience, 1417, 2021"
+        "citation": "Frontiers in neuroscience 15, 658930, 2021"
     },
     {
         "title": "Quantifying Feature Contributions to Overall Disparity Using Information Theory",
@@ -925,6 +930,11 @@
     {
         "title": "Submission Guidelines",
         "citation": ""
+    },
+    {
+        "title": "System and Method for Deep Learning for Tracking Cortical Spreading Depression Using EEG",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/011,351, 2024"
     },
     {
         "title": "System and method for hierarchical referencing for biopotential measurements",

@@ -30,11 +30,6 @@
         "citation": "Carnegie Mellon University, 0"
     },
     {
-        "title": "A Type System for Safe Intermittent Computing",
-        "pub_year": "2023",
-        "citation": "Proceedings of the ACM on Programming Languages 7 (PLDI), 736-760, 2023"
-    },
-    {
         "title": "A formal framework for secure routing protocols",
         "pub_year": "2013",
         "citation": "FCS 2013 Workshop on Foundations of Computer Security (Informal Proceedings), 49, 2013"
@@ -55,6 +50,11 @@
         "citation": "Logical Methods in Computer Science 11, 2015"
     },
     {
+        "title": "A type system for safe intermittent computing",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM on Programming Languages 7 (PLDI), 736-760, 2023"
+    },
+    {
         "title": "AURA: Preliminary technical results",
         "pub_year": "2008",
         "citation": ""
@@ -65,9 +65,9 @@
         "citation": "2021 IEEE Symposium on Security and Privacy (SP), 572-589, 2021"
     },
     {
-        "title": "An operational semantics for network datalog",
+        "title": "An Operational Semantics for Network Datalog.",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "LAM@ LICS, 68-81, 2010"
     },
     {
         "title": "Analyzing BGP Gadgets in Maude",
@@ -112,6 +112,11 @@
         "title": "Automated verification of safety properties of declarative networking programs",
         "pub_year": "2015",
         "citation": "Proceedings of the 17th International Symposium on Principles and Practice …, 2015"
+    },
+    {
+        "title": "Automatically Enforcing Rust Trait Properties",
+        "pub_year": "2023",
+        "citation": "International Conference on Verification, Model Checking, and Abstract …, 2023"
     },
     {
         "title": "Automatically enforcing fresh and consistent inputs in intermittent systems",
@@ -163,8 +168,8 @@
     },
     {
         "title": "Continuous Tamper-proof Logging using TPM2. 0 (CMU-CyLab-13-008)",
-        "pub_year": "2013",
-        "citation": "Carnegie Mellon University, 2013"
+        "pub_year": "2014",
+        "citation": "Carnegie Mellon University, 2014"
     },
     {
         "title": "Continuous Tamper-proof Logging using TPM2. 0 (CMU-CyLab-13-008)",
@@ -227,7 +232,7 @@
     {
         "title": "Encoding Information Flow in AURA, Technical Appendix",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "Tech. Rpt. No. MS-CIS-09-08, Univ. Pennsylvania, 2009"
     },
     {
         "title": "Encoding information flow in Aura",
@@ -237,7 +242,7 @@
     {
         "title": "Equivalence-based Security for Querying Encrypted Databases: Theory and Application to Privacy Policy Audits",
         "pub_year": "2015",
-        "citation": "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …, 2015"
+        "citation": "Proceedings of the 22nd ACM SIGSAC Conference on computer and communications …, 2015"
     },
     {
         "title": "Evidence-based Audit, Technical Appendix",
@@ -290,9 +295,9 @@
         "citation": ""
     },
     {
-        "title": "Formally verifiable networking",
+        "title": "Formally Verifiable Networking.",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "HotNets, 2009"
     },
     {
         "title": "Functional Specifications for Archiving Distributed Data",
@@ -383,7 +388,7 @@
     {
         "title": "Maintaining distributed recursive views incrementally",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "Technical Report No. MS-CIS-11-06, UPENN, 2011"
     },
     {
         "title": "Mechanized network origin and path authenticity proofs",
@@ -396,7 +401,7 @@
         "citation": "Carnegie Mellon University, 2013"
     },
     {
-        "title": "Modal Crash Types for Intermittent Computing",
+        "title": "Modal crash types for intermittent computing",
         "pub_year": "2023",
         "citation": "European Symposium on Programming, 168-196, 2023"
     },
@@ -424,6 +429,10 @@
         "citation": "Proceedings of the 43rd Annual ACM SIGPLAN-SIGACT Symposium on Principles of …, 2016"
     },
     {
+        "title": "NODEMEDIC-FINE: Automatic Detection and Exploit Synthesis for Node. js Vulnerabilities",
+        "citation": ""
+    },
+    {
         "title": "NetSMC: A Custom Symbolic Model Checker for Stateful Network Verification",
         "citation": ""
     },
@@ -433,14 +442,14 @@
         "citation": "Verification, Model Checking, and Abstract Interpretation: 22nd …, 2021"
     },
     {
-        "title": "NodeMedic: End-to-End Analysis of Node. js Vulnerabilities with Provenance Graphs",
+        "title": "Nodemedic: End-to-end analysis of node. js vulnerabilities with provenance graphs",
         "pub_year": "2023",
         "citation": "2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P), 1101-1127, 2023"
     },
     {
         "title": "Omnicrawl: Comprehensive measurement of web tracking with real desktop and mobile browsers",
-        "pub_year": "2021",
-        "citation": "Proceedings on Privacy Enhancing Technologies 2022 (1), 2021"
+        "pub_year": "2022",
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2022"
     },
     {
         "title": "On adversary models and compositional security",
@@ -591,7 +600,7 @@
     {
         "title": "Selected workshop paper: Encoding Information Flow in Aura",
         "pub_year": "2009",
-        "citation": "ACM Sigplan Notices 44 (8), 7, 2009"
+        "citation": "ACM Sigplan Notices 25 (8), 7, 2009"
     },
     {
         "title": "Session logical relations for noninterference",
@@ -600,13 +609,13 @@
     },
     {
         "title": "Session-typed concurrent contracts",
-        "pub_year": "2018",
-        "citation": "Programming Languages and Systems: 27th European Symposium on Programming …, 2018"
+        "pub_year": "2022",
+        "citation": "Journal of Logical and Algebraic Methods in Programming 124, 100731, 2022"
     },
     {
         "title": "Session-typed concurrent contracts",
-        "pub_year": "2022",
-        "citation": "Journal of Logical and Algebraic Methods in Programming 124, 100731, 2022"
+        "pub_year": "2018",
+        "citation": "Programming Languages and Systems: 27th European Symposium on Programming …, 2018"
     },
     {
         "title": "Shaping our National Privacy Research Strategy: A Multi-‐Disciplinary Perspective",
@@ -620,6 +629,11 @@
     {
         "title": "Steering Committee IEEE SecDev 2023",
         "citation": ""
+    },
+    {
+        "title": "SyRust: Automatic Testing of Rust Libraries with Semantic-Aware Program Synthesis–Technical Report",
+        "pub_year": "2021",
+        "citation": "Carnegie Mellon University, 2021"
     },
     {
         "title": "Syrust: automatic testing of rust libraries with semantic-aware program synthesis",
@@ -673,7 +687,7 @@
     {
         "title": "Towards End-to-End Verified TEEs via Verified Interface Conformance and Certified Compilers",
         "pub_year": "2023",
-        "citation": "2023 2023 IEEE 36th Computer Security Foundations Symposium (CSF)(CSF), 315-330, 2023"
+        "citation": "2023 IEEE 36th Computer Security Foundations Symposium (CSF), 324-339, 2023"
     },
     {
         "title": "Towards Formally Safe Inter-domain Routing Systems",
@@ -710,7 +724,7 @@
         "citation": "arXiv preprint arXiv:2311.13445, 2023"
     },
     {
-        "title": "Uncovering Information Flow Policy Violations in C Programs",
+        "title": "Uncovering information flow policy violations in C programs",
         "pub_year": "2019",
         "citation": "Computer Security–ESORICS 2019: 24th European Symposium on Research in …, 2019"
     },

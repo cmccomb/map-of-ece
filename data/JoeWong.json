@@ -9,14 +9,14 @@
         "citation": "Key Technologies for 5G Wireless Systems, 478, 2017"
     },
     {
-        "title": "A Community Platform for Research on Pricing and Distributed Machine Learning",
-        "pub_year": "2020",
-        "citation": "2020 IEEE 40th International Conference on Distributed Computing Systems …, 2020"
-    },
-    {
         "title": "A Highly Available Storage System for Elastic Fog",
         "pub_year": "2020",
         "citation": "Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication …, 2020"
+    },
+    {
+        "title": "A community platform for research on pricing and distributed machine learning",
+        "pub_year": "2020",
+        "citation": "2020 IEEE 40th International Conference on Distributed Computing Systems …, 2020"
     },
     {
         "title": "A generative simulation platform for multi-agent systems with incentives",
@@ -67,6 +67,11 @@
         "title": "Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.11594, 2023"
+    },
+    {
+        "title": "An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.16809, 2024"
     },
     {
         "title": "An Online Control Approach of Collaborative Federated Learning with Constrained Resources",
@@ -129,7 +134,7 @@
         "citation": "International Conference on Artificial Intelligence and Statistics, 11320-11340, 2022"
     },
     {
-        "title": "Characterizing Internal Evasion Attacks in Federated Learning",
+        "title": "Characterizing internal evasion attacks in federated learning",
         "pub_year": "2023",
         "citation": "International Conference on Artificial Intelligence and Statistics, 907-921, 2023"
     },
@@ -137,6 +142,11 @@
         "title": "Client-side inference of wireless network states",
         "pub_year": "2016",
         "citation": "US Patent 9,407,508, 2016"
+    },
+    {
+        "title": "CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.18451, 2024"
     },
     {
         "title": "Coded edge computing",
@@ -154,9 +164,9 @@
         "citation": "Proceedings of the Twenty-Third International Symposium on Theory …, 2022"
     },
     {
-        "title": "DRF: A Software Architecture for a Data Marketplace to Support Advanced Air Mobility",
+        "title": "DRF: A software architecture for a data marketplace to support advanced air mobility",
         "pub_year": "2021",
-        "citation": "AIAA AVIATION 2021 FORUM, 2387, 2021"
+        "citation": "AIAA Aviation 2021 Forum, 2387, 2021"
     },
     {
         "title": "DYNAMITE: Dynamic Interplay of Mini-Batch Size and Aggregation Frequency for Federated Learning with Static and Streaming Dataset",
@@ -253,6 +263,11 @@
         "citation": "arXiv preprint arXiv:2205.11850, 2022"
     },
     {
+        "title": "FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph Convolutional Networks",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+    },
+    {
         "title": "FedML-HE: An Efficient Homomorphic-Encryption-Based Privacy-Preserving Federated Learning System",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.10837, 2023"
@@ -268,14 +283,9 @@
         "citation": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications Workshops …, 2023"
     },
     {
-        "title": "Fedgcn: Convergence and communication tradeoffs in federated training of graph convolutional networks",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2201.12433, 2022"
-    },
-    {
         "title": "Fedsoft: Soft clustered federated learning with proximal local updating",
         "pub_year": "2022",
-        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (7), 8124-8131, 2022"
+        "citation": "Proceedings of the AAAI conference on artificial intelligence 36 (7), 8124-8131, 2022"
     },
     {
         "title": "Fire: A failure-adaptive reinforcement learning framework for edge computing migrations",
@@ -308,7 +318,7 @@
         "citation": "Journal of Management Information Systems 35 (3), 813-836, 2018"
     },
     {
-        "title": "Hierarchical Conversational Preference Elicitation with Bandit Feedback",
+        "title": "Hierarchical conversational preference elicitation with bandit feedback",
         "pub_year": "2022",
         "citation": "Proceedings of the 31st ACM International Conference on Information …, 2022"
     },
@@ -424,7 +434,7 @@
         "citation": "IEEE/ACM Transactions on Networking 21 (6), 1785-1798, 2013"
     },
     {
-        "title": "Near-optimal Online Algorithms for Joint Pricing and Scheduling in EV Charging Networks",
+        "title": "Near-optimal online algorithms for joint pricing and scheduling in ev charging networks",
         "pub_year": "2023",
         "citation": "Proceedings of the 14th ACM International Conference on Future Energy …, 2023"
     },
@@ -479,7 +489,7 @@
         "citation": "International Conference on Artificial Intelligence and Statistics, 11472-11502, 2022"
     },
     {
-        "title": "Optimal Network Protocol Selection for Competing Flows via Online Learning",
+        "title": "Optimal network protocol selection for competing flows via online learning",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Mobile Computing, 2022"
     },
@@ -525,7 +535,7 @@
         "citation": ""
     },
     {
-        "title": "Plan B: Design Methodology for Cyber-Physical Systems Robust to Timing Failures",
+        "title": "Plan B: Design methodology for cyber-physical systems robust to timing failures",
         "pub_year": "2022",
         "citation": "ACM Transactions on Cyber-Physical Systems (TCPS) 6 (3), 1-39, 2022"
     },
@@ -578,6 +588,11 @@
         "citation": "2019 31st International Teletraffic Congress (ITC 31), 84-92, 2019"
     },
     {
+        "title": "RGMComm: Return Gap Minimization via Discrete Communications in Multi-Agent Reinforcement Learning",
+        "pub_year": "2024",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (16), 17327 …, 2024"
+    },
+    {
         "title": "Reconstructing actions to explain deep reinforcement learning",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2009.08507, 2020"
@@ -603,6 +618,10 @@
     },
     {
         "title": "Smart Data Pricing",
+        "citation": ""
+    },
+    {
+        "title": "Smart Data Pricing: Using Economics to Manage Network Congestion Economic incentives that alleviate congestion for Internet customers can also improve business performance for …",
         "citation": ""
     },
     {
@@ -706,7 +725,7 @@
     {
         "title": "Time-dependent electricity pricing using variable announcement horizons",
         "pub_year": "2020",
-        "citation": "Energy Informatics 3 (1), 1-21, 2020"
+        "citation": "Energy Informatics 3, 1-21, 2020"
     },
     {
         "title": "Time-dependent pricing for multimedia data traffic: analysis, systems, and trials",
@@ -734,14 +753,14 @@
         "citation": "The Journal of chemical physics 142 (15), 2015"
     },
     {
-        "title": "Towards Bias Correction of FedAvg over Nonuniform and Time-Varying Communications",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.00280, 2023"
-    },
-    {
         "title": "Towards Effective Resource Procurement in MEC: a Resource Re-selling Framework",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Services Computing, 2023"
+    },
+    {
+        "title": "Towards bias correction of fedavg over nonuniform and time-varying communications",
+        "pub_year": "2023",
+        "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 6719-6724, 2023"
     },
     {
         "title": "Towards flexible device participation in federated learning",
@@ -780,8 +799,8 @@
     },
     {
         "title": "Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking",
-        "pub_year": "2023",
-        "citation": "Thirty-seventh Conference on Neural Information Processing Systems Datasets …, 2023"
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
         "title": "enabling mobile time-dependent pricing",

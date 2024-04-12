@@ -34,6 +34,11 @@
         "citation": "Journal of Neural Engineering, 2017"
     },
     {
+        "title": "Adaptive frequency-domain filtering for neural signal preprocessing",
+        "pub_year": "2023",
+        "citation": "NeuroImage 284, 120429, 2023"
+    },
+    {
         "title": "All photon analysis of ultrasonically sculpted virtual optical waveguides using a custom-designed physics-based renderer",
         "pub_year": "2021",
         "citation": "Photons Plus Ultrasound: Imaging and Sensing 2021 11642, 1164243, 2021"
@@ -69,7 +74,7 @@
         "citation": "Science Advances 8 (40), eabj4853, 2022"
     },
     {
-        "title": "CMU array: a 3D Nano-Printed, customizable Ultra-High-Density microelectrode array platform",
+        "title": "CMU array: A 3D nano-printed, customizable ultra-high-density microelectrode array platform",
         "pub_year": "2019",
         "citation": "Biorxiv, 742346, 2019"
     },
@@ -94,7 +99,7 @@
         "citation": "Optics express 21 (2), 1898-1910, 2013"
     },
     {
-        "title": "Computational Imaging using Ultrasonically-Sculpted Virtual Lenses",
+        "title": "Computational imaging using ultrasonically-sculpted virtual lenses",
         "pub_year": "2022",
         "citation": "2022 IEEE International Conference on Computational Photography (ICCP), 1-12, 2022"
     },
@@ -166,7 +171,7 @@
     {
         "title": "Energy-looping nanoparticles: harnessing excited-state absorption for deep-tissue imaging",
         "pub_year": "2016",
-        "citation": "ACS nano 10 (9), 8423-8433, 2016"
+        "citation": "Acs Nano 10 (9), 8423-8433, 2016"
     },
     {
         "title": "Enhanced spectral-domain optical coherence tomography (SD-OCT) using in situ ultrasonic virtual tunable optical waveguides",
@@ -229,9 +234,9 @@
         "citation": "2019 9th International IEEE/EMBS Conference on Neural Engineering (NER), 831-834, 2019"
     },
     {
-        "title": "Focused Epicranial Brain Stimulation by Spatial Sculpting of Pulsed Electric Fields Using High Density Electrode Arrays",
+        "title": "Focused epicranial brain stimulation by spatial sculpting of pulsed electric fields using high density electrode arrays",
         "pub_year": "2023",
-        "citation": "Advanced Science, 2207251, 2023"
+        "citation": "Advanced Science 10 (20), 2207251, 2023"
     },
     {
         "title": "Fully flexible high-density implantable neural probes for electrophysiology recording and controlled neurochemical modulation",
@@ -256,7 +261,7 @@
     {
         "title": "High density, double-sided, flexible optoelectronic neural probes with embedded μLEDs",
         "pub_year": "2019",
-        "citation": "Frontiers in Neuroscience 13, 745, 2019"
+        "citation": "Frontiers in Neuroscience 13, 455147, 2019"
     },
     {
         "title": "High resolution focused non-invasive electrical stimulation of motor cortex in rodent model",
@@ -289,14 +294,14 @@
         "citation": "Integrated Photonics and Nanophotonics Research and Applications, IWA6, 2008"
     },
     {
-        "title": "Hybrid Nanoplasmonic-nanophotonic Devices for On-chip Biochemical Sensing and Spectroscopy",
-        "pub_year": "2012",
-        "citation": "Georgia Institute of Technology, 2012"
-    },
-    {
         "title": "Hybrid integrated plasmonic-photonic waveguides for on-chip localized surface plasmon resonance (LSPR) sensing and spectroscopy",
         "pub_year": "2013",
         "citation": "Optics express 21 (26), 32086-32098, 2013"
+    },
+    {
+        "title": "Hybrid nanoplasmonic-nanophotonic devices for on-chip biochemical sensing and spectroscopy",
+        "pub_year": "2012",
+        "citation": "Georgia Institute of Technology, 2012"
     },
     {
         "title": "Hybrid nanoplasmonic-photonic resonators for efficient coupling of light to single plasmonic nanoresonators",
@@ -368,7 +373,7 @@
         "citation": ""
     },
     {
-        "title": "Megahertz Light Steering without Moving Parts",
+        "title": "Megahertz Light Steering Without Moving Parts",
         "pub_year": "2023",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023"
     },

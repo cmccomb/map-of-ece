@@ -43,9 +43,9 @@
         "citation": ""
     },
     {
-        "title": "A Tertiary basin at Dutson, near Launceston",
+        "title": "A Tertiary Basin at Dutson, near Launce ston, Cornwall, England",
         "pub_year": "1982",
-        "citation": "Cornwall, England. Preceedings of the Geologists’ Association, London 93 …, 1982"
+        "citation": "Proc. Geol. Assoc 93, 395-402, 1982"
     },
     {
         "title": "A Tertiary basin at Dutson, near Launceston, Cornwall, England",
@@ -303,7 +303,7 @@
     {
         "title": "Coherency Stresses in Mo/Ni Multilayer Films",
         "pub_year": "1991",
-        "citation": "MRS Online Proceedings Library (OPL) 221, 1991"
+        "citation": "MRS Online Proceedings Library (OPL) 221, 477, 1991"
     },
     {
         "title": "Comparison of electric field dependent activation energy for electroformation in TaOx and TiOx based RRAMs",
@@ -383,7 +383,7 @@
     {
         "title": "Design criteria in sizing phase-change RF switches",
         "pub_year": "2017",
-        "citation": "IEEE Transactions on Microwave Theory and Techniques 65 (11), 4531-4540, 2017"
+        "citation": "IEEE transactions on microwave theory and techniques 65 (11), 4531-4540, 2017"
     },
     {
         "title": "Design of small recording head elements using thermally constrained transmission line modeling",
@@ -508,7 +508,7 @@
     {
         "title": "Efficiency of light coupling from a light delivery system to a planar waveguide for optical and hybrid recording heads",
         "pub_year": "2003",
-        "citation": "Optical Data Storage, TuE4, 2003"
+        "citation": "Proc. SPIE Optical Data Storage Conference 5069, 341, 2003"
     },
     {
         "title": "Efficient arsenic trisulfide vertical grating coupler on lithium niobate for integrated photonic applications",
@@ -693,7 +693,7 @@
     {
         "title": "Heat-assisted magnetic probe recording on a granular CoNi/Pt multilayered film",
         "pub_year": "2006",
-        "citation": "Journal of physics D: applied physics 39 (12), 2485, 2006"
+        "citation": "Journal of Physics D: Applied Physics 39 (12), 2485, 2006"
     },
     {
         "title": "High coercivity Co-alloy thin films on polymer substrates",
@@ -772,7 +772,7 @@
         "citation": "Journal of Applied Physics 91 (10), 8034-8036, 2002"
     },
     {
-        "title": "Impact Ionization Model for S-NDR based Threshold Switching Devices",
+        "title": "Impact Ionization model for S-NDR based threshold switching devices",
         "pub_year": "2019",
         "citation": "2019 Device Research Conference (DRC), 107-108, 2019"
     },
@@ -833,7 +833,7 @@
     {
         "title": "In-Situ Observation of The Initial Stages of Co (0001) Epitaxy on Pt (111) Using Grazing Incidence X-Ray Diffraction",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 312, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 312, 291, 1993"
     },
     {
         "title": "In-Situ Structural Characterization of Ultra-Thin Epitaxial Metal Films and Multilayers Observed with Grazing Incidence X-Ray Scattering",
@@ -873,7 +873,7 @@
     {
         "title": "Interfacial Structure and Mechanical Properties of Compositionally-Modulated Au-Ni thin Films",
         "pub_year": "1994",
-        "citation": "MRS Online Proceedings Library (OPL) 343, 1994"
+        "citation": "MRS Online Proceedings Library (OPL) 343, 555, 1994"
     },
     {
         "title": "Investigating pattern transfer in the small-gap regime using electron-beam stabilized nanoparticle array etch masks",
@@ -982,7 +982,7 @@
     {
         "title": "Magnetic Anisotropy of Crystalline Defects",
         "pub_year": "1991",
-        "citation": "MRS Online Proceedings Library (OPL) 231, 1991"
+        "citation": "MRS Online Proceedings Library (OPL) 231, 459, 1991"
     },
     {
         "title": "Magnetic Recording Devices: Inductive Heads, Properties",
@@ -1050,6 +1050,11 @@
         "citation": "Applied physics letters 80 (10), 1835-1837, 2002"
     },
     {
+        "title": "Measured optical losses of Sc doped AlN waveguides",
+        "pub_year": "2024",
+        "citation": "Optics Express 32 (4), 5252-5260, 2024"
+    },
+    {
         "title": "Measurement of Ga implantation profiles in the sidewall and bottom of focused-ion-beam-etched structures",
         "pub_year": "2004",
         "citation": "Applied Physics Letters 84 (17), 3331-3333, 2004"
@@ -1102,7 +1107,7 @@
     {
         "title": "Microstructural Dependence of the Perpendicular Magnetic Anisotropy in Co-Pt Alloys",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 313, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 313, 677, 1993"
     },
     {
         "title": "Mitigating the effects of track mis-registration in bit-patterned media",
@@ -1494,12 +1499,12 @@
     {
         "title": "Structural Characterization of Pt/Co multilayers for magnetooptic recording using x-ray diffraction",
         "pub_year": "1993",
-        "citation": "MRS Online Proceedings Library (OPL) 313, 1993"
+        "citation": "MRS Online Proceedings Library (OPL) 313, 799, 1993"
     },
     {
         "title": "Structural characterization of multilayers using x-ray diffraction",
         "pub_year": "1991",
-        "citation": "MRS Online Proceedings Library (OPL) 239, 1991"
+        "citation": "MRS Online Proceedings Library (OPL) 239, 475, 1991"
     },
     {
         "title": "Structural characterization of thin metallic films and multilayers using x-ray diffraction",
@@ -1554,12 +1559,17 @@
     {
         "title": "The Role of Heat Sink in Heat Assisted Magnetic Probe Recording on CoNi/Pt Film",
         "pub_year": "2004",
-        "citation": ""
+        "citation": "49th Annual Conference on Magnetism and Magnetic Materials, MMM 2004, 2004"
     },
     {
         "title": "The Role of Heat Sink in STM-Based Magnetic Probe Recording on CoNi/Pt Multilayers",
         "pub_year": "2004",
         "citation": "Poster presentation at the NAPMRC 2004, 2004"
+    },
+    {
+        "title": "The Role of STM Tip Shape in Heat Assisted Magnetic Probe Recording on CONI/PT Film",
+        "pub_year": "2004",
+        "citation": "Integrated Nanosystems: Design, Synthesis, and Applications 41774, 41-44, 2004"
     },
     {
         "title": "The application of sputtered thin film in advanced recording tape media",
@@ -1610,11 +1620,6 @@
         "title": "The role of MFM signal in mark size measurement in probe-based magnetic recording on CoNi/Pt multilayers",
         "pub_year": "2007",
         "citation": "Physica. B, Condensed Matter 387, 2007"
-    },
-    {
-        "title": "The role of STM tip shape in heat assisted magnetic probe recording on CoNi/Pt film",
-        "pub_year": "2004",
-        "citation": "Integrated Nanosystems: Design, Synthesis, and Applications 41774, 41-44, 2004"
     },
     {
         "title": "The role of the gap in single pole heads in perpendicular recording",
@@ -1698,7 +1703,7 @@
     {
         "title": "Three-terminal probe reconfigurable phase-change material switches",
         "pub_year": "2009",
-        "citation": "IEEE Transactions on Electron Devices 57 (1), 312-320, 2009"
+        "citation": "IEEE transactions on electron devices 57 (1), 312-320, 2009"
     },
     {
         "title": "Trans-ABS Power Coupling Efficiency of Near Field Transducers for HAMR Calculated with Finite Element Modeling",

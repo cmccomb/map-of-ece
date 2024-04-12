@@ -44,9 +44,8 @@
         "citation": "US Patent 9,135,405, 2015"
     },
     {
-        "title": "Automatic Problem Generation for {Capture-the-Flag} Competitions",
-        "pub_year": "2015",
-        "citation": "2015 USENIX Summit on Gaming, Games, and Gamification in Security Education …, 2015"
+        "title": "Automatic Exploit Generation The idea is to identify security-critical software bugs so they can be fixed first.",
+        "citation": ""
     },
     {
         "title": "Automatic exploit generation",
@@ -57,6 +56,11 @@
         "title": "Automatic patch-based exploit generation is possible: Techniques and implications",
         "pub_year": "2008",
         "citation": "2008 IEEE Symposium on Security and Privacy (sp 2008), 143-157, 2008"
+    },
+    {
+        "title": "Automatic problem generation for {Capture-the-Flag} competitions",
+        "pub_year": "2015",
+        "citation": "2015 USENIX Summit on Gaming, Games, and Gamification in Security Education …, 2015"
     },
     {
         "title": "Automatically Generating Accurate Input Filters for Host-Based Defenses Using Binary Static Analysis",
@@ -127,7 +131,12 @@
         "citation": "US Patent 7,373,451, 2008"
     },
     {
-        "title": "Cloud datacenter sdn monitoring: Experiences and challenges",
+        "title": "Carnegie Mellon University, Pittsburgh, PA, USA dbrumley@ cs. emu. edu, jnewsome@ ece. emu. edu, dawnsong@ cmu. edu",
+        "pub_year": "2007",
+        "citation": "Malware Detection 27, 147, 2007"
+    },
+    {
+        "title": "Cloud datacenter SDN monitoring: Experiences and challenges",
         "pub_year": "2018",
         "citation": "Proceedings of the Internet Measurement Conference 2018, 464-470, 2018"
     },
@@ -398,7 +407,7 @@
     {
         "title": "Towards automated dynamic analysis for linux-based embedded firmware.",
         "pub_year": "2016",
-        "citation": "NDSS 1, 1.1-8.1, 2016"
+        "citation": "NDSS 1, 1-1, 2016"
     },
     {
         "title": "Towards automatic generation of vulnerability-based signatures",

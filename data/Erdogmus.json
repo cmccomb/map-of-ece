@@ -105,11 +105,6 @@
         "citation": ""
     },
     {
-        "title": "An Options View of Extreme Programming",
-        "pub_year": "2002",
-        "citation": "Proc. 4th Intl. workshop on Economics-Driven Software Engineering Research, 2002"
-    },
-    {
         "title": "An empirical characterization of scientific software development projects according to the Boehm and Turner model: A progress report",
         "pub_year": "2009",
         "citation": "2009 ICSE Workshop on Software Engineering for Computational Science and …, 2009"
@@ -150,7 +145,7 @@
         "citation": "ACM Computing Surveys 55 (6), 1-28, 2022"
     },
     {
-        "title": "Building a business case for cots-centric development: an investment analysis perspective",
+        "title": "Building a business case for COTS-centric development: An investment analysis perspective",
         "pub_year": "1999",
         "citation": "Proc. of the ICSE 99 Workshop on Ensuring Successful COTS Development, 1999"
     },
@@ -197,7 +192,7 @@
         "citation": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering 2 …, 2015"
     },
     {
-        "title": "Comparative evaluation of software development strategies based on Net Present Value",
+        "title": "Comparative evaluation of software development strategies based on net present value",
         "pub_year": "1999",
         "citation": "International workshop on economics-driven software engineering research …, 1999"
     },
@@ -244,7 +239,7 @@
     {
         "title": "Detection and elimination of systematic labeling bias in code reviewer recommendation systems",
         "pub_year": "2021",
-        "citation": "Evaluation and Assessment in Software Engineering, 181-190, 2021"
+        "citation": "Proceedings of the 25th International Conference on Evaluation and …, 2021"
     },
     {
         "title": "Developing frameworks to support design reuse",
@@ -299,6 +294,10 @@
         "title": "From the Editor-Déjà Vu: The Life of Software Engineering Ideas",
         "pub_year": "2010",
         "citation": "IEEE Software 27 (1), 4, 2010"
+    },
+    {
+        "title": "Full Access",
+        "citation": ""
     },
     {
         "title": "Ground truth deficiencies in software engineering: when codifying the past can be counterproductive",
@@ -455,7 +454,7 @@
         "citation": ""
     },
     {
-        "title": "Passing the Reins",
+        "title": "Passing the reins",
         "pub_year": "2010",
         "citation": "IEEE software 27 (6), 3, 2010"
     },
@@ -499,7 +498,7 @@
     {
         "title": "Return on investment",
         "pub_year": "2004",
-        "citation": "IEEE software 21 (3), 18-22, 2004"
+        "citation": "Ieee Software 21 (3), 18-22, 2004"
     },
     {
         "title": "Roadmapping Working Group 4 Results",
@@ -601,7 +600,7 @@
     {
         "title": "The economics of software development by pair programmers",
         "pub_year": "2003",
-        "citation": "Engineering Economist 48 (4), 283-319, 2003"
+        "citation": "The Engineering Economist 48 (4), 283-319, 2003"
     },
     {
         "title": "The fourth international workshop on economics-driven software engineering research (EDSER-4)",
@@ -656,12 +655,12 @@
     {
         "title": "Valuation of complex options in software development",
         "pub_year": "1999",
-        "citation": "First Workshop on Economics–Driven Software Engineering Research, EDSER 1, 1999"
+        "citation": "Proc. First Workshop on Economics-Driven Software Research (EDSER-1), 1999"
     },
     {
         "title": "Valuation of learning options in software development under private and market risk",
         "pub_year": "2002",
-        "citation": "Engineering Economist 47 (3), 308-353, 2002"
+        "citation": "The Engineering Economist 47 (3), 308-353, 2002"
     },
     {
         "title": "Valuation of software initiatives under uncertainty: concepts, issues, and techniques",
@@ -674,9 +673,14 @@
         "citation": "FINANCIER-BURR RIDGE- 7 (1/4), 101-114, 2000"
     },
     {
-        "title": "Value-based software engineering",
+        "title": "Value-Based Software Engineering",
         "pub_year": "2005",
         "citation": "Springer Verlag, 2005"
+    },
+    {
+        "title": "Value-based software engineering",
+        "pub_year": "2006",
+        "citation": "Springer Science & Business Media, 2006"
     },
     {
         "title": "Verification of concurrent systems based on equivalence checking in SPIN",

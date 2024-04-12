@@ -5,11 +5,6 @@
         "citation": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-27, 2022"
     },
     {
-        "title": "\" I would have to evaluate their objections\": Privacy tensions between smart home device owners and incidental users.",
-        "pub_year": "2021",
-        "citation": "Proc. Priv. Enhancing Technol. 2021 (4), 54-75, 2021"
-    },
-    {
         "title": "(Do Not) Track Me Sometimes: Users’ Contextual Preferences for Web Tracking",
         "pub_year": "2016",
         "citation": "Proceedings on Privacy Enhancing Technologies 2, 1-20, 2016"
@@ -76,7 +71,7 @@
     {
         "title": "A proof-carrying authorization system",
         "pub_year": "2001",
-        "citation": "Technical Report CS-TR-638-01, Department of Computer Science, Princeton …, 2001"
+        "citation": "Electrical and Computer Engineering at Carnegie Mellon University, 2001"
     },
     {
         "title": "A spoonful of sugar? The impact of guidance and feedback on password-creation behavior",
@@ -173,7 +168,7 @@
     {
         "title": "Certified robustness of learning-based static malware detectors",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2302.01757, 2023"
+        "citation": "CoRR, 2023"
     },
     {
         "title": "Challenges in access right assignment for secure home networks",
@@ -206,7 +201,7 @@
         "citation": "2005 ACM SIGPLAN conference on Programming language design and …, 2005"
     },
     {
-        "title": "Constrained Gradient Descent: A Powerful and Principled Evasion Attack Against Neural Networks",
+        "title": "Constrained gradient descent: A powerful and principled evasion attack against neural networks",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2112.14232, 2021"
     },
@@ -275,14 +270,9 @@
         "citation": "PoPETS, 2021"
     },
     {
-        "title": "Discovering access-control misconfigurations: New approaches and evaluation methodologies",
+        "title": "Discovering access-control misconfigurations: new approaches and evaluation methodologies",
         "pub_year": "2012",
         "citation": "Proceedings of the second ACM conference on Data and Application Security …, 2012"
-    },
-    {
-        "title": "Distributed System Security via Logical Frameworks",
-        "pub_year": "2005",
-        "citation": "Information Security Research: New Methods for Protecting Against Cyber …, 2005"
     },
     {
         "title": "Distributed System Security via Logical Frameworks (SeLF)",
@@ -295,6 +285,11 @@
         "citation": "2005 IEEE symposium on security and privacy (S&P'05), 81-95, 2005"
     },
     {
+        "title": "Distributed system security via logical frameworks",
+        "pub_year": "2005",
+        "citation": "Information Security Research: New Methods for Protecting Against Cyber …, 2005"
+    },
+    {
         "title": "Diversify to survive: Making passwords stronger with adaptive policies",
         "pub_year": "2017",
         "citation": "Thirteenth symposium on usable privacy and security (SOUPS 2017), 1-12, 2017"
@@ -302,7 +297,7 @@
     {
         "title": "Do users' perceptions of password security match reality?",
         "pub_year": "2016",
-        "citation": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems …, 2016"
+        "citation": "Proceedings of the 2016 CHI conference on human factors in computing systems …, 2016"
     },
     {
         "title": "Dominique Schröder (FAU Erlangen-Nürnberg) Elaine Shi (Cornell tech) Tachio Terauchi (Waseda University)",
@@ -330,7 +325,7 @@
     {
         "title": "Effects of access-control policy conflict-resolution methods on policy-authoring usability",
         "pub_year": "2009",
-        "citation": "CMU-CyLab-09-06-006, 2009"
+        "citation": ""
     },
     {
         "title": "Efficient Proving for Distributed Access-Control Systems",
@@ -487,7 +482,7 @@
         "citation": "Software: Practice and Experience 33 (5), 461-480, 2003"
     },
     {
-        "title": "Metering Graphical Data Leakage with Snowman",
+        "title": "Metering graphical data leakage with snowman",
         "pub_year": "2020",
         "citation": "Proceedings of the 25th ACM Symposium on Access Control Models and …, 2020"
     },
@@ -564,12 +559,7 @@
         "citation": "Proc. USEC, 50, 2017"
     },
     {
-        "title": "Personalized Privacy Assistants for Big Data and the Internet of Things",
-        "pub_year": "2021",
-        "citation": ""
-    },
-    {
-        "title": "Perspectives from a Comprehensive Evaluation of Reconstruction-based Anomaly Detection in Industrial Control Systems",
+        "title": "Perspectives from a comprehensive evaluation of reconstruction-based anomaly detection in industrial control systems",
         "pub_year": "2022",
         "citation": "European Symposium on Research in Computer Security, 493-513, 2022"
     },
@@ -594,7 +584,7 @@
     {
         "title": "Preface of special issue on\" Computer security: foundations and automated reasoning\"",
         "pub_year": "2011",
-        "citation": "Journal of automated reasoning 46 (3-4), 223, 2011"
+        "citation": "Journal of Automated Reasoning 46 (3-4), 223, 2011"
     },
     {
         "title": "Prevalence of third-party tracking on abortion clinic web pages",
@@ -613,8 +603,8 @@
     },
     {
         "title": "Probabilistic cost enforcement of security policies",
-        "pub_year": "2013",
-        "citation": "Security and Trust Management: 9th International Workshop, STM 2013, Egham …, 2013"
+        "pub_year": "2015",
+        "citation": "Journal of Computer Security 23 (6), 759-787, 2015"
     },
     {
         "title": "Proceedings of the 6th International Conference on Principles of Security and Trust-Volume 10204",
@@ -627,12 +617,12 @@
         "citation": "USENIX Association, 2014"
     },
     {
-        "title": "RS-Del: Edit Distance Robustness Certificates for Sequence Classifiers via Randomized Deletion",
-        "pub_year": "2023",
-        "citation": "Thirty-seventh Conference on Neural Information Processing Systems, 2023"
+        "title": "RS-Del: Edit distance robustness certificates for sequence classifiers via randomized deletion",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
     },
     {
-        "title": "Randomness in ML Defenses Helps Persistent Attackers and Hinders Evaluators",
+        "title": "Randomness in ml defenses helps persistent attackers and hinders evaluators",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.13464, 2023"
     },
@@ -727,12 +717,17 @@
     {
         "title": "Speculative privacy concerns about AR glasses data collection",
         "pub_year": "2023",
-        "citation": "Proceedings on Privacy Enhancing Technologies 4, 416-435, 2023"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2023"
     },
     {
         "title": "Studying access-control usability in the lab: lessons learned from four studies",
         "pub_year": "2012",
         "citation": "Proceedings of the 2012 Workshop on Learning from Authoritative Security …, 2012"
+    },
+    {
+        "title": "Subspace Grid-sweep: ML Defense Evaluation via Constrained Brute-force Search",
+        "pub_year": "2023",
+        "citation": ""
     },
     {
         "title": "Supplementary Material: A Field Study of Computer-Security Perceptions Using Anti-Virus Customer-Support Chats",
@@ -749,14 +744,18 @@
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2012"
     },
     {
-        "title": "The Impact of Exposed Passwords on Honeyword Efficacy",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.10323, 2023"
+        "title": "The Penn-CMU Digital Health Privacy Initiative",
+        "citation": ""
     },
     {
         "title": "The effectiveness of security images in internet banking",
         "pub_year": "2014",
         "citation": "IEEE Internet Computing 19 (1), 54-62, 2014"
+    },
+    {
+        "title": "The impact of exposed passwords on honeyword efficacy",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2309.10323, 2023"
     },
     {
         "title": "The impact of length and mathematical operators on the usability and security of system-assigned one-time PINs",
@@ -766,7 +765,7 @@
     {
         "title": "The influence of friends and experts on privacy decision making in IoT scenarios",
         "pub_year": "2018",
-        "citation": "Proceedings of the ACM on human-computer interaction 2 (CSCW), 1-26, 2018"
+        "citation": "Proceedings of the ACM on Human-Computer Interaction 2 (CSCW), 1-26, 2018"
     },
     {
         "title": "The post anachronism: the temporal dimension of Facebook privacy",
@@ -797,6 +796,11 @@
         "title": "Towards privacy-aware smart buildings: Capturing, communicating, and enforcing privacy policies and preferences",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th International Conference on Distributed Computing Systems …, 2017"
+    },
+    {
+        "title": "Trilateral design and test code for military bridging and gap-crossing equipment",
+        "pub_year": "2005",
+        "citation": "US Army Tank Automotive and Armaments Command, 2005"
     },
     {
         "title": "Types and effects for non-interfering program monitors",
@@ -854,9 +858,9 @@
         "citation": "Pervasive and Mobile Computing 75, 101439, 2021"
     },
     {
-        "title": "What makes people install a COVID-19 contact-tracing app? Understanding the influence of app design and individual difference on contact-tracing app adoption intention",
-        "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2012.12415, 2020"
+        "title": "What matters to users?",
+        "pub_year": "2013",
+        "citation": "Proceedings of the Ninth Symposium on Usable Privacy and Security, 2013"
     },
     {
         "title": "What matters to users? Factors that affect users' willingness to share information with online advertisers",
@@ -898,7 +902,12 @@
     {
         "title": "“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics",
         "pub_year": "2021",
-        "citation": "Proceedings on Privacy Enhancing Technologies 2021 (2), 2021"
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2021"
+    },
+    {
+        "title": "“I would have to evaluate their objections”: Privacy tensions between smart home device owners and incidental users",
+        "pub_year": "2021",
+        "citation": "Proceedings on Privacy Enhancing Technologies, 2021"
     },
     {
         "title": "“It's not actually that horrible” Exploring Adoption of Two-Factor Authentication at a University",

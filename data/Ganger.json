@@ -212,6 +212,11 @@
         "citation": "Carnegie Mellon University, 2001"
     },
     {
+        "title": "Authentication Confidences.",
+        "pub_year": "2001",
+        "citation": "HotOS, 169, 2001"
+    },
+    {
         "title": "Automated Disk Drive Characterization (CMU-CS-99-176)",
         "pub_year": "1999",
         "citation": "Carnegie Mellon University, 1999"
@@ -256,9 +261,9 @@
         "citation": "School of Computer Science, Carnegie Mellon University, 2003"
     },
     {
-        "title": "Baleen: ML admission & prefetching for flash caches",
-        "pub_year": "2023",
-        "citation": "Under submission, 2023"
+        "title": "Baleen:{ML} Admission & Prefetching for Flash Caches",
+        "pub_year": "2024",
+        "citation": "22nd USENIX Conference on File and Storage Technologies (FAST 24), 347-371, 2024"
     },
     {
         "title": "Better security via smarter devices",
@@ -392,11 +397,6 @@
         "citation": "Parallel Data Lab., Carnegie Mellon Univ., Pittsburgh, PA, USA, Tech. Rep, 2008"
     },
     {
-        "title": "Correctness of the Read/Conditional-Write and Query/Update Protocols (CMU-PDL-05-107)",
-        "pub_year": "2005",
-        "citation": "Carnegie Mellon University, 2005"
-    },
-    {
         "title": "Correctness of the Read/Conditional-Write and Query/Update protocols",
         "pub_year": "2005",
         "citation": ""
@@ -423,16 +423,6 @@
     {
         "title": "D-SPTF: Decentralized Request Distribution in Brick-based Storage (CMU-CS-03-202)",
         "citation": "Carnegie Mellon University, 0"
-    },
-    {
-        "title": "D-SPTF: Decentralized Request Distribution in Brick-based Storage Systems",
-        "pub_year": "2004",
-        "citation": "Proceedings, 37, 2004"
-    },
-    {
-        "title": "DATA ms",
-        "pub_year": "2004",
-        "citation": ""
     },
     {
         "title": "Data Mining on an OLTP System (Nearly) for Free (CMU-CS-99-151)",
@@ -468,7 +458,7 @@
         "citation": "Massachusetts Institute of Technology, Department of Electrical Engineering …, 1997"
     },
     {
-        "title": "DeltaFS: A scalable no-ground-truth filesystem for massively-parallel computing",
+        "title": "DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing",
         "pub_year": "2021",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2021"
     },
@@ -558,7 +548,7 @@
     {
         "title": "Disksim",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "tech. report, Parallel Data Lab, Carnegie Mellon Univ, 2009"
     },
     {
         "title": "Dynamic Function Placement for {Data-Intensive} Cluster Computing",
@@ -581,7 +571,7 @@
     {
         "title": "Dynamic function placement in active storage clusters",
         "pub_year": "1999",
-        "citation": "Technical Report CMU-CS-99-140, Carnegie Mellon University, 1999"
+        "citation": "Technical Report CMU-CS-99-140, 1999"
     },
     {
         "title": "Dynamic quarantine of Internet worms",
@@ -622,14 +612,14 @@
         "citation": ""
     },
     {
-        "title": "Eliminating Cross-Server Operations in Scalable File Systems",
-        "pub_year": "2006",
-        "citation": ""
-    },
-    {
         "title": "Eliminating Cross-server Operations in Scalable File Systems (CMU-PDL-06-105)",
         "pub_year": "2006",
         "citation": "Carnegie Mellon University, 2006"
+    },
+    {
+        "title": "Eliminating cross-server operations in scalable file systems",
+        "pub_year": "2006",
+        "citation": ""
     },
     {
         "title": "Embedded Inodes and Explicit Grouping: Exploiting Bandwidth for Small Files",
@@ -702,7 +692,7 @@
         "citation": "Technical Report CMU–CS–03–125. Carnegie-Mellon University, Pittsburgh, PA, 2003"
     },
     {
-        "title": "Extending and Programming the NVMe I/O Determinism Interface for Flash Arrays",
+        "title": "Extending and programming the NVMe I/O determinism interface for Flash Arrays",
         "pub_year": "2023",
         "citation": "ACM Transactions on Storage 19 (1), 1-33, 2023"
     },
@@ -740,10 +730,6 @@
     {
         "title": "File System Virtual Appliances: Third-party File System Implementations without the Pain (CMU-PDL-08-106)",
         "citation": "Carnegie Mellon University, 0"
-    },
-    {
-        "title": "File Systems Unfit as Distributed Storage Back Ends",
-        "citation": ""
     },
     {
         "title": "File classification in self-* storage systems",
@@ -800,14 +786,13 @@
         "citation": "FAST 2, 275-288, 2002"
     },
     {
+        "title": "Full Access",
+        "citation": ""
+    },
+    {
         "title": "Gaia:{Geo-Distributed} machine learning approaching {LAN} speeds",
         "pub_year": "2017",
         "citation": "14th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2017"
-    },
-    {
-        "title": "GeePS",
-        "pub_year": "2016",
-        "citation": "Proceedings of the Eleventh European Conference on Computer Systems, 2016"
     },
     {
         "title": "Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server",
@@ -820,7 +805,7 @@
         "citation": "Proc. Computer Measurement Group (CMG) Conference, Dec. 1995, 1995"
     },
     {
-        "title": "Geriatrix: Aging what you see and what you {don’t} see. A file system aging approach for modern storage systems",
+        "title": "Geriatrix: Aging what you see and what you {don’t} see. a file system aging approach for modern storage systems",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 691-704, 2018"
     },
@@ -845,6 +830,11 @@
         "citation": "Proceedings of the Eighth Workshop on Hot Topics in Operating Systems, 177, 2001"
     },
     {
+        "title": "IODA: A host/device co-design for strong predictability contract on modern flash storage",
+        "pub_year": "2021",
+        "citation": "Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles …, 2021"
+    },
+    {
         "title": "Improving Small File Performance in Object-based Storage (CMU-PDL-06-104)",
         "pub_year": "2006",
         "citation": "Carnegie Mellon University, 2006"
@@ -863,14 +853,6 @@
         "title": "In search of an API for scalable file systems: Under the table or above it?",
         "pub_year": "2009",
         "citation": "Carnegie Mellon University, 2009"
-    },
-    {
-        "title": "Include Citations",
-        "citation": ""
-    },
-    {
-        "title": "Include Citations",
-        "citation": ""
     },
     {
         "title": "Incorporating MEMS-based storage into computer systems",
@@ -941,7 +923,7 @@
     },
     {
         "title": "Journaling versus Soft-Updates",
-        "citation": "Asynchro, 0"
+        "citation": ""
     },
     {
         "title": "Journaling versus soft updates: Asynchronous meta-data protection in file systems",
@@ -951,7 +933,7 @@
     {
         "title": "Kangaroo: Caching billions of tiny objects on flash",
         "pub_year": "2021",
-        "citation": "Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles …, 2021"
+        "citation": "Proceedings of the ACM SIGOPS 28th symposium on operating systems principles …, 2021"
     },
     {
         "title": "Kangaroo: Theory and practice of caching billions of tiny objects on flash",
@@ -959,7 +941,7 @@
         "citation": "ACM Transactions on Storage (TOS) 18 (3), 1-33, 2022"
     },
     {
-        "title": "Koi: A {Location-Privacy} Platform for Smartphone Apps",
+        "title": "Koi: A {Location-Privacy} platform for smartphone apps",
         "pub_year": "2012",
         "citation": "9th USENIX Symposium on Networked Systems Design and Implementation (NSDI 12 …, 2012"
     },
@@ -1003,11 +985,6 @@
         "citation": "Intel Research Tech ReportIRP-TR-06-05, 2006"
     },
     {
-        "title": "Low-Overhead Byzantine Fault-Tolerant Storage",
-        "pub_year": "2009",
-        "citation": "21st Acm Symposium on Operating Systems Principles (Sosp'07)., 72, 2009"
-    },
-    {
         "title": "Low-overhead byzantine fault-tolerant storage",
         "pub_year": "2007",
         "citation": "ACM SIGOPS Operating Systems Review 41 (6), 73-86, 2007"
@@ -1044,11 +1021,6 @@
         "title": "Managed communication and consistency for fast data-parallel iterative analytics",
         "pub_year": "2015",
         "citation": "Proceedings of the Sixth ACM Symposium on Cloud Computing, 381-394, 2015"
-    },
-    {
-        "title": "Matching Database Access Patterns to Storage Characteristics",
-        "pub_year": "2003",
-        "citation": "In VLDB 2003 PhD Workshop, 2003"
     },
     {
         "title": "Matching Database Access Patterns to Storage Characteristics.",
@@ -1277,10 +1249,6 @@
         "citation": ""
     },
     {
-        "title": "PARALLEL DATA LAB",
-        "citation": ""
-    },
-    {
         "title": "PART A",
         "pub_year": "1994",
         "citation": ""
@@ -1289,11 +1257,6 @@
         "title": "PASIS: A Distributed Framework for Perpetually Available and Secure Information Systems",
         "pub_year": "2005",
         "citation": "Tech. rep., DTIC Document, 2005"
-    },
-    {
-        "title": "PDL ABSTRACT",
-        "pub_year": "2018",
-        "citation": "arXiv preprint arXiv:1803.07445, 2018"
     },
     {
         "title": "PDL Celebrates its 10 th Year!",
@@ -1338,14 +1301,14 @@
         "citation": "Carnegie Mellon University, 2008"
     },
     {
-        "title": "PipeDream: Generalized pipeline parallelism for DNN training",
-        "pub_year": "2019",
-        "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 1-15, 2019"
-    },
-    {
         "title": "PipeDream: Pipeline parallelism for DNN training",
         "pub_year": "2018",
         "citation": "Proceedings of the 1st Conference on Systems and Machine Learning (SysML), 2018"
+    },
+    {
+        "title": "PipeDream: generalized pipeline parallelism for DNN training",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 27th ACM symposium on operating systems principles, 1-15, 2019"
     },
     {
         "title": "Pipedream: Fast and efficient pipeline parallel dnn training",
@@ -1388,9 +1351,9 @@
         "citation": "Proceedings of the ACM Symposium on Cloud Computing, 1-14, 2014"
     },
     {
-        "title": "Proceedings of the 9th USENIX Conference on File and Storage Technologies",
-        "pub_year": "2011",
-        "citation": "USENIX Association, 2011"
+        "title": "Proceedings of the 6th USENIX Conference on File and Storage Technologies",
+        "pub_year": "2008",
+        "citation": "USENIX Association, 2008"
     },
     {
         "title": "Program Co-Chairs",
@@ -1417,7 +1380,7 @@
         "citation": "Carnegie Mellon University Parallel Data Lab Technical Report, 2006"
     },
     {
-        "title": "RAIZN: Redundant Array of Independent Zoned Namespaces",
+        "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023"
     },
@@ -1470,14 +1433,14 @@
         "citation": ""
     },
     {
+        "title": "Scalable Fault Tolerance through Byzantine Locking",
+        "pub_year": "2008",
+        "citation": ""
+    },
+    {
         "title": "Scalable deep learning on distributed GPUs with a GPU-specialized parameter server",
         "pub_year": "2015",
         "citation": "Cmu. edu.[Online]. Available: https://www. pdl. cmu. edu/PDLFTP/BigLearning …, 2015"
-    },
-    {
-        "title": "Scalable fault tolerance through Byzantine locking",
-        "pub_year": "2008",
-        "citation": ""
     },
     {
         "title": "Scaling embedded in-situ indexing with deltaFS",
@@ -1632,13 +1595,18 @@
         "citation": "5th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage 13), 2013"
     },
     {
-        "title": "Stardust: Tracking activity in a distributed storage system",
+        "title": "Stardust: tracking activity in a distributed storage system",
         "pub_year": "2006",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 34 (1), 3-14, 2006"
     },
     {
         "title": "Storage Device Performance Prediction with CART Models (CMU-PDL-04-103)",
         "citation": "Carnegie Mellon University, 0"
+    },
+    {
+        "title": "Storage Systems in the {LLM} Era",
+        "pub_year": "2024",
+        "citation": ""
     },
     {
         "title": "Storage benchmarking for HPC",
@@ -1693,7 +1661,7 @@
     {
         "title": "Sysml: The new frontier of machine learning systems",
         "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1904.03257, 2019"
+        "citation": "arXiv preprint arXiv:1904.03257 98, 2019"
     },
     {
         "title": "System Software Support for High Performance Servers",
@@ -1722,7 +1690,7 @@
     {
         "title": "Tashi: location-aware cluster management",
         "pub_year": "2009",
-        "citation": "Proceedings of the 1st Workshop on Automated Control for Datacenters and …, 2009"
+        "citation": "Proceedings of the 1st workshop on Automated control for datacenters and …, 2009"
     },
     {
         "title": "TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters",
@@ -1733,11 +1701,6 @@
         "title": "Tetrisched: Space-time scheduling for heterogeneous datacenters",
         "pub_year": "2013",
         "citation": "Tech. Rep., 2013"
-    },
-    {
-        "title": "The Atlas cluster trace repository",
-        "pub_year": "2018",
-        "citation": "Usenix Mag 43 (4), 2018"
     },
     {
         "title": "The DiskSim Simulation Environment (Version 2.0)",
@@ -1751,7 +1714,7 @@
     {
         "title": "The DiskSim simulation environment (v4. 0)",
         "pub_year": "2009",
-        "citation": "Parallel Data Lab, http://www. pdl. cmu. edu/DiskSim/Online-document, 2009"
+        "citation": "Parallel Data Lab, http://www. pdl. cmu. edu/DiskSim/Onlinedocument, 2009"
     },
     {
         "title": "The DiskSim simulation environment version 2.0 reference manual",
@@ -1778,6 +1741,11 @@
         "citation": "Carnegie Mellon University, 2004"
     },
     {
+        "title": "The atlas cluster trace repository",
+        "pub_year": "2018",
+        "citation": "Usenix Mag 43 (4), 2018"
+    },
+    {
         "title": "The case for custom storage backends in distributed storage systems",
         "pub_year": "2020",
         "citation": "ACM Transactions on Storage (TOS) 16 (2), 1-31, 2020"
@@ -1798,7 +1766,7 @@
         "citation": "Carnegie Mellon University Parallel Data Laboratory Technical Report, 2004"
     },
     {
-        "title": "The {CacheLib} Caching Engine: Design and Experiences at Scale",
+        "title": "The {CacheLib} caching engine: Design and experiences at scale",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020"
     },
@@ -1808,7 +1776,7 @@
         "citation": "Carnegie Mellon University, Tech. Rep., 2016"
     },
     {
-        "title": "Tiger:{Disk-Adaptive} Redundancy Without Placement Restrictions",
+        "title": "Tiger:{Disk-Adaptive} redundancy without placement restrictions",
         "pub_year": "2022",
         "citation": "16th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2022"
     },
@@ -1824,7 +1792,7 @@
     {
         "title": "Timing-accurate storage emulation: evaluating hypothetical storage components in real computer systems",
         "pub_year": "2004",
-        "citation": "Thesis (PhD), Carnegie Mellon University, Carnegie Mellon University …, 2004"
+        "citation": "Phd dissertation, Carnegie Mellon University, Department of Electrical and …, 2004"
     },
     {
         "title": "Toward Automatic Context-based Attribute Assignment for Semantic File Systems (CMU-PDL-04-105)",
@@ -1947,6 +1915,11 @@
         "citation": "FAST 8, 1-16, 2008"
     },
     {
+        "title": "Using context to assist in personal file retrieval",
+        "pub_year": "2006",
+        "citation": "Carnegie Mellon University, 2006"
+    },
+    {
         "title": "Using data transformations for low-latency time series analysis",
         "pub_year": "2015",
         "citation": "Proceedings of the Sixth ACM Symposium on Cloud Computing, 395-407, 2015"
@@ -2014,11 +1987,6 @@
         "title": "iny",
         "pub_year": "2004",
         "citation": ""
-    },
-    {
-        "title": "lODA: A host/device co-design for strong predictability contract on modern flash storage",
-        "pub_year": "2021",
-        "citation": "Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles …, 2021"
     },
     {
         "title": "vQuery: a platform for connecting configuration and performance",
