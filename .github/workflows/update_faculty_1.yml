@@ -17,7 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: move faculty csv into place
-        run: mv faculty1.csv faculty.csv
+        run: pwd
+      - name: move faculty csv into place
+        run: ls
   call-workflow-passing-data:
     uses: cmccomb/map-of-research/.github/workflows/update.yml@main
     secrets:
