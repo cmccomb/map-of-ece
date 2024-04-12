@@ -1,4 +1,4 @@
-name: Update Map
+name: Update Data for Faculty Group 2
 
 permissions:
   contents: write
@@ -7,9 +7,9 @@ on:
   push:
     branches: [ main ]
     paths:
-      - '**.json'
+      - 'faculty2.csv'
   schedule:
-  - cron: "0 0 1 * *"
+  - cron: "0 0 14 * *"
   workflow_dispatch:
 
 jobs:
@@ -17,10 +17,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: move files into place
+        run: mv faculty2.csv faculty.csv
       - name: install library
         run: pip install git+https://github.com/cmccomb/map-of-research.git
-      - name: create the visualization
-        run: visualize_faculty_data
+      - name: scrape the data
+        run: scrape_faculty_data
+      - name: move files back
+        run: mv faculty.csv faculty2.csv
       - name: commit and push changes
         uses: actions-js/push@master
         with:

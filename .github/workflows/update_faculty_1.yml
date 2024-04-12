@@ -1,4 +1,4 @@
-name: Update Map for Faculty Group 1
+name: Update Data for Faculty Group 1
 
 permissions:
   contents: write
@@ -7,7 +7,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'faculty.csv'
+      - 'faculty1.csv'
   schedule:
   - cron: "0 0 7 * *"
   workflow_dispatch:
