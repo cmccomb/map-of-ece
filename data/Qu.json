@@ -7,7 +7,7 @@
     {
         "title": "A random forest method for real-time price forecasting in New York electricity market",
         "pub_year": "2014",
-        "citation": "2014 IEEE PES General Meeting| Conference & Exposition, 1-5, 2014"
+        "citation": "2014 IEEE PES general meeting| conference & exposition, 1-5, 2014"
     },
     {
         "title": "Accelerated distributed Nesterov gradient descent",
@@ -15,14 +15,19 @@
         "citation": "IEEE Transactions on Automatic Control 65 (6), 2566-2581, 2019"
     },
     {
-        "title": "Bounded-Regret MPC via Perturbation Analysis: Prediction Error, Constraints, and Nonlinearity",
+        "title": "Bounded-regret mpc via perturbation analysis: Prediction error, constraints, and nonlinearity",
         "pub_year": "2022",
         "citation": "Advances in Neural Information Processing Systems 35, 36174-36187, 2022"
     },
     {
-        "title": "Certifying Black-Box Policies With Stability for Nonlinear Control",
+        "title": "Certifying black-box policies with stability for nonlinear control",
         "pub_year": "2023",
         "citation": "IEEE Open Journal of Control Systems 2, 49-62, 2023"
+    },
+    {
+        "title": "CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2401.07369, 2024"
     },
     {
         "title": "Combining model-based and model-free methods for nonlinear control: A provably convergent policy gradient approach",
@@ -30,7 +35,7 @@
         "citation": "arXiv preprint arXiv:2006.07476, 2020"
     },
     {
-        "title": "Compositional Neural Certificates for Networked Dynamical Systems",
+        "title": "Compositional neural certificates for networked dynamical systems",
         "pub_year": "2023",
         "citation": "Learning for Dynamics and Control Conference, 272-285, 2023"
     },
@@ -40,14 +45,14 @@
         "citation": ""
     },
     {
-        "title": "Decentralized Online Convex Optimization in Networked Systems",
-        "pub_year": "2022",
-        "citation": "International Conference on Machine Learning, 13356-13393, 2022"
-    },
-    {
         "title": "Decentralized graph-based multi-agent reinforcement learning using reward machines",
         "pub_year": "2024",
         "citation": "Neurocomputing 564, 126974, 2024"
+    },
+    {
+        "title": "Decentralized online convex optimization in networked systems",
+        "pub_year": "2022",
+        "citation": "International Conference on Machine Learning, 13356-13393, 2022"
     },
     {
         "title": "Deep Reinforcement Learning-Based Spatiotemporal Decision of Utility-Scale Highway Portable Energy Storage Systems",
@@ -85,6 +90,16 @@
         "citation": "IEEE Transactions on Industry Applications 57 (6), 6622-6633, 2021"
     },
     {
+        "title": "Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.00222, 2024"
+    },
+    {
+        "title": "Efficient Reinforcement Learning for Routing Jobs in Heterogeneous Queueing Systems",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.01147, 2024"
+    },
+    {
         "title": "Exploiting fast decaying and locality in multi-agent mdp with tree dependence structure",
         "pub_year": "2019",
         "citation": "2019 IEEE 58th conference on decision and control (CDC), 6479-6486, 2019"
@@ -105,9 +120,18 @@
         "citation": "IEEE Transactions on Control of Network Systems 5 (3), 1245-1260, 2017"
     },
     {
-        "title": "Kcrl: Krasovskii-constrained reinforcement learning with guaranteed stability in nonlinear dynamical systems",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2206.01704, 2022"
+        "title": "How to Transform “Social Value” into Meaningful Products?",
+        "citation": ""
+    },
+    {
+        "title": "How to transform “social value” into meaningful products?——A multiple-case study of leading innovative enterprises",
+        "pub_year": "2024",
+        "citation": "Technology in Society, 102531, 2024"
+    },
+    {
+        "title": "KCRL: Krasovskii-Constrained Reinforcement Learning with Guaranteed Stability in Nonlinear Discrete-Time Systems",
+        "pub_year": "2023",
+        "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 1334-1341, 2023"
     },
     {
         "title": "Learning optimal power flow: Worst-case guarantees for neural networks",
@@ -118,6 +142,11 @@
         "title": "Multi-agent reinforcement learning in stochastic networked systems",
         "pub_year": "2021",
         "citation": "Advances in neural information processing systems 34, 7825-7837, 2021"
+    },
+    {
+        "title": "Natural Policy Gradient Preserves Spatial Decay Properties for Control of Networked Dynamical Systems",
+        "pub_year": "2023",
+        "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 4486-4493, 2023"
     },
     {
         "title": "Near-optimal distributed linear-quadratic regulator for networked systems",
@@ -185,11 +214,6 @@
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 6 (1 …, 2022"
     },
     {
-        "title": "Scalable Reinforcement Learning for Multi-Agent Networked Systems",
-        "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1912.02906, 2019"
-    },
-    {
         "title": "Scalable multi-agent reinforcement learning for networked systems with average reward",
         "pub_year": "2020",
         "citation": "Advances in Neural Information Processing Systems 33, 2074-2086, 2020"
@@ -230,19 +254,14 @@
         "citation": "2022 American Control Conference (ACC), 2715-2721, 2022"
     },
     {
-        "title": "Stability constrained reinforcement learning for real-time voltage control in distribution systems",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2209.07669, 2022"
-    },
-    {
         "title": "Stable online control of linear time-varying systems",
         "pub_year": "2021",
         "citation": "Learning for Dynamics and Control, 742-753, 2021"
     },
     {
-        "title": "TECHNICAL NOTES AND CORRESPONDENCE-Sufficient Conditions for Almost Sure Stability of Jump Linear Systems",
-        "pub_year": "2000",
-        "citation": "IEEE Transactions on Automatic Control 45 (7), 1325-1328, 2000"
+        "title": "Toward a Knowledge-Based View of a Business Model: A Multi-Level Framework and Dynamic Perspective",
+        "pub_year": "2022",
+        "citation": "The Routledge Companion to Knowledge Management, 304-319, 2022"
     },
     {
         "title": "Voltage control using limited communication",

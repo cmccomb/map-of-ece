@@ -62,6 +62,10 @@
         "citation": "Proceedings of the 20th annual international conference on Mobile computing …, 2014"
     },
     {
+        "title": "Accurate indoor localizationwith zero start-up cost",
+        "citation": "Proceedings of the 20th annual internationalconference on Mobile computing …, 0"
+    },
+    {
         "title": "Adaptive communication for mobile router systems",
         "pub_year": "2017",
         "citation": "US Patent 9,801,081, 2017"
@@ -70,6 +74,11 @@
         "title": "Adaptive communication in multi-robot systems using directionality of signal strength",
         "pub_year": "2015",
         "citation": "The International Journal of Robotics Research 34 (7), 946-968, 2015"
+    },
+    {
+        "title": "Adaptive communication in multi-robot systems using directionality of signal strength",
+        "pub_year": "2016",
+        "citation": "Robotics Research: The 16th International Symposium ISRR, 57-77, 2016"
     },
     {
         "title": "Adaptive communication networks for heterogeneous teams of robots",
@@ -598,6 +607,11 @@
         "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2019"
     },
     {
+        "title": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023"
+    },
+    {
         "title": "Rethinking Low-Power Wide-Area Networks on Earth and Space",
         "pub_year": "2022",
         "citation": "Carnegie Mellon University, 2022"
@@ -732,6 +746,11 @@
         "citation": ""
     },
     {
+        "title": "The Interplay of Clustering and Evolution in the Emergence of Epidemics on Networks",
+        "pub_year": "2023",
+        "citation": "ICC 2023-IEEE International Conference on Communications, 5582-5588, 2023"
+    },
+    {
         "title": "The first fifty years of ACM SIGCOMM",
         "pub_year": "2019",
         "citation": "ACM SIGCOMM Computer Communication Review 49 (5), 1-5, 2019"
@@ -750,6 +769,11 @@
         "title": "Tire Sensing Systems and Methods",
         "pub_year": "2023",
         "citation": "US Patent App. 17/924,647, 2023"
+    },
+    {
+        "title": "ToMoBrush: Exploring Dental Health Sensing using a Sonic Toothbrush",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.01933, 2024"
     },
     {
         "title": "Toolbox Release: A WiFi-Based Relative Bearing Framework for Robotics",

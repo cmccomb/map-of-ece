@@ -1,13 +1,13 @@
 [
     {
+        "title": "3.20 Detecting, Avoiding and Understanding Errors in Concurrent Programs",
+        "pub_year": "2011",
+        "citation": "Multi-Core Memory Models and Concurrency Theory, 16, 2011"
+    },
+    {
         "title": "A 10.33 μJ/encryption Homomorphic Encryption Engine in 28nm CMOS with 4096-degree 109-bit Polynomials for Resource-Constrained IoT Clients",
         "pub_year": "2023",
         "citation": "ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC …, 2023"
-    },
-    {
-        "title": "A Type System for Safe Intermittent Computing",
-        "pub_year": "2023",
-        "citation": "Proceedings of the ACM on Programming Languages 7 (PLDI), 736-760, 2023"
     },
     {
         "title": "A case for system support for concurrency exceptions",
@@ -20,11 +20,6 @@
         "citation": "IEEE Computer Architecture Letters 19 (1), 68-71, 2020"
     },
     {
-        "title": "A programmable, energy-minimal dataflow compiler and architecture",
-        "pub_year": "2022",
-        "citation": "2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 546-564, 2022"
-    },
-    {
         "title": "A reconfigurable energy storage architecture for energy-harvesting devices",
         "pub_year": "2018",
         "citation": "Proceedings of the Twenty-Third International Conference on Architectural …, 2018"
@@ -33,6 +28,11 @@
         "title": "A simpler, safer programming and execution model for intermittent systems",
         "pub_year": "2015",
         "citation": "ACM SIGPLAN Notices 50 (6), 575-585, 2015"
+    },
+    {
+        "title": "A type system for safe intermittent computing",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM on Programming Languages 7 (PLDI), 736-760, 2023"
     },
     {
         "title": "Aamer Jaleel, NVIDIA Abdullah Muzahid, Texas A&M University Ajay Joshi, Boston University Akanksha Jain, Google",
@@ -128,6 +128,11 @@
         "citation": "Proceedings of the 28th International symposium on high-performance parallel …, 2019"
     },
     {
+        "title": "Compiler-Based Memory Encryption for Machine Learning on Commodity Low-Power Devices",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 33rd ACM SIGPLAN International Conference on Compiler …, 2024"
+    },
+    {
         "title": "Computational nanosatellite constellations: Opportunities and challenges",
         "pub_year": "2021",
         "citation": "GetMobile: Mobile Computing and Communications 25 (1), 16-23, 2021"
@@ -185,7 +190,7 @@
     {
         "title": "ENSsys 2019 Chairs' Welcome",
         "pub_year": "2019",
-        "citation": "ENSsys 2019-Proceedings of the 7th International Workshop on Energy …, 2019"
+        "citation": "7th International Workshop on Energy Harvesting and Energy-Neutral Sensing …, 2019"
     },
     {
         "title": "Efficient Architecture Support for Region-Serializability-Based Consistency",
@@ -238,8 +243,7 @@
     },
     {
         "title": "Greedy Coherence",
-        "pub_year": "2011",
-        "citation": "Workshop on Hardware Support for Parallel Program Correctness, 2011"
+        "citation": ""
     },
     {
         "title": "Guest Editor Introduction PPoPP 2016, Special Issue 2 of 2",
@@ -326,6 +330,10 @@
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-4, 2023"
     },
     {
+        "title": "MANIC: A 19µW@ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS",
+        "citation": ""
+    },
+    {
         "title": "Manic: A vector-dataflow architecture for ultra-low-power embedded systems",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019"
@@ -372,7 +380,7 @@
     {
         "title": "Orca: Ordering-free regions for consistency and atomicity",
         "pub_year": "2016",
-        "citation": ""
+        "citation": "Technical Report MS-CIS-16-01, University of Pennsylvania, 2016"
     },
     {
         "title": "Overcoming the data-flow limit on parallelism with structural approximation",
@@ -415,14 +423,14 @@
         "citation": "Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of …, 2016"
     },
     {
-        "title": "Rethinking Support for Region Conflict Exceptions",
+        "title": "Rethinking support for region conflict exceptions",
         "pub_year": "2019",
         "citation": "2019 IEEE International Parallel and Distributed Processing Symposium (IPDPS …, 2019"
     },
     {
         "title": "Riptide: A programmable, energy-minimal dataflow compiler and architecture",
         "pub_year": "2022",
-        "citation": "2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 2022"
+        "citation": "2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO), 546-564, 2022"
     },
     {
         "title": "SOFRITAS: Serializable ordering-free regions for increasing thread atomicity scalably",
@@ -490,6 +498,11 @@
         "title": "Termination checking and task decomposition for task-based intermittent programs",
         "pub_year": "2018",
         "citation": "Proceedings of the 27th International Conference on Compiler Construction …, 2018"
+    },
+    {
+        "title": "The Internet of Batteryless Things",
+        "pub_year": "2024",
+        "citation": "Communications of the ACM 67 (3), 64-73, 2024"
     },
     {
         "title": "The computing landscape of the 21st century",

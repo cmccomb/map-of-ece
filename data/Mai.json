@@ -88,11 +88,6 @@
         "citation": "2016 IEEE International symposium on hardware oriented security and trust …, 2016"
     },
     {
-        "title": "AI Division Advanced Computing Lab",
-        "pub_year": "2022",
-        "citation": ""
-    },
-    {
         "title": "ASIC accelerator in 28 nm for the post-quantum digital signature scheme XMSS",
         "pub_year": "2020",
         "citation": "2020 IEEE 38th International Conference on Computer Design (ICCD), 656-662, 2020"
@@ -247,6 +242,10 @@
         "citation": "2011 IEEE 19th Annual International Symposium on Field-Programmable Custom …, 2011"
     },
     {
+        "title": "Fingerprinting Across Memory Interconnects",
+        "citation": ""
+    },
+    {
         "title": "Fingerprinting across on-chip memory interconnects",
         "pub_year": "2007",
         "citation": "Proceedings of the 3rd IEEE Workshop on Silicon Errors in Logic–System …, 2007"
@@ -327,6 +326,10 @@
         "title": "MANIC: A  @ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-4, 2023"
+    },
+    {
+        "title": "MANIC: A 19µW@ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS",
+        "citation": ""
     },
     {
         "title": "MS Project Report",
@@ -536,7 +539,7 @@
         "citation": "The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays …, 2021"
     },
     {
-        "title": "Towards Specialized Hardware for Learning-based Visual Odometry on the Edge",
+        "title": "Towards specialized hardware for learning-based visual odometry on the edge",
         "pub_year": "2022",
         "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022"
     },

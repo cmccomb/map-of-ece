@@ -10,14 +10,14 @@
         "citation": "Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23 …, 2020"
     },
     {
-        "title": "A Hybrid mmWave and Camera System for Long-Range Depth Imaging",
-        "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.07856, 2021"
-    },
-    {
         "title": "A dictionary-based approach for estimating shape and spatially-varying reflectance",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Computational Photography (ICCP), 1-9, 2015"
+    },
+    {
+        "title": "A hybrid mmwave and camera system for long-range depth imaging",
+        "pub_year": "2021",
+        "citation": "arXiv preprint arXiv:2106.07856, 2021"
     },
     {
         "title": "A simple framework for 3D lensless imaging with programmable masks",
@@ -121,7 +121,7 @@
     {
         "title": "Compressive spectral anomaly detection",
         "pub_year": "2017",
-        "citation": "2017 IEEE International Conference on Computational Photography (ICCP), 1-9, 2017"
+        "citation": "2017 IEEE international conference on Computational Photography (ICCP), 1-9, 2017"
     },
     {
         "title": "Compressive video sensing: Algorithms, architectures, and applications",
@@ -138,7 +138,7 @@
         "citation": ""
     },
     {
-        "title": "Computational Imaging using Ultrasonically-Sculpted Virtual Lenses",
+        "title": "Computational imaging using ultrasonically-sculpted virtual lenses",
         "pub_year": "2022",
         "citation": "2022 IEEE International Conference on Computational Photography (ICCP), 1-12, 2022"
     },
@@ -215,6 +215,11 @@
         "citation": "2015 IEEE international conference on Acoustics, Speech and Signal …, 2015"
     },
     {
+        "title": "Enabling 3D Virtual Worlds in an Instant",
+        "pub_year": "2023",
+        "citation": "Frontiers in Optics, FM5A. 1, 2023"
+    },
+    {
         "title": "Enhanced compressive imaging using model-based acquisition: Smarter sampling by incorporating domain knowledge",
         "pub_year": "2016",
         "citation": "IEEE Signal Processing Magazine 33 (5), 81-94, 2016"
@@ -264,7 +269,7 @@
         "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008"
     },
     {
-        "title": "Fine-Grain Prediction of Strawberry Freshness using Subsurface Scattering",
+        "title": "Fine-grain prediction of strawberry freshness using subsurface scattering",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021"
     },
@@ -272,6 +277,11 @@
         "title": "Fingerprinting vehicles for tracking across non-overlapping views",
         "pub_year": "2006",
         "citation": "Army Science Conference, 2006"
+    },
+    {
+        "title": "FlatCam: thin, bare-sensor cameras using coded aperture and computation",
+        "pub_year": "2015",
+        "citation": "arXiv e-prints, arXiv: 1509.00116, 2015"
     },
     {
         "title": "Flatcam: Replacing lenses with masks and computation",
@@ -432,14 +442,14 @@
         "citation": "Proc. IROS Workshop on Open Prob. Motion Plan, 2011"
     },
     {
-        "title": "METHOD AND APPARATUS WITH IMAGE QUALITY IMPROVEMENT",
-        "pub_year": "2023",
-        "citation": "US Patent App. 18/333,920, 2023"
-    },
-    {
         "title": "Method and apparatus for compressive acquisition and recovery of dynamic imagery",
         "pub_year": "2017",
         "citation": "US Patent 9,654,752, 2017"
+    },
+    {
+        "title": "Method and apparatus with image quality improvement",
+        "pub_year": "2023",
+        "citation": "US Patent App. 18/333,920, 2023"
     },
     {
         "title": "Method for reconstructing surfaces of specular object from sparse reflection correspondences",
@@ -491,7 +501,7 @@
         "citation": "2012 IEEE Statistical Signal Processing Workshop (SSP), 728-731, 2012"
     },
     {
-        "title": "Neural Kaleidoscopic Space Sculpting",
+        "title": "Neural kaleidoscopic space sculpting",
         "pub_year": "2023",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023"
     },
@@ -535,11 +545,6 @@
         "citation": ""
     },
     {
-        "title": "PASSIVE AND SINGLE-VIEWPOINT 3D IMAGING SYSTEM",
-        "pub_year": "2023",
-        "citation": "US Patent App. 18/307,387, 2023"
-    },
-    {
         "title": "PS  F: Polarized Spiral Point Spread Function for Single-Shot 3D Sensing",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022"
@@ -558,6 +563,11 @@
         "title": "Passive and single-viewpoint 3d imaging system",
         "pub_year": "2023",
         "citation": ""
+    },
+    {
+        "title": "Passive and single-viewpoint 3d imaging system",
+        "pub_year": "2023",
+        "citation": "US Patent App. 18/307,387, 2023"
     },
     {
         "title": "Phasecam3d—learning phase masks for passive single view depth estimation",
@@ -598,11 +608,6 @@
         "citation": "2023 IEEE International Conference on Computational Photography (ICCP), 1-12, 2023"
     },
     {
-        "title": "Programmable Spectrometry: Per-pixel material classification using learned spectral filters",
-        "pub_year": "2020",
-        "citation": "2020 IEEE International Conference on Computational Photography (ICCP), 1-10, 2020"
-    },
-    {
         "title": "Programmable light curtains",
         "pub_year": "2022",
         "citation": "US Patent 11,493,634, 2022"
@@ -610,7 +615,12 @@
     {
         "title": "Programmable spectral filter arrays for hyperspectral imaging",
         "pub_year": "2021",
-        "citation": "arXiv e-prints, arXiv: 2109.14450, 2021"
+        "citation": "CoRR, 2021"
+    },
+    {
+        "title": "Programmable spectrometry: Per-pixel material classification using learned spectral filters",
+        "pub_year": "2020",
+        "citation": "2020 IEEE International Conference on Computational Photography (ICCP), 1-10, 2020"
     },
     {
         "title": "Programmable triangulation light curtains",
@@ -702,7 +712,7 @@
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022"
     },
     {
-        "title": "SliceNets--A Scalable Approach for Object Detection in 3D CT Scans",
+        "title": "SliceNets--A Scalable approach for object detection in 3D CT scans",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2021"
     },
@@ -727,7 +737,7 @@
         "citation": "2010 IEEE Computer Society Conference on Computer Vision and Pattern …, 2010"
     },
     {
-        "title": "Split-Lohmann Multifocal Displays",
+        "title": "Split-lohmann multifocal displays",
         "pub_year": "2023",
         "citation": "ACM Transactions on Graphics (TOG) 42 (4), 1-18, 2023"
     },
@@ -765,7 +775,7 @@
     {
         "title": "Sweepcam—depth-aware lensless imaging using programmable masks",
         "pub_year": "2020",
-        "citation": "IEEE transactions on pattern analysis and machine intelligence 42 (7), 1606-1617, 2020"
+        "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence 42 (7), 1606-1617, 2020"
     },
     {
         "title": "System And Method Of Video Compressive Sensing For Spatial-Multiplexing Cameras",
@@ -776,6 +786,11 @@
         "title": "Target tracking using a joint acoustic video system",
         "pub_year": "2007",
         "citation": "IEEE Transactions on Multimedia 9 (4), 715-727, 2007"
+    },
+    {
+        "title": "The Interactive Machine Learning Paradigm",
+        "pub_year": "2023",
+        "citation": ""
     },
     {
         "title": "The geometry of first-returning photons for non-line-of-sight imaging",
@@ -809,7 +824,7 @@
     {
         "title": "Video compressive sensing for dynamic MRI",
         "pub_year": "2012",
-        "citation": "BMC neuroscience 13 (1), 1-1, 2012"
+        "citation": "BMC neuroscience 13, 1-1, 2012"
     },
     {
         "title": "Video compressive sensing for spatial multiplexing cameras using motion-flow models",
@@ -832,7 +847,7 @@
         "citation": "2016 IEEE International Conference on Computational Photography (ICCP), 1-10, 2016"
     },
     {
-        "title": "Wide-Baseline Light Fields using Ellipsoidal Mirrors",
+        "title": "Wide-baseline light fields using ellipsoidal mirrors",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022"
     }

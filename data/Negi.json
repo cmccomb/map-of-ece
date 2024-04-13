@@ -251,10 +251,10 @@
     {
         "title": "Environment-Adaptable Fast Multi-Resolution (EAF-MR) optimization in large-scale RF-FPGA systems",
         "pub_year": "2018",
-        "citation": "EURASIP Journal on Wireless Communications and Networking 2018 (1), 1-17, 2018"
+        "citation": "EURASIP Journal on Wireless Communications and Networking 2018, 1-17, 2018"
     },
     {
-        "title": "Environment-adaptable efficient optimization for programming of reconfigurable radio frequency (rf) receivers",
+        "title": "Environment-adaptable efficient optimization for programming of reconfigurable radio frequency (RF) receivers",
         "pub_year": "2014",
         "citation": "2014 IEEE Military Communications Conference, 1459-1465, 2014"
     },
@@ -396,7 +396,7 @@
     {
         "title": "Optimal Scheduling in Wireless Networks: Towards a General Framework",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "CoRR, 2010"
     },
     {
         "title": "Optimal detection for perpendicular recording channels with transition noise",
@@ -462,6 +462,10 @@
         "title": "Probabilistic joint state estimation for operational planning",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Smart Grid 10 (1), 601-612, 2017"
+    },
+    {
+        "title": "Publication Submission Form",
+        "citation": ""
     },
     {
         "title": "Queue-based broadcast gossip algorithm for consensus",
@@ -558,7 +562,7 @@
         "citation": "IEEE transactions on magnetics 46 (6), 1813-1816, 2010"
     },
     {
-        "title": "Soft Cancellation Via Iterative Decoding to Mitigate the Effect of Home-LAN's on VDSL (333R1)",
+        "title": "Soft Cancellation Via Iterative Decoding to Mitigate the Effect of Home-LANs on VDSL (333R1)",
         "pub_year": "1999",
         "citation": "T1E1. 4/99-333R1, 1999"
     },

@@ -73,11 +73,6 @@
         "citation": "IEEE Softw. 37 (6), 58-64, 2020"
     },
     {
-        "title": "Dual-track agile in software engineering education. In 2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering Education and Training (ICSE …",
-        "pub_year": "2019",
-        "citation": "IEEE. https://doi. org/10.1109/ICSE-SEET, 2019"
-    },
-    {
         "title": "Enhancing Student Experience in Team-Based Project Courses Using Essence Reflection Meetings",
         "pub_year": "2015",
         "citation": "2015 IEEE 28th Conference on Software Engineering Education and Training, 10-12, 2015"
@@ -95,17 +90,17 @@
     {
         "title": "Formal testing of object-oriented software",
         "pub_year": "1998",
+        "citation": "PhD thesis, EPFL, Lausanne, 1998"
+    },
+    {
+        "title": "Formal testing of object-oriented software: From the method to the tool",
+        "pub_year": "1998",
         "citation": "EPFL, 1998"
     },
     {
         "title": "Formal testing of object-oriented software: From the method to the tool",
         "pub_year": "1998",
-        "citation": ""
-    },
-    {
-        "title": "Formal testing of object-oriented software: From the method to the tool",
-        "pub_year": "1998",
-        "citation": ""
+        "citation": "EPFL, 1998"
     },
     {
         "title": "From Agile Methods to Lean Practices: Trends in Software Development",
@@ -116,6 +111,10 @@
         "title": "From requirements to tests via object-oriented design",
         "pub_year": "1998",
         "citation": "DeVa Year 3, 331-383, 1998"
+    },
+    {
+        "title": "Full Access",
+        "citation": ""
     },
     {
         "title": "Green-Lighting Proposals for Software Engineering Team-based Project Courses",
@@ -311,6 +310,11 @@
         "title": "The IBM Rational Unified Process for System z, or Making Development on System z More Agile",
         "pub_year": "2007",
         "citation": "The Rational Edge Journal, 2007"
+    },
+    {
+        "title": "The Product Backlog. In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), Vol. 2019-May",
+        "pub_year": "2019",
+        "citation": "IEEE, 2019"
     },
     {
         "title": "The product backlog",

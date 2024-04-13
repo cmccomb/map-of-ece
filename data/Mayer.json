@@ -168,7 +168,7 @@
     {
         "title": "Bottom-up assembly of large-area nanowire resonator arrays",
         "pub_year": "2008",
-        "citation": "Nature Nanotechnology 3 (2), 88-92, 2008"
+        "citation": "Nature nanotechnology 3 (2), 88-92, 2008"
     },
     {
         "title": "Bottom-up assembly of structures on a substrate",
@@ -470,7 +470,7 @@
     {
         "title": "Effect of local environment on molecular conduction: Isolated molecule versus self-assembled monolayer",
         "pub_year": "2005",
-        "citation": "Nano Letters 5 (1), 61-65, 2005"
+        "citation": "Nano letters 5 (1), 61-65, 2005"
     },
     {
         "title": "Effect of nickel contamination on high carrier lifetime n-type crystalline silicon",
@@ -596,11 +596,6 @@
         "title": "Epitaxial regrowth of silicon for the fabrication of radial junction nanowire solar cells",
         "pub_year": "2010",
         "citation": "Nanoepitaxy: Homo-and Heterogeneous Synthesis, Characterization, and Device …, 2010"
-    },
-    {
-        "title": "Erratum: “Fabrication of two-dimensional photonic crystals using interference lithography and electrodeposition of CdSe” [Appl. Phys. Lett. 79, 3392 (2001)]",
-        "pub_year": "2002",
-        "citation": "Applied Physics Letters 81 (10), 1925-1925, 2002"
     },
     {
         "title": "Evidence of spatially selective refractive index modification in 15GeSe2-45As2Se3-40PbSe glass ceramic through correlation of structure and optical property …",
@@ -914,14 +909,14 @@
         "citation": "Physics and Chemistry of Glasses-European Journal of Glass Science and …, 2017"
     },
     {
+        "title": "Infrared Planar Zero Index Metamaterials",
+        "pub_year": "2010",
+        "citation": "Photonic Metamaterials and Plasmonics, MWB3, 2010"
+    },
+    {
         "title": "Infrared glass–ceramics with multidispersion and gradient refractive index attributes",
         "pub_year": "2019",
         "citation": "Advanced Functional Materials 29 (35), 1902217, 2019"
-    },
-    {
-        "title": "Infrared planar zero index metamaterials",
-        "pub_year": "2010",
-        "citation": "Photonic Metamaterials and Plasmonics, MWB3, 2010"
     },
     {
         "title": "Inorganic Self-Assembly Routes to Three-Dimensional Memories and Logical Mesostructures",
@@ -1218,9 +1213,9 @@
         "citation": "Journal of applied physics 105 (9), 2009"
     },
     {
-        "title": "Orientation‐dependent perimeter recombination in GaAs diodes",
+        "title": "Orientation-dependent perimeter recombination in GaAs diodes",
         "pub_year": "1990",
-        "citation": "Applied physics letters 56 (17), 1658-1660, 1990"
+        "citation": "Applied physics letters, 1990"
     },
     {
         "title": "Oxidation of silicon nanowires for top-gated field effect transistors",
@@ -1374,11 +1369,7 @@
     {
         "title": "Reconfigurable ultra-thin EBG absorbers using conducting polymers",
         "pub_year": "2005",
-        "citation": "2005 IEEE Antennas and Propagation Society International Symposium 2, 204-207, 2005"
-    },
-    {
-        "title": "Research Experts",
-        "citation": ""
+        "citation": "2005 ieee antennas and propagation society international symposium 2, 204-207, 2005"
     },
     {
         "title": "Resistivity measurements of intentionally and unintentionally template-grown doped silicon nanowire arrays",
@@ -1416,7 +1407,7 @@
         "citation": "IEEE Transactions on Electron Devices 38 (6), 1253-1261, 1991"
     },
     {
-        "title": "Segmentation-Dependent Dielectrophoretic Assembly of Multisegment Metal/Dielectric Particles",
+        "title": "Segmentation-dependent dielectrophoretic assembly of multisegment metal/dielectric particles",
         "pub_year": "2020",
         "citation": "The Journal of Physical Chemistry C 124 (34), 18755-18769, 2020"
     },
@@ -1605,11 +1596,6 @@
         "citation": "Journal of the Electrochemical Society 146 (4), 1597, 1999"
     },
     {
-        "title": "The Photon collider at TESLA",
-        "pub_year": "2004",
-        "citation": "International Journal of Modern Physics A 19 (30), 5097-5186, 2004"
-    },
-    {
         "title": "The design and fabrication of planar multiband metallodielectric frequency selective surfaces for infrared applications",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Antennas and Propagation 54 (4), 1265-1276, 2006"
@@ -1618,6 +1604,11 @@
         "title": "The effects of shell layer morphology and processing on the electrical and photovoltaic properties of silicon nanowire radial p+–n+ junctions",
         "pub_year": "2015",
         "citation": "Nanoscale 7 (16), 7267-7274, 2015"
+    },
+    {
+        "title": "The photon collider at TESLA",
+        "pub_year": "2004",
+        "citation": "International Journal of Modern Physics A 19 (30), 5097-5186, 2004"
     },
     {
         "title": "Thermally activated conduction in molecular junctions",

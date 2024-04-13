@@ -112,7 +112,7 @@
         "citation": "Proceedings of the ACM Symposium on Cloud Computing, 61-75, 2021"
     },
     {
-        "title": "BEMC: A Searchable, Compressed Representation for Large Seismic Wavefields",
+        "title": "BEMC: a searchable, compressed representation for large seismic wavefields",
         "pub_year": "2010",
         "citation": "Scientific and Statistical Database Management: 22nd International …, 2010"
     },
@@ -137,8 +137,18 @@
         "citation": "Young 18 (7), 1999"
     },
     {
+        "title": "Breadth-first with depth-first BDD construction: A hybrid approach",
+        "pub_year": "1997",
+        "citation": "Carnegie-Mellon University. Department of Computer Science, 1997"
+    },
+    {
         "title": "Bruce Lowekamp",
         "citation": "Work 412, 268-7673, 0"
+    },
+    {
+        "title": "Building Blocks for a New Generation of Application-Specific Computing Systems Brent Baxter, George Cox, Thomas Gross, HT Kung, David O'Hallaron, Craig Peterson, Jon Webb, and …",
+        "pub_year": "1990",
+        "citation": "Proceedings of the International Conference on Application Specific Array …, 1990"
     },
     {
         "title": "Building blocks for a new generation of application specific computing systems",
@@ -250,17 +260,12 @@
         "citation": "Boston: Pearson, 2016"
     },
     {
-        "title": "Computer Systems A Programmer’s Perspective Third Edition",
-        "pub_year": "1915",
-        "citation": "Computer 3, 22, 1915"
-    },
-    {
         "title": "Computer Systems: A Programmer's Perspective plus MasteringEngineering with Pearson eText--Access Card Package",
         "pub_year": "2015",
         "citation": "Pearson, 2015"
     },
     {
-        "title": "Computer Systems: A Programmer’s Perspective: Instructor’s Solution Manual",
+        "title": "Computer Systems: A Programmer’s Perspective Instructor’s Solution Manual",
         "pub_year": "2003",
         "citation": ""
     },
@@ -284,7 +289,7 @@
         "citation": "3rd International Conference on Supercomputing 2, 396-401, 1988"
     },
     {
-        "title": "Computing the Pipelined Phase-Rotation FFT",
+        "title": "Computing the pipelined phase-rotation FFT",
         "pub_year": "1993",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1993"
     },
@@ -390,10 +395,6 @@
         "citation": "Proceedings of the 2006 ACM SIGMOD international conference on Management of …, 2006"
     },
     {
-        "title": "Electrical and Computer Engineering 5720 Systems Programming and Architecture",
-        "citation": ""
-    },
-    {
         "title": "Enterprise Client Management with Internet Suspend/Resume.",
         "pub_year": "2004",
         "citation": "Intel Technology Journal 8 (4), 2004"
@@ -460,6 +461,10 @@
         "title": "Guest-editorial: Software systems for scalable computers",
         "pub_year": "1998",
         "citation": "Scientific Programming 7 (3), 191-194, 1998"
+    },
+    {
+        "title": "HIGH RESOLUTION FORWARD AND INVERSE EARTHQUAKE MODELING ON TERASCALE COMPUTERS",
+        "citation": ""
     },
     {
         "title": "High resolution forward and inverse earthquake modeling on terascale computers",
@@ -558,7 +563,7 @@
         "citation": "Addison-Wesley Educational Publishers Inc, 2015"
     },
     {
-        "title": "Multilist Scheduling: A New Parallel Programming Model",
+        "title": "Multilist scheduling: a new parallel programming model",
         "pub_year": "1993",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1993"
     },
@@ -752,7 +757,7 @@
     {
         "title": "Tashi: location-aware cluster management",
         "pub_year": "2009",
-        "citation": "Proceedings of the 1st Workshop on Automated Control for Datacenters and …, 2009"
+        "citation": "Proceedings of the 1st workshop on Automated control for datacenters and …, 2009"
     },
     {
         "title": "Task parallel programming in Fx",

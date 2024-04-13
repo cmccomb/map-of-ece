@@ -30,6 +30,10 @@
         "citation": "Computer Languages 17 (2), ii, 1992"
     },
     {
+        "title": "5.17 Challenges in Autonomous Vehicle Validation",
+        "citation": "Software Engineering for Self-Adaptive Systems: Assurances, 86, 0"
+    },
+    {
         "title": "A Product Family Approach to Graceful Degradation",
         "pub_year": "2000",
         "citation": "Proceedings of DIPES 2000, 2000"
@@ -37,7 +41,7 @@
     {
         "title": "A Reasonable Driver Standard for Automated Vehicle Safety",
         "pub_year": "2023",
-        "citation": "Available at SSRN 4475181, 2023"
+        "citation": "International Conference on Computer Safety, Reliability, and Security, 355-361, 2023"
     },
     {
         "title": "A Widely Deployable Web-based Distributed Network Simulation Framework using CORBA IDL-based APIs",
@@ -51,7 +55,7 @@
     {
         "title": "A case study of Toyota unintended acceleration and software safety",
         "pub_year": "2014",
-        "citation": "Presentation. Sept, 2014"
+        "citation": "Presentation. Sept, 17, 2014"
     },
     {
         "title": "A case study on runtime monitoring of an autonomous research vehicle (ARV) system",
@@ -128,11 +132,6 @@
         "citation": "Carnegie Mellon University, 0"
     },
     {
-        "title": "An Architecture for Combinator Graph Reduction",
-        "pub_year": "2014",
-        "citation": "Elsevier, 2014"
-    },
-    {
         "title": "An Architecture for Combinator Graph Reduction (TIGRE)",
         "citation": "Carnegie Mellon University, 0"
     },
@@ -148,6 +147,11 @@
     },
     {
         "title": "An architecture for combinator graph reduction",
+        "pub_year": "2014",
+        "citation": "Elsevier, 2014"
+    },
+    {
+        "title": "An architecture for combinator graph reduction",
         "pub_year": "1989",
         "citation": "Carnegie Mellon University, 1989"
     },
@@ -160,6 +164,11 @@
         "title": "Analyzing dependability of embedded systems from the user perspective",
         "pub_year": "2001",
         "citation": "Workshop on Reliability in Embedded Systems (in conjunction with SRDS), 2001"
+    },
+    {
+        "title": "Anatomy of a Robotaxi Crash: Lessons from the Cruise Pedestrian Dragging Mishap",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.06046, 2024"
     },
     {
         "title": "Architecting Dependable Systems V",
@@ -196,8 +205,8 @@
     },
     {
         "title": "Autonomous Vehicle Safety: An Interdisciplinary Challenge. IEEE Intelligent Transportation Systems Magazine, 9 (1), 90–96",
-        "pub_year": "2017",
-        "citation": "doi. org/10.1109/MITS. 2016.2583491 Conference Name: IEEE Intelligent …, 2017"
+        "pub_year": "2016",
+        "citation": ""
     },
     {
         "title": "Autonomous Vehicles: Safety Validation and Edge Case Testing",
@@ -267,7 +276,7 @@
     {
         "title": "Cache Organization",
         "pub_year": "1998",
-        "citation": "Memory System Architecture, 18-548, 1998"
+        "citation": "lecture material, Carnegie Mellon University, Sep 2, 1998"
     },
     {
         "title": "Cache behavior of combinator graph reduction",
@@ -315,7 +324,7 @@
         "citation": ""
     },
     {
-        "title": "Challenges in representing cps safety",
+        "title": "Challenges in representing CPS safety",
         "pub_year": "2011",
         "citation": "Workshop on developing dependable and secure automotive cyber-physical …, 2011"
     },
@@ -348,7 +357,7 @@
         "citation": ""
     },
     {
-        "title": "Continuous Learning Approach to Safety Engineering",
+        "title": "Continuous learning approach to safety engineering",
         "pub_year": "2022",
         "citation": "CARS-Critical Automotive applications: Robustness & Safety, 2022"
     },
@@ -360,7 +369,7 @@
     {
         "title": "Credible autonomy safety argumentation",
         "pub_year": "2019",
-        "citation": "27th Safety-Critical Systems Symposium, 2019"
+        "citation": "27th Safety-Critical Systems Symposium, 34-50, 2019"
     },
     {
         "title": "Critical Message Integrity Over A Shared Network",
@@ -578,7 +587,7 @@
     {
         "title": "Embedded System Software Quality",
         "pub_year": "2016",
-        "citation": ""
+        "citation": "by Edge Case Research. ISSRE, 2016"
     },
     {
         "title": "Embedded System Software Quality: Why is it so often terrible? What can we do about it?",
@@ -646,11 +655,6 @@
         "citation": "IEEE Spectrum 29 (4), 52-54, 1992"
     },
     {
-        "title": "Ethical Design and Testing of Automated Driving Features",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4336441, 2023"
-    },
-    {
         "title": "Ethics, safety, and autonomous vehicles",
         "pub_year": "2021",
         "citation": "Computer 54 (12), 28, 2021"
@@ -712,19 +716,19 @@
         "citation": "Proceedings of the IEEE 98 (4), 584-602, 2010"
     },
     {
-        "title": "How Safe is Safe Enough?: Measuring and Predicting Autonomous Vehicle Safety",
-        "pub_year": "2022",
-        "citation": "Carnegie Mellon University, 2022"
-    },
-    {
         "title": "How many operational design domains, objects, and events?",
         "pub_year": "2019",
         "citation": "Safeai@ aaai 4, 2019"
     },
     {
+        "title": "How safe is safe enough?: Measuring and predicting Autonomous Vehicle Safety",
+        "pub_year": "2022",
+        "citation": "Carnegie Mellon University, 2022"
+    },
+    {
         "title": "How to write an abstract",
         "pub_year": "1997",
-        "citation": ""
+        "citation": "Carnegie Mellon University. Retrieved May 31, 2013, 1997"
     },
     {
         "title": "How to write an abstract. 1997",
@@ -759,11 +763,6 @@
         "title": "Indirect control path analysis and goal coverage strategies for elaborating system safety goals in composite systems",
         "pub_year": "2008",
         "citation": "2008 14th IEEE Pacific Rim International Symposium on Dependable Computing …, 2008"
-    },
-    {
-        "title": "Integrated Development Systems",
-        "pub_year": "1990",
-        "citation": "1990 Rochester Forth Conference: Embedded Systems: June 12-16th, 1990 …, 1990"
     },
     {
         "title": "Integrity in Embedded Control Networks",
@@ -842,7 +841,7 @@
     {
         "title": "Low cost multicast authentication via validity voting in time-triggered embedded control networks",
         "pub_year": "2010",
-        "citation": "Proceedings of the 5th Workshop on Embedded Systems Security, 1-10, 2010"
+        "citation": "Proceedings of the 5th workshop on embedded systems security, 1-10, 2010"
     },
     {
         "title": "MVP Microcoded CPU/16: History",
@@ -923,7 +922,7 @@
         "citation": ""
     },
     {
-        "title": "Modern stack computer architecture",
+        "title": "Modern Stack Computer Architecture",
         "pub_year": "1990",
         "citation": "Carnegie Mellon University, 1990"
     },
@@ -950,7 +949,7 @@
     {
         "title": "Orthogonal capability building blocks for flexible AHS deployment",
         "pub_year": "1998",
-        "citation": "Carnegie Mellon University, 1998"
+        "citation": "Journal of Intelligent Transportation System 4 (1-2), 1-19, 1998"
     },
     {
         "title": "Orthogonal capability building blocks for flexible AHS deployment-Author's response",
@@ -1054,11 +1053,6 @@
         "title": "Putting image manipulations in context: robustness testing for safe perception",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Safety, Security, and Rescue Robotics …, 2018"
-    },
-    {
-        "title": "Quality of Service Management for High-Assurance Computing",
-        "pub_year": "1999",
-        "citation": "Proceedings: Fourth IEEE International Symposium on High-Assurance Systems …, 1999"
     },
     {
         "title": "Quantifying the reliability of proven SPIDER group membership service guarantees",
@@ -1281,11 +1275,6 @@
         "citation": "Tijdschrift Voor Sociale Geneeskunde 41, 766-768, 1963"
     },
     {
-        "title": "TIGRE: Combinator Graph Reduction",
-        "pub_year": "1990",
-        "citation": "1990 Rochester Forth Conference: Embedded Systems: June 12-16th, 1990 …, 1990"
-    },
-    {
         "title": "TIGRE: Combinator Graph Reduction on the RTX 2000",
         "pub_year": "1990",
         "citation": "Carnegie Mellon University, 1990"
@@ -1293,11 +1282,6 @@
     {
         "title": "Testing Toolkit",
         "citation": "Carnegie Mellon University, 0"
-    },
-    {
-        "title": "The Awkward Middle for Automated Vehicles: Liability Attribution Rules When Humans and Computers Share Driving Responsibilities",
-        "pub_year": "2023",
-        "citation": "Available at SSRN 4444854, 2023"
     },
     {
         "title": "The Ballista software robustness testing service",
@@ -1352,6 +1336,11 @@
         "title": "The architecture of supercomputers: Titan, a case study",
         "pub_year": "2014",
         "citation": "Academic Press, 2014"
+    },
+    {
+        "title": "The awkward middle for automated vehicles: Liability attribution rules when humans and computers share driving responsibilities",
+        "pub_year": "2023",
+        "citation": "Available at SSRN 4444854, 2023"
     },
     {
         "title": "The big picture for self-driving car safety",
@@ -1414,7 +1403,7 @@
         "citation": "Electr. Comput. Eng., Carnegie Mellon Univ., Pittsburgh, PA, USA, 2012"
     },
     {
-        "title": "UL 4600: What to Include in an Autonomous Vehicle Safety Case",
+        "title": "Ul 4600: what to include in an autonomous vehicle safety case",
         "pub_year": "2023",
         "citation": "Computer 56 (05), 101-104, 2023"
     },
@@ -1495,7 +1484,7 @@
     {
         "title": "Writable instruction set stack oriented computers: The WISC concept",
         "pub_year": "1987",
-        "citation": "Journal of Forth Application and Research (Rochester Forth Conference …, 1987"
+        "citation": "Carnegie Mellon University, 1987"
     },
     {
         "title": "and Lisa Spainhower",

@@ -30,6 +30,11 @@
         "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 6015-6020, 2017"
     },
     {
+        "title": "An Analytic Solution to Covariance Propagation in Neural Networks",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.16163, 2024"
+    },
+    {
         "title": "An Integrative Perspective to LQ and  Control for Delayed and Quantized Systems",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Automatic Control 65 (11), 4781-4792, 2020"
@@ -55,6 +60,11 @@
         "citation": "2021 55th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2021"
     },
     {
+        "title": "Bayesian Network-Based Probabilistic Constraints for Safe Autonomous Driving in Occlusion Environments",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 26th International Conference on Intelligent Transportation …, 2023"
+    },
+    {
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
         "pub_year": "2024",
         "citation": "Building and Environment 247, 111053, 2024"
@@ -68,6 +78,16 @@
         "title": "Connecting the speed-accuracy trade-offs in sensorimotor control and neurophysiology reveals diversity sweet spots in layered control architectures",
         "pub_year": "2019",
         "citation": "California Institute of Technology, 2019"
+    },
+    {
+        "title": "Context-aware LLM-based Safe Control Against Latent Risks",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.11863, 2024"
+    },
+    {
+        "title": "Context-aware LLM-based Safe Control Against Latent Risks",
+        "pub_year": "2024",
+        "citation": "arXiv e-prints, arXiv: 2403.11863, 2024"
     },
     {
         "title": "Diversity deconstrains component limitations in sensorimotor control",
@@ -100,14 +120,18 @@
         "citation": "2019 American Control Conference (ACC), 483-488, 2019"
     },
     {
+        "title": "Fast Bandit-Based Policy Adaptation in Diverse Environments",
+        "citation": "Available at SSRN 4773505, 0"
+    },
+    {
         "title": "Feasibility of computational estimation of task-oriented visual attention",
         "pub_year": "2012",
         "citation": "Proceedings of the Thirteenth Australasian User Interface Conference-Volume …, 2012"
     },
     {
-        "title": "Fitts' law for speed-accuracy trade-off is a diversity sweet spot in sensorimotor control",
+        "title": "Fitts’ law for speed-accuracy trade-off is a diversity sweet spot in sensorimotor control",
         "pub_year": "2019",
-        "citation": "arXiv, 2019"
+        "citation": "arXiv preprint arXiv:1906.00905, 2019"
     },
     {
         "title": "Fundamental limits and achievable performance in biomolecular control",
@@ -150,9 +174,18 @@
         "citation": "2016 35th Chinese Control Conference (CCC), 2189-2195, 2016"
     },
     {
-        "title": "Physics-informed Representation and Learning: Control and Risk Quantification",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.10594, 2023"
+        "title": "Optimizing HVAC Systems for Energy Efficiency and Comfort: A Scalable and Robust Multi-Zone Control Approach with Uncertainty Considerations",
+        "citation": "Computing in Civil Engineering 2023, 987-995, 0"
+    },
+    {
+        "title": "Physics-informed RL for Maximal Safety Probability Estimation",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.16391, 2024"
+    },
+    {
+        "title": "Physics-informed representation and learning: Control and risk quantification",
+        "pub_year": "2024",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (19), 21699 …, 2024"
     },
     {
         "title": "Probabilistic safety certificate for multi-agent systems",
@@ -173,6 +206,11 @@
         "title": "Safe Control in the Presence of Stochastic Uncertainties",
         "pub_year": "2021",
         "citation": "60th IEEE Conference on Decision and Control (CDC), 6640-6645, 2021"
+    },
+    {
+        "title": "Sample-Optimal Zero-Violation Safety For Continuous Control",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.06045, 2024"
     },
     {
         "title": "Scalable Long-Term Safety Certificate for Large-Scale Systems",

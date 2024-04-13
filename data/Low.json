@@ -7,7 +7,7 @@
     {
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
-        "citation": "WoNDP, 2014"
+        "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014"
     },
     {
         "title": "A 3 d-stacked memory manycore stencil accelerator system",
@@ -45,11 +45,6 @@
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018"
     },
     {
-        "title": "AI Division Advanced Computing Lab",
-        "pub_year": "2022",
-        "citation": ""
-    },
-    {
         "title": "Accumulating Householder transformations, revisited",
         "pub_year": "2006",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 32 (2), 169-179, 2006"
@@ -73,11 +68,6 @@
         "title": "Analytical modeling is enough for high-performance BLIS",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 43 (2), 1-18, 2016"
-    },
-    {
-        "title": "Automatic Code Generation for Graph Algorithms",
-        "pub_year": "2018",
-        "citation": ""
     },
     {
         "title": "Automating the last-mile for high performance dense linear algebra",
@@ -180,7 +170,7 @@
         "citation": "Technical Report TR-12-18, The University of Texas at Austin, Department of …, 2012"
     },
     {
-        "title": "Families of Butterfly Counting Algorithms for Bipartite Graphs",
+        "title": "Families of butterfly counting algorithms for bipartite graphs",
         "pub_year": "2022",
         "citation": "2022 IEEE International Parallel and Distributed Processing Symposium …, 2022"
     },
@@ -264,7 +254,7 @@
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2017"
     },
     {
-        "title": "Modeling Matrix Engines for Portability and Performance",
+        "title": "Modeling matrix engines for portability and performance",
         "pub_year": "2022",
         "citation": "2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS …, 2022"
     },
@@ -277,11 +267,6 @@
         "title": "Optimizing space time adaptive processing through accelerating memory-bounded operations",
         "pub_year": "2015",
         "citation": "2015 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2015"
-    },
-    {
-        "title": "PHITE: Portable High-performance Inference at the Tactical Edge",
-        "pub_year": "2022",
-        "citation": ""
     },
     {
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
@@ -304,11 +289,6 @@
         "citation": "Journal of Systems Architecture 135, 102806, 2023"
     },
     {
-        "title": "SMaLL: A Software Framework for portable Machine Learning Libraries",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2303.04769, 2023"
-    },
-    {
         "title": "SMaLL: Software for rapidly instantiating Machine Learning Libraries",
         "pub_year": "2023",
         "citation": "ACM Transactions on Embedded Computing Systems, 2023"
@@ -327,6 +307,11 @@
         "title": "Scalable parallelization of FLAME code via the workqueuing model",
         "pub_year": "2008",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 34 (2), 2008"
+    },
+    {
+        "title": "Small: A software framework for portable machine learning libraries",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2303.04769, 2023"
     },
     {
         "title": "Spiral AI/ML: Co-optimization for High-Performance, Data-Intensive Computing in Resource-Constrained Environments",

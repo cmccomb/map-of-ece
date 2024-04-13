@@ -51,7 +51,7 @@
     {
         "title": "A survey of security vulnerabilities in bluetooth low energy beacons",
         "pub_year": "2016",
-        "citation": "The Parallel Data Lab at Carnegie Mellon University, Tech. Rep, 2016"
+        "citation": "Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-16-109, 2016"
     },
     {
         "title": "A versatile, proactive dependability approach to handling unanticipated events in distributed systems",
@@ -160,11 +160,6 @@
         "citation": "HotDep 2010, USENIX Hot Topics in System Dependability, 2010"
     },
     {
-        "title": "Benchmarking Wireless Protocols for Feasibility in Supporting Crowdsourced Mobile Computing",
-        "pub_year": "2016",
-        "citation": "Distributed Applications and Interoperable Systems: 16th IFIP WG 6.1 …, 2016"
-    },
-    {
         "title": "Benchmarking wireless protocols for feasibility in supporting crowdsourced mobile computing",
         "pub_year": "2016",
         "citation": "Distributed Applications and Interoperable Systems: 16th IFIP WG 6.1 …, 2016"
@@ -225,7 +220,7 @@
     {
         "title": "Comput Syst Sci & Eng (2002) 2: 103–114 International Journal of© 2002 CRL Publishing Ltd Computer Systems Science & Engineering",
         "pub_year": "2002",
-        "citation": "Computer Systems Science and Engineering 17, 103, 2002"
+        "citation": "International Journal of Computer Systems Science & Engineering 17, 103, 2002"
     },
     {
         "title": "Consistency of partitionable object groups in a CORBA framework",
@@ -394,6 +389,11 @@
         "title": "Failure‐Tolerant Architectures for Health Management",
         "pub_year": "2011",
         "citation": "System Health Management: With Aerospace Applications, 467-482, 2011"
+    },
+    {
+        "title": "Fault Tolerant Edge Computing: Challenges and Opportunities",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 7th International Conference on Fog and Edge Computing (ICFEC), 73-80, 2023"
     },
     {
         "title": "Fault tolerant approaches for distributed real-time and embedded systems",
@@ -728,7 +728,7 @@
         "citation": "Proceedings of the 2015 Workshop on Wireless of the Students, by the …, 2015"
     },
     {
-        "title": "Poster: Towards Secure Execution of Untrusted Code for Mobile Edge-Clouds",
+        "title": "Poster: Towards secure execution of untrusted code for mobile edge-clouds",
         "pub_year": "2014",
         "citation": "ACM WiSec, 2014"
     },
@@ -787,7 +787,7 @@
         "citation": "Distributed Computing Systems, 1999. Proceedings. 19th IEEE International …, 1999"
     },
     {
-        "title": "Quantitative Evaluation of Application Layer Protocols for Edge-Centric Real-Time IoVT Applications",
+        "title": "Quantitative evaluation of application layer protocols for edge-centric real-time iovt applications",
         "pub_year": "2022",
         "citation": "2022 IEEE 13th Annual Ubiquitous Computing, Electronics & Mobile …, 2022"
     },
@@ -805,6 +805,11 @@
         "title": "Real-time tracking of game assets in American football for automated camera selection and motion capture",
         "pub_year": "2010",
         "citation": "Procedia Engineering 2 (2), 2667-2673, 2010"
+    },
+    {
+        "title": "Realize: Resource Management for Soft Real-Time Distributed Systems",
+        "pub_year": "1999",
+        "citation": "DARPA Information Survivability Conference & Exposition: DISCEX'00, 25-27 …, 1999"
     },
     {
         "title": "Realize: Resource management for soft real-time distributed systems",
@@ -882,7 +887,7 @@
     {
         "title": "Service-Oriented Computing-ICSOC 2007: Fifth International Conference, Vienna, Austria, September 17-20, 2007, Proceedings",
         "pub_year": "2007",
-        "citation": "Springer, 2007"
+        "citation": "Springer Science & Business Media, 2007"
     },
     {
         "title": "Short paper: Chips: content-based heuristics for improving photo privacy for smartphones",
@@ -898,11 +903,6 @@
         "title": "Smartphone-based assistive technologies for the blind",
         "pub_year": "2009",
         "citation": "Proceedings of the 2009 international conference on Compilers, architecture …, 2009"
-    },
-    {
-        "title": "Soft Real-Time Distributed Systems",
-        "pub_year": "1999",
-        "citation": "DARPA Information Survivability Conference & Exposition: DISCEX'00, 25-27 …, 1999"
     },
     {
         "title": "Software Technologies for Embedded and Ubiquitous Systems: 7th IFIP WG 10.2 International Workshop, SEUS 2009 Newport Beach, CA, USA, November 16-18, 2009 Proceedings",
@@ -985,6 +985,11 @@
         "title": "The Eternal system: An architecture for enterprise applications",
         "pub_year": "1999",
         "citation": "Proceedings Third International Enterprise Distributed Object Computing …, 1999"
+    },
+    {
+        "title": "The Realize middleware for replication and",
+        "pub_year": "2012",
+        "citation": "Middleware’98: IFIP International Conference on Distributed Systems …, 2012"
     },
     {
         "title": "The Realize middleware for replication and resource management",

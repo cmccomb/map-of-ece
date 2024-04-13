@@ -74,6 +74,10 @@
         "citation": "US Patent 9,536,093, 2017"
     },
     {
+        "title": "Background and Related Work in Trust Establishment",
+        "citation": ""
+    },
+    {
         "title": "Blockchains enable non-interactive MPC",
         "pub_year": "2021",
         "citation": "Theory of Cryptography: 19th International Conference, TCC 2021, Raleigh, NC …, 2021"
@@ -99,11 +103,6 @@
         "citation": "Tech. Rep. CMU-CyLab-21-002, Carnegie Mellon University, Cylab, 2021"
     },
     {
-        "title": "CAPS: Smoothly transitioning to a more resilient web PKI",
-        "pub_year": "2020",
-        "citation": "Annual Computer Security Applications Conference, 655-668, 2020"
-    },
-    {
         "title": "CLAMP: Practical prevention of large-scale data leaks",
         "pub_year": "2009",
         "citation": "2009 30th IEEE Symposium on Security and Privacy, 154-169, 2009"
@@ -117,6 +116,11 @@
         "title": "Can We Use Platform Information Remotely?",
         "pub_year": "2011",
         "citation": "Bootstrapping Trust in Modern Computers, 19-24, 2011"
+    },
+    {
+        "title": "Caps: Smoothly transitioning to a more resilient web PKI",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 36th Annual Computer Security Applications Conference …, 2020"
     },
     {
         "title": "Challenges in bootstrapping trust in secure hardware",
@@ -230,7 +234,7 @@
         "citation": "arXiv preprint arXiv:2002.04742, 2020"
     },
     {
-        "title": "FastVer2: A Provably Correct Monitor for Concurrent, Key-Value Stores",
+        "title": "FastVer2: a provably correct monitor for concurrent, key-value stores",
         "pub_year": "2023",
         "citation": "Proceedings of the 12th ACM SIGPLAN International Conference on Certified …, 2023"
     },
@@ -265,18 +269,14 @@
         "citation": "2015 IEEE Symposium on Security and Privacy, 253-270, 2015"
     },
     {
-        "title": "Hammurabi: A framework for pluggable, logic-based x. 509 certificate validation policies",
+        "title": "Hammurabi: A framework for pluggable, logic-based X. 509 certificate validation policies",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications …, 2022"
     },
     {
-        "title": "Hash First, Argue Later",
-        "citation": ""
-    },
-    {
         "title": "Hash first, argue later: Adaptive verifiable computations on outsourced data",
         "pub_year": "2016",
-        "citation": "Proceedings of the 2016 ACM SIGSAC Conference on computer and Communications …, 2016"
+        "citation": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …, 2016"
     },
     {
         "title": "Help me help you: Using trustworthy host-based information in the network",
@@ -496,9 +496,13 @@
         "citation": "Advances in Cryptology–CRYPTO 2010: 30th Annual Cryptology Conference, Santa …, 2010"
     },
     {
+        "title": "On-Demand Secure Code Execution on Commodity Computers",
+        "citation": ""
+    },
+    {
         "title": "Owl: Compositional verification of security protocols via an information-flow type system",
         "pub_year": "2023",
-        "citation": "Cryptology ePrint Archive, 2023"
+        "citation": "2023 IEEE Symposium on Security and Privacy (SP), 1130-1147, 2023"
     },
     {
         "title": "PETShop'13: Proceedings of the First ACM Workshop on Language Support for Privacy-enhancing Technologies",
@@ -692,7 +696,7 @@
     {
         "title": "Talek: Private group messaging with hidden access patterns",
         "pub_year": "2020",
-        "citation": "Annual Computer Security Applications Conference, 84-99, 2020"
+        "citation": "Proceedings of the 36th Annual Computer Security Applications Conference, 84-99, 2020"
     },
     {
         "title": "Talek: a private publish-subscribe protocol",
@@ -749,9 +753,25 @@
         "citation": "Cryptology ePrint Archive, 2021"
     },
     {
+        "title": "Trust Extension For Commodity Computers A user's trust in a single device can be extended to many other devices.",
+        "citation": ""
+    },
+    {
+        "title": "Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers June 2014 https://doi. org/10.1145/2611399.2611401",
+        "citation": ""
+    },
+    {
+        "title": "Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers June 2014 https://doi. org/10.1145/2611399.2611407",
+        "citation": ""
+    },
+    {
+        "title": "Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers June 2014 https://doi. org/10.1145/2611399.2611408",
+        "citation": ""
+    },
+    {
         "title": "Trust extension as a mechanism for secure code execution on commodity computers",
-        "pub_year": "2010",
-        "citation": "Carnegie Mellon University, 2010"
+        "pub_year": "2014",
+        "citation": "Association for Computing Machinery and Morgan & Claypool, 2014"
     },
     {
         "title": "Trust extension for commodity computers",
@@ -803,6 +823,10 @@
         "citation": "Bootstrapping Trust in Modern Computers, 51-52, 2011"
     },
     {
+        "title": "Verifiable Computing: Secure Code Execution Despite Untrusted Software and Hardware",
+        "citation": ""
+    },
+    {
         "title": "Verified transformations and Hoare logic: Beautiful proofs for ugly assembly language",
         "pub_year": "2020",
         "citation": "Software Verification: 12th International Conference, VSTTE 2020, and 13th …, 2020"
@@ -838,12 +862,12 @@
         "citation": ""
     },
     {
-        "title": "{Provably-Safe} multilingual software sandboxing using {WebAssembly}",
+        "title": "{Provably-Safe} Multilingual Software Sandboxing using {WebAssembly}",
         "pub_year": "2022",
         "citation": "31st USENIX Security Symposium (USENIX Security 22), 1975-1992, 2022"
     },
     {
-        "title": "{SketchLib}: Enabling Efficient Sketch-based Monitoring on Programmable Switches",
+        "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
     },

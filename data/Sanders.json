@@ -410,6 +410,11 @@
         "citation": "Network and Distributed System Security Symposium, 2020"
     },
     {
+        "title": "Automatic Recovery from Failures and Attacks Using Bounded Partially Observable Markov Decision Processes",
+        "pub_year": "2007",
+        "citation": "WRAITS 2007, 2007"
+    },
+    {
         "title": "Automatic generation of security argument graphs",
         "pub_year": "2014",
         "citation": "2014 IEEE 20th Pacific Rim International Symposium on Dependable Computing …, 2014"
@@ -491,7 +496,7 @@
     {
         "title": "Characterizing the behavior of cyber adversaries: The means, motive, and opportunity of cyberattacks",
         "pub_year": "2010",
-        "citation": "40th Annual IEEE/IFIP international conference on dependable systems and …, 2010"
+        "citation": "40th Annual IEEE/IFIP International Conference on Dependable Systems and …, 2010"
     },
     {
         "title": "Classifying resolving subcategories",
@@ -530,6 +535,11 @@
         "title": "Computer Performance Evaluation. Modelling Techniques and Tools: 13th International Conference, TOOLS 2003, Urbana, IL, USA, September 2-5, 2003, Proceedings",
         "pub_year": "2003",
         "citation": "Springer, 2003"
+    },
+    {
+        "title": "Computer Performance and Reliability G. Iazeolla, PJ Courtois, and OJ Boxma (Editors)© Elsevier Science Publishers BV (North-Holland), 1988 383",
+        "pub_year": "1988",
+        "citation": "Computer Performance and Reliability: Proceedings of the Second …, 1988"
     },
     {
         "title": "Construction and solution of performability models based on stochastic activity networks",
@@ -640,7 +650,7 @@
         "citation": ""
     },
     {
-        "title": "Dependability analysis with Markov chains: How symmetries improve symbolic computations",
+        "title": "Dependability analysis with Markov chains: how symmetries improve symbolic computations",
         "pub_year": "2007",
         "citation": "Fourth International Conference on the Quantitative Evaluation of Systems …, 2007"
     },
@@ -667,7 +677,7 @@
     {
         "title": "Dependency-based decomposition of systems involving rare events",
         "pub_year": "2011",
-        "citation": "Coordinated Science Laboratory, Univ. of Illinois, Tech. Rep. UILU-ENG-11 …, 2011"
+        "citation": "Coordinated Science Laboratory Report no. UILU-ENG-11-2203, CRHC-11-03, 2011"
     },
     {
         "title": "Design of experiments within the möbius modeling environment",
@@ -795,6 +805,11 @@
     },
     {
         "title": "Expected Impulse Rewards in Markov Regenerative Stochastic Petri Nets",
+        "pub_year": "1996",
+        "citation": "Application and Theory of Petri Nets: International Conference …, 1996"
+    },
+    {
+        "title": "Expected Impulse Rewards in Markov Regenerative Stochastic Petri Nets",
         "citation": ""
     },
     {
@@ -889,7 +904,7 @@
     {
         "title": "Frameworks for evaluating discrete event dynamic systems",
         "pub_year": "1993",
-        "citation": "Discrete Event Dynamic Systems 3 (2-3), 113-118, 1993"
+        "citation": "Discrete Event Dynamic Systems 3 (2), 113-118, 1993"
     },
     {
         "title": "G-SSASC: SIMULTANEOUS SIMULATION OF SYSTEM MODELS WITH BOUNDED HAZARD RATES",
@@ -1096,7 +1111,7 @@
     {
         "title": "Mitigation of liveness attacks in DAG-based ledgers",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.01207, 2023"
+        "citation": "2023 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 1-9, 2023"
     },
     {
         "title": "Mobile Learning Communities-Are We There Yet?",
@@ -1248,14 +1263,14 @@
         "citation": ""
     },
     {
-        "title": "On Integrating the MÖBIUS and MODEST Modeling Tools.",
-        "pub_year": "2003",
-        "citation": "DSN, 671, 2003"
-    },
-    {
         "title": "On congestion control for distributed ledgers in adversarial IoT networks",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2005.07778 17, 22, 2020"
+    },
+    {
+        "title": "On integrating the Möbius and MoDeST modeling tools",
+        "pub_year": "2003",
+        "citation": "International Conference on Dependable Systems and Networks, DSN 2003, 671-671, 2003"
     },
     {
         "title": "On low-cost error containment and recovery methods for guarded software upgrading",
@@ -1535,7 +1550,8 @@
     },
     {
         "title": "Protecting Distributed Software Upgrades that Involve Message-Passing Interface Changes",
-        "citation": "Proceedings of the 27th Annual International Computer Software and …, 0"
+        "pub_year": "2003",
+        "citation": "Proceedings of the 27th Annual International Computer Software and …, 2003"
     },
     {
         "title": "Protecting distributed software upgrades that involve message-passing",
@@ -1550,7 +1566,7 @@
     {
         "title": "Provenance for intent-based networking",
         "pub_year": "2020",
-        "citation": "2020 6th IEEE Conference on Network Softwarization (NetSoft), 195-199, 2020"
+        "citation": "2020 6th IEEE conference on network softwarization (NetSoft), 195-199, 2020"
     },
     {
         "title": "Providing intrusion tolerance with ITUA",
@@ -1634,7 +1650,7 @@
     {
         "title": "Randomized Timed and Hybrid Models for Critical Infrastructures (Dagstuhl Seminar 14031)",
         "pub_year": "2014",
-        "citation": "Dagstuhl Reports 4 (1), 2014"
+        "citation": "Schloss-Dagstuhl-Leibniz Zentrum für Informatik, 2014"
     },
     {
         "title": "Reality-based UTXO ledger",
@@ -1959,10 +1975,10 @@
     {
         "title": "The coordicide",
         "pub_year": "2020",
-        "citation": "Accessed Jan, 1-30, 2020"
+        "citation": "Accessed Jan 12 (18), 1-30, 2020"
     },
     {
-        "title": "The coordicide. 2020",
+        "title": "The coordicide (2020)",
         "pub_year": "2020",
         "citation": "Accessed, 2020"
     },

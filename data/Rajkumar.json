@@ -15,11 +15,6 @@
         "citation": "Studies in Informatics and Control 18 (2), 127-136, 2009"
     },
     {
-        "title": "A Clustering and Image Processing Approach to Unsupervised Real-Time Road Segmentation for Autonomous Vehicles",
-        "pub_year": "2022",
-        "citation": "2022 IEEE Globecom Workshops (GC Wkshps), 160-165, 2022"
-    },
-    {
         "title": "A Community Report of the 2008 High Confidence Transportation Cyber-Physical Systems (HCTCPS) Workshop",
         "pub_year": "2009",
         "citation": "Tech. Rep., July 2009.[Online]. Available: http://www. ee. washington. edu …, 2009"
@@ -41,6 +36,11 @@
     {
         "title": "A Resource Allocation L\\/Ioclel for QoS Managernent",
         "citation": ""
+    },
+    {
+        "title": "A clustering and image processing approach to unsupervised real-time road segmentation for autonomous vehicles",
+        "pub_year": "2022",
+        "citation": "2022 IEEE Globecom Workshops (GC Wkshps), 160-165, 2022"
     },
     {
         "title": "A comparison of artificial bee colony algorithm and genetic algorithm to minimize the makespan for job shop scheduling",
@@ -85,7 +85,7 @@
     {
         "title": "A loadable real-time scheduler suite for multicore platforms",
         "pub_year": "2009",
-        "citation": "Univ. Tokushima, Tokushima, Japan, Tech. Rep. CMU-ECE-TR09–12, 2009"
+        "citation": "Tech. Report CMU, 2009"
     },
     {
         "title": "A merging protocol for self-driving vehicles",
@@ -145,7 +145,7 @@
     {
         "title": "A resource centric approach to multimedia operating systems",
         "pub_year": "1996",
-        "citation": "Proceedings of IEEE Real-Time Systems Symposium Workshop on Resource …, 1996"
+        "citation": "Proceedings of Workshop in Multimedia Resource Management, 1-2, 1996"
     },
     {
         "title": "A scalable solution to the multi-resource QoS problem",
@@ -278,8 +278,7 @@
     },
     {
         "title": "Analysis for Real-Time Industrial Computing",
-        "pub_year": "2000",
-        "citation": "A Practical Approach to Real-time Systems: Selected Readings, 5, 2000"
+        "citation": ""
     },
     {
         "title": "Analysis of Hierar hical Fixed-Priority Scheduling.",
@@ -395,6 +394,11 @@
         "citation": "2020 IEEE Intelligent Vehicles Symposium (IV), 1522-1529, 2020"
     },
     {
+        "title": "CoSim: A Co-Simulation Framework for Testing Autonomous Vehicles in Adverse Operating Conditions",
+        "pub_year": "2023",
+        "citation": "2023 IEEE 26th International Conference on Intelligent Transportation …, 2023"
+    },
+    {
         "title": "Coexistence of real-time and interactive & batch tasks in DVS systems",
         "pub_year": "2008",
         "citation": "2008 IEEE Real-Time and Embedded Technology and Applications Symposium, 24-33, 2008"
@@ -489,7 +493,7 @@
         "citation": "2020 IEEE 23rd International Conference on Intelligent Transportation …, 2020"
     },
     {
-        "title": "Cyber traffic light: safe cooperation for autonomous vehicles at dynamic intersections",
+        "title": "Cyber traffic light: Safe cooperation for autonomous vehicles at dynamic intersections",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 23 (11), 22519-22534, 2022"
     },
@@ -533,7 +537,7 @@
         "citation": "International Journal of Crashworthiness, 2019"
     },
     {
-        "title": "Demo abstract: The sensor andrew infrastructure for large-scale campus-wide sensing and actuation",
+        "title": "Demo abstract: The Sensor Andrew infrastructure for large-scale campus-wide sensing and actuation",
         "pub_year": "2009",
         "citation": "2009 International Conference on Information Processing in Sensor Networks …, 2009"
     },
@@ -727,8 +731,8 @@
     },
     {
         "title": "Flagman traffic gesture recognition",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/223,473, 2022"
+        "pub_year": "2024",
+        "citation": "US Patent 11,893,801, 2024"
     },
     {
         "title": "Fractional GPUs: Software-based compute and memory bandwidth reservation for GPUs",
@@ -911,13 +915,13 @@
     },
     {
         "title": "MEERA: Cross-layer methodology for energy efficient resource allocation in wireless networks",
-        "pub_year": "2008",
-        "citation": "IEEE Transactions on Wireless Communications 7 (1), 98-109, 2008"
+        "pub_year": "2007",
+        "citation": "IEEE transactions on wireless communications 6 (2), 617-628, 2007"
     },
     {
         "title": "MEERA: Cross-layer methodology for energy efficient resource allocation in wireless networks",
-        "pub_year": "2007",
-        "citation": "IEEE transactions on wireless communications 6 (2), 617-628, 2007"
+        "pub_year": "2008",
+        "citation": "IEEE Transactions on Wireless Communications 7 (1), 98-109, 2008"
     },
     {
         "title": "Making wsn tdma practical: Stealing slots up and down the tree",
@@ -1027,14 +1031,14 @@
         "citation": "Mar, 2006"
     },
     {
+        "title": "Nano-RK: An energy-aware resource-centric RTOS for sensor networks",
+        "pub_year": "2005",
+        "citation": "26th IEEE International Real-Time Systems Symposium (RTSS'05), 10 pp.-265, 2005"
+    },
+    {
         "title": "Nano-cf: A coordination framework for macro-programming in wireless sensor networks",
         "pub_year": "2011",
         "citation": "2011 8th Annual IEEE Communications Society Conference on Sensor, Mesh and …, 2011"
-    },
-    {
-        "title": "Nano-rk: an energy-aware resource-centric rtos for sensor networks",
-        "pub_year": "2005",
-        "citation": "26th IEEE International Real-Time Systems Symposium (RTSS'05), 10 pp.-265, 2005"
     },
     {
         "title": "Neighbor discovery in mobile sensor networks",
@@ -1229,7 +1233,7 @@
     {
         "title": "Practical task allocation for software fault-tolerance and its implementation in embedded automotive systems",
         "pub_year": "2019",
-        "citation": "Real-Time Systems 55, 889-924, 2019"
+        "citation": "Real-Time Systems 55 (4), 889-924, 2019"
     },
     {
         "title": "Practical voltage-scaling for fixed-priority rt-systems",
@@ -1344,6 +1348,10 @@
         "citation": "2010 10th IEEE International Conference on Computer and Information …, 2010"
     },
     {
+        "title": "REAL-TIME FAULT TOLERANT COMPUTER SYSTEMS &.",
+        "citation": ""
+    },
+    {
         "title": "RETINA: real-time network analyzer",
         "pub_year": "2005",
         "citation": "19th IEEE International Parallel and Distributed Processing Symposium, 8 pp., 2005"
@@ -1357,11 +1365,6 @@
         "title": "RGEM: A responsive GPGPU execution model for runtime engines",
         "pub_year": "2011",
         "citation": "2011 IEEE 32nd Real-Time Systems Symposium, 57-66, 2011"
-    },
-    {
-        "title": "RT-Link: A Time-Synchronized Link Protocol for Energy-Constrained Multi-hop Wireless Networks",
-        "pub_year": "2006",
-        "citation": ""
     },
     {
         "title": "RT-Link: A global time-synchronized link protocol for sensor networks",
@@ -1412,7 +1415,7 @@
     },
     {
         "title": "Real-Time Fault Tolerant Computer Systems",
-        "pub_year": "1992",
+        "pub_year": "1993",
         "citation": ""
     },
     {
@@ -1492,10 +1495,6 @@
         "title": "Real-time synchronization protocols for shared memory multiprocessors",
         "pub_year": "1990",
         "citation": "Proceedings., 10th International Conference on Distributed Computing Systems …, 1990"
-    },
-    {
-        "title": "Real-time systems",
-        "citation": "A Tutorial of the Rate, 0"
     },
     {
         "title": "Real-time video surveillance over IEEE 802.11 mesh networks",
@@ -1593,6 +1592,11 @@
         "citation": "2012 IEEE/ACM Third International Conference on Cyber-Physical Systems, 55-64, 2012"
     },
     {
+        "title": "Rt-link: A timevsynchronized link protocol for energy constrained multi-hop wireless networks",
+        "pub_year": "2006",
+        "citation": "Proceedings of IEEE Communications Society Conference on Sensor, Mesh and Ad …, 2006"
+    },
+    {
         "title": "Runtime Monitoring of Timing Constraints in Distributed Real-Time Systems",
         "pub_year": "1994",
         "citation": "Responsive Computing: A Special Issue of REAL-TIME SYSTEMS The International …, 1994"
@@ -1603,7 +1607,7 @@
         "citation": "Real-Time Systems 7 (3), 247-273, 1994"
     },
     {
-        "title": "SAGA: tracking and visualization of building energy",
+        "title": "SAGA: Tracking and visualization of building energy",
         "pub_year": "2011",
         "citation": "2011 IEEE 17th International Conference on Embedded and Real-Time Computing …, 2011"
     },
@@ -1683,7 +1687,7 @@
         "citation": "2013 IEEE 34th Real-Time Systems Symposium, 246-257, 2013"
     },
     {
-        "title": "Self-Driving Vehicles: The Challenges and Opportunities Ahead",
+        "title": "Self-driving vehicles: The challenges and opportunities ahead",
         "pub_year": "2015",
         "citation": "Proceedings of the 13th ACM Conference on Embedded Networked Sensor Systems, 1-1, 2015"
     },
@@ -1809,7 +1813,7 @@
     {
         "title": "The DARPA urban challenge: autonomous vehicles in city traffic",
         "pub_year": "2009",
-        "citation": "springer, 2009"
+        "citation": "Springer Science & Business Media, 2009"
     },
     {
         "title": "The Sample Stream Abstraction for Coordinated Energy-efficient Access to Peripheral Devices",
@@ -1850,14 +1854,14 @@
         "citation": "Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and …, 2003"
     },
     {
-        "title": "Time-Sensitive Cooperative Perception for Real-Time Data Sharing over Vehicular Communications: Overview, Challenges, and Future Directions",
-        "pub_year": "2022",
-        "citation": "IEEE Internet of Things Magazine 5 (2), 108-113, 2022"
-    },
-    {
         "title": "Time-based Coordination in {Geo-Distributed}{Cyber-Physical} Systems",
         "pub_year": "2017",
         "citation": "9th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 17), 2017"
+    },
+    {
+        "title": "Time-sensitive cooperative perception for real-time data sharing over vehicular communications: Overview, challenges, and future directions",
+        "pub_year": "2022",
+        "citation": "IEEE Internet of Things Magazine 5 (2), 108-113, 2022"
     },
     {
         "title": "Timeline: An operating system abstraction for time-aware applications",
@@ -2010,11 +2014,6 @@
     {
         "title": "Zuepke, Alexander 65",
         "citation": ""
-    },
-    {
-        "title": "for Guaranteed and Enforced Timing Behavior",
-        "pub_year": "1999",
-        "citation": "Preoceedings of the Fifth IEEE Real-Time Technology and Applications …, 1999"
     },
     {
         "title": "il Fixed and Scalable Energy Management for Wireless Networks",

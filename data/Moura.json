@@ -1,5 +1,9 @@
 [
     {
+        "title": "& Eckersley, P.(2020). Explainable machine learning in deployment",
+        "citation": "Proceedings of the 2020 Conference on Fairness, Accountability, and …, 0"
+    },
+    {
         "title": "* Department of Electrical and Computer Engineering* Department of Biological Sciences, Carnegie Mellon University, PA 15213",
         "citation": ""
     },
@@ -195,11 +199,6 @@
         "citation": "Big Data over Networks, 101-134, 2016"
     },
     {
-        "title": "ABHISHEK DAS",
-        "pub_year": "2011",
-        "citation": ""
-    },
-    {
         "title": "AFRL-AFOSR-VA-TR-2015-0265",
         "citation": ""
     },
@@ -212,6 +211,11 @@
         "title": "ARMA processes: order estimation",
         "pub_year": "1988",
         "citation": "ICASSP-88., International Conference on Acoustics, Speech, and Signal …, 1988"
+    },
+    {
+        "title": "Abhishek De",
+        "pub_year": "2016",
+        "citation": "Cooling Devices in Laser Therapy. Oct to Dec, 2016"
     },
     {
         "title": "Accounting for topology in spreading contagion in non-complete networks",
@@ -425,11 +429,6 @@
         "citation": "2011 18th IEEE International Conference on Image Processing, 85-88, 2011"
     },
     {
-        "title": "Array Processing",
-        "pub_year": "1993",
-        "citation": "Acoustic Signal Processing for Ocean Exploration, 185, 1993"
-    },
-    {
         "title": "Array processing using time reversal: Experiments and performance",
         "pub_year": "2006",
         "citation": "2006 IEEE International Conference on Acoustics Speech and Signal Processing …, 2006"
@@ -555,14 +554,9 @@
         "citation": "Proceedings of the AAAI conference on artificial intelligence 33 (01), 9919-9920, 2019"
     },
     {
-        "title": "CAPS, Complexo, Instituto Superior Técnico Av. Rovisco Pais, P-1096 LISBOA CODEX Portugal Teleph:(351-1) 572399",
-        "pub_year": "1983",
-        "citation": "Issues in Acoustic Signal—Image Processing and Recognition, 139, 1983"
-    },
-    {
-        "title": "COMPLEXO I, INSTITUTO SUPERIOR TÉCNICO AV. ROVISCO PAIS, 1000 LISBOA PORTUGAL",
-        "pub_year": "2012",
-        "citation": "Underwater Acoustics and Signal Processing: Proceedings of the NATO Advanced …, 2012"
+        "title": "CONTROLO DE STOCKS DE PRODUÇÃO EM LINHA DE MONTAGEM EM SÉRIE: INTERAÇÃO DISTRIBUÍDA ENTRE OS SISTEMAS INTERVENIENTES",
+        "pub_year": "1985",
+        "citation": "Técnica, 1985"
     },
     {
         "title": "Canopy fast sampling with cover trees",
@@ -890,7 +884,7 @@
         "citation": "IEEE Transactions on Image Processing 8 (11), 1593-1607, 1999"
     },
     {
-        "title": "Data-driven and calibration-free Lamb wave source localization with sparse sensor arrays",
+        "title": "Data-driven and calibration-free lamb wave source localization with sparse sensor arrays",
         "pub_year": "2015",
         "citation": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control 62 …, 2015"
     },
@@ -905,14 +899,14 @@
         "citation": "2013 IEEE International Ultrasonics Symposium (IUS), 675-678, 2013"
     },
     {
-        "title": "Deep Beamforming for Joint Direction of Arrival Estimation and Source Detection",
-        "pub_year": "2022",
-        "citation": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 1403-1407, 2022"
-    },
-    {
         "title": "Deep Graph Topology Learning for 3D Point Cloud Reconstruction",
         "pub_year": "2019",
         "citation": ""
+    },
+    {
+        "title": "Deep beamforming for joint direction of arrival estimation and source detection",
+        "pub_year": "2022",
+        "citation": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 1403-1407, 2022"
     },
     {
         "title": "Deep learning methods for estimating density and/or flow of objects, and related methods and software",
@@ -1196,9 +1190,9 @@
         "citation": "IEEE Transactions on Signal Processing 57 (1), 355-369, 2008"
     },
     {
-        "title": "Distributed consensus algorithms in sensor networks: Link failures and channel noise",
+        "title": "Distributed consensus algorithms in sensor networks: Link and channel noise",
         "pub_year": "2007",
-        "citation": "arXiv preprint arXiv:0711.3915, 2007"
+        "citation": ""
     },
     {
         "title": "Distributed consensus algorithms in sensor networks: Quantized data and random link failures",
@@ -1468,7 +1462,7 @@
         "citation": "arXiv preprint arXiv:1306.6198, 2013"
     },
     {
-        "title": "Empowering the Growth of Signal Processing: The evolution of the IEEE Signal Processing Society",
+        "title": "Empowering the growth of signal processing: The evolution of the IEEE Signal Processing Society",
         "pub_year": "2023",
         "citation": "IEEE Signal Processing Magazine 40 (4), 14-22, 2023"
     },
@@ -1546,6 +1540,11 @@
         "title": "Explainable machine learning in deployment",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 conference on fairness, accountability, and …, 2020"
+    },
+    {
+        "title": "Extending DSP to Graph Signal Processing: The Companion Approach",
+        "pub_year": "2023",
+        "citation": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 335-339, 2023"
     },
     {
         "title": "FAST RECURSTVE RECONSTRUCTION OF LARGE TIME VARYING",
@@ -1836,6 +1835,11 @@
         "citation": "IEEE Transactions on Signal Processing 59 (4), 1766-1784, 2010"
     },
     {
+        "title": "Graph Classification via Simple Graph Based Features",
+        "pub_year": "2023",
+        "citation": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 583-587, 2023"
+    },
+    {
         "title": "Graph Classification: Tradeoffs between Deep Neural Network Architecture and Graph Topology",
         "pub_year": "2021",
         "citation": "2021 55th Asilomar Conference on Signals, Systems, and Computers, 454-458, 2021"
@@ -1849,6 +1853,16 @@
         "title": "Graph Signal Processing: History, development, impact, and outlook",
         "pub_year": "2023",
         "citation": "IEEE Signal Processing Magazine 40 (4), 49-60, 2023"
+    },
+    {
+        "title": "Graph Signal Processing: The 2D Companion Model",
+        "pub_year": "2024",
+        "citation": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024"
+    },
+    {
+        "title": "Graph convolutional neural networks in the companion model",
+        "pub_year": "2024",
+        "citation": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024"
     },
     {
         "title": "Graph equivalence classes for spectral projector-based graph Fourier transforms",
@@ -1871,7 +1885,7 @@
         "citation": "IEEE Signal Processing Magazine 37 (6), 139-149, 2020"
     },
     {
-        "title": "Graph signal processing: Dualizing gsp sampling in the vertex and spectral domains",
+        "title": "Graph signal processing: Dualizing GSP sampling in the vertex and spectral domains",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Signal Processing 70, 2883-2898, 2022"
     },
@@ -2048,7 +2062,7 @@
     {
         "title": "In Remembrance of Peter Schultheiss [In Memoriam].",
         "pub_year": "2021",
-        "citation": "IEEE Signal Process. Mag. 38 (3), 10, 2021"
+        "citation": "IEEE Signal Processing Magazine 38 (3), 10, 2021"
     },
     {
         "title": "In [2], we developed an algebraic procedure that de",
@@ -2071,8 +2085,8 @@
     },
     {
         "title": "Inferring the Graph of Networked Dynamical Systems under Partial Observability and Spatially Colored Noise",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.11324, 2023"
+        "pub_year": "2024",
+        "citation": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024"
     },
     {
         "title": "Information Loss in Markov Approximations",
@@ -2169,6 +2183,11 @@
         "citation": "Proceedings IEEE International Symposium on Biomedical Imaging, 98-101, 2002"
     },
     {
+        "title": "Knowledge Distillation by Compressive Sampling",
+        "pub_year": "2023",
+        "citation": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 882-886, 2023"
+    },
+    {
         "title": "LD super (2)-ARMA: A novel ARMA estimator.",
         "pub_year": "1990",
         "citation": "5. European Signal Processing Conference. 1, 377-380, 1990"
@@ -2204,19 +2223,19 @@
         "citation": "2008 15th IEEE International Conference on Image Processing, 2356-2359, 2008"
     },
     {
-        "title": "Learning Gradients of Convex Functions with Monotone Gradient Networks",
-        "pub_year": "2023",
-        "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023"
-    },
-    {
         "title": "Learning cooperative visual dialog agents with deep reinforcement learning",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE international conference on computer vision, 2951-2960, 2017"
     },
     {
-        "title": "Learning the causal structure of networked dynamical systems under latent nodes and structured noise",
+        "title": "Learning gradients of convex functions with monotone gradient networks",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.05974, 2023"
+        "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023"
+    },
+    {
+        "title": "Learning the causal structure of networked dynamical systems under latent nodes and structured noise",
+        "pub_year": "2024",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (13), 14866 …, 2024"
     },
     {
         "title": "Learning to understand image blur",
@@ -2490,14 +2509,9 @@
         "citation": "2008 IEEE International Symposium on Parallel and Distributed Processing, 1-8, 2008"
     },
     {
-        "title": "Networked Signal and Information Processing: Learning by multiagent systems",
+        "title": "Networked signal and information processing: Learning by multiagent systems",
         "pub_year": "2023",
         "citation": "IEEE Signal Processing Magazine 40 (5), 92-105, 2023"
-    },
-    {
-        "title": "Networked signal and information processing",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2210.13767, 2022"
     },
     {
         "title": "Neural networks for classification of ARMA models: an experimental study",
@@ -2543,6 +2557,11 @@
         "title": "Nonlinear editing by generative video",
         "pub_year": "1996",
         "citation": "1996 IEEE International Conference on Acoustics, Speech, and Signal …, 1996"
+    },
+    {
+        "title": "Nonlinear filtering",
+        "pub_year": "2012",
+        "citation": "Nonlinear Stochastic Problems 104, 256, 2012"
     },
     {
         "title": "Nonlinear filtering and array computation",
@@ -2871,8 +2890,8 @@
     },
     {
         "title": "PhyOT: Physics-informed object tracking in surveillance cameras",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2312.08650, 2023"
+        "pub_year": "2024",
+        "citation": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024"
     },
     {
         "title": "Platform location in underwater acoustics",
@@ -2925,13 +2944,8 @@
     },
     {
         "title": "Proceedings of Meetings on Acoustics",
-        "pub_year": "2014",
-        "citation": "Proceedings of Meetings on Acoustics 20 (060008), 1, 2014"
-    },
-    {
-        "title": "Proceedings of Meetings on Acoustics",
-        "pub_year": "2022",
-        "citation": "Signal Processing 5, 9, 2022"
+        "pub_year": "2009",
+        "citation": "Proceedings of Meetings on Acoustics 6 (032001), 1, 2009"
     },
     {
         "title": "Program generation with Spiral: Beyond transforms",
@@ -2939,7 +2953,7 @@
         "citation": "way 3, 79, 2008"
     },
     {
-        "title": "QD-learning: A collaborative distributed strategy for multi-agent reinforcement learning through consensus",
+        "title": "Qd-learning: A collaborative distributed strategy for multi-agent reinforcement learning through consensus",
         "pub_year": "2012",
         "citation": "arXiv preprint arXiv:1205.0047, 2012"
     },
@@ -3227,7 +3241,7 @@
     {
         "title": "Scaling functions robust to translations",
         "pub_year": "1998",
-        "citation": "IEEE Transactions on Signal Processing 46 (12), 3269-3281, 1998"
+        "citation": "IEEE transactions on signal processing 46 (12), 3269-3281, 1998"
     },
     {
         "title": "Sea-trial results for cyclic-prefix OFDM with long symbol duration",
@@ -3312,7 +3326,7 @@
     {
         "title": "Signal denoising on graphs via graph filtering",
         "pub_year": "2014",
-        "citation": "2014 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2014"
+        "citation": "2014 ieee global conference on signal and information processing (globalsip …, 2014"
     },
     {
         "title": "Signal generation model for high density magnetic recording",
@@ -3553,6 +3567,11 @@
         "citation": "IEEE ICEAA, 2005"
     },
     {
+        "title": "System and Method for Deep Learning for Tracking Cortical Spreading Depression Using EEG",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/011,351, 2024"
+    },
+    {
         "title": "System and method for collaborative resource tracking",
         "pub_year": "2013",
         "citation": "US Patent 8,531,288, 2013"
@@ -3677,7 +3696,7 @@
         "citation": "Proceedings of 2002 IEEE 10th Digital Signal Processing Workshop, 2002 and …, 2002"
     },
     {
-        "title": "The first IEEE workshop on the future of research curation and research reproducibility",
+        "title": "The first ieee workshop on the future of research curation and research reproducibility",
         "pub_year": "2017",
         "citation": "IEEE, 2017"
     },
@@ -3903,7 +3922,7 @@
     {
         "title": "Ultrasonic defect localization in pipes using time reversal.",
         "pub_year": "2011",
-        "citation": "The Journal of the Acoustical Society of America 129 (4), 2532-2532, 2011"
+        "citation": "The Journal of the Acoustical Society of America 129 (4_Supplement), 2532-2532, 2011"
     },
     {
         "title": "Ultrasonic monitoring of a pipe under operating conditions",
@@ -3946,7 +3965,7 @@
     {
         "title": "Unsupervised approximate power trace decomposition algorithm",
         "pub_year": "2014",
-        "citation": "Proc. 2nd Int. Non-Intrusive Appliance Load Monitor. Workshop, 5-8, 2014"
+        "citation": "Presented on Jun 3, 2014"
     },
     {
         "title": "Unsupervised clustering of time series signals using neuromorphic energy-efficient temporal neural networks",
@@ -3989,7 +4008,7 @@
     {
         "title": "Visual coreference resolution in visual dialog using neural module networks",
         "pub_year": "2018",
-        "citation": "Proceedings of the European Conference on Computer Vision (ECCV), 153-169, 2018"
+        "citation": "Proceedings of the European conference on computer vision (ECCV), 153-169, 2018"
     },
     {
         "title": "Visual dialog",
@@ -4035,11 +4054,6 @@
         "title": "Who is more at risk in heterogenous networks?",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018"
-    },
-    {
-        "title": "XIV. DETECTION AND ESTIMATION THEORY",
-        "pub_year": "1974",
-        "citation": "Quarterly Progress Report, 137, 1974"
     },
     {
         "title": "Your Hard Work",

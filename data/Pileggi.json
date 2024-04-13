@@ -12,7 +12,7 @@
     {
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
-        "citation": "WoNDP, 2014"
+        "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014"
     },
     {
         "title": "3DIC memory chips including computational logic-in-memory for performing accelerated data processing",
@@ -73,6 +73,11 @@
         "title": "A LASSO-Inspired Approach for Localizing Power System Infeasibility",
         "pub_year": "2020",
         "citation": "2020 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2020"
+    },
+    {
+        "title": "A Linearized, Low Phase Noise VCO Based 25 GHz PLL With Autonomic Biasing (vol 48, pg 1138, 2013)",
+        "pub_year": "2013",
+        "citation": "IEEE JOURNAL OF SOLID-STATE CIRCUITS 48 (6), 1539-1539, 2013"
     },
     {
         "title": "A Phase-Change Via-Reconfigurable CMOS  VCO",
@@ -302,12 +307,12 @@
     {
         "title": "Accurate coupling-centric timing analysis incorporating temporal and functional isolation",
         "pub_year": "2002",
-        "citation": "VLSI Design 15 (3), 605-618, 2002"
+        "citation": "VLSI Design 15, 605-618, 2002"
     },
     {
         "title": "Accurate coupling-centric timing analysis incorporating temporal and functional isolation",
         "pub_year": "2002",
-        "citation": "VLSI Design 15 (3), 605-618, 2002"
+        "citation": "VLSI Design 15, 605-618, 2002"
     },
     {
         "title": "Accurate passivity-enforced macromodeling for RF circuits via iterative zero/pole update based on measurement data",
@@ -1089,7 +1094,7 @@
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1994"
     },
     {
-        "title": "Environment-adaptable efficient optimization for programming of reconfigurable radio frequency (rf) receivers",
+        "title": "Environment-adaptable efficient optimization for programming of reconfigurable radio frequency (RF) receivers",
         "pub_year": "2014",
         "citation": "2014 IEEE Military Communications Conference, 1459-1465, 2014"
     },
@@ -1239,7 +1244,7 @@
         "citation": "The 2013 International Joint Conference on Neural Networks (IJCNN), 1-6, 2013"
     },
     {
-        "title": "Generalized Smooth Functions for Modeling Steady-State Response of Controls in Transmission and Distribution",
+        "title": "Generalized smooth functions for modeling steady-state response of controls in transmission and distribution",
         "pub_year": "2022",
         "citation": "Electric Power Systems Research 213, 108657, 2022"
     },
@@ -1247,11 +1252,6 @@
         "title": "Generating sparse partial inductance matrices with guaranteed stability",
         "pub_year": "1995",
         "citation": "Proceedings of IEEE International Conference on Computer Aided Design (ICCAD …, 1995"
-    },
-    {
-        "title": "Generating sparse partial inductance matrices with guaranteed stability",
-        "pub_year": "1995",
-        "citation": "ICCAD, 1995"
     },
     {
         "title": "Global and local congestion optimization in technology mapping",
@@ -1314,7 +1314,7 @@
         "citation": "IC Interconnect Analysis, 67-118, 2002"
     },
     {
-        "title": "Homotopy Learning of Parametric Solutions to Constrained Optimization Problems",
+        "title": "Homotopy learning of parametric solutions to constrained optimization problems",
         "pub_year": "2022",
         "citation": ""
     },
@@ -1442,11 +1442,6 @@
         "citation": ""
     },
     {
-        "title": "LINEAR (IZED) CIRCUIT ANALYSIS",
-        "pub_year": "2012",
-        "citation": "Semiconductors: Part I 58, 115, 2012"
-    },
-    {
         "title": "Large scale multi-period optimal power flow with energy storage systems using differential dynamic programming",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Power Systems 37 (3), 1750-1759, 2021"
@@ -1487,7 +1482,7 @@
         "citation": "Design for Manufacturability through Design-Process Integration VI 8327, 111-119, 2012"
     },
     {
-        "title": "Logic ip for low-cost ic design in advanced cmos nodes",
+        "title": "Logic IP for low-cost IC design in advanced CMOS nodes",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems 28 (2), 585-595, 2019"
     },
@@ -1767,6 +1762,11 @@
         "citation": "IC Interconnect Analysis, 153-180, 2002"
     },
     {
+        "title": "Moment-matching approximations for linear (ized) circuit analysis",
+        "pub_year": "1994",
+        "citation": "Semiconductors: Part I, 115-130, 1994"
+    },
+    {
         "title": "Moment-sensitivity-based wire sizing for skew reduction in on-chip clock nets",
         "pub_year": "1997",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1997"
@@ -1787,10 +1787,6 @@
         "citation": "arXiv preprint arXiv:2311.02055, 2023"
     },
     {
-        "title": "NSF Integrated Circuit Research, Education and Workforce Development Workshop Final Report1",
-        "citation": ""
-    },
-    {
         "title": "Nanometer Design: What Hurts Next...?",
         "pub_year": "2002",
         "citation": "Annual ACM IEEE Design Automation Conference: Proceedings of the 39 th …, 2002"
@@ -1803,7 +1799,7 @@
     {
         "title": "Naturally oxidized FeCo as a magnetic coupling layer for electrically isolated read/write paths in mLogic",
         "pub_year": "2013",
-        "citation": "IEEE transactions on magnetics 49 (7), 4351-4354, 2013"
+        "citation": "IEEE Transactions on Magnetics 49 (7), 4351-4354, 2013"
     },
     {
         "title": "Neurocomputing and associative memories based on ovenized aluminum nitride resonators",
@@ -1933,9 +1929,14 @@
         "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 365, 2003"
     },
     {
-        "title": "PRIMA: PASSIVE INTERCONNECT ALGORITHM",
+        "title": "PRIMA: PASSIVE INTERCONNECT",
         "pub_year": "2003",
         "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 433, 2003"
+    },
+    {
+        "title": "PRIMA: PASSIVE REDUCED-ORDER INTERCONNECT ALGORITHM",
+        "pub_year": "2012",
+        "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 433, 2012"
     },
     {
         "title": "PRIMA: Passive reduced-order interconnect macromodeling algorithm",
@@ -2043,7 +2044,7 @@
     {
         "title": "Power Grid Behavioral Patterns and Risks of Generalization in Applied Machine Learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2304.10702, 2023"
+        "citation": "Companion Proceedings of the 14th ACM International Conference on Future …, 2023"
     },
     {
         "title": "Power comparison of throughput optimized IC busses",
@@ -2092,8 +2093,8 @@
     },
     {
         "title": "Quantifying the Efficacy of Logic Locking Methods",
-        "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2103.06990, 2021"
+        "pub_year": "2024",
+        "citation": "2024 37th International Conference on VLSI Design and 2024 23rd …, 2024"
     },
     {
         "title": "RC (L) interconnect sizing with second order considerations via posynomial programming",
@@ -2211,7 +2212,7 @@
         "citation": "IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004 …, 2004"
     },
     {
-        "title": "Robust and efficient power flow convergence with G-min stepping homotopy method",
+        "title": "Robust and efficient power flow convergence with g-min stepping homotopy method",
         "pub_year": "2019",
         "citation": "2019 IEEE International Conference on Environment and Electrical Engineering …, 2019"
     },
@@ -2603,6 +2604,11 @@
         "title": "Towards Hyperparameter-Agnostic DNN Training via Dynamical System Insights",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.13901, 2023"
+    },
+    {
+        "title": "Towards Practical Physics-Informed ML Design and Evaluation for Power Grid",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2205.03673, 2022"
     },
     {
         "title": "Transmission line synthesis",

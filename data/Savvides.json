@@ -30,11 +30,6 @@
         "citation": "IEEE transactions on pattern analysis and machine intelligence 29 (4), 596-606, 2007"
     },
     {
-        "title": "A Face-Off of MRI Research Sequences by their Need for De-Facing",
-        "pub_year": "2023",
-        "citation": "NeuroImage, 120199, 2023"
-    },
-    {
         "title": "A Novel Collaborative Control Strategy for Enhanced Training of Vehicle Recognition",
         "pub_year": "2019",
         "citation": "2019 IEEE 90th Vehicular Technology Conference (VTC2019-Fall), 1-6, 2019"
@@ -58,6 +53,11 @@
         "title": "A deep matrix factorization method for learning attribute representations",
         "pub_year": "2017",
         "citation": ""
+    },
+    {
+        "title": "A face-off of MRI research sequences by their need for de-facing",
+        "pub_year": "2023",
+        "citation": "NeuroImage 276, 120199, 2023"
     },
     {
         "title": "A facial aging approach to identification of identical twins",
@@ -117,7 +117,7 @@
     {
         "title": "Active contour model in deep learning era: A revise and review",
         "pub_year": "2020",
-        "citation": "Applications of Hybrid Metaheuristic Algorithms for Image Processing, 231-260, 2020"
+        "citation": "Applications of hybrid metaheuristic algorithms for image processing, 231-260, 2020"
     },
     {
         "title": "Advanced correlation filters for face recognition using low-resolution visual and thermal imagery",
@@ -132,11 +132,6 @@
     {
         "title": "An Analysis of Facial Shape and Texture for Recognition: A Large Scale Evaluation on FRGC ver2. 0 Poster# 5",
         "citation": ""
-    },
-    {
-        "title": "An Embarrassingly Simple Baseline for Imbalanced Semi-Supervised Learning",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2211.11086, 2022"
     },
     {
         "title": "An analysis of facial shape and texture for recognition: A large scale evaluation on FRGC ver2. 0",
@@ -162,6 +157,11 @@
         "title": "An automatic iris occlusion estimation method based on high-dimensional density estimation",
         "pub_year": "2012",
         "citation": "IEEE transactions on pattern analysis and machine intelligence 35 (4), 784-796, 2012"
+    },
+    {
+        "title": "An embarrassingly simple baseline for imbalanced semi-supervised learning",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2211.11086, 2022"
     },
     {
         "title": "An evaluation of iris pattern representations",
@@ -289,6 +289,15 @@
         "title": "Binarizing mobilenet via evolution-based searching",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2020"
+    },
+    {
+        "title": "Binary neural networks with generalized activation functions",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/008,237, 2024"
+    },
+    {
+        "title": "Biometric Recognition using Advanced Correlation Filters (special focus on Face Recognition)",
+        "citation": ""
     },
     {
         "title": "Biometric Recognition using Frequency Domain Methods",
@@ -570,7 +579,7 @@
     {
         "title": "Driver cell phone usage detection on strategic highway research program (SHRP2) face view videos",
         "pub_year": "2015",
-        "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015"
+        "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2015"
     },
     {
         "title": "Dynamic three-bin real AdaBoost using biased classifiers: an application in face detection",
@@ -623,14 +632,14 @@
         "citation": "2015 IEEE International Conference on Image Processing (ICIP), 3220-3224, 2015"
     },
     {
-        "title": "Enhanced Training of Query-Based Object Detection via Selective Query Recollection",
-        "pub_year": "2023",
-        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023"
-    },
-    {
         "title": "Enhanced iris matching using estimation of in-plane nonlinear deformations",
         "pub_year": "2006",
         "citation": "Biometric Technology for Human Identification III 6202, 135-145, 2006"
+    },
+    {
+        "title": "Enhanced training of query-based object detection via selective query recollection",
+        "pub_year": "2023",
+        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023"
     },
     {
         "title": "Enhancing interior and exterior deep facial features for face detection in the wild",
@@ -682,7 +691,7 @@
         "citation": "Computer Vision Systems: 6th International Conference, ICVS 2008 Santorini …, 2008"
     },
     {
-        "title": "Face recognition from research brain PET: An unexpected PET problem",
+        "title": "Face recognition from research brain PET: an unexpected PET problem",
         "pub_year": "2022",
         "citation": "Neuroimage 258, 119357, 2022"
     },
@@ -826,6 +835,11 @@
         "citation": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007"
     },
     {
+        "title": "Generative adversarial networks having ranking loss",
+        "pub_year": "2023",
+        "citation": "US Patent 11,854,245, 2023"
+    },
+    {
         "title": "Generic 3D face pose estimation using facial shapes",
         "pub_year": "2011",
         "citation": "2011 international joint conference on biometrics (IJCB), 1-8, 2011"
@@ -931,11 +945,6 @@
         "title": "Improved fine-tuning strategy for few shot learning",
         "pub_year": "2023",
         "citation": "US Patent App. 18/009,860, 2023"
-    },
-    {
-        "title": "Improved generative adversarial networks having ranking loss",
-        "pub_year": "2021",
-        "citation": "US Patent App. 16/976,417, 2021"
     },
     {
         "title": "Improved iris recognition using probabilistic information from correlation filters",
@@ -1047,14 +1056,14 @@
         "citation": "2019 IEEE Winter Conference on Applications of Computer Vision (WACV), 2058-2067, 2019"
     },
     {
-        "title": "Kernel Fukunaga-Koontz transform subspaces for enhanced face recognition",
-        "pub_year": "2007",
-        "citation": "2007 IEEE conference on computer vision and pattern recognition, 1-8, 2007"
-    },
-    {
         "title": "Kernel correlation filter based redundant class-dependence feature analysis (KCFA) on FRGC2. 0 data",
         "pub_year": "2005",
         "citation": "Analysis and Modelling of Faces and Gestures: Second International Workshop …, 2005"
+    },
+    {
+        "title": "Kernel fukunaga-koontz transform subspaces for enhanced face recognition",
+        "pub_year": "2007",
+        "citation": "2007 IEEE conference on computer vision and pattern recognition, 1-8, 2007"
     },
     {
         "title": "Large Scale Face Recognition with Kernel Correlation Feature Analysis with Support Vector Machines.",
@@ -1124,6 +1133,11 @@
         "title": "Method and system for facial landmark localization",
         "pub_year": "2018",
         "citation": "US Patent 10,121,055, 2018"
+    },
+    {
+        "title": "Method for compressing an ai-based object detection model for deployment on resource-limited devices",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/266,734, 2024"
     },
     {
         "title": "Method for new package detection",
@@ -1196,6 +1210,11 @@
         "citation": "Continuous Authentication Using Biometrics: Data, Models, and Metrics, 68-88, 2012"
     },
     {
+        "title": "Multiple hypothesis transformation matching for robust verification of object identification",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/272,298, 2024"
+    },
+    {
         "title": "Multiple scale faster-rcnn approach to driver's cell-phone usage and hands on steering wheel detection",
         "pub_year": "2016",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2016"
@@ -1266,9 +1285,9 @@
         "citation": "2006 Conference on Computer Vision and Pattern Recognition Workshop (CVPRW …, 2006"
     },
     {
-        "title": "Partial is better than all: revisiting fine-tuning strategy for few-shot learning",
+        "title": "Partial is better than all: Revisiting fine-tuning strategy for few-shot learning",
         "pub_year": "2021",
-        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (11), 9594-9602, 2021"
+        "citation": "Proceedings of the AAAI conference on artificial intelligence 35 (11), 9594-9602, 2021"
     },
     {
         "title": "Performance evaluation of face recognition using visual and thermal imagery with advanced correlation filters",
@@ -1294,7 +1313,7 @@
         "citation": ""
     },
     {
-        "title": "Pokerface: Partial order keeping and energy repressing method for extreme face illumination normalization",
+        "title": "Pokerface: partial order keeping and energy repressing method for extreme face illumination normalization",
         "pub_year": "2015",
         "citation": "2015 IEEE 7th International Conference on Biometrics Theory, Applications …, 2015"
     },
@@ -1305,8 +1324,8 @@
     },
     {
         "title": "Polynomial convolutional neural network with early fan-out",
-        "pub_year": "2021",
-        "citation": "US Patent App. 16/976,409, 2021"
+        "pub_year": "2024",
+        "citation": "US Patent 11,875,557, 2024"
     },
     {
         "title": "Polynomial convolutional neural network with late fan-out",
@@ -1336,7 +1355,7 @@
     {
         "title": "Powering finetuning in few-shot learning: Domain-agnostic feature adaptation with rectified class prototypes",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv 2204, 1, 2022"
+        "citation": "ar Xiv preprint, 2022"
     },
     {
         "title": "Preliminary feasibility analysis of remote subject identification during hemodynamic monitoring by radio frequency impedance",
@@ -1441,7 +1460,7 @@
         "citation": "US Patent 7,483,569, 2009"
     },
     {
-        "title": "Reduced complexity face recognition using advanced correlation filters and fourier subspace methods for biometric applications",
+        "title": "Reduced complexity face recognition using advanced correlation filters and Fourier subspace methods for biometric applications",
         "pub_year": "2004",
         "citation": "Carnegie Mellon University, 2004"
     },
@@ -1526,6 +1545,11 @@
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2021"
     },
     {
+        "title": "SOFT ANCHOR POINT OBJECT DETECTION",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/272,290, 2024"
+    },
+    {
         "title": "SPECIAL ISSUE PAPERS-Individual Kernel Tensor-Subspaces for Robust Face Recognition: A Computationally Efficient Tensor Framework Without Requiring Mode Factorization",
         "pub_year": "2007",
         "citation": "IEEE Transactions on Systems Man and Cybernetics-Part B-Cybernetics 37 (5 …, 2007"
@@ -1534,6 +1558,16 @@
         "title": "SSR2: Sparse signal recovery for single-image super-resolution on faces with extreme low resolutions",
         "pub_year": "2019",
         "citation": "Pattern Recognition 90, 308-324, 2019"
+    },
+    {
+        "title": "SYSTEM AND METHOD FOR DOMAIN-AGNOSTIC BIAS REDUCTION WITH SELECTED SAMPLING FOR FEW-SHOT LEARNING",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/267,540, 2024"
+    },
+    {
+        "title": "SYSTEM AND METHOD FOR SCENE RECTIFICATION VIA HOMOGRAPHY ESTIMATION",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/272,301, 2024"
     },
     {
         "title": "Scl: Towards accurate domain adaptive object detection via gradient detach based stacked complementary losses",
@@ -1640,6 +1674,16 @@
         "citation": "Biometrics: Theory, Methods, and Applications, 295-313, 2009"
     },
     {
+        "title": "System and Method for Detecting, Reading and Matching in a Retail Scene",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/491,059, 2024"
+    },
+    {
+        "title": "System and Method for Using Non-Axis Aligned Bounding Boxes for Retail Detection",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/272,754, 2024"
+    },
+    {
         "title": "System and method for associating products and product labels",
         "pub_year": "2022",
         "citation": "US Patent App. 17/425,290, 2022"
@@ -1665,6 +1709,11 @@
         "citation": "US Patent App. 17/425,089, 2022"
     },
     {
+        "title": "System and method for domain adaptive object detection via gradient detach based stacked complementary losses",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/267,539, 2024"
+    },
+    {
         "title": "System and method for face recognition robust to multiple degradations",
         "pub_year": "2018",
         "citation": "US Patent 10,002,286, 2018"
@@ -1680,9 +1729,29 @@
         "citation": "US Patent App. 17/506,115, 2022"
     },
     {
+        "title": "System and method for improved few-shot object detection using a dynamic semantic network",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/266,744, 2024"
+    },
+    {
+        "title": "System and method for local spatial feature pooling for fine-grained representation learning",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/259,479, 2024"
+    },
+    {
         "title": "System and method for model compression of neural networks for use in embedded platforms",
         "pub_year": "2018",
         "citation": "US Patent App. 15/679,926, 2018"
+    },
+    {
+        "title": "System and method for photorealistic image synthesis using unsupervised semantic feature disentanglement",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/269,721, 2024"
+    },
+    {
+        "title": "System and method for pose tolerant feature extraction using generated pose-altered images",
+        "pub_year": "2024",
+        "citation": "US Patent 11,900,516, 2024"
     },
     {
         "title": "System and method for solving missing annotation object detection",
@@ -1690,14 +1759,29 @@
         "citation": "US Patent App. 17/670,737, 2022"
     },
     {
+        "title": "System and method for the automated learning of lean cnn network architectures",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/275,320, 2024"
+    },
+    {
         "title": "System and method for the automatic enrollment of object images into a gallery",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/408,778, 2022"
+        "pub_year": "2024",
+        "citation": "US Patent 11,915,463, 2024"
+    },
+    {
+        "title": "System and method for the discovering efficient random neural networks",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/272,747, 2024"
     },
     {
         "title": "System and method for the long range acquisition of iris images from stationary and mobile subjects",
         "pub_year": "2016",
         "citation": "US Patent 9,336,439, 2016"
+    },
+    {
+        "title": "System and method for unsupervised object deformation using feature map-level data augmentation",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/267,543, 2024"
     },
     {
         "title": "Tear-duct detector for identifying left versus right iris images",
@@ -1807,7 +1891,7 @@
     {
         "title": "Usb: A unified semi-supervised learning benchmark",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2208.07204, 2022"
+        "citation": "Conference on Neural Information Processing Systems (NeurIPS), 2022"
     },
     {
         "title": "Usb: A unified semi-supervised learning benchmark for classification",
