@@ -5,11 +5,6 @@
         "citation": "Annual International Cryptology Conference, 409-438, 2022"
     },
     {
-        "title": "A Core Calculus for Equational Proofs of Cryptographic Protocols",
-        "pub_year": "2023",
-        "citation": "Proceedings of the ACM on Programming Languages 7 (POPL), 866-892, 2023"
-    },
-    {
         "title": "A Secure Computation Framework for SDNs",
         "citation": ""
     },
@@ -19,7 +14,12 @@
         "citation": "Annual International Conference on the Theory and Applications of …, 2022"
     },
     {
-        "title": "A high-performance oblivious RAM controller on the convey hc-2ex heterogeneous computing platform",
+        "title": "A core calculus for equational proofs of cryptographic protocols",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM on Programming Languages 7 (POPL), 866-892, 2023"
+    },
+    {
+        "title": "A high-performance oblivious RAM controller on the convey HC-2ex heterogeneous computing platform",
         "pub_year": "2013",
         "citation": "Workshop on the Intersections of Computer Architecture and Reconfigurable …, 2013"
     },
@@ -63,7 +63,7 @@
         "citation": "arXiv preprint arXiv:2212.05176, 2022"
     },
     {
-        "title": "Advanced Composition Theorems for Differential Obliviousness",
+        "title": "Advanced composition theorems for differential obliviousness",
         "pub_year": "2023",
         "citation": "Cryptology ePrint Archive, 2023"
     },
@@ -148,14 +148,14 @@
         "citation": "Cryptology ePrint Archive, 2023"
     },
     {
-        "title": "Case Study: Rental Scams",
-        "pub_year": "2016",
-        "citation": "Understanding Social Engineering Based Scams, 89-102, 2016"
-    },
-    {
         "title": "Case Study: Sales Scams",
         "pub_year": "2016",
         "citation": "Understanding Social Engineering Based Scams, 77-87, 2016"
+    },
+    {
+        "title": "Case study: Rental scams",
+        "pub_year": "2016",
+        "citation": "Understanding Social Engineering Based Scams, 89-102, 2016"
     },
     {
         "title": "Characterizing long-tail SEO spam on cloud web hosting services",
@@ -163,7 +163,7 @@
         "citation": "Proceedings of the 25th International Conference on World Wide Web, 321-332, 2016"
     },
     {
-        "title": "Circuit OPRAM: Unifying statistically and computationally secure ORAMs and OPRAMs",
+        "title": "Circuit OPRAM: unifying statistically and computationally secure orams and oprams",
         "pub_year": "2017",
         "citation": "Theory of Cryptography Conference, 72-107, 2017"
     },
@@ -181,6 +181,11 @@
         "title": "Cloud data protection for the masses",
         "pub_year": "2012",
         "citation": "Computer 45 (1), 39-45, 2012"
+    },
+    {
+        "title": "Collusion-resilience in transaction fee mechanism design",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.09321, 2024"
     },
     {
         "title": "Communication complexity of byzantine agreement, revisited",
@@ -223,7 +228,7 @@
         "citation": "Proceedings of the 2009 ACM workshop on Cloud computing security, 85-90, 2009"
     },
     {
-        "title": "C∅ c∅: a framework for building composable zero-knowledge proofs",
+        "title": "C∅ c∅: A framework for building composable zero-knowledge proofs",
         "pub_year": "2015",
         "citation": "Cryptology ePrint Archive, Report 2015/1093, 2015"
     },
@@ -297,9 +302,9 @@
         "citation": "Cryptology ePrint Archive, 2023"
     },
     {
-        "title": "Efficient Pre-processing PIR Without Public-Key Cryptography",
-        "pub_year": "2023",
-        "citation": "Cryptology ePrint Archive, 2023"
+        "title": "Efficient Privacy-Preserving Machine Learning with Lightweight Trusted Hardware",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2210.10133, 2022"
     },
     {
         "title": "Efficient and secure threshold-based event validation for VANETs",
@@ -312,6 +317,11 @@
         "citation": "Cryptology ePrint Archive, 2022"
     },
     {
+        "title": "Efficient pre-processing PIR without public-key cryptography",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023"
+    },
+    {
         "title": "Emil Stefanov: Bridging the Theory and Practice of Cloud Computing Security",
         "pub_year": "2014",
         "citation": "Proceedings of the 6th edition of the ACM Workshop on Cloud Computing …, 2014"
@@ -322,9 +332,9 @@
         "citation": "Proceedings of the 12th annual international conference on Mobile systems …, 2014"
     },
     {
-        "title": "EnigMap: Signal should use oblivious algorithms for private contact discovery",
+        "title": "EnigMap: Signal Should Use Oblivious Algorithms for Private Contact Discovery.",
         "pub_year": "2022",
-        "citation": "Cryptology ePrint Archive, Report 2022/1083, 2022"
+        "citation": "IACR Cryptol. ePrint Arch. 2022, 1083, 2022"
     },
     {
         "title": "Ethan Cecchetti",
@@ -465,6 +475,11 @@
         "citation": "Springer, 2015"
     },
     {
+        "title": "Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.10116, 2024"
+    },
+    {
         "title": "Is it too late for PAKE?",
         "pub_year": "2009",
         "citation": "indicators 5 (9), 17, 2009"
@@ -480,7 +495,7 @@
         "citation": "Proceedings of the Twenty-Fifth International Conference on Architectural …, 2020"
     },
     {
-        "title": "Lab: Step by Step towards Programming a Safe Smart Contract",
+        "title": "Lab: Step by step towards programming a safe smart contract",
         "pub_year": "2015",
         "citation": ""
     },
@@ -530,14 +545,19 @@
         "citation": "Annual International Cryptology Conference, 688-718, 2022"
     },
     {
-        "title": "Maximizing Miner Revenue in Transaction Fee Mechanism Design",
+        "title": "Maximizing miner revenue in transaction fee mechanism design",
         "pub_year": "2023",
-        "citation": "Cryptology ePrint Archive, 2023"
+        "citation": "arXiv preprint arXiv:2302.12895, 2023"
     },
     {
         "title": "Mechanism Design",
         "pub_year": "2012",
         "citation": ""
+    },
+    {
+        "title": "Mechanism Design for Automated Market Makers",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.09357, 2024"
     },
     {
         "title": "Memory trace oblivious program execution",
@@ -550,7 +570,7 @@
         "citation": "US Patent 9,336,388, 2016"
     },
     {
-        "title": "Microfedml: Privacy preserving federated learning for small weights",
+        "title": "MicroFedML: Privacy preserving federated learning for small weights",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022"
     },
@@ -560,7 +580,7 @@
         "citation": "Advances in Cryptology–ASIACRYPT 2018: 24th International Conference on the …, 2018"
     },
     {
-        "title": "Multi-Client Inner Product Encryption: Function-Hiding Instantiations Without Random Oracles",
+        "title": "Multi-client inner product encryption: function-hiding instantiations without random oracles",
         "pub_year": "2023",
         "citation": "IACR International Conference on Public-Key Cryptography, 622-651, 2023"
     },
@@ -672,12 +692,12 @@
     {
         "title": "On the Amortized Communication Complexity of Byzantine Broadcast",
         "pub_year": "2023",
-        "citation": "Cryptology ePrint Archive, 2023"
+        "citation": "Proceedings of the 2023 ACM Symposium on Principles of Distributed Computing …, 2023"
     },
     {
         "title": "On the Amortized Communication Complexity of Byzantine Broadcast",
         "pub_year": "2023",
-        "citation": "Proceedings of the 2023 ACM Symposium on Principles of Distributed Computing …, 2023"
+        "citation": "Cryptology ePrint Archive, 2023"
     },
     {
         "title": "On the adaptive security of MACs and PRFs",
@@ -805,7 +825,7 @@
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013"
     },
     {
-        "title": "Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation",
+        "title": "Piano: Extremely simple, single-server PIR with sublinear server computation",
         "pub_year": "2023",
         "citation": "Cryptology ePrint Archive, 2023"
     },
@@ -875,7 +895,7 @@
     {
         "title": "Practical dynamic searchable encryption with small leakage",
         "pub_year": "2014",
-        "citation": "Proc. Netw. Distrib. Syst. Secur. Symp., 23-26, 2014"
+        "citation": "Proc. Netw. Distrib. Syst. Secur. Symp, 23-26, 2014"
     },
     {
         "title": "Predicate privacy in encryption systems",
@@ -947,6 +967,11 @@
         "citation": "Advances in Cryptology–CRYPTO 2021: 41st Annual International Cryptology …, 2021"
     },
     {
+        "title": "Rapidash: Foundations of side-contract-resilient fair exchange",
+        "pub_year": "2022",
+        "citation": "Cryptology ePrint Archive, 2022"
+    },
+    {
         "title": "Rethinking large-scale consensus",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th Computer Security Foundations Symposium (CSF), 115-129, 2017"
@@ -972,9 +997,9 @@
         "citation": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …, 2014"
     },
     {
-        "title": "STAMP: Lightweight TEE-Assisted MPC for Efficient Privacy-Preserving Machine Learning",
+        "title": "STAMP: Lightweight TEE-Assisted MPC for Efficient Privacy-Preserving Machine Learning.",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2210.10133, 2022"
+        "citation": "CoRR, 2022"
     },
     {
         "title": "SameView: a large-scale real-time interactive e-learning system based on TORM and AMTP",
@@ -1045,7 +1070,7 @@
         "citation": "Proceedings of the Fourteenth Annual ACM-SIAM Symposium on Discrete …, 2020"
     },
     {
-        "title": "Snow White: Provably Secure Proofs of Stake.",
+        "title": "Snow White: Provably secure proofs of stake.",
         "pub_year": "2016",
         "citation": "IACR Cryptol. ePrint Arch. 2016 (919), 2016"
     },
@@ -1159,8 +1184,13 @@
     },
     {
         "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
-        "pub_year": "2017",
-        "citation": "Communications of the ACM 60 (1), 87-95, 2017"
+        "pub_year": "2010",
+        "citation": "Communications of the ACM 53 (7), 60-70, 2010"
+    },
+    {
+        "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
+        "pub_year": "2011",
+        "citation": "Communications of the ACM 54 (8), 62-71, 2011"
     },
     {
         "title": "The power of the differentially oblivious shuffle in distributed privacy mechanisms",
@@ -1228,8 +1258,8 @@
     },
     {
         "title": "Town crier",
-        "pub_year": "2017",
-        "citation": "Proceedings of the C 2, 270-282, 2017"
+        "pub_year": "2021",
+        "citation": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …, 2021"
     },
     {
         "title": "Town crier: An authenticated data feed for smart contracts",
@@ -1240,11 +1270,6 @@
         "title": "Understanding craigslist rental scams",
         "pub_year": "2017",
         "citation": "Financial Cryptography and Data Security: 20th International Conference, FC …, 2017"
-    },
-    {
-        "title": "VU Research Portal",
-        "pub_year": "2019",
-        "citation": "Computer Communications 140 (141), 1-14, 2019"
     },
     {
         "title": "Verifiable oblivious storage",
@@ -1263,8 +1288,8 @@
     },
     {
         "title": "What can cryptography do for decentralized mechanism design",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2209.14462, 2022"
+        "pub_year": "2023",
+        "citation": "Innovations in Theoretical Computer Science, 2023"
     },
     {
         "title": "XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays",

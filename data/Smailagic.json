@@ -96,7 +96,7 @@
     {
         "title": "A technology probe of wearable in-home computer-assisted physical therapy",
         "pub_year": "2014",
-        "citation": "Proceedings of the SIGCHI conference on human factors in computing systems …, 2014"
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2014"
     },
     {
         "title": "A virtual coach for upper-extremity myoelectric prosthetic rehabilitation",
@@ -119,7 +119,7 @@
         "citation": "Circulation 131 (suppl_1), AP117-AP117, 2015"
     },
     {
-        "title": "Abstract P125: EMA Data Reveal Associations Between Sleep and Self-Efficacy for Adhering to a Healthy Lifestyle Plan",
+        "title": "Abstract P125: EMA data reveal associations between sleep and self-efficacy for adhering to a healthy lifestyle plan",
         "pub_year": "2014",
         "citation": "Circulation 129 (suppl_1), AP125-AP125, 2014"
     },
@@ -145,8 +145,8 @@
     },
     {
         "title": "Addressing Chest Radiograph Projection Bias in Deep Classification Models",
-        "pub_year": "2023",
-        "citation": "Medical Imaging with Deep Learning, 2023"
+        "pub_year": "2024",
+        "citation": "Medical Imaging with Deep Learning, 1199-1210, 2024"
     },
     {
         "title": "Adtranz: a mobile computing system for maintenance and collaboration",
@@ -167,6 +167,10 @@
         "title": "Ambulatory Monitoring and Ecological Momentary Assessment",
         "pub_year": "2022",
         "citation": "Handbook of Cardiovascular Behavioral Medicine, 975-1003, 2022"
+    },
+    {
+        "title": "Ambulatory Monitoring and Ecological Momentary Assessment",
+        "citation": "Handbook of Cardiovascular Behavioral Medicine, 975, 0"
     },
     {
         "title": "An Approach for Developing Ubiquitous Augmented Reality Systems",
@@ -270,7 +274,7 @@
     {
         "title": "Coaching or gaming? Implications of strategy choice for home based stroke rehabilitation",
         "pub_year": "2016",
-        "citation": "Journal of neuroengineering and rehabilitation 13 (1), 1-15, 2016"
+        "citation": "Journal of neuroengineering and rehabilitation 13, 1-15, 2016"
     },
     {
         "title": "Combining Human and Machine Intelligence to Assess Stroke Rehabilitation Exercises",
@@ -323,7 +327,7 @@
     {
         "title": "DeepFixCX: Explainable privacy‐preserving image compression for medical image analysis",
         "pub_year": "2023",
-        "citation": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, e1495, 2023"
+        "citation": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 13 (4 …, 2023"
     },
     {
         "title": "Design Examples",
@@ -434,8 +438,8 @@
     },
     {
         "title": "Enabling AI and robotic coaches for physical rehabilitation therapy: iterative design and evaluation with therapists and post-stroke survivors",
-        "pub_year": "2022",
-        "citation": "International Journal of Social Robotics, 1-22, 2022"
+        "pub_year": "2024",
+        "citation": "International Journal of Social Robotics 16 (1), 1-22, 2024"
     },
     {
         "title": "Enhancement of retinal fundus images via pixel color amplification",
@@ -473,7 +477,7 @@
         "citation": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 13 (2 …, 2023"
     },
     {
-        "title": "Explainable Deep Learning for Non-Invasive Detection of Pulmonary Artery Hypertension from Heart Sounds",
+        "title": "Explainable deep learning for non-invasive detection of pulmonary artery hypertension from heart sounds",
         "pub_year": "2022",
         "citation": "2022 Computing in Cardiology (CinC) 498, 1-4, 2022"
     },
@@ -539,7 +543,7 @@
         "citation": "IEEE Computer Society Press, 2001"
     },
     {
-        "title": "IEEE Computer Society Workshop on VLSI 2000: System Design for a System-on-Chip Era: Proceedings, 27-28 April 2000, Orlando, Florida",
+        "title": "IEEE Computer Society Workshop on VLSI 2000: System Design for a System-on-chip Era: Proceedings, 27-28 April 2000, Orlando, Florida",
         "pub_year": "2000",
         "citation": "IEEE Computer Society Press, 2000"
     },
@@ -697,8 +701,7 @@
     },
     {
         "title": "Message From the Technical Program Chair",
-        "pub_year": "2002",
-        "citation": "Proceedings: IEEE Computer Society Annual Symposium on VLSI 2002: New …, 2002"
+        "citation": ""
     },
     {
         "title": "Message from steering committee chair",
@@ -803,7 +806,7 @@
     {
         "title": "Personalized stress detection from physiological measurements",
         "pub_year": "2010",
-        "citation": "International symposium on quality of life technology, 28-29, 2010"
+        "citation": "International symposium on quality of life technology 1, 28-29, 2010"
     },
     {
         "title": "Portable computer system with ergonomic input device",
@@ -821,7 +824,7 @@
         "citation": "Digest of Papers. Fourth International Symposium on Wearable Computers, 25-32, 2000"
     },
     {
-        "title": "Privacy-preserving case-based explanations: enabling visual interpretability by protecting privacy",
+        "title": "Privacy-preserving case-based explanations: Enabling visual interpretability by protecting privacy",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 28333-28347, 2022"
     },
@@ -1015,6 +1018,11 @@
         "citation": "Application Design for Wearable Computing, 7-49, 2008"
     },
     {
+        "title": "The agenda of wearable healthcare",
+        "pub_year": "2005",
+        "citation": "Yearbook of medical informatics 14 (01), 125-138, 2005"
+    },
+    {
         "title": "The design and implementation of the VuMan wearable computer",
         "pub_year": "1993",
         "citation": "Carnegie Mellon University, Engineering Design Research Center, 1993"
@@ -1203,13 +1211,13 @@
         "citation": "1997 IEEE 47th Vehicular Technology Conference. Technology in Motion 3, 1932 …, 1997"
     },
     {
-        "title": "ZEBRA: Explaining Rare Cases Through Outlying Interpretable Concepts",
-        "pub_year": "2023",
-        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023"
+        "title": "ZADÁNÍ BAKALÁŘSKÉ PRÁCE",
+        "citation": ""
     },
     {
-        "title": "Zadání bakalářské práce",
-        "citation": ""
+        "title": "ZEBRA: Explaining rare cases through outlying interpretable concepts",
+        "pub_year": "2023",
+        "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023"
     },
     {
         "title": "eWatch: Context Sensitive System Design Case Study Asim Smailagic, Daniel P. Siewiorek, Uwe Maurer, Anthony Rowe, Karen P. Tang Carnegie Mellon University {asim, dps, umaurer …",
@@ -1234,7 +1242,7 @@
     {
         "title": "iPod-based in-home system for monitoring gaze-stabilization exercise compliance of individuals with vestibular hypofunction",
         "pub_year": "2014",
-        "citation": "Journal of neuroengineering and rehabilitation 11 (1), 1-12, 2014"
+        "citation": "Journal of neuroengineering and rehabilitation 11, 1-12, 2014"
     },
     {
         "title": "mstress: Supporting continuous collection of objective and subjective measures of psychosocial stress on mobile devices",

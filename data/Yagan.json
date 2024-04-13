@@ -61,7 +61,8 @@
     },
     {
         "title": "An Agent-Based Model of Reddit Interactions and Moderation",
-        "citation": ""
+        "pub_year": "2023",
+        "citation": "Proceedings of the International Conference on Advances in Social Networks …, 2023"
     },
     {
         "title": "Analysis of complex contagions in random multiplex networks",
@@ -82,11 +83,6 @@
         "title": "Attack vulnerability of power systems under an equal load redistribution model",
         "pub_year": "2018",
         "citation": "IEEE/ACM Transactions on Networking 26 (3), 1306-1319, 2018"
-    },
-    {
-        "title": "Attack vulnerability of power systems under an equal load redistribution model",
-        "pub_year": "2018",
-        "citation": "arXiv e-prints, arXiv: 1804.01351, 2018"
     },
     {
         "title": "Bandit-based communication-efficient client selection strategies for federated learning",
@@ -182,7 +178,7 @@
         "citation": "arXiv preprint arXiv:1701.03758, 2017"
     },
     {
-        "title": "Data-Driven I/O Structure Learning With Contemporaneous Causality",
+        "title": "Data-driven I/O structure learning with contemporaneous causality",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Control of Network Systems 7 (4), 1929-1939, 2020"
     },
@@ -284,7 +280,7 @@
         "citation": "2021 IEEE Wireless Communications and Networking Conference Workshops (WCNCW …, 2021"
     },
     {
-        "title": "Identifying cross-platform user relationships in 2020 US election fraud and protest discussions",
+        "title": "Identifying cross-platform user relationships in 2020 us election fraud and protest discussions",
         "pub_year": "2023",
         "citation": "Online Social Networks and Media 33, 100245, 2023"
     },
@@ -345,7 +341,7 @@
     {
         "title": "Modeling and analysis of the spread of COVID-19 under a multiple-strain model with mutations",
         "pub_year": "2021",
-        "citation": "Harvard Data Science Review 4, 2021"
+        "citation": "Harv. Data Sci. Rev 4, 2021"
     },
     {
         "title": "Modeling the pairwise key predistribution scheme in the presence of unreliable links",
@@ -573,11 +569,6 @@
         "citation": "The European Physical Journal B 87, 1-8, 2014"
     },
     {
-        "title": "Robustness of Random K-out Graphs",
-        "pub_year": "2021",
-        "citation": "2021 60th IEEE Conference on Decision and Control (CDC), 5526-5531, 2021"
-    },
-    {
         "title": "Robustness of flow networks against cascading failures under partial load redistribution",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1802.07664, 2018"
@@ -591,6 +582,11 @@
         "title": "Robustness of power systems under a democratic-fiber-bundle-like model",
         "pub_year": "2015",
         "citation": "Physical Review E 91 (6), 062811, 2015"
+    },
+    {
+        "title": "Robustness of random K-out graphs",
+        "pub_year": "2021",
+        "citation": "2021 60th IEEE Conference on Decision and Control (CDC), 5526-5531, 2021"
     },
     {
         "title": "Role of masks in mitigating viral spread on networks",
@@ -618,7 +614,7 @@
         "citation": "2013 IEEE International Symposium on Information Theory, 2790-2794, 2013"
     },
     {
-        "title": "SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites",
+        "title": "SelfieStick: Towards earth imaging from a low-cost ground module using LEO satellites",
         "pub_year": "2022",
         "citation": "2022 21st ACM/IEEE International Conference on Information Processing in …, 2022"
     },
@@ -638,14 +634,18 @@
         "citation": ""
     },
     {
+        "title": "Spreading processes with layer-dependent population heterogeneity over multi-layer networks",
+        "citation": ""
+    },
+    {
         "title": "Spreading processes with mutations over multilayer networks",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (24), e2302245120, 2023"
     },
     {
         "title": "Spreading processes with population heterogeneity over multi-layer networks",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2211.07479, 2022"
+        "pub_year": "2023",
+        "citation": "GLOBECOM 2023-2023 IEEE Global Communications Conference, 3209-3214, 2023"
     },
     {
         "title": "Temporal Characteristics of Reddit Discussions Across Three Political Events",

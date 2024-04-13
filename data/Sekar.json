@@ -138,9 +138,9 @@
         "citation": "US Patent 8,509,237, 2013"
     },
     {
-        "title": "Automatic Discovery of Evasion Attacks Against Stateful Firewalls (CMU-CyLab-21-001)",
+        "title": "Automatic discovery of evasion attacks against stateful firewalls",
         "pub_year": "2021",
-        "citation": "Carnegie Mellon University, 2021"
+        "citation": ""
     },
     {
         "title": "BUZZ: Testing Context-Dependent Policies in Stateful Data Planes",
@@ -158,7 +158,7 @@
         "citation": "Proceedings of the 16th ACM Workshop on Hot Topics in Networks, 192-198, 2017"
     },
     {
-        "title": "Bohatei: Flexible and Elastic {DDoS} Defense",
+        "title": "Bohatei: Flexible and elastic {DDoS} defense",
         "pub_year": "2015",
         "citation": "24th USENIX security symposium (USENIX Security 15), 817-832, 2015"
     },
@@ -297,6 +297,10 @@
         "citation": "18th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2021"
     },
     {
+        "title": "EXCHAIN: Exception Dependency Analysis for Root Cause Diagnosis",
+        "citation": ""
+    },
+    {
         "title": "EZ-PC: program committee selection made easy",
         "pub_year": "2018",
         "citation": "ACM SIGCOMM Computer Communication Review 46 (3), 1-3, 2018"
@@ -345,6 +349,11 @@
         "citation": "HotMobile, 14, 2013"
     },
     {
+        "title": "Enforcing network-wide policies in the presence of dynamic middlebox actions using FlowTags",
+        "pub_year": "2014",
+        "citation": "11th USENIX Symposium on Networked Systems Design and Implementation (NSDI 14), 2014"
+    },
+    {
         "title": "Enforcing network-wide policies in the presence of dynamic middlebox actions using flowtags",
         "pub_year": "2014",
         "citation": "11th {USENIX} Symposium on Networked Systems Design and Implementation …, 2014"
@@ -368,11 +377,6 @@
         "title": "Evaluating Throughput and Fairness of Thread Fetch Policies for SMT Processors",
         "pub_year": "2003",
         "citation": ""
-    },
-    {
-        "title": "Evolution of Social-Attribute Networks: Measurements, Modeling, and Implications using Google+",
-        "pub_year": "2012",
-        "citation": "arXiv e-prints, arXiv: 1209.0835, 2012"
     },
     {
         "title": "Evolution of social-attribute networks: measurements, modeling, and implications using google+",
@@ -452,7 +456,7 @@
     {
         "title": "Handling a trillion (unfixable) flaws on a billion devices: Rethinking network security for the internet-of-things",
         "pub_year": "2015",
-        "citation": "Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 1-7, 2015"
+        "citation": "Proceedings of the 14th ACM workshop on hot topics in networks, 1-7, 2015"
     },
     {
         "title": "How to Catch when Proxies Lie",
@@ -482,7 +486,7 @@
     {
         "title": "In-Situ quality of experience monitoring: The case for prioritizing coverage over fidelity",
         "pub_year": "2016",
-        "citation": "Whitepaper submission, CMU/Conviva 2, 2016"
+        "citation": "White-paper submission, CMU/Conviva (2016) 2, 2016"
     },
     {
         "title": "Infonames: An information-based naming scheme for multimedia content",
@@ -503,11 +507,6 @@
         "title": "Intent-driven composition of resource-management SDN applications",
         "pub_year": "2018",
         "citation": "Proceedings of the 14th International Conference on emerging Networking …, 2018"
-    },
-    {
-        "title": "Intent-driven composition of resource-management SDN applications",
-        "pub_year": "2018",
-        "citation": ""
     },
     {
         "title": "Internet outages, the eyewitness accounts: Analysis of the outages mailing list",
@@ -540,7 +539,7 @@
         "citation": "Proceedings of the Symposium on SDN Research, 1-12, 2016"
     },
     {
-        "title": "KalKi++: A Scalable and Extensible IoT Security Platform",
+        "title": "KalKi++: A scalable and extensible iot security platform",
         "pub_year": "2021",
         "citation": "2021 IEEE 7th World Forum on Internet of Things (WF-IoT), 368-373, 2021"
     },
@@ -567,7 +566,7 @@
     {
         "title": "Learning context-aware policies from multiple smart homes via federated multi-task learning",
         "pub_year": "2020",
-        "citation": "2020 IEEE/ACM Fifth International Conference on Internet-of-Things Design …, 2020"
+        "citation": "2020 IEEE/ACM Fifth international conference on internet-of-things design …, 2020"
     },
     {
         "title": "Less pain, most of the gain: Incrementally deployable icn",
@@ -580,7 +579,7 @@
         "citation": "Proceedings of the 18th International Conference on emerging Networking …, 2022"
     },
     {
-        "title": "Lumos: Identifying and Localizing Diverse Hidden {IoT} Devices in an Unfamiliar Environment",
+        "title": "Lumos: Identifying and localizing diverse hidden {IoT} devices in an unfamiliar environment",
         "pub_year": "2022",
         "citation": "31st USENIX Security Symposium (USENIX Security 22), 1095-1112, 2022"
     },
@@ -626,7 +625,7 @@
     {
         "title": "Network-wide deployment of intrusion detection and prevention systems",
         "pub_year": "2010",
-        "citation": "Proceedings of the 6th International Conference, 1-12, 2010"
+        "citation": "Proceedings of the 6th International COnference, 1-12, 2010"
     },
     {
         "title": "New opportunities for load balancing in network-wide intrusion detection systems",
@@ -668,14 +667,9 @@
         "citation": "International Conference on Artificial Intelligence and Statistics, 1522-1530, 2021"
     },
     {
-        "title": "On the security of thread networks: Experimentation with OpenThread-enabled devices",
+        "title": "On the security of thread networks: Experimentation with openthread-enabled devices",
         "pub_year": "2022",
         "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022"
-    },
-    {
-        "title": "One Sketch to Rule Them All",
-        "pub_year": "2016",
-        "citation": ""
     },
     {
         "title": "One sketch to rule them all: Rethinking network flow monitoring with univmon",
@@ -721,6 +715,11 @@
         "title": "Protecting smart homes from unintended application actions",
         "pub_year": "2022",
         "citation": "2022 ACM/IEEE 13th International Conference on Cyber-Physical Systems (ICCPS …, 2022"
+    },
+    {
+        "title": "Pryde: A Modular Generalizable Workflow for Uncovering Evasion Attacks Against Stateful Firewall Deployments",
+        "pub_year": "2024",
+        "citation": "2024 IEEE Symposium on Security and Privacy (SP), 144-144, 2024"
     },
     {
         "title": "Pytheas: Enabling {Data-Driven} Quality of Experience Optimization Using {Group-Based}{Exploration-Exploitation}",
@@ -807,11 +806,6 @@
         "citation": "Proceedings of the ACM SIGCOMM 2013 conference on SIGCOMM, 27-38, 2013"
     },
     {
-        "title": "SNIPS: A Software-Defined Approach for Scaling Intrusion Prevention Systems via Offloading",
-        "pub_year": "2014",
-        "citation": ""
-    },
-    {
         "title": "SNIPS: A software-defined approach for scaling intrusion prevention systems via offloading",
         "pub_year": "2014",
         "citation": "Information Systems Security: 10th International Conference, ICISS 2014 …, 2014"
@@ -839,11 +833,6 @@
         "title": "Scalable testing of context-dependent policies over stateful data planes with armstrong",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1505.03356, 2015"
-    },
-    {
-        "title": "Security Analysis of Networked 3D Printers and their Deployments (CMU-CyLab-20-001)",
-        "pub_year": "2020",
-        "citation": "Carnegie Mellon University, 2020"
     },
     {
         "title": "Session details: Middleboxes",
@@ -874,7 +863,7 @@
         "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016"
     },
     {
-        "title": "Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches",
+        "title": "Sketchovsky: Enabling ensembles of sketches on programmable switches",
         "pub_year": "2023",
         "citation": "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2023"
     },
@@ -913,7 +902,7 @@
         "citation": ""
     },
     {
-        "title": "Summary Statistic Privacy in Data Sharing",
+        "title": "Summary statistic privacy in data sharing",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.02014, 2023"
     },
@@ -928,14 +917,19 @@
         "citation": "US Patent 7,933,745, 2011"
     },
     {
-        "title": "TEA: Enabling state-intensive network functions on programmable switches",
-        "pub_year": "2020",
-        "citation": "Proceedings of the Annual conference of the ACM Special Interest Group on …, 2020"
-    },
-    {
-        "title": "TEO: ephemeral ownership for IoT devices to provide granular data control",
+        "title": "TEO: Ephemeral ownership for iot devices to provide granular data control",
         "pub_year": "2022",
         "citation": "Proceedings of the 20th Annual International Conference on Mobile Systems …, 2022"
+    },
+    {
+        "title": "TRUSTSKETCH: Trustworthy Sketch-based Telemetry on Cloud Hosts",
+        "pub_year": "2024",
+        "citation": "The Network and Distributed System Security Symposium (NDSS), 2024"
+    },
+    {
+        "title": "Tea: Enabling state-intensive network functions on programmable switches",
+        "pub_year": "2020",
+        "citation": "Proceedings of the Annual conference of the ACM Special Interest Group on …, 2020"
     },
     {
         "title": "Telemetry retrieval inaccuracy in programmable switches: Analysis and recommendations",
@@ -961,6 +955,11 @@
         "title": "The shape of view: an alert system for video viewership anomalies",
         "pub_year": "2021",
         "citation": "Proceedings of the 21st ACM Internet Measurement Conference, 245-260, 2021"
+    },
+    {
+        "title": "Timeline framework for time-state analytics",
+        "pub_year": "2024",
+        "citation": "US Patent 11,943,123, 2024"
     },
     {
         "title": "Toward a Framework For Internet Forensic Analysis",
@@ -1081,14 +1080,9 @@
         "citation": "arXiv preprint arXiv:1711.04822, 2017"
     },
     {
-        "title": "Vulnerabilities of electric vehicle battery packs to cyberattacks on auxiliary components",
-        "pub_year": "2017",
-        "citation": "CoRR, 2017"
-    },
-    {
         "title": "Watching the watchmen: Least privilege for managed network services",
         "pub_year": "2021",
-        "citation": "Proceedings of the Twentieth ACM Workshop on Hot Topics in Networks, 147-154, 2021"
+        "citation": "Proceedings of the 20th ACM Workshop on Hot Topics in Networks, 147-154, 2021"
     },
     {
         "title": "Why spectral normalization stabilizes gans: Analysis and improvements",
@@ -1116,7 +1110,7 @@
         "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016"
     },
     {
-        "title": "{CANvas}: Fast and Inexpensive Automotive Network Mapping",
+        "title": "{CANvas}: Fast and inexpensive automotive network mapping",
         "pub_year": "2019",
         "citation": "28th USENIX Security Symposium (USENIX Security 19), 389-405, 2019"
     },
@@ -1141,7 +1135,7 @@
         "citation": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2020"
     },
     {
-        "title": "{SketchLib}: Enabling Efficient Sketch-based Monitoring on Programmable Switches",
+        "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
     }

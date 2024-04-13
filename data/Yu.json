@@ -72,7 +72,7 @@
     {
         "title": "Automated customization of large-scale spiking network models to neuronal population activity",
         "pub_year": "2023",
-        "citation": "bioRxiv, 2023.09. 21.558920, 2023"
+        "citation": "bioRxiv, 2023"
     },
     {
         "title": "Average Power Reduction Using Time-Varying Bias with Bandlimited Pulses in Multiple-Subcarrier Intensity-Modulated Optical Systems",
@@ -204,6 +204,11 @@
         "citation": "Nature communications 9, 2018"
     },
     {
+        "title": "Dynamical constraints on neural population activity",
+        "pub_year": "2024",
+        "citation": "bioRxiv, 2024.01. 03.573543, 2024"
+    },
+    {
         "title": "Dynamical segmentation of single trials from population neural data",
         "pub_year": "2011",
         "citation": "Advances in neural information processing systems, 756-764, 2011"
@@ -224,14 +229,14 @@
         "citation": "Nonlinear Statistical Signal Processing Workshop, 2006 IEEE, 83-86, 2006"
     },
     {
-        "title": "Extracting Dynamical Structure Embedded in Motor Preparatory Activity",
-        "pub_year": "2005",
-        "citation": "COSYNE 2005, 290-, 2005"
-    },
-    {
         "title": "Extracting Low-Dimensional Latent Structure from Time Series in the Presence of Delays",
         "pub_year": "2015",
         "citation": "Neural computation, 2015"
+    },
+    {
+        "title": "Extracting dynamical structure embedded in motor preparatory activity",
+        "pub_year": "2005",
+        "citation": "COSYNE 2005, 290-, 2005"
     },
     {
         "title": "Extracting dynamical structure embedded in neural activity",
@@ -388,11 +393,6 @@
         "citation": "Neuron 111 (6), 764-766, 2023"
     },
     {
-        "title": "Learning alters neural activity to simultaneously support memory and action",
-        "pub_year": "2022",
-        "citation": "bioRxiv, 2022.07. 05.498856, 2022"
-    },
-    {
         "title": "Learning an internal dynamics model from control demonstration",
         "pub_year": "2013",
         "citation": "JMLR workshop and conference proceedings, 606, 2013"
@@ -406,6 +406,11 @@
         "title": "Learning is shaped by abrupt changes in neural engagement",
         "pub_year": "2021",
         "citation": "Nature Neuroscience 24 (5), 727-736, 2021"
+    },
+    {
+        "title": "Learning leaves a memory trace in motor cortex",
+        "pub_year": "2024",
+        "citation": "Current Biology, 2024"
     },
     {
         "title": "Low-dimensional single-trial analysis of neural population activity",
@@ -438,8 +443,8 @@
     },
     {
         "title": "Motor cortex retains and reorients neural dynamics during motor imagery",
-        "pub_year": "2023",
-        "citation": "bioRxiv, 2023.01. 17.524394, 2023"
+        "pub_year": "2024",
+        "citation": "Nature Human Behaviour, 1-14, 2024"
     },
     {
         "title": "Motor cortical control of movement speed with implications for brain-machine interface control",
@@ -654,6 +659,10 @@
         "title": "Uncovering motifs of concurrent signaling across multiple neuronal populations",
         "pub_year": "2023",
         "citation": "Thirty-seventh Conference on Neural Information Processing Systems, 2023"
+    },
+    {
+        "title": "Uncovering motifs of concurrent signaling across multiple neuronal populations—Supplementary Information—",
+        "citation": ""
     },
     {
         "title": "slow drift of neural activity",

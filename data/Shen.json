@@ -62,7 +62,7 @@
     {
         "title": "A roving monitoring processor for detection of control flow errors in multiple processor systems",
         "pub_year": "1985",
-        "citation": "Proc. Int. Conf. on Comp. Design: VLSI in Comp and Processors. Amsterdam …, 1985"
+        "citation": "Proc. IEEE Int. Conf. Comput. Design: VLSI Comput., 531-539, 1985"
     },
     {
         "title": "A survey of: functional level testing and testability measures",
@@ -155,7 +155,7 @@
         "citation": "Adjunct proceedings of the 2019 acm international joint conference on …, 2019"
     },
     {
-        "title": "Audio-visual ted corpus: enhancing the ted-lium corpus with facial information, contextual text and object recognition",
+        "title": "Audio-visual TED corpus: enhancing the TED-LIUM corpus with facial information, contextual text and object recognition",
         "pub_year": "2019",
         "citation": "Adjunct Proceedings of the 2019 ACM International Joint Conference on …, 2019"
     },
@@ -294,6 +294,10 @@
         "citation": "Frontiers in Big Data 6, 1170820, 2023"
     },
     {
+        "title": "Cortical Columns Computing Systems (C3S): Towards a Silicon Neocortex for AI Compute",
+        "citation": ""
+    },
+    {
         "title": "Cortical Columns Computing Systems: Microarchitecture Model, Functional Building Blocks, and Design Tools",
         "pub_year": "2023",
         "citation": "IntechOpen, 2023"
@@ -336,7 +340,7 @@
     {
         "title": "Direct methods for synthesis of self-monitoring state machines",
         "pub_year": "1992",
-        "citation": "FTCS, 306-315, 1992"
+        "citation": "FTCS 22, 306-315, 1992"
     },
     {
         "title": "Dynamic speculative precomputation",
@@ -409,7 +413,7 @@
     {
         "title": "Experimental Evaluation of Two Concurrent",
         "pub_year": "1986",
-        "citation": "Digest of Papers, 138, 1986"
+        "citation": "Fault-tolerant Computing Systems, 138, 1986"
     },
     {
         "title": "Experimental Research in Reliable Computing at Carnegie Mellon University",
@@ -420,6 +424,11 @@
         "title": "Experimental evaluation of two concurrent error detection schemes",
         "pub_year": "1986",
         "citation": "Proc. Of the 16th Int’l. Symp. On Fault-Tolerant Computing, Vienna, 138-143, 1986"
+    },
+    {
+        "title": "Exploiting Instruction-level Resource Parallelism for Transparent",
+        "pub_year": "1991",
+        "citation": "Digest of Papers: The Twenty-First International Symposium on Fault-Tolerant …, 1991"
     },
     {
         "title": "Exploiting Resource Parallelism for Integrated Fault Monitoring and Recovery",
@@ -542,7 +551,7 @@
         "citation": "Proceedings of 1986 ACM Fall joint computer conference, 878-889, 1986"
     },
     {
-        "title": "IDIoT: Multimodal Framework for Ubiquitous Identification and Assignment of Human-carried Wearable Devices",
+        "title": "IDIoT: Multimodal framework for ubiquitous identification and assignment of human-carried wearable devices",
         "pub_year": "2023",
         "citation": "ACM Transactions on Internet of Things 4 (2), 1-25, 2023"
     },
@@ -585,7 +594,7 @@
     {
         "title": "Instruction path coprocessors",
         "pub_year": "2000",
-        "citation": "Proceedings of the 27th Annual International Symposium on Computer …, 2000"
+        "citation": "Proceedings of the 27th annual international symposium on Computer …, 2000"
     },
     {
         "title": "Instruction set architecture-based inter-sequencer communications with a heterogeneous resource",
@@ -779,13 +788,13 @@
     },
     {
         "title": "Method and system to provide user-level multithreading",
-        "pub_year": "2016",
-        "citation": "US Patent 9,442,721, 2016"
+        "pub_year": "2020",
+        "citation": "US Patent 10,585,667, 2020"
     },
     {
         "title": "Method and system to provide user-level multithreading",
-        "pub_year": "2020",
-        "citation": "US Patent 10,585,667, 2020"
+        "pub_year": "2016",
+        "citation": "US Patent 9,442,721, 2016"
     },
     {
         "title": "Method and system to provide user-level multithreading",
@@ -902,6 +911,10 @@
         "citation": "US Patent 4,602,210, 1986"
     },
     {
+        "title": "NeRTCAM: CAM-Based CMOS Implementation of Reference Frames for Neuromorphic Processors",
+        "citation": ""
+    },
+    {
         "title": "Network Traffic Scheduling Algorithm for Application-Specific Architectures",
         "pub_year": "1987",
         "citation": "Concurrent Computations: Algorithms, Architecture, and Technology, 325-352, 1987"
@@ -930,6 +943,11 @@
         "title": "Organization of array data for concurrent memory access",
         "pub_year": "1988",
         "citation": "Proceedings of the 21st annual workshop on Microprogramming and …, 1988"
+    },
+    {
+        "title": "OzMAC: An Energy-Efficient Sparsity-Exploiting Multiply-Accumulate-Unit Design for DL Inference",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2402.19376, 2024"
     },
     {
         "title": "Parallel Algorithm For Network Traffic Scheduling In Application-Specific Architectures",
@@ -1037,6 +1055,11 @@
     },
     {
         "title": "Programmable event driven yield mechanism which may activate other threads",
+        "pub_year": "2014",
+        "citation": "US Patent 8,868,887, 2014"
+    },
+    {
+        "title": "Programmable event driven yield mechanism which may activate other threads",
         "pub_year": "2018",
         "citation": "US Patent 9,910,796, 2018"
     },
@@ -1049,11 +1072,6 @@
         "title": "Programmable event driven yield mechanism which may activate other threads",
         "pub_year": "2019",
         "citation": "US Patent 10,459,858, 2019"
-    },
-    {
-        "title": "Programmable event driven yield mechanism which may activate other threads",
-        "pub_year": "2014",
-        "citation": "US Patent 8,868,887, 2014"
     },
     {
         "title": "Programmable event driven yield mechanism which may activate service threads",
@@ -1142,7 +1160,7 @@
     {
         "title": "SemNet: Learning semantic attributes for human activity recognition with deep belief networks",
         "pub_year": "2022",
-        "citation": "Frontiers in big Data 5, 81, 2022"
+        "citation": "Frontiers in big Data 5, 879389, 2022"
     },
     {
         "title": "Sequencer address management",
@@ -1152,7 +1170,7 @@
     {
         "title": "Sky Segmentation for Enhanced Depth Reconstruction and Bokeh Rendering with Efficient Architectures",
         "pub_year": "2020",
-        "citation": "Electronic Imaging 2020 (14), 378-1-378-7, 2020"
+        "citation": "Electronic Imaging 32, 1-7, 2020"
     },
     {
         "title": "Software-based speculative pre-computation and multithreading",
@@ -1162,7 +1180,7 @@
     {
         "title": "Space-time graph modeling of ride requests based on real-world data",
         "pub_year": "2017",
-        "citation": "arXiv preprint arXiv:1701.06635, 2017"
+        "citation": "Workshops at the Thirty-First AAAI Conference on Artificial Intelligence, 2017"
     },
     {
         "title": "Speculative Precomputation: Exploring the Use of Multithreading for Latency.",
@@ -1233,6 +1251,14 @@
         "title": "Systematic validation of pipeline interlock for superscalar microarchitectures",
         "pub_year": "1995",
         "citation": "Twenty-Fifth International Symposium on Fault-Tolerant Computing. Digest of …, 1995"
+    },
+    {
+        "title": "TNN-CIM: An In-SRAM CMOS Implementation of TNN-Based Synaptic Arrays with STDP Learning",
+        "citation": ""
+    },
+    {
+        "title": "TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering",
+        "citation": ""
     },
     {
         "title": "Technique for thread communication and synchronization",

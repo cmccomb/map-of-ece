@@ -69,7 +69,7 @@
         "citation": "ACM SIGCSE Bulletin 35 (1), 262-266, 2003"
     },
     {
-        "title": "A perspective on application/networking coupling,\"",
+        "title": "A perspective on application/networking coupling",
         "pub_year": "1998",
         "citation": "8 th International Workshop on Network and Operating Systems Support for …, 1998"
     },
@@ -661,9 +661,9 @@
         "citation": "Pervasive and Mobile Computing 3 (6), 607-608, 2007"
     },
     {
-        "title": "Effects of Buffering Semantics on {I/O} Performance",
+        "title": "Effects of buffering semantics on I/O performance",
         "pub_year": "1996",
-        "citation": "USENIX 2nd Symposium on OS Design and Implementation (OSDI 96), 1996"
+        "citation": "Proceedings of the second USENIX symposium on Operating systems design and …, 1996"
     },
     {
         "title": "Efficiency analysis of formally verified adaptive cruise controllers",
@@ -708,6 +708,11 @@
     {
         "title": "Enabling Name-based Packet Forwarding over Flat ID Network Architectures",
         "citation": "Interface 1, 0, 0"
+    },
+    {
+        "title": "Enabling adaptive and reliable video delivery over hybrid unicast/broadcast networks",
+        "pub_year": "2024",
+        "citation": "Proceedings of the 34th edition of the Workshop on Network and Operating …, 2024"
     },
     {
         "title": "Enabling mac protocol implementations on software-defined radios",
@@ -886,7 +891,7 @@
     {
         "title": "Heterogeneous Distributed Environmental Modeling",
         "pub_year": "1995",
-        "citation": "SIAM News 28, 2187-2200, 1995"
+        "citation": "SIAM News 28, 1995"
     },
     {
         "title": "Hierarchically-Synthesized Network Services",
@@ -1051,7 +1056,7 @@
         "citation": "ACM SIGCOMM Computer Communication Review 45 (4), 199-212, 2015"
     },
     {
-        "title": "Multilist Scheduling: A New Parallel Programming Model",
+        "title": "Multilist scheduling: a new parallel programming model",
         "pub_year": "1993",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1993"
     },
@@ -1149,6 +1154,11 @@
         "citation": "Proceedings of the ACM on Networking 1 (CoNEXT3), 1-2, 2023"
     },
     {
+        "title": "PACMNET, V2, CoNEXT1, March 2024 Editorial",
+        "pub_year": "2024",
+        "citation": "Proceedings of the ACM on Networking 2 (CoNEXT1), 1-1, 2024"
+    },
+    {
         "title": "PARI: A Probabilistic Approach to AS Relationships Inference",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1905.02386, 2019"
@@ -1180,6 +1190,10 @@
         "title": "Performance of tcp in multi-hop access networks",
         "pub_year": "2008",
         "citation": "2008 16th Interntional Workshop on Quality of Service, 181-190, 2008"
+    },
+    {
+        "title": "Precise Data Center Traffic Engineering with Constrained Hardware Resources",
+        "citation": ""
     },
     {
         "title": "Program Committee Chair",
@@ -1220,11 +1234,6 @@
         "citation": "Proceedings of the sixteenth annual international conference on Mobile …, 2010"
     },
     {
-        "title": "Qualitv of service routing--",
-        "pub_year": "2013",
-        "citation": "Building QoS into Distributed Systems: IFIP TC6 WG6. 1 Fifth International …, 2013"
-    },
-    {
         "title": "Quality-of-service routing for traffic with performance guarantees",
         "pub_year": "1997",
         "citation": "Building QoS into Distributed Systems: IFIP TC6 WG6. 1 Fifth International …, 1997"
@@ -1248,11 +1257,6 @@
         "title": "Rainbow: Architecture-based self-adaptation with reusable infrastructure",
         "pub_year": "2004",
         "citation": "Computer 37 (10), 46-54, 2004"
-    },
-    {
-        "title": "Rainbow: Architecture-based self-adaptation with reusable infrastructure",
-        "pub_year": "2004",
-        "citation": "International Conference on Autonomic Computing, 2004. Proceedings., 276-277, 2004"
     },
     {
         "title": "Raregan: Generating samples for rare classes",
@@ -1330,8 +1334,8 @@
     },
     {
         "title": "School of Computer Science",
-        "pub_year": "2014",
-        "citation": ""
+        "pub_year": "2004",
+        "citation": "Carleton University, Tech. Rep. TR-04-01,, 2004"
     },
     {
         "title": "Second-order destination inference using semi-supervised self-training for entry-only passenger data",
@@ -1365,7 +1369,7 @@
     {
         "title": "Segment based internetworking to accommodate diversity at the edge",
         "pub_year": "2010",
-        "citation": "Department of Computer Science, Carnegie Mellon-University, Tech. Rep. CMU …, 2010"
+        "citation": "Comput. Sci. Dept., Carnegie Mellon Univ., Tech. Rep. CMU-CS-10–104, 2010"
     },
     {
         "title": "Self-Management in Chaotic Wireless Deployments",
@@ -1388,7 +1392,7 @@
         "citation": "2014 IEEE Vehicular Networking Conference (VNC), 207-214, 2014"
     },
     {
-        "title": "Sketchovsky: Enabling Ensembles of Sketches on Programmable Switches",
+        "title": "Sketchovsky: Enabling ensembles of sketches on programmable switches",
         "pub_year": "2023",
         "citation": "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2023"
     },
@@ -1513,11 +1517,6 @@
         "citation": ""
     },
     {
-        "title": "Time-Sensitive Cooperative Perception for Real-Time Data Sharing over Vehicular Communications: Overview, Challenges, and Future Directions",
-        "pub_year": "2022",
-        "citation": "IEEE Internet of Things Magazine 5 (2), 108-113, 2022"
-    },
-    {
         "title": "Time-aware opportunistic relay for video streaming over WLANs",
         "pub_year": "2007",
         "citation": "2007 IEEE International Conference on Multimedia and Expo, 1782-1785, 2007"
@@ -1526,6 +1525,11 @@
         "title": "Time-division TCP for reconfigurable data center networks",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 19-35, 2022"
+    },
+    {
+        "title": "Time-sensitive cooperative perception for real-time data sharing over vehicular communications: Overview, challenges, and future directions",
+        "pub_year": "2022",
+        "citation": "IEEE Internet of Things Magazine 5 (2), 108-113, 2022"
     },
     {
         "title": "Topological implications of cascading interdomain bilateral traffic agreements",
@@ -1679,7 +1683,7 @@
         "citation": "ACM SIGCOMM Computer Communication Review 44 (3), 50-57, 2014"
     },
     {
-        "title": "{SketchLib}: Enabling Efficient Sketch-based Monitoring on Programmable Switches",
+        "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
     },
