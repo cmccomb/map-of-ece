@@ -7,21 +7,13 @@ on:
   push:
     branches: [ main ]
     paths:
-      - '**.json'
+      - 'faculty.csv'
   schedule:
   - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: install library
-        run: pip install git+https://github.com/cmccomb/map-of-research.git
-      - name: create the visualization
-        run: visualize_faculty_data
-      - name: commit and push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+  call-workflow-passing-data:
+    uses: cmccomb/map-of-research/.github/workflows/update.yml@main
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
