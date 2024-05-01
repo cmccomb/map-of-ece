@@ -234,6 +234,11 @@
         "citation": "2023 20th Annual IEEE International Conference on Sensing, Communication …, 2023"
     },
     {
+        "title": "Empowering Federated Learning with Implicit Gossiping: Mitigating Connection Unreliability Amidst Unknown and Arbitrary Dynamics",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.10091, 2024"
+    },
+    {
         "title": "Evaluating Resilience in Mixed-Autonomy",
         "pub_year": "2022",
         "citation": "Mobility21, Carnegie Mellon University, 2022"
@@ -251,6 +256,11 @@
         "title": "FLARE: Coordinated rate adaptation for HTTP adaptive streaming in cellular networks",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th International Conference on Distributed Computing Systems …, 2017"
+    },
+    {
+        "title": "Fair Concurrent Training of Multiple Models in Federated Learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.13841, 2024"
     },
     {
         "title": "Fair Training of Multiple Federated Learning Models on Resource Constrained Network Devices",
@@ -697,6 +707,11 @@
     {
         "title": "TPC Chairs",
         "citation": ""
+    },
+    {
+        "title": "TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.13082, 2024"
     },
     {
         "title": "TUBE: Time-dependent pricing for mobile data",

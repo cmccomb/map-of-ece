@@ -298,9 +298,9 @@
         "citation": ""
     },
     {
-        "title": "Cortical Columns Computing Systems: Microarchitecture Model, Functional Building Blocks, and Design Tools",
+        "title": "Cortical columns computing systems: Microarchitecture model, functional building blocks, and design tools",
         "pub_year": "2023",
-        "citation": "IntechOpen, 2023"
+        "citation": "Neuromorphic Computing, 2023"
     },
     {
         "title": "Data driven analysis of the potentials of dynamic ride pooling",
@@ -1104,6 +1104,11 @@
         "citation": "Carnegie Mellon University, 2021"
     },
     {
+        "title": "Realtime Person Identification via Gait Analysis",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.15312, 2024"
+    },
+    {
         "title": "Reducing Branch Misprediction Penalty Via Dynamic Control Independence Detection",
         "pub_year": "1998",
         "citation": ""
@@ -1258,7 +1263,8 @@
     },
     {
         "title": "TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering",
-        "citation": ""
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2024"
     },
     {
         "title": "Technique for thread communication and synchronization",

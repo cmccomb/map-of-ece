@@ -40,11 +40,6 @@
         "citation": "Learning for Dynamics and Control Conference, 272-285, 2023"
     },
     {
-        "title": "Decentralized Graph-Based Multi-Agent Reinforcement Learning Using Reward Machines (preprint)",
-        "pub_year": "2021",
-        "citation": ""
-    },
-    {
         "title": "Decentralized graph-based multi-agent reinforcement learning using reward machines",
         "pub_year": "2024",
         "citation": "Neurocomputing 564, 126974, 2024"
@@ -120,15 +115,6 @@
         "citation": "IEEE Transactions on Control of Network Systems 5 (3), 1245-1260, 2017"
     },
     {
-        "title": "How to Transform “Social Value” into Meaningful Products?",
-        "citation": ""
-    },
-    {
-        "title": "How to transform “social value” into meaningful products?——A multiple-case study of leading innovative enterprises",
-        "pub_year": "2024",
-        "citation": "Technology in Society, 102531, 2024"
-    },
-    {
         "title": "KCRL: Krasovskii-Constrained Reinforcement Learning with Guaranteed Stability in Nonlinear Discrete-Time Systems",
         "pub_year": "2023",
         "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 1334-1341, 2023"
@@ -157,6 +143,11 @@
         "title": "On the exponential stability of primal-dual gradient dynamics",
         "pub_year": "2018",
         "citation": "IEEE Control Systems Letters 3 (1), 43-48, 2018"
+    },
+    {
+        "title": "On the sample complexity of stabilizing lti systems on a single trajectory",
+        "pub_year": "2022",
+        "citation": "Advances in Neural Information Processing Systems 35, 16989-17002, 2022"
     },
     {
         "title": "On the sample complexity of stabilizing lti systems on a single trajectory",
@@ -257,11 +248,6 @@
         "title": "Stable online control of linear time-varying systems",
         "pub_year": "2021",
         "citation": "Learning for Dynamics and Control, 742-753, 2021"
-    },
-    {
-        "title": "Toward a Knowledge-Based View of a Business Model: A Multi-Level Framework and Dynamic Perspective",
-        "pub_year": "2022",
-        "citation": "The Routledge Companion to Knowledge Management, 304-319, 2022"
     },
     {
         "title": "Voltage control using limited communication",

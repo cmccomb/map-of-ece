@@ -226,8 +226,8 @@
     },
     {
         "title": "Escaping Saddle Points in Heterogeneous Federated Learning via Distributed SGD with Communication Compression",
-        "pub_year": "2023",
-        "citation": "AISTATS 2024; arXiv preprint arXiv:2310.19059, 2023"
+        "pub_year": "2024",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 2701-2709, 2024"
     },
     {
         "title": "Exact and stable covariance estimation from quadratic sampling via convex programming",
@@ -323,6 +323,11 @@
         "title": "Harvesting Curvatures for Communication-Efficient Distributed Optimization",
         "pub_year": "2022",
         "citation": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 749-753, 2022"
+    },
+    {
+        "title": "High-probability sample complexities for policy evaluation with linear function approximation",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.19001, 2023"
     },
     {
         "title": "Identification of nonlinear latent hierarchical models",
@@ -603,11 +608,6 @@
         "title": "Settling the sample complexity of model-based offline reinforcement learning",
         "pub_year": "2024",
         "citation": "The Annals of Statistics 52 (1), 233-260, 2024"
-    },
-    {
-        "title": "Sharp high-probability sample complexities for policy evaluation with linear function approximation",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.19001, 2023"
     },
     {
         "title": "Shift-invariant subspace tracking with missing data",

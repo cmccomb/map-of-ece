@@ -75,7 +75,7 @@
         "citation": "arXiv preprint arXiv:2403.04797, 2024"
     },
     {
-        "title": "GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection",
+        "title": "Galore: Memory-efficient llm training by gradient low-rank projection",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.03507, 2024"
     },
@@ -149,6 +149,11 @@
         "citation": "International Conference on Learning Representations, 2021"
     },
     {
+        "title": "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.08801, 2024"
+    },
+    {
         "title": "Modeling scattering coefficients using self-attentive complex polynomials with image-based representation, 2022",
         "citation": "URL https://arxiv. org/pdf/2301.02747. pdf, 0"
     },
@@ -216,6 +221,11 @@
         "title": "Towards Structured Sparsity in Transformers for Efficient Inference",
         "pub_year": "2023",
         "citation": "Workshop on Efficient Systems for Foundation Models@ ICML2023, 2023"
+    },
+    {
+        "title": "TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.11912, 2024"
     },
     {
         "title": "Unique entity estimation with application to the Syrian conflict",

@@ -736,7 +736,7 @@
         "citation": "European Conference on Computer Vision, 825-840, 2014"
     },
     {
-        "title": "Fairness in Visual Clustering: A Novel Transformer Clustering Approach",
+        "title": "Fairness in visual clustering: A novel transformer clustering approach",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2304.07408, 2023"
     },
@@ -762,8 +762,8 @@
     },
     {
         "title": "Feature pyramids for object detection",
-        "pub_year": "2022",
-        "citation": "US Patent App. 17/386,879, 2022"
+        "pub_year": "2024",
+        "citation": "US Patent 11,954,175, 2024"
     },
     {
         "title": "Feature selective anchor-free module for single-shot object detection",
@@ -1168,6 +1168,11 @@
         "title": "Methods and systems for disease classification",
         "pub_year": "2018",
         "citation": "US Patent 10,074,006, 2018"
+    },
+    {
+        "title": "Methods for Improving Datasets for Skeleton-Based Action Detection",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/491,258, 2024"
     },
     {
         "title": "Minimizing the number of bits needed for iris recognition via bit inconsistency and grit",

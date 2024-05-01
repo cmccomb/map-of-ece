@@ -225,6 +225,11 @@
         "citation": ""
     },
     {
+        "title": "Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs",
+        "pub_year": "2024",
+        "citation": ""
+    },
+    {
         "title": "Efficient and correct test scheduling for ensembles of network policies",
         "pub_year": "2018",
         "citation": "15th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2018"
@@ -399,6 +404,11 @@
         "title": "Mobile SCALe: Rules and Analysis for Secure Java and Android Coding",
         "pub_year": "2013",
         "citation": "Carnegie Mellon University, 2013"
+    },
+    {
+        "title": "Modal Crash Types for WAR-Aware Intermittent Computing",
+        "pub_year": "2018",
+        "citation": "Carnegie Mellon University, 2018"
     },
     {
         "title": "Modal crash types for intermittent computing",

@@ -123,6 +123,11 @@
         "citation": "Proceedings of the 2006 SIGCOMM workshop on Large-scale attack defense, 161-168, 2006"
     },
     {
+        "title": "Analyzing the Benefits of Optical Topology Programming for Mitigating Link-Flood DDoS Attacks",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Dependable and Secure Computing, 2024"
+    },
+    {
         "title": "Analyzing the potential benefits of cdn augmentation strategies for internet video workloads",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 conference on Internet measurement conference, 43-56, 2013"
@@ -191,6 +196,11 @@
         "title": "CANE: A Cascade Control Approach for Network-Assisted Video QoE Management",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Control Systems Technology, 2023"
+    },
+    {
+        "title": "CANdid: A Stealthy Stepping-Stone Attack to Bypass Authentication on ECUs",
+        "pub_year": "2024",
+        "citation": "Journal on Autonomous Transportation Systems, 2024"
     },
     {
         "title": "CARE",
@@ -298,7 +308,8 @@
     },
     {
         "title": "EXCHAIN: Exception Dependency Analysis for Root Cause Diagnosis",
-        "citation": ""
+        "pub_year": "2024",
+        "citation": "21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24), 2024"
     },
     {
         "title": "EZ-PC: program committee selection made easy",
