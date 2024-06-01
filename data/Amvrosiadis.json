@@ -2,217 +2,317 @@
     {
         "title": "A Software Defined Storage Approach to Exascale Storage Services. Final Technical Report",
         "pub_year": "2019",
-        "citation": "The HDF Group, 2019"
+        "citation": "The HDF Group, 2019",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Bigger, longer, fewer: what do cluster jobs look like outside google",
         "pub_year": "2017",
-        "citation": "Carnegie Mellon Univ., Pittsburgh, PA, Tech. Rep. CMU-PDL-17–104, 2017"
+        "citation": "Carnegie Mellon Univ., Pittsburgh, PA, Tech. Rep. CMU-PDL-17–104, 2017",
+        "num_citations": 16,
+        "author_pub_id": "ygiY7C8AAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Compact Filter Structures for Fast Data Partitioning",
         "pub_year": "2019",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Compact Filters for Fast Online Data Partitioning",
         "pub_year": "2019",
-        "citation": "2019 IEEE International Conference on Cluster Computing (CLUSTER), 1-12, 2019"
+        "citation": "2019 IEEE International Conference on Cluster Computing (CLUSTER), 1-12, 2019",
+        "num_citations": 1,
+        "author_pub_id": "ygiY7C8AAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Composition as a tool for HPC service development",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Data Storage Research Vision 2025: Report on NSF Visioning Workshop held May 30--June 1, 2018",
         "pub_year": "2018",
-        "citation": "National Science Foundation, 2018"
+        "citation": "National Science Foundation, 2018",
+        "num_citations": 7,
+        "author_pub_id": "ygiY7C8AAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Data storage research vision 2025",
         "pub_year": "2018",
-        "citation": "National Science Foundation, 2018"
+        "citation": "National Science Foundation, 2018",
+        "num_citations": 1,
+        "author_pub_id": "ygiY7C8AAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Data storage research vision 2025 report",
         "pub_year": "2019",
-        "citation": "Technical Report, 2019"
+        "citation": "Technical Report, 2019",
+        "num_citations": 6,
+        "author_pub_id": "ygiY7C8AAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing",
         "pub_year": "2021",
-        "citation": "Proceedings of the International Conference for High Performance Computing …, 2021"
+        "citation": "Proceedings of the International Conference for High Performance Computing …, 2021",
+        "num_citations": 7,
+        "author_pub_id": "ygiY7C8AAAAJ:-f6ydRqryjwC"
+    },
+    {
+        "title": "Extending the Mochi Methodology to Enable Dynamic HPC Data Services",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Failures of dynamic control systems",
         "pub_year": "2019",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "ygiY7C8AAAAJ:ZeXyd9-uunAC"
+    },
+    {
+        "title": "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
-        "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019"
+        "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
+        "num_citations": 113,
+        "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Filebench",
         "pub_year": "2018",
-        "citation": ""
+        "citation": "",
+        "num_citations": 8,
+        "author_pub_id": "ygiY7C8AAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Filebench github repository, 2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 6,
+        "author_pub_id": "ygiY7C8AAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Getting back up: Understanding how enterprise data backups fail",
         "pub_year": "2016",
-        "citation": "2016 USENIX Annual Technical Conference (USENIX ATC 16), 479-492, 2016"
+        "citation": "2016 USENIX Annual Technical Conference (USENIX ATC 16), 479-492, 2016",
+        "num_citations": 19,
+        "author_pub_id": "ygiY7C8AAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Identifying trends in enterprise data protection systems",
         "pub_year": "2015",
-        "citation": "2015 USENIX Annual Technical Conference (USENIX ATC 15), 151-164, 2015"
+        "citation": "2015 USENIX Annual Technical Conference (USENIX ATC 15), 151-164, 2015",
+        "num_citations": 45,
+        "author_pub_id": "ygiY7C8AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "It’s time to talk about hpc storage: Perspectives on the past and future",
         "pub_year": "2021",
-        "citation": "Computing in Science & Engineering 23 (6), 63-68, 2021"
+        "citation": "Computing in Science & Engineering 23 (6), 63-68, 2021",
+        "num_citations": 2,
+        "author_pub_id": "ygiY7C8AAAAJ:mB3voiENLucC"
     },
     {
         "title": "MSST 2019",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Massive Indexed Directories in DeltaFS",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Mimir: Finding Cost-efficient Storage Configurations in the Public Cloud",
         "pub_year": "2023",
-        "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023"
+        "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
-        "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020"
+        "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
+        "num_citations": 65,
+        "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "More {IOPS} for less: Exploiting burstable storage in public clouds",
         "pub_year": "2020",
-        "citation": "12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 20), 2020"
+        "citation": "12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 20), 2020",
+        "num_citations": 14,
+        "author_pub_id": "ygiY7C8AAAAJ:dhFuZR0502QC"
     },
     {
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
-        "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018"
+        "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
+        "num_citations": 143,
+        "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Opportunistic storage maintenance",
         "pub_year": "2015",
-        "citation": "Proceedings of the 25th Symposium on Operating Systems Principles, 457-473, 2015"
+        "citation": "Proceedings of the 25th Symposium on Operating Systems Principles, 457-473, 2015",
+        "num_citations": 41,
+        "author_pub_id": "ygiY7C8AAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
-        "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022"
+        "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
+        "num_citations": 21,
+        "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Practical Scrubbing: Getting to the bad sector at the right time",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "",
+        "num_citations": 26,
+        "author_pub_id": "ygiY7C8AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Progressive compressed records: Taking a byte out of deep learning data",
         "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1911.00472, 2019"
+        "citation": "arXiv preprint arXiv:1911.00472, 2019",
+        "num_citations": 7,
+        "author_pub_id": "ygiY7C8AAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Quartet: Harmonizing task scheduling and caching for cluster computing",
         "pub_year": "2016",
-        "citation": "8th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage 16), 2016"
+        "citation": "8th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage 16), 2016",
+        "num_citations": 18,
+        "author_pub_id": "ygiY7C8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
-        "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023"
+        "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
+        "num_citations": 9,
+        "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Reconciling LSM-Trees with Modern Hard Drives using BlueFS",
         "pub_year": "2019",
-        "citation": "Technical Report CMU-PDL--, CMU Parallel Data Laboratory, April. URL http …, 2019"
+        "citation": "Technical Report CMU-PDL--, CMU Parallel Data Laboratory, April. URL http …, 2019",
+        "num_citations": 6,
+        "author_pub_id": "ygiY7C8AAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Scaling embedded in-situ indexing with deltaFS",
         "pub_year": "2018",
-        "citation": "SC18: International Conference for High Performance Computing, Networking …, 2018"
+        "citation": "SC18: International Conference for High Performance Computing, Networking …, 2018",
+        "num_citations": 40,
+        "author_pub_id": "ygiY7C8AAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Selected Results of the Workshop on Data Storage Research 2025",
         "pub_year": "2019",
-        "citation": "login Usenix Mag. 44 (4), 2019"
+        "citation": "login Usenix Mag. 44 (4), 2019",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Software-defined storage for fast trajectory queries using a deltafs indexed massive directory",
         "pub_year": "2017",
-        "citation": "Proceedings of the 2nd Joint International Workshop on Parallel Data Storage …, 2017"
+        "citation": "Proceedings of the 2nd Joint International Workshop on Parallel Data Storage …, 2017",
+        "num_citations": 13,
+        "author_pub_id": "ygiY7C8AAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Streaming data reorganization at scale with DeltaFS indexed massive directories",
         "pub_year": "2020",
-        "citation": "ACM Transactions on Storage (TOS) 16 (4), 1-31, 2020"
+        "citation": "ACM Transactions on Storage (TOS) 16 (4), 1-31, 2020",
+        "num_citations": 4,
+        "author_pub_id": "ygiY7C8AAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
-        "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012"
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
+        "num_citations": 311,
+        "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Temperature Management in Datacenters",
         "pub_year": "2013",
-        "citation": "login Usenix Mag. 38 (1), 2013"
+        "citation": "login Usenix Mag. 38 (1), 2013",
+        "num_citations": 1,
+        "author_pub_id": "ygiY7C8AAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Temperature Management in Datacenters: Cranking Up the Thermostat Without Feeling the Heat",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "ygiY7C8AAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "The atlas cluster trace repository",
         "pub_year": "2018",
-        "citation": "Usenix Mag 43 (4), 2018"
+        "citation": "Usenix Mag 43 (4), 2018",
+        "num_citations": 16,
+        "author_pub_id": "ygiY7C8AAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "The case for custom storage backends in distributed storage systems",
         "pub_year": "2020",
-        "citation": "ACM Transactions on Storage (TOS) 16 (2), 1-31, 2020"
+        "citation": "ACM Transactions on Storage (TOS) 16 (2), 1-31, 2020",
+        "num_citations": 12,
+        "author_pub_id": "ygiY7C8AAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "This is why ML-driven cluster scheduling remains widely impractical",
         "pub_year": "2019",
-        "citation": "Tech. Rep., 2019"
+        "citation": "Tech. Rep., 2019",
+        "num_citations": 13,
+        "author_pub_id": "ygiY7C8AAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Unleashing in-network computing on scientific workloads",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2009.02457, 2020"
+        "citation": "arXiv preprint arXiv:2009.02457, 2020",
+        "num_citations": 5,
+        "author_pub_id": "ygiY7C8AAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Unobtrusive Storage Maintenance",
         "pub_year": "2016",
-        "citation": "University of Toronto (Canada), 2016"
+        "citation": "University of Toronto (Canada), 2016",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
-        "citation": "Proceedings of Machine Learning and Systems 5, 2023"
+        "citation": "Proceedings of Machine Learning and Systems 5, 2023",
+        "num_citations": 13,
+        "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
-        "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021"
+        "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
+        "num_citations": 122,
+        "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
-        "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
+        "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
+        "num_citations": 37,
+        "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

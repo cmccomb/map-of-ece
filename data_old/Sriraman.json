@@ -1,0 +1,115 @@
+[
+    {
+        "title": "Accelerometer: Understanding acceleration opportunities for data center overheads at hyperscale",
+        "pub_year": "2020",
+        "citation": "Proceedings of the Twenty-Fifth International Conference on Architectural …, 2020"
+    },
+    {
+        "title": "Analytically Modeling NVM Design Trade-Offs",
+        "citation": "Non-Volatile Memories Workshop (Poster), 0"
+    },
+    {
+        "title": "Deconstructing the tail at scale effect across network protocols",
+        "pub_year": "2017",
+        "citation": "arXiv preprint arXiv:1701.03100, 2017"
+    },
+    {
+        "title": "Designing Equitable Data Center Scheduling Systems",
+        "citation": ""
+    },
+    {
+        "title": "Enabling hyperscale web services",
+        "pub_year": "2023",
+        "citation": "BenchCouncil Transactions on Benchmarks, Standards and Evaluations, 100092, 2023"
+    },
+    {
+        "title": "Enhancing server efficiency in the face of killer microseconds",
+        "pub_year": "2019",
+        "citation": "2019 IEEE International Symposium on High Performance Computer Architecture …, 2019"
+    },
+    {
+        "title": "Giving Old Servers New Life at Hyperscale",
+        "citation": ""
+    },
+    {
+        "title": "Hiding the Microsecond-Scale Latency of Storage-Class Memories with Duplexity",
+        "pub_year": "2019",
+        "citation": "Annual Non-Volative Memories Workshop, 2019"
+    },
+    {
+        "title": "Hiding the Microsecond-Scale Latency of Storage-Class Memories with Duplexity",
+        "citation": ""
+    },
+    {
+        "title": "I-spy: Context-driven conditional instruction prefetching with coalescing",
+        "pub_year": "2020",
+        "citation": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture …, 2020"
+    },
+    {
+        "title": "Killer Microseconds",
+        "citation": ""
+    },
+    {
+        "title": "Laser: Light, accurate sharing detection and repair",
+        "pub_year": "2016",
+        "citation": "2016 IEEE International Symposium on High Performance Computer Architecture …, 2016"
+    },
+    {
+        "title": "PGPG: Detecting and Mitigating Cache-based Microarchitectural Attacks Using Protean Code",
+        "citation": ""
+    },
+    {
+        "title": "Peeling Back the Carbon Curtain: Carbon Optimization Challenges in Cloud Computing",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 2nd Workshop on Sustainable Computer Systems, 1-7, 2023"
+    },
+    {
+        "title": "Ranganathan, Parthasarathy",
+        "citation": ""
+    },
+    {
+        "title": "Ripple: Profile-guided instruction cache replacement for data center applications",
+        "pub_year": "2021",
+        "citation": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture …, 2021"
+    },
+    {
+        "title": "Softsku: Optimizing server architectures for microservice diversity@ scale",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 46th International Symposium on Computer Architecture …, 2019"
+    },
+    {
+        "title": "Thermometer: profile-guided btb replacement for data center applications",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 49th Annual International Symposium on Computer …, 2022"
+    },
+    {
+        "title": "Towards Improved Power Management in Cloud GPUs",
+        "pub_year": "2023",
+        "citation": "IEEE Computer Architecture Letters, 2023"
+    },
+    {
+        "title": "Twig: Profile-guided btb prefetching for data center applications",
+        "pub_year": "2021",
+        "citation": "MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture …, 2021"
+    },
+    {
+        "title": "Understanding acceleration opportunities at hyperscale",
+        "pub_year": "2021",
+        "citation": "IEEE Micro 41 (3), 34-41, 2021"
+    },
+    {
+        "title": "Unfair data centers for fun and profit",
+        "pub_year": "2019",
+        "citation": "Wild and Crazy Ideas (ASPLOS), 2019"
+    },
+    {
+        "title": "{µTune}:{Auto-Tuned} Threading for {OLDI} Microservices",
+        "pub_year": "2018",
+        "citation": "13th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2018"
+    },
+    {
+        "title": "μ suite: a benchmark suite for microservices",
+        "pub_year": "2018",
+        "citation": "2018 IEEE International Symposium on Workload Characterization (IISWC), 1-12, 2018"
+    }
+]

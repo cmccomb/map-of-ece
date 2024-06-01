@@ -1,0 +1,830 @@
+[
+    {
+        "title": "2014 IEEE INFOCOM Workshop on Smart Data Pricing-Committees",
+        "citation": ""
+    },
+    {
+        "title": "22 Smart Data Pricing in 5G Systems",
+        "pub_year": "2017",
+        "citation": "Key Technologies for 5G Wireless Systems, 478, 2017"
+    },
+    {
+        "title": "A Highly Available Storage System for Elastic Fog",
+        "pub_year": "2020",
+        "citation": "Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication …, 2020"
+    },
+    {
+        "title": "A community platform for research on pricing and distributed machine learning",
+        "pub_year": "2020",
+        "citation": "2020 IEEE 40th International Conference on Distributed Computing Systems …, 2020"
+    },
+    {
+        "title": "A generative simulation platform for multi-agent systems with incentives",
+        "pub_year": "2020",
+        "citation": "Adjunct Proceedings of the 2020 ACM International Joint Conference on …, 2020"
+    },
+    {
+        "title": "A neural-based bandit approach to mobile crowdsourcing",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 23rd Annual International Workshop on Mobile Computing …, 2022"
+    },
+    {
+        "title": "A performance analysis of incentive mechanisms for cooperative computing",
+        "pub_year": "2016",
+        "citation": "2016 IEEE 36th International Conference on Distributed Computing Systems …, 2016"
+    },
+    {
+        "title": "A survey of smart data pricing: Past proposals, current plans, and future trends",
+        "pub_year": "2013",
+        "citation": "Acm computing surveys (csur) 46 (2), 1-37, 2013"
+    },
+    {
+        "title": "ACRE: Actor Critic Reinforcement Learning for Failure-Aware Edge Computing Migrations",
+        "pub_year": "2023",
+        "citation": "2023 57th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2023"
+    },
+    {
+        "title": "AMUSE: Empowering users for cost-aware offloading with throughput-delay tradeoffs",
+        "pub_year": "2015",
+        "citation": "IEEE Transactions on Mobile Computing 15 (5), 1062-1076, 2015"
+    },
+    {
+        "title": "ASC: Actuation system for city-wide crowdsensing with ride-sharing vehicular platform",
+        "pub_year": "2019",
+        "citation": "Proceedings of the Fourth Workshop on International Science of Smart City …, 2019"
+    },
+    {
+        "title": "Actuated Taxi Location Data [supporting dataset]",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Adacoopt: Leverage the interplay of batch size and aggregation frequency for federated learning",
+        "pub_year": "2023",
+        "citation": "2023 IEEE/ACM 31st International Symposium on Quality of Service (IWQoS), 1-10, 2023"
+    },
+    {
+        "title": "Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2310.11594, 2023"
+    },
+    {
+        "title": "An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.16809, 2024"
+    },
+    {
+        "title": "An Online Control Approach of Collaborative Federated Learning with Constrained Resources",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 7th Asia-Pacific Workshop on Networking, 211-212, 2023"
+    },
+    {
+        "title": "An economic analysis of wireless network infrastructure sharing",
+        "pub_year": "2017",
+        "citation": "2017 15th International Symposium on Modeling and Optimization in Mobile, Ad …, 2017"
+    },
+    {
+        "title": "An edge computing marketplace for distributed machine learning",
+        "pub_year": "2019",
+        "citation": "Proceedings of the ACM SIGCOMM 2019 Conference Posters and Demos, 36-38, 2019"
+    },
+    {
+        "title": "Assessing the structure of classical molecular optimal control landscapes",
+        "pub_year": "2019",
+        "citation": "Chemical Physics 527, 110504, 2019"
+    },
+    {
+        "title": "Batch-size independent regret bounds for combinatorial semi-bandits with probabilistically triggered arms or independent arms",
+        "pub_year": "2022",
+        "citation": "Advances in Neural Information Processing Systems 35, 14904-14916, 2022"
+    },
+    {
+        "title": "Behavior-based grade prediction for MOOCs via time series neural networks",
+        "pub_year": "2017",
+        "citation": "IEEE Journal of Selected Topics in Signal Processing 11 (5), 716-728, 2017"
+    },
+    {
+        "title": "Burstable instances for clouds: Performance modeling, equilibrium analysis, and revenue maximization",
+        "pub_year": "2020",
+        "citation": "IEEE/ACM Transactions on Networking 28 (6), 2489-2502, 2020"
+    },
+    {
+        "title": "CASTLE over the air: Distributed scheduling for cellular data transmissions",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 17th Annual International Conference on Mobile Systems …, 2019"
+    },
+    {
+        "title": "CYRUS",
+        "pub_year": "2015",
+        "citation": "Proceedings of the Tenth European Conference on Computer Systems, 2015"
+    },
+    {
+        "title": "CYRUS: Towards client-defined cloud storage",
+        "pub_year": "2015",
+        "citation": "Proceedings of the Tenth European Conference on Computer Systems, 1-16, 2015"
+    },
+    {
+        "title": "Cache-Enabled Federated Learning Systems",
+        "pub_year": "2023",
+        "citation": "Proceedings of the Twenty-fourth International Symposium on Theory …, 2023"
+    },
+    {
+        "title": "Can we generalize and distribute private representation learning?",
+        "pub_year": "2022",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 11320-11340, 2022"
+    },
+    {
+        "title": "Characterizing internal evasion attacks in federated learning",
+        "pub_year": "2023",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 907-921, 2023"
+    },
+    {
+        "title": "Client-side inference of wireless network states",
+        "pub_year": "2016",
+        "citation": "US Patent 9,407,508, 2016"
+    },
+    {
+        "title": "CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.18451, 2024"
+    },
+    {
+        "title": "Coded edge computing",
+        "pub_year": "2020",
+        "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 237-246, 2020"
+    },
+    {
+        "title": "Combinatorial multi-armed bandits for resource allocation",
+        "pub_year": "2021",
+        "citation": "2021 55th Annual Conference on Information Sciences and Systems (CISS), 1-4, 2021"
+    },
+    {
+        "title": "Correlated combinatorial bandits for online resource allocation",
+        "pub_year": "2022",
+        "citation": "Proceedings of the Twenty-Third International Symposium on Theory …, 2022"
+    },
+    {
+        "title": "DRF: A software architecture for a data marketplace to support advanced air mobility",
+        "pub_year": "2021",
+        "citation": "AIAA Aviation 2021 Forum, 2387, 2021"
+    },
+    {
+        "title": "DYNAMITE: Dynamic Interplay of Mini-Batch Size and Aggregation Frequency for Federated Learning with Static and Streaming Dataset",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Mobile Computing, 2023"
+    },
+    {
+        "title": "Datanet: Enabling Seamless, Metered and Trusted Internet Connectivity without Subscriptions",
+        "pub_year": "2021",
+        "citation": "2021 IEEE International Conference on Communications Workshops (ICC …, 2021"
+    },
+    {
+        "title": "Demo Abstract: Edge-assisted Collaborative Image Recognition for Augmented Reality",
+        "pub_year": "2019",
+        "citation": ""
+    },
+    {
+        "title": "Discovering valuations and enforcing truthfulness in a deadline-aware scheduler",
+        "pub_year": "2017",
+        "citation": "IEEE INFOCOM 2017-IEEE Conference on Computer Communications, 1-9, 2017"
+    },
+    {
+        "title": "Distributed inference acceleration with adaptive DNN partitioning and offloading",
+        "pub_year": "2020",
+        "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 854-863, 2020"
+    },
+    {
+        "title": "Do mobile data plans affect usage? Results from a pricing trial with ISP customers",
+        "pub_year": "2015",
+        "citation": "Passive and Active Measurement: 16th International Conference, PAM 2015, New …, 2015"
+    },
+    {
+        "title": "Doll: Distributed online learning using preemptible cloud instances",
+        "pub_year": "2022",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 50 (2), 21-23, 2022"
+    },
+    {
+        "title": "Dynamic coupling strategy for interdependent network systems against cascading failures",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Network Science and Engineering, 2023"
+    },
+    {
+        "title": "ECHO: Efficiently overbooking applications to create a highly available cloud",
+        "pub_year": "2019",
+        "citation": "2019 IEEE 39th International Conference on Distributed Computing Systems …, 2019"
+    },
+    {
+        "title": "Economic Models of Sponsored Content in Wireless Networks with Uncertain Demand",
+        "pub_year": "2014",
+        "citation": "Wiley Telecom, 2014"
+    },
+    {
+        "title": "Economic viability of a virtual ISP",
+        "pub_year": "2020",
+        "citation": "IEEE/ACM transactions on networking 28 (2), 902-916, 2020"
+    },
+    {
+        "title": "Edge-assisted collaborative image recognition for mobile augmented reality",
+        "pub_year": "2021",
+        "citation": "ACM Transactions on Sensor Networks (TOSN) 18 (1), 1-31, 2021"
+    },
+    {
+        "title": "EdgeC3: Online Management for Edge-Cloud Collaborative Continuous Learning",
+        "pub_year": "2023",
+        "citation": "2023 20th Annual IEEE International Conference on Sensing, Communication …, 2023"
+    },
+    {
+        "title": "Empowering Federated Learning with Implicit Gossiping: Mitigating Connection Unreliability Amidst Unknown and Arbitrary Dynamics",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.10091, 2024"
+    },
+    {
+        "title": "Evaluating Resilience in Mixed-Autonomy",
+        "pub_year": "2022",
+        "citation": "Mobility21, Carnegie Mellon University, 2022"
+    },
+    {
+        "title": "Evaluating the Optimality of Dynamic Coupling Strategies in Interdependent Network Systems",
+        "pub_year": "2023",
+        "citation": "ICC 2023-IEEE International Conference on Communications, 1474-1480, 2023"
+    },
+    {
+        "title": "Executive Co-Chair",
+        "citation": ""
+    },
+    {
+        "title": "FLARE: Coordinated rate adaptation for HTTP adaptive streaming in cellular networks",
+        "pub_year": "2017",
+        "citation": "2017 IEEE 37th International Conference on Distributed Computing Systems …, 2017"
+    },
+    {
+        "title": "Fair Concurrent Training of Multiple Models in Federated Learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.13841, 2024"
+    },
+    {
+        "title": "Fair Training of Multiple Federated Learning Models on Resource Constrained Network Devices",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 22nd International Conference on Information Processing …, 2023"
+    },
+    {
+        "title": "Faithful Explanations for Deep Graph Models",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2205.11850, 2022"
+    },
+    {
+        "title": "FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph Convolutional Networks",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+    },
+    {
+        "title": "FedML-HE: An Efficient Homomorphic-Encryption-Based Privacy-Preserving Federated Learning System",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2303.10837, 2023"
+    },
+    {
+        "title": "FedRule: Federated Rule Recommendation System with Graph Neural Networks",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and …, 2023"
+    },
+    {
+        "title": "Federated Learning at the Edge: An Interplay of Mini-batch Size and Aggregation Frequency",
+        "pub_year": "2023",
+        "citation": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications Workshops …, 2023"
+    },
+    {
+        "title": "Fedsoft: Soft clustered federated learning with proximal local updating",
+        "pub_year": "2022",
+        "citation": "Proceedings of the AAAI conference on artificial intelligence 36 (7), 8124-8131, 2022"
+    },
+    {
+        "title": "Fire: A failure-adaptive reinforcement learning framework for edge computing migrations",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2209.14399, 2022"
+    },
+    {
+        "title": "Fog-based data offloading in urban IoT scenarios",
+        "pub_year": "2019",
+        "citation": "IEEE INFOCOM 2019-IEEE Conference on Computer Communications, 784-792, 2019"
+    },
+    {
+        "title": "Gcn-se: Attention as explainability for node classification in dynamic graphs",
+        "pub_year": "2021",
+        "citation": "2021 IEEE International Conference on Data Mining (ICDM), 1060-1065, 2021"
+    },
+    {
+        "title": "GiPH: Generalizable Placement Learning for Adaptive Heterogeneous Computing",
+        "pub_year": "2023",
+        "citation": "Proceedings of Machine Learning and Systems 5, 2023"
+    },
+    {
+        "title": "Guest editorial: smart data pricing for next-generation networks",
+        "pub_year": "2020",
+        "citation": "IEEE Journal on Selected Areas in Communications 38 (4), 641-644, 2020"
+    },
+    {
+        "title": "Harnessing the power of the cloud: Revenue, fairness, and cloud neutrality",
+        "pub_year": "2018",
+        "citation": "Journal of Management Information Systems 35 (3), 813-836, 2018"
+    },
+    {
+        "title": "Hierarchical conversational preference elicitation with bandit feedback",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 31st ACM International Conference on Information …, 2022"
+    },
+    {
+        "title": "How to bid the cloud",
+        "pub_year": "2015",
+        "citation": "ACM SIGCOMM Computer Communication Review 45 (4), 71-84, 2015"
+    },
+    {
+        "title": "How valuable is your data? optimizing client recruitment in federated learning",
+        "pub_year": "2021",
+        "citation": "2021 19th International Symposium on Modeling and Optimization in Mobile, Ad …, 2021"
+    },
+    {
+        "title": "Human Factors in Smart Data Pricing",
+        "pub_year": "2014",
+        "citation": "Smart Data Pricing, 127-166, 2014"
+    },
+    {
+        "title": "I sent it: Where does slow data go to wait?",
+        "pub_year": "2019",
+        "citation": "Proceedings of the Fourteenth EuroSys Conference 2019, 1-15, 2019"
+    },
+    {
+        "title": "ICDCS 2019",
+        "citation": ""
+    },
+    {
+        "title": "IEEE COMMUNICATIONS SOCIETY",
+        "citation": ""
+    },
+    {
+        "title": "INFOCOM WKSHPS FOGML 2021: IEEE INFOCOM WKSHPS: FOGML 2021: The First International INFOCOM Workshop on Distributed Machine Learning and Fog Networks-Committees",
+        "citation": ""
+    },
+    {
+        "title": "Idrone: Robust drone identification through motion actuation feedback",
+        "pub_year": "2018",
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2018"
+    },
+    {
+        "title": "Improving user QoE for residential broadband: Adaptive traffic management at the network edge",
+        "pub_year": "2015",
+        "citation": "2015 IEEE 23rd International Symposium on Quality of Service (IWQoS), 105-114, 2015"
+    },
+    {
+        "title": "Incentivizing opportunistic data collection for time-sensitive IoT applications",
+        "pub_year": "2021",
+        "citation": "2021 18th Annual IEEE International Conference on Sensing, Communication …, 2021"
+    },
+    {
+        "title": "Incentivizing time-shifting of data: a survey of time-dependent pricing for internet access",
+        "pub_year": "2012",
+        "citation": "IEEE Communications Magazine 50 (11), 91-99, 2012"
+    },
+    {
+        "title": "Intelligent Communication Planning for Constrained Environmental IoT Sensing with Reinforcement Learning",
+        "pub_year": "2023",
+        "citation": "2023 20th Annual IEEE International Conference on Sensing, Communication …, 2023"
+    },
+    {
+        "title": "Interdatacenter job routing and scheduling with variable costs and deadlines",
+        "pub_year": "2015",
+        "citation": "IEEE Transactions on Smart Grid 6 (6), 2669-2680, 2015"
+    },
+    {
+        "title": "Interpretable clustering on dynamic graphs with recurrent graph neural networks",
+        "pub_year": "2021",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (5), 4608-4616, 2021"
+    },
+    {
+        "title": "Learning cloud dynamics to optimize spot instance bidding strategies",
+        "pub_year": "2018",
+        "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2762-2770, 2018"
+    },
+    {
+        "title": "Learning with Side Information: Elastic Multi-resource Control for the Open RAN",
+        "pub_year": "2023",
+        "citation": "IEEE Journal on Selected Areas in Communications, 2023"
+    },
+    {
+        "title": "MOVI: A model-free approach to dynamic fleet management",
+        "pub_year": "2018",
+        "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2708-2716, 2018"
+    },
+    {
+        "title": "Machine learning on volatile instances: Convergence, runtime, and cost tradeoffs",
+        "pub_year": "2021",
+        "citation": "IEEE/ACM Transactions on Networking 30 (1), 215-228, 2021"
+    },
+    {
+        "title": "Mathematical frameworks for pricing in the cloud: Revenue, fairness, and resource allocations, 2012",
+        "citation": "CoRR arXiv: abs/1212 22, 0"
+    },
+    {
+        "title": "Max-min fair resource allocation in hetnets: Distributed algorithms and hybrid architecture",
+        "pub_year": "2017",
+        "citation": "2017 IEEE 37th International Conference on Distributed Computing Systems …, 2017"
+    },
+    {
+        "title": "Mind Your Own Bandwidth",
+        "pub_year": "2017",
+        "citation": "Fog for 5G and IoT, 24-51, 2017"
+    },
+    {
+        "title": "Modems: Optimizing edge computing migrations for user mobility",
+        "pub_year": "2022",
+        "citation": "IEEE Journal on Selected Areas in Communications 41 (3), 675-689, 2022"
+    },
+    {
+        "title": "Multiresource allocation: Fairness–efficiency tradeoffs in a unifying framework",
+        "pub_year": "2013",
+        "citation": "IEEE/ACM Transactions on Networking 21 (6), 1785-1798, 2013"
+    },
+    {
+        "title": "Near-optimal online algorithms for joint pricing and scheduling in ev charging networks",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 14th ACM International Conference on Future Energy …, 2023"
+    },
+    {
+        "title": "Network-aware optimization of distributed learning for fog computing",
+        "pub_year": "2021",
+        "citation": "IEEE/ACM Transactions on Networking 29 (5), 2019-2032, 2021"
+    },
+    {
+        "title": "New transgenic reporters identify somatosensory neuron subtypes in larval zebrafish",
+        "pub_year": "2013",
+        "citation": "Developmental neurobiology 73 (2), 152-167, 2013"
+    },
+    {
+        "title": "Observe before play: Multi-armed bandit with pre-observations",
+        "pub_year": "2019",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 46 (2), 89-90, 2019"
+    },
+    {
+        "title": "Offering supplementary wireless technologies: Adoption behavior and offloading benefits",
+        "pub_year": "2013",
+        "citation": "INFOCOM, 2013 Proceedings IEEE, 1061-1069, 2013"
+    },
+    {
+        "title": "On choosing the form of the objective functional for optimal control of molecules",
+        "pub_year": "2016",
+        "citation": "Journal of Mathematical Chemistry 54, 1-9, 2016"
+    },
+    {
+        "title": "On merits and viability of multi-cloud serverless",
+        "pub_year": "2021",
+        "citation": "Proceedings of the ACM Symposium on Cloud Computing, 600-608, 2021"
+    },
+    {
+        "title": "On the economic value of mobile caching",
+        "pub_year": "2020",
+        "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 984-993, 2020"
+    },
+    {
+        "title": "On the real-time vehicle placement problem",
+        "pub_year": "2017",
+        "citation": "arXiv preprint arXiv:1712.01235, 2017"
+    },
+    {
+        "title": "On the viability of a cloud virtual service provider",
+        "pub_year": "2016",
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 44 (1), 235-248, 2016"
+    },
+    {
+        "title": "Online competitive influence maximization",
+        "pub_year": "2022",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 11472-11502, 2022"
+    },
+    {
+        "title": "Optimal network protocol selection for competing flows via online learning",
+        "pub_year": "2022",
+        "citation": "IEEE Transactions on Mobile Computing, 2022"
+    },
+    {
+        "title": "Optimized Dynamic Pricing for Broadband Access",
+        "citation": "Princeton University, Tech. Rep., 2011.[Online]. Available: http://scenic …, 0"
+    },
+    {
+        "title": "Optimized day-ahead pricing for smart grids with device-specific scheduling flexibility",
+        "pub_year": "2012",
+        "citation": "IEEE Journal on Selected Areas in Communications 30 (6), 1075-1085, 2012"
+    },
+    {
+        "title": "Optimizing data plans: Usage dynamics in mobile data networks",
+        "pub_year": "2018",
+        "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2474-2482, 2018"
+    },
+    {
+        "title": "POSTER: GREY-BOX DEFENSE FOR PERSONALIZED FEDERATED LEARNING",
+        "citation": ""
+    },
+    {
+        "title": "POSTER: PERSONALIZED FEDERATED GRAPH LEARNING",
+        "citation": ""
+    },
+    {
+        "title": "Paid prioritization with content competition",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2007.14574, 2020"
+    },
+    {
+        "title": "Pas: Prediction-based actuation system for city-scale ridesharing vehicular mobile crowdsensing",
+        "pub_year": "2020",
+        "citation": "IEEE Internet of Things Journal 7 (5), 3719-3734, 2020"
+    },
+    {
+        "title": "Payplace: Secure and flexible operator-mediated payments in blockchain marketplaces at scale",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2003.06197, 2020"
+    },
+    {
+        "title": "Personalized Federated Graph Learning",
+        "citation": ""
+    },
+    {
+        "title": "Plan B: Design methodology for cyber-physical systems robust to timing failures",
+        "pub_year": "2022",
+        "citation": "ACM Transactions on Cyber-Physical Systems (TCPS) 6 (3), 1-39, 2022"
+    },
+    {
+        "title": "Predicting Learning Interactions in Social Learning Networks: A Deep Learning Enabled Approach",
+        "pub_year": "2023",
+        "citation": "IEEE/ACM Transactions on Networking, 2023"
+    },
+    {
+        "title": "Predicting learner interactions in social learning networks",
+        "pub_year": "2018",
+        "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 1322-1330, 2018"
+    },
+    {
+        "title": "Pricing by Timing of Mobile Data",
+        "citation": ""
+    },
+    {
+        "title": "Pricing by Timing: Innovating Broadband Data Plans",
+        "citation": ""
+    },
+    {
+        "title": "Pricing by timing: innovating broadband data plans",
+        "pub_year": "2012",
+        "citation": "Broadband Access Communication Technologies VI 8282, 67-79, 2012"
+    },
+    {
+        "title": "Pricing data: A look at past proposals, current plans, and future trends",
+        "pub_year": "2012",
+        "citation": "CoRR, abs/1201.4197, 2012"
+    },
+    {
+        "title": "Pricing tradeoffs for data analytics in fog–cloud scenarios",
+        "pub_year": "2020",
+        "citation": "Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication …, 2020"
+    },
+    {
+        "title": "Principles for Assessing Adaptive Online Courses.",
+        "pub_year": "2018",
+        "citation": "International Educational Data Mining Society, 2018"
+    },
+    {
+        "title": "Procuring spontaneous session-level resource guarantees for real-time applications: An auction approach",
+        "pub_year": "2019",
+        "citation": "IEEE Journal on Selected Areas in Communications 37 (7), 1534-1548, 2019"
+    },
+    {
+        "title": "Proportional fair RAT aggregation in hetnets",
+        "pub_year": "2019",
+        "citation": "2019 31st International Teletraffic Congress (ITC 31), 84-92, 2019"
+    },
+    {
+        "title": "RGMComm: Return Gap Minimization via Discrete Communications in Multi-Agent Reinforcement Learning",
+        "pub_year": "2024",
+        "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (16), 17327 …, 2024"
+    },
+    {
+        "title": "Reconstructing actions to explain deep reinforcement learning",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2009.08507, 2020"
+    },
+    {
+        "title": "SDP 2015: The fourth IEEE workshop on smart data pricing 2015-committees",
+        "citation": ""
+    },
+    {
+        "title": "SPARCLE: Stream processing applications over dispersed computing networks",
+        "pub_year": "2020",
+        "citation": "2020 IEEE 40th International Conference on Distributed Computing Systems …, 2020"
+    },
+    {
+        "title": "SVC-TChain: Incentivizing good behavior in layered P2P video streaming",
+        "pub_year": "2017",
+        "citation": "IEEE INFOCOM 2017-IEEE Conference on Computer Communications, 1-9, 2017"
+    },
+    {
+        "title": "Secondary markets for mobile data: Feasibility and benefits of traded data plans",
+        "pub_year": "2015",
+        "citation": "2015 IEEE Conference on Computer Communications (INFOCOM), 1580-1588, 2015"
+    },
+    {
+        "title": "Smart Data Pricing",
+        "citation": ""
+    },
+    {
+        "title": "Smart Data Pricing: Using Economics to Manage Network Congestion Economic incentives that alleviate congestion for Internet customers can also improve business performance for …",
+        "citation": ""
+    },
+    {
+        "title": "Smart Pricing of Cloud Resources",
+        "pub_year": "2014",
+        "citation": "Wiley Telecom, 2014"
+    },
+    {
+        "title": "Smart data pricing",
+        "pub_year": "2014",
+        "citation": "John Wiley & Sons, 2014"
+    },
+    {
+        "title": "Smart data pricing",
+        "pub_year": "2016",
+        "citation": "Princeton University, 2016"
+    },
+    {
+        "title": "Smart data pricing (SDP): Economic solutions to network congestion",
+        "pub_year": "2013",
+        "citation": "Recent advances in networking 1 (1), 221-274, 2013"
+    },
+    {
+        "title": "Smart data pricing: Lessons from trial planning",
+        "pub_year": "2013",
+        "citation": "2013 Proceedings IEEE INFOCOM, 3327-3332, 2013"
+    },
+    {
+        "title": "Smart data pricing: Using economics to manage network congestion",
+        "pub_year": "2015",
+        "citation": "Communications of the ACM 58 (12), 86-93, 2015"
+    },
+    {
+        "title": "Spare Capacity Monetization by Opportunistic Content Scheduling",
+        "pub_year": "2014",
+        "citation": "Smart Data Pricing, 363-389, 2014"
+    },
+    {
+        "title": "Sponsored data system and method",
+        "pub_year": "2015",
+        "citation": "US Patent App. 14/755,983, 2015"
+    },
+    {
+        "title": "Sponsoring mobile data: Analyzing the impact on internet stakeholders",
+        "pub_year": "2018",
+        "citation": "IEEE/ACM Transactions on Networking 26 (3), 1179-1192, 2018"
+    },
+    {
+        "title": "System and method for coordinating client-side inference of mobile network loading and capacity",
+        "pub_year": "2017",
+        "citation": "US Patent 9,794,155, 2017"
+    },
+    {
+        "title": "System and method for scheduling mobile data during a spectrum valley",
+        "pub_year": "2017",
+        "citation": "US Patent 9,820,291, 2017"
+    },
+    {
+        "title": "System and method for variable pricing of data usage",
+        "pub_year": "2018",
+        "citation": "US Patent 9,865,009, 2018"
+    },
+    {
+        "title": "System and methods for time deferred transmission of mobile data",
+        "pub_year": "2020",
+        "citation": "US Patent 10,536,584, 2020"
+    },
+    {
+        "title": "T-Chain: A General Incentive Scheme for Cooperative Computing",
+        "pub_year": "2017",
+        "citation": "IEEE/ACM Transactions on Networking 25 (4), 2122-2137, 2017"
+    },
+    {
+        "title": "TPC Chairs",
+        "citation": ""
+    },
+    {
+        "title": "TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.13082, 2024"
+    },
+    {
+        "title": "TUBE: Time-dependent pricing for mobile data",
+        "pub_year": "2012",
+        "citation": "Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …, 2012"
+    },
+    {
+        "title": "Taxi-for-all: Incentivized Taxi Actuation System for Balanced Area-wide Service",
+        "pub_year": "2021",
+        "citation": "Mobility21, Carnegie Mellon University, 2021"
+    },
+    {
+        "title": "The economics of shared data plans",
+        "pub_year": "2012",
+        "citation": "Annual Workshop on Information Technologies and Systems, 2012"
+    },
+    {
+        "title": "Time-Dependent Pricing of Mobile Data: Model, Systems, and Field Trials",
+        "citation": ""
+    },
+    {
+        "title": "Time-dependent broadband pricing: Feasibility and benefits",
+        "pub_year": "2011",
+        "citation": "Distributed Computing Systems (ICDCS), 2011 31st International Conference on …, 2011"
+    },
+    {
+        "title": "Time-dependent electricity pricing using variable announcement horizons",
+        "pub_year": "2020",
+        "citation": "Energy Informatics 3, 1-21, 2020"
+    },
+    {
+        "title": "Time-dependent pricing for multimedia data traffic: analysis, systems, and trials",
+        "pub_year": "2019",
+        "citation": "IEEE Journal on Selected Areas in Communications 37 (7), 1504-1517, 2019"
+    },
+    {
+        "title": "To accept or not to accept: The question of supplemental discount offers in mobile data plans",
+        "pub_year": "2018",
+        "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2609-2617, 2018"
+    },
+    {
+        "title": "Topology of Classical Molecular Optimal Control Landscapes in Phase Space",
+        "pub_year": "2011",
+        "citation": "Journal of Chemical Physics, 2011"
+    },
+    {
+        "title": "Topology of Optimal Control Landscapes for Molecular Systems Modeled with Classical Dynamics",
+        "pub_year": "2011",
+        "citation": ""
+    },
+    {
+        "title": "Topology of classical molecular optimal control landscapes for multi-target objectives",
+        "pub_year": "2015",
+        "citation": "The Journal of chemical physics 142 (15), 2015"
+    },
+    {
+        "title": "Towards Effective Resource Procurement in MEC: a Resource Re-selling Framework",
+        "pub_year": "2023",
+        "citation": "IEEE Transactions on Services Computing, 2023"
+    },
+    {
+        "title": "Towards bias correction of fedavg over nonuniform and time-varying communications",
+        "pub_year": "2023",
+        "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 6719-6724, 2023"
+    },
+    {
+        "title": "Towards flexible device participation in federated learning",
+        "pub_year": "2021",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 3403-3411, 2021"
+    },
+    {
+        "title": "Understanding rollover data",
+        "pub_year": "2016",
+        "citation": "2016 IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS …, 2016"
+    },
+    {
+        "title": "Variance-adaptive algorithm for probabilistic maximum coverage bandits with general feedback",
+        "pub_year": "2023",
+        "citation": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 1-10, 2023"
+    },
+    {
+        "title": "When the price is right",
+        "pub_year": "2013",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 2013"
+    },
+    {
+        "title": "When the price is right: Enabling time-dependent pricing of broadband data",
+        "pub_year": "2013",
+        "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2013"
+    },
+    {
+        "title": "Wiley Series on Information and Communication Technology",
+        "pub_year": "2014",
+        "citation": "Wiley Telecom, 2014"
+    },
+    {
+        "title": "Workshop on Cross-Community Federated Learning: Algorithms, Systems and Co-designs",
+        "pub_year": "2022",
+        "citation": "Conference on Machine Learning and Systems, 2022"
+    },
+    {
+        "title": "Wyze Rule: Federated Rule Dataset for Rule Recommendation Benchmarking",
+        "pub_year": "2024",
+        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+    },
+    {
+        "title": "enabling mobile time-dependent pricing",
+        "pub_year": "2012",
+        "citation": "Proceedings of the 10th international conference on Mobile systems …, 2012"
+    },
+    {
+        "title": "ilocus: Incentivizing vehicle mobility to optimize sensing distribution in crowd sensing",
+        "pub_year": "2019",
+        "citation": "IEEE Transactions on Mobile Computing 19 (8), 1831-1847, 2019"
+    }
+]
