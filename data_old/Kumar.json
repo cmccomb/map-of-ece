@@ -1,863 +1,1213 @@
 [
     {
         "title": "2022 21st ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)| 978-1-6654-9624-7/22/$31.00© 2022 IEEE| DOI: 10.1109/IPSN54338. 2022.00073",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:HFi42EZPDb4C"
     },
     {
         "title": "2022 IEEE Symposium on Security and Privacy (SP)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:eb1hsBXB1ukC"
     },
     {
         "title": "A Hybrid mmWave and Camera System for Long-Range Depth Imaging",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2106.07856, 2021"
+        "citation": "arXiv preprint arXiv:2106.07856, 2021",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:gQbQcM3rmFsC"
     },
     {
         "title": "A cloud-assisted design for autonomous driving",
         "pub_year": "2012",
-        "citation": "Proceedings of the first edition of the MCC workshop on Mobile cloud …, 2012"
+        "citation": "Proceedings of the first edition of the MCC workshop on Mobile cloud …, 2012",
+        "num_citations": 111,
+        "author_pub_id": "WfaqxlgAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "A cloud-optimized link layer for low-power wide-area networks",
         "pub_year": "2020",
-        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020"
+        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020",
+        "num_citations": 45,
+        "author_pub_id": "WfaqxlgAAAAJ:oXpGQvThPk8C"
     },
     {
         "title": "A community-driven approach to democratize access to satellite ground stations",
         "pub_year": "2021",
-        "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021"
+        "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021",
+        "num_citations": 25,
+        "author_pub_id": "WfaqxlgAAAAJ:MwHAKEtqQGUC"
     },
     {
         "title": "A content-centric network for autonomous driving",
         "pub_year": "2012",
-        "citation": "Proc. of the ACM SIGCOMM 2012 Conference on Applications, Technologies …, 2012"
+        "citation": "Proc. of the ACM SIGCOMM 2012 Conference on Applications, Technologies …, 2012",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:sEK1m4D7fbcC"
     },
     {
         "title": "A deep learning approach to IoT authentication",
         "pub_year": "2018",
-        "citation": "2018 IEEE International Conference on Communications (ICC), 1-6, 2018"
+        "citation": "2018 IEEE International Conference on Communications (ICC), 1-6, 2018",
+        "num_citations": 134,
+        "author_pub_id": "WfaqxlgAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "A distributed reception architecture for low-power wide-area networking",
         "pub_year": "2020",
-        "citation": "Carnegie Mellon University, 2020"
+        "citation": "Carnegie Mellon University, 2020",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:kFIFcbgrf0oC"
     },
     {
         "title": "A wireless signal-based sensing framework for robotics",
         "pub_year": "2022",
-        "citation": "The International Journal of Robotics Research 41 (11-12), 955-992, 2022"
+        "citation": "The International Journal of Robotics Research 41 (11-12), 955-992, 2022",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:yuCoZvLJRl8C"
     },
     {
         "title": "Accurate Indoor Localization With Zero Start-up Cost",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:yptliwwhi3IC"
     },
     {
         "title": "Accurate Indoor Localization with Zero Start-up Cost (MobiCom)",
         "pub_year": "2014",
-        "citation": ""
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:UwEomQ3UdWgC"
     },
     {
         "title": "Accurate indoor localization with zero start-up cost",
         "pub_year": "2014",
-        "citation": "Proceedings of the 20th annual international conference on Mobile computing …, 2014"
+        "citation": "Proceedings of the 20th annual international conference on Mobile computing …, 2014",
+        "num_citations": 461,
+        "author_pub_id": "WfaqxlgAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Accurate indoor localizationwith zero start-up cost",
-        "citation": "Proceedings of the 20th annual internationalconference on Mobile computing …, 0"
+        "citation": "Proceedings of the 20th annual internationalconference on Mobile computing …, 0",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:DQQjGlBKAuwC"
     },
     {
         "title": "Adaptive communication for mobile router systems",
         "pub_year": "2017",
-        "citation": "US Patent 9,801,081, 2017"
+        "citation": "US Patent 9,801,081, 2017",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:qyhmnyLat1gC"
     },
     {
         "title": "Adaptive communication in multi-robot systems using directionality of signal strength",
         "pub_year": "2015",
-        "citation": "The International Journal of Robotics Research 34 (7), 946-968, 2015"
+        "citation": "The International Journal of Robotics Research 34 (7), 946-968, 2015",
+        "num_citations": 70,
+        "author_pub_id": "WfaqxlgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Adaptive communication in multi-robot systems using directionality of signal strength",
         "pub_year": "2016",
-        "citation": "Robotics Research: The 16th International Symposium ISRR, 57-77, 2016"
+        "citation": "Robotics Research: The 16th International Symposium ISRR, 57-77, 2016",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:22N0J9dj6kwC"
     },
     {
         "title": "Adaptive communication networks for heterogeneous teams of robots",
         "pub_year": "2014",
-        "citation": "Massachusetts Institute of Technology, 2014"
+        "citation": "Massachusetts Institute of Technology, 2014",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:IyMil-iDmu0C"
     },
     {
         "title": "Applied Cryptography and Network Security: 8th International Conference, ACNS 2010, Beijing, China, June 22-25, 2010, Proceedings",
         "pub_year": "2010",
-        "citation": "Springer, 2010"
+        "citation": "Springer, 2010",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:NN0YOz9s3UgC"
     },
     {
         "title": "Attribute based signatures for bounded multi-level threshold circuits",
         "pub_year": "2010",
-        "citation": "European Public Key Infrastructure Workshop, 141-154, 2010"
+        "citation": "European Public Key Infrastructure Workshop, 141-154, 2010",
+        "num_citations": 27,
+        "author_pub_id": "WfaqxlgAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Battery-free Wideband Spectrum Mapping using Commodity RFID Tags",
         "pub_year": "2023",
-        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023"
+        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:g-FVFPYC6a8C"
     },
     {
         "title": "Blind Wireless Beamforming to Power, Heat, and Move",
         "pub_year": "2022",
-        "citation": "Carnegie Mellon University, 2022"
+        "citation": "Carnegie Mellon University, 2022",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:QjNCP7ux8QYC"
     },
     {
         "title": "Bringing cross-layer MIMO to today's wireless LANs",
         "pub_year": "2013",
-        "citation": "Proceedings of the ACM SIGCOMM 2013 conference on SIGCOMM, 387-398, 2013"
+        "citation": "Proceedings of the ACM SIGCOMM 2013 conference on SIGCOMM, 387-398, 2013",
+        "num_citations": 159,
+        "author_pub_id": "WfaqxlgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Bringing cross-layer MIMO to today’s wireless LANs",
         "pub_year": "2013",
-        "citation": "Proceedings of ACM SIGCOMM, 2013"
+        "citation": "Proceedings of ACM SIGCOMM, 2013",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:m_tu6TPmoiMC"
     },
     {
         "title": "Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "CHI'22: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems",
         "pub_year": "2022",
-        "citation": "ACM, 2022"
+        "citation": "ACM, 2022",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:hUq98zRk74IC"
     },
     {
         "title": "COVID-19 Fight enlists digital technology: tracking an elusive foe",
         "pub_year": "2020",
-        "citation": "Engineering (Beijing, China) 6 (10), 1061, 2020"
+        "citation": "Engineering (Beijing, China) 6 (10), 1061, 2020",
+        "num_citations": 7,
+        "author_pub_id": "WfaqxlgAAAAJ:uK1dVpBkok0C"
     },
     {
         "title": "COVID-19 fight enlists digital technology: contact tracing apps",
         "pub_year": "2020",
-        "citation": "Engineering (Beijing, China) 6 (10), 1064, 2020"
+        "citation": "Engineering (Beijing, China) 6 (10), 1064, 2020",
+        "num_citations": 26,
+        "author_pub_id": "WfaqxlgAAAAJ:-jghkW3WqMUC"
     },
     {
         "title": "CarSpeak",
         "pub_year": "2012",
-        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 259-270, 2012"
+        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 259-270, 2012",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:lo0OIn9KAZgC"
     },
     {
         "title": "CarSpeak: a content-centric network for autonomous driving",
         "pub_year": "2012",
-        "citation": "Massachusetts Institute of Technology, 2012"
+        "citation": "Massachusetts Institute of Technology, 2012",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:T-SPRlcIgBMC"
     },
     {
         "title": "Carnegie Mellon University; Dina Katabi",
         "pub_year": "2016",
-        "citation": "MIT CSAIL, 2016"
+        "citation": "MIT CSAIL, 2016",
+        "num_citations": 11,
+        "author_pub_id": "WfaqxlgAAAAJ:7bRg-L-9LFcC"
     },
     {
         "title": "Carspeak: a content-centric network for autonomous driving",
         "pub_year": "2012",
-        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 259-270, 2012"
+        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 259-270, 2012",
+        "num_citations": 156,
+        "author_pub_id": "WfaqxlgAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Characterizing multipath delays in antenna array and synthetic aperture radar systems",
         "pub_year": "2020",
-        "citation": "US Patent 10,838,035, 2020"
+        "citation": "US Patent 10,838,035, 2020",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:YifW7xAlWS4C"
     },
     {
         "title": "Characterizing transmit channels from an antenna array to a transceiver",
         "pub_year": "2020",
-        "citation": "US Patent 10,756,831, 2020"
+        "citation": "US Patent 10,756,831, 2020",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Charm: exploiting geographical diversity through coherent combining in low-power wide-area networks",
         "pub_year": "2018",
-        "citation": "2018 17th ACM/IEEE International Conference on Information Processing in …, 2018"
+        "citation": "2018 17th ACM/IEEE International Conference on Information Processing in …, 2018",
+        "num_citations": 137,
+        "author_pub_id": "WfaqxlgAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Choir: Empowering Low-Power Wide-Area Networks in Urban Settings",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:9Gmr9OE0IYAC"
     },
     {
         "title": "Coherent transmission from distributed wireless transmitters",
         "pub_year": "2015",
-        "citation": "US Patent 9,031,180, 2015"
+        "citation": "US Patent 9,031,180, 2015",
+        "num_citations": 53,
+        "author_pub_id": "WfaqxlgAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Coherent transmission from distributed wireless transmitters",
         "pub_year": "2015",
-        "citation": "US Patent 9,031,180, 2015"
+        "citation": "US Patent 9,031,180, 2015",
+        "num_citations": 53,
+        "author_pub_id": "WfaqxlgAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Coherent transmission from distributed wireless transmitters using legacy receivers",
         "pub_year": "2015",
-        "citation": "US Patent 9,203,480, 2015"
+        "citation": "US Patent 9,203,480, 2015",
+        "num_citations": 32,
+        "author_pub_id": "WfaqxlgAAAAJ:_aaHSq4heJsC"
     },
     {
         "title": "Cross Technology Distributed MIMO for Low Power IoT",
         "pub_year": "2020",
-        "citation": "IEEE Transactions on Mobile Computing, 2020"
+        "citation": "IEEE Transactions on Mobile Computing, 2020",
+        "num_citations": 4,
+        "author_pub_id": "WfaqxlgAAAAJ:aKo_o5XvxeMC"
     },
     {
         "title": "Cryptology ePrint Archive: BibTeX Citation of Report 2010/175",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Decimeter-Level Localization with a Single Wi-Fi Access Point (NSDI)",
         "pub_year": "2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:2PzkjEKH0twC"
     },
     {
         "title": "Decimeter-level localization with a single WiFi access point",
         "pub_year": "2016",
-        "citation": "13th {USENIX} Symposium on Networked Systems Design and Implementation …, 2016"
+        "citation": "13th {USENIX} Symposium on Networked Systems Design and Implementation …, 2016",
+        "num_citations": 957,
+        "author_pub_id": "WfaqxlgAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Decimeter-level localization with a single WiFi access point",
         "pub_year": "2016",
-        "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16), 2016"
+        "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16), 2016",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:RMVrO4bo-SsC"
     },
     {
         "title": "Demo Abstract: Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As\" Phase Carriers\"",
         "pub_year": "2023",
-        "citation": "The 22nd International Conference on Information Processing in Sensor …, 2023"
+        "citation": "The 22nd International Conference on Information Processing in Sensor …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:R3JqVFXIqpYC"
     },
     {
         "title": "Demo Abstract: The OpenChirp Low-Power Wide-Area Network and Ecosystem",
         "pub_year": "2018",
-        "citation": "2018 17th ACM/IEEE International Conference on Information Processing in …, 2018"
+        "citation": "2018 17th ACM/IEEE International Conference on Information Processing in …, 2018",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Designing an ML-Friendly Wireless Physical Layer for Low-Power IoT",
         "pub_year": "2020",
-        "citation": "2020 18th International Symposium on Modeling and Optimization in Mobile, Ad …, 2020"
+        "citation": "2020 18th International Symposium on Modeling and Optimization in Mobile, Ad …, 2020",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:5CmvP2Up3ZUC"
     },
     {
         "title": "Does ambient RF energy suffice to power battery-free IoT?",
         "pub_year": "2020",
-        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020"
+        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:c3iu29LiD84C"
     },
     {
         "title": "Eliminating Channel Feedback in Next-Generation Cellular Networks",
         "pub_year": "2017",
-        "citation": "GetMobile: Mobile Computing and Communications 21 (3), 26-30, 2017"
+        "citation": "GetMobile: Mobile Computing and Communications 21 (3), 26-30, 2017",
+        "num_citations": 150,
+        "author_pub_id": "WfaqxlgAAAAJ:7wO8s98CvbsC"
     },
     {
         "title": "Eliminating channel feedback in next-generation cellular networks",
         "pub_year": "2016",
-        "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 398-411, 2016"
+        "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 398-411, 2016",
+        "num_citations": 150,
+        "author_pub_id": "WfaqxlgAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Eliminating channel feedback in next-generation cellular networks",
         "pub_year": "2016",
-        "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 398-411, 2016"
+        "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 398-411, 2016",
+        "num_citations": 150,
+        "author_pub_id": "WfaqxlgAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Empowering low-power wide area networks in urban settings",
         "pub_year": "2017",
-        "citation": "Proceedings of the Conference of the ACM Special Interest Group on Data …, 2017"
+        "citation": "Proceedings of the Conference of the ACM Special Interest Group on Data …, 2017",
+        "num_citations": 220,
+        "author_pub_id": "WfaqxlgAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Enhancing spectrum utilization through cooperation and cognition in wireless systems",
         "pub_year": "2012",
-        "citation": "Massachusetts Institute of Technology, 2012"
+        "citation": "Massachusetts Institute of Technology, 2012",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:Rh7tE70epTYC"
     },
     {
         "title": "Exploring Novel Sensing Paradigms for Existing Wireless Infrastructure",
         "pub_year": "2021",
-        "citation": "Carnegie Mellon University, 2021"
+        "citation": "Carnegie Mellon University, 2021",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:RRCMsQZi3KMC"
     },
     {
         "title": "Exploring Time-Series Telemetry from CubeSats",
         "pub_year": "2022",
-        "citation": "Proceedings of the Twentieth ACM Conference on Embedded Networked Sensor …, 2022"
+        "citation": "Proceedings of the Twentieth ACM Conference on Embedded Networked Sensor …, 2022",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:9wUeeRLfbNYC"
     },
     {
         "title": "Exploring mmWave Radar and Camera Fusion for High-Resolution and Long-Range Depth Imaging",
         "pub_year": "2022",
-        "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022"
+        "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
+        "num_citations": 6,
+        "author_pub_id": "WfaqxlgAAAAJ:srBcWmd28BQC"
     },
     {
         "title": "Exploring the Needs of Users for Supporting Privacy-Protective Behaviors in Smart Homes",
         "pub_year": "2022",
-        "citation": "CHI Conference on Human Factors in Computing Systems, 1-19, 2022"
+        "citation": "CHI Conference on Human Factors in Computing Systems, 1-19, 2022",
+        "num_citations": 38,
+        "author_pub_id": "WfaqxlgAAAAJ:4LC-jEhLaRQC"
     },
     {
         "title": "Forcing out a confession: Threshold discernible ring signatures",
         "pub_year": "2010",
-        "citation": "2010 International Conference on Security and Cryptography (SECRYPT), 1-10, 2010"
+        "citation": "2010 International Conference on Security and Cryptography (SECRYPT), 1-10, 2010",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Frequency Configuration for Low-Power Wide-Area Networks in a Heartbeat",
         "pub_year": "2020",
-        "citation": "17th {USENIX} Symposium on Networked Systems Design and Implementation …, 2020"
+        "citation": "17th {USENIX} Symposium on Networked Systems Design and Implementation …, 2020",
+        "num_citations": 68,
+        "author_pub_id": "WfaqxlgAAAAJ:OP4eGU-M3BUC"
     },
     {
         "title": "Full Duplex Radios: Are we there yet?",
         "pub_year": "2020",
-        "citation": "Proceedings of the 19th ACM Workshop on Hot Topics in Networks, 117-124, 2020"
+        "citation": "Proceedings of the 19th ACM Workshop on Hot Topics in Networks, 117-124, 2020",
+        "num_citations": 22,
+        "author_pub_id": "WfaqxlgAAAAJ:IqrShC7OVU0C"
     },
     {
         "title": "Google Faculty Research Awards 2016",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:0SnApaDgcCoC"
     },
     {
         "title": "Guaranteeing Spoof-Resilient Multi-Robot Networks",
         "pub_year": "2016",
-        "citation": "MASSACHUSETTS INST OF TECH LEXINGTON LEXINGTON United States, 2016"
+        "citation": "MASSACHUSETTS INST OF TECH LEXINGTON LEXINGTON United States, 2016",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:qKtbcrzMvwAC"
     },
     {
         "title": "Guaranteeing spoof-resilient multi-robot networks",
         "pub_year": "2017",
-        "citation": "Autonomous Robots 41 (6), 1383-1400, 2017"
+        "citation": "Autonomous Robots 41 (6), 1383-1400, 2017",
+        "num_citations": 107,
+        "author_pub_id": "WfaqxlgAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "High Resolution Point Clouds from mmWave Radar",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2206.09273, 2022"
+        "citation": "arXiv preprint arXiv:2206.09273, 2022",
+        "num_citations": 24,
+        "author_pub_id": "WfaqxlgAAAAJ:viYOxJONeN0C"
     },
     {
         "title": "IPSN 2018",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:OfCb3DkOstsC"
     },
     {
         "title": "IPSN 2020",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:-Ex_6Thn4vsC"
     },
     {
         "title": "Improved Long-Distance Wireless Charging Technology",
         "pub_year": "2013",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:MappHbsApxQC"
     },
     {
         "title": "Improvements for low-power wide area networks",
         "pub_year": "2021",
-        "citation": "US Patent App. 17/053,406, 2021"
+        "citation": "US Patent App. 17/053,406, 2021",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:1cQOl6Zi554C"
     },
     {
         "title": "Indoor localization of a multi-antenna receiver",
         "pub_year": "2018",
-        "citation": "US Patent 9,885,774, 2018"
+        "citation": "US Patent 9,885,774, 2018",
+        "num_citations": 9,
+        "author_pub_id": "WfaqxlgAAAAJ:as11RrW_MxEC"
     },
     {
         "title": "Indoor localization system using visible light communication",
         "pub_year": "2014",
-        "citation": "International Conference on Mobile Computing and Networking,(MobiCom’14 …, 2014"
+        "citation": "International Conference on Mobile Computing and Networking,(MobiCom’14 …, 2014",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:aar0OkpPRdAC"
     },
     {
         "title": "Interference alignment by motion",
         "pub_year": "2013",
-        "citation": "Proceedings of the 19th annual international conference on Mobile computing …, 2013"
+        "citation": "Proceedings of the 19th annual international conference on Mobile computing …, 2013",
+        "num_citations": 64,
+        "author_pub_id": "WfaqxlgAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Introduction to the Special Issue on Low Power Wide Area Networks",
         "pub_year": "2023",
-        "citation": "ACM Transactions on Sensor Networks 18 (4), 1-2, 2023"
+        "citation": "ACM Transactions on Sensor Networks 18 (4), 1-2, 2023",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:ZgPQhQxLujAC"
     },
     {
         "title": "JMB",
         "pub_year": "2012",
-        "citation": "Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …, 2012"
+        "citation": "Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …, 2012",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:UBSsHvkqiq4C"
     },
     {
         "title": "JMB: Scaling wireless capacity with user demands",
         "pub_year": "2012",
-        "citation": "SIGCOMM’12, 235-246, 2012"
+        "citation": "SIGCOMM’12, 235-246, 2012",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:54MofcL-yxcC"
     },
     {
         "title": "JMB: scaling wireless capacity with user demands",
         "pub_year": "2012",
-        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 235-246, 2012"
+        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 235-246, 2012",
+        "num_citations": 295,
+        "author_pub_id": "WfaqxlgAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "JMB: scaling wireless capacity with user demands",
         "pub_year": "2012",
-        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 235-246, 2012"
+        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 235-246, 2012",
+        "num_citations": 295,
+        "author_pub_id": "WfaqxlgAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "JMB: scaling wireless capacity with user demands",
         "pub_year": "2012",
-        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 235-246, 2012"
+        "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 235-246, 2012",
+        "num_citations": 295,
+        "author_pub_id": "WfaqxlgAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Jmb: Scaling wireless capacity with user demands",
         "pub_year": "2014",
-        "citation": "Communications of the ACM 57 (7), 97-106, 2014"
+        "citation": "Communications of the ACM 57 (7), 97-106, 2014",
+        "num_citations": 11,
+        "author_pub_id": "WfaqxlgAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Jmb: Scaling wireless capacity with user demands",
         "pub_year": "2012",
-        "citation": "Proc. of ACM SIGCOMM, 2012"
+        "citation": "Proc. of ACM SIGCOMM, 2012",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Joltik: enabling energy-efficient\" future-proof\" analytics on low-power wide-area networks",
         "pub_year": "2020",
-        "citation": "Proceedings of the 26th Annual International Conference on Mobile Computing …, 2020"
+        "citation": "Proceedings of the 26th Annual International Conference on Mobile Computing …, 2020",
+        "num_citations": 23,
+        "author_pub_id": "WfaqxlgAAAAJ:XOE35tnTnDYC"
     },
     {
         "title": "Journal: Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, 2015",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:sIDMtVbdO0QC"
     },
     {
         "title": "LTE radio analytics made easy and accessible",
         "pub_year": "2014",
-        "citation": "ACM SIGCOMM Computer Communication Review 44 (4), 211-222, 2014"
+        "citation": "ACM SIGCOMM Computer Communication Review 44 (4), 211-222, 2014",
+        "num_citations": 212,
+        "author_pub_id": "WfaqxlgAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "LTE radio analytics made easy and accessible",
         "pub_year": "2014",
-        "citation": "Proceedings of the 2014 ACM conference on SIGCOMM, 211-222, 2014"
+        "citation": "Proceedings of the 2014 ACM conference on SIGCOMM, 211-222, 2014",
+        "num_citations": 212,
+        "author_pub_id": "WfaqxlgAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Lean Privacy Review: Collecting Users’ Privacy Concerns of Data Practices at a Low Cost",
         "pub_year": "2019",
-        "citation": ""
+        "citation": "",
+        "num_citations": 10,
+        "author_pub_id": "WfaqxlgAAAAJ:lrH_6YXCPtsC"
     },
     {
         "title": "Localization with non-synchronous emission and multipath transmission",
         "pub_year": "2018",
-        "citation": "US Patent 9,958,526, 2018"
+        "citation": "US Patent 9,958,526, 2018",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Locating Everyday Objects using NFC Textiles",
         "pub_year": "2021",
-        "citation": "Proceedings of the 20th International Conference on Information Processing …, 2021"
+        "citation": "Proceedings of the 20th International Conference on Information Processing …, 2021",
+        "num_citations": 9,
+        "author_pub_id": "WfaqxlgAAAAJ:3z7foVzkq2cC"
     },
     {
         "title": "Long-range accurate ranging of millimeter-wave retro-reflective tags in high mobility",
         "pub_year": "2021",
-        "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021"
+        "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:NKe3Q23MlFgC"
     },
     {
         "title": "Lora networking techniques for large-scale and long-term iot: A down-to-top survey",
         "pub_year": "2022",
-        "citation": "ACM Computing Surveys (CSUR) 55 (3), 1-36, 2022"
+        "citation": "ACM Computing Surveys (CSUR) 55 (3), 1-36, 2022",
+        "num_citations": 59,
+        "author_pub_id": "WfaqxlgAAAAJ:9KdEqzwCTsEC"
     },
     {
         "title": "Low-latency Imaging and Inference from LoRa-enabled CubeSats",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2206.10703, 2022"
+        "citation": "arXiv preprint arXiv:2206.10703, 2022",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:lM7bPffmjyEC"
     },
     {
         "title": "Lte radio analytics made easy and accessible",
         "pub_year": "2015",
-        "citation": "Massachusetts Institute of Technology, 2015"
+        "citation": "Massachusetts Institute of Technology, 2015",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:dJuzUO4sCEAC"
     },
     {
         "title": "METHOD FOR EXTENDING THE RANGE OF COMMERCIAL PASSIVE RFID ELEMENTS",
         "pub_year": "2021",
-        "citation": "US Patent App. 17/092,575, 2021"
+        "citation": "US Patent App. 17/092,575, 2021",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:RPps9qLA3-kC"
     },
     {
         "title": "Maintaining UAV Stability using Low-Power WANs",
         "pub_year": "2018",
-        "citation": "Proceedings of the 24th Annual International Conference on Mobile Computing …, 2018"
+        "citation": "Proceedings of the 24th Annual International Conference on Mobile Computing …, 2018",
+        "num_citations": 8,
+        "author_pub_id": "WfaqxlgAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Megamimo: Scaling wireless capacity with user demands",
         "pub_year": "2012",
-        "citation": ""
+        "citation": "",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:84dCbUURXyIC"
     },
     {
         "title": "Methods, systems, and articles of manufacture for joint decoding of packets in wireless networks using chirp spread-spectrum modulation",
         "pub_year": "2020",
-        "citation": "US Patent 10,735,047, 2020"
+        "citation": "US Patent 10,735,047, 2020",
+        "num_citations": 6,
+        "author_pub_id": "WfaqxlgAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Methods, systems, and articles of manufacture for joint decoding of packets in wireless networks using chirp spread-spectrum modulation",
         "pub_year": "2020",
-        "citation": "US Patent 10,833,725, 2020"
+        "citation": "US Patent 10,833,725, 2020",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:9jvjDF91bz4C"
     },
     {
         "title": "Methods, systems, and low power retro-directive rf tags for localization",
         "pub_year": "2022",
-        "citation": "US Patent App. 17/591,137, 2022"
+        "citation": "US Patent App. 17/591,137, 2022",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:UamA9ItEL6YC"
     },
     {
         "title": "MiLTOn: Sensing Product Integrity without Opening the Box using Non-Invasive Acoustic Vibrometry",
-        "citation": ""
+        "citation": "",
+        "num_citations": 4,
+        "author_pub_id": "WfaqxlgAAAAJ:Ncwx4PHgTB8C"
     },
     {
         "title": "Millimeter-wave full duplex radios",
         "pub_year": "2020",
-        "citation": "Proceedings of the 26th Annual International Conference on Mobile Computing …, 2020"
+        "citation": "Proceedings of the 26th Annual International Conference on Mobile Computing …, 2020",
+        "num_citations": 31,
+        "author_pub_id": "WfaqxlgAAAAJ:n84Jz4DGfQYC"
     },
     {
         "title": "Millimetro: mmWave retro-reflective tags for accurate, long range localization",
         "pub_year": "2021",
-        "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021"
+        "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021",
+        "num_citations": 79,
+        "author_pub_id": "WfaqxlgAAAAJ:OmZH4w0uHW8C"
     },
     {
         "title": "Modular Privacy Flows: A Design Pattern for Data Minimization",
         "pub_year": "2022",
-        "citation": "University of Chicago, 2022"
+        "citation": "University of Chicago, 2022",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:5OQWvpknaCIC"
     },
     {
         "title": "NDN-GSM-R: a novel high-speed railway communication system via named data networking",
         "pub_year": "2016",
-        "citation": "EURASIP Journal on Wireless Communications and Networking 2016 (1), 1-5, 2016"
+        "citation": "EURASIP Journal on Wireless Communications and Networking 2016 (1), 1-5, 2016",
+        "num_citations": 56,
+        "author_pub_id": "WfaqxlgAAAAJ:J1AsQIbV7j8C"
     },
     {
         "title": "NFCapsule: An Ingestible Sensor Pill for Eosinophilic Esophagitis Detection Based on near-Field Coupling",
         "pub_year": "2022",
-        "citation": "Proceedings of the Twentieth ACM Conference on Embedded Networked Sensor …, 2022"
+        "citation": "Proceedings of the Twentieth ACM Conference on Embedded Networked Sensor …, 2022",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:b15ltGHXyxQC"
     },
     {
         "title": "Navigating Soft Robots through Wireless Heating",
         "pub_year": "2023",
-        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 2598-2605, 2023"
+        "citation": "2023 IEEE International Conference on Robotics and Automation (ICRA), 2598-2605, 2023",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:7LPp1NROPxwC"
     },
     {
         "title": "NoFaceContact: stop touching your face with NFC",
         "pub_year": "2020",
-        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020"
+        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020",
+        "num_citations": 6,
+        "author_pub_id": "WfaqxlgAAAAJ:zIozKTkozWIC"
     },
     {
         "title": "OSPREY: A mmWave Approach to Tire Wear Sensing",
         "pub_year": "2021",
-        "citation": "GetMobile: Mobile Computing and Communications 24 (4), 28-31, 2021"
+        "citation": "GetMobile: Mobile Computing and Communications 24 (4), 28-31, 2021",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:jjenCjXDw2QC"
     },
     {
         "title": "On the Feasibility of Wi-Fi Based Material Sensing",
         "pub_year": "2019",
-        "citation": "The 25th Annual International Conference on Mobile Computing and Networking …, 2019"
+        "citation": "The 25th Annual International Conference on Mobile Computing and Networking …, 2019",
+        "num_citations": 52,
+        "author_pub_id": "WfaqxlgAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Osprey demo: a mmwave approach to tire wear sensing",
         "pub_year": "2020",
-        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020"
+        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:pa8xeX_DvI4C"
     },
     {
         "title": "Osprey: A mmWave approach to tire wear sensing",
         "pub_year": "2020",
-        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020"
+        "citation": "Proceedings of the 18th International Conference on Mobile Systems …, 2020",
+        "num_citations": 38,
+        "author_pub_id": "WfaqxlgAAAAJ:fLJJVVwU7EQC"
     },
     {
         "title": "OwLL: Accurate LoRa Localization using the TV Whitespaces",
         "pub_year": "2021",
-        "citation": "Proceedings of the 20th International Conference on Information Processing …, 2021"
+        "citation": "Proceedings of the 20th International Conference on Information Processing …, 2021",
+        "num_citations": 34,
+        "author_pub_id": "WfaqxlgAAAAJ:Zo6E4E6iJKMC"
     },
     {
         "title": "PLatter: On the Feasibility of Building-Scale Power Line Backscatter",
         "pub_year": "2023",
-        "citation": "GetMobile: Mobile Computing and Communications 26 (4), 19-22, 2023"
+        "citation": "GetMobile: Mobile Computing and Communications 26 (4), 19-22, 2023",
+        "num_citations": 8,
+        "author_pub_id": "WfaqxlgAAAAJ:pqufTfZDgs0C"
     },
     {
         "title": "Panel 1 Position Paper: Man versus Machines–Humans Need Not Apply",
         "pub_year": "2019",
-        "citation": "2019 11th International Conference on Communication Systems & Networks …, 2019"
+        "citation": "2019 11th International Conference on Communication Systems & Networks …, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:UZk6qv0A6XIC"
     },
     {
         "title": "Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes",
-        "citation": ""
+        "citation": "",
+        "num_citations": 19,
+        "author_pub_id": "WfaqxlgAAAAJ:6fs0NoO7GbkC"
     },
     {
         "title": "Peekaboo: A Hub-Based Approach to Enable Transparency in Data Processing within Smart Homes (Extended Technical Report)",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2204.04540, 2022"
+        "citation": "arXiv preprint arXiv:2204.04540, 2022",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:4_XrlajHzhgC"
     },
     {
         "title": "Perspective: eliminating channel feedback in next generation cellular networks",
         "pub_year": "2019",
-        "citation": "ACM SIGCOMM Computer Communication Review 49 (5), 110-111, 2019"
+        "citation": "ACM SIGCOMM Computer Communication Review 49 (5), 110-111, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:blknAaTinKkC"
     },
     {
         "title": "PhD Forum Abstract: Low-Power Wide-Area Networks: Connect, Sense and Secure",
         "pub_year": "2020",
-        "citation": "2020 19th ACM/IEEE International Conference on Information Processing in …, 2020"
+        "citation": "2020 19th ACM/IEEE International Conference on Information Processing in …, 2020",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:Yo42cslQ7-cC"
     },
     {
         "title": "Platypus: Sub-mm Micro-Displacement Sensing with Passive Millimeter-wave Tags As\" Phase Carriers\"",
         "pub_year": "2023",
-        "citation": "The 22nd International Conference on Information Processing in Sensor …, 2023"
+        "citation": "The 22nd International Conference on Information Processing in Sensor …, 2023",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:goOyc-W9OFwC"
     },
     {
         "title": "Poster: Wireless Network Functions in the Era of Low-Power IoT",
         "pub_year": "2019",
-        "citation": "The 25th Annual International Conference on Mobile Computing and Networking, 1-3, 2019"
+        "citation": "The 25th Annual International Conference on Mobile Computing and Networking, 1-3, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Proceedings of MOBICOM 2021",
         "pub_year": "2022",
-        "citation": "Proceedings of the annual International Conference on Mobile Computing and …, 2022"
+        "citation": "Proceedings of the annual International Conference on Mobile Computing and …, 2022",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:DXM8KF1schAC"
     },
     {
         "title": "Providing architectural support for building privacy-sensitive smart home applications",
         "pub_year": "2020",
-        "citation": "Adjunct Proceedings of the 2020 ACM International Joint Conference on …, 2020"
+        "citation": "Adjunct Proceedings of the 2020 ACM International Joint Conference on …, 2020",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:LvS0yHEg1QsC"
     },
     {
         "title": "Pushing the limits of wireless networks",
         "pub_year": "2016",
-        "citation": "Massachusetts Institute of Technology, 2016"
+        "citation": "Massachusetts Institute of Technology, 2016",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Pushing the range limits of commercial passive rfids",
         "pub_year": "2019",
-        "citation": "16th {USENIX} Symposium on Networked Systems Design and Implementation …, 2019"
+        "citation": "16th {USENIX} Symposium on Networked Systems Design and Implementation …, 2019",
+        "num_citations": 72,
+        "author_pub_id": "WfaqxlgAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Quick (and Dirty) Aggregate Queries on Low-Power WANs",
         "pub_year": "2020",
-        "citation": "2020 19th ACM/IEEE International Conference on Information Processing in …, 2020"
+        "citation": "2020 19th ACM/IEEE International Conference on Information Processing in …, 2020",
+        "num_citations": 35,
+        "author_pub_id": "WfaqxlgAAAAJ:jM2XaDTMsSgC"
     },
     {
         "title": "RF-Wear",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:lms347EBdh4C"
     },
     {
         "title": "RFID Tattoo: A Wireless Platform for Speech Recognition",
         "pub_year": "2019",
-        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2019"
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2019",
+        "num_citations": 49,
+        "author_pub_id": "WfaqxlgAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "RadarHD: Demonstrating Lidar-like Point Clouds from mmWave Radar",
         "pub_year": "2023",
-        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023"
+        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:-1WLWRmjvKAC"
     },
     {
         "title": "Rethinking Low-Power Wide-Area Networks on Earth and Space",
         "pub_year": "2022",
-        "citation": "Carnegie Mellon University, 2022"
+        "citation": "Carnegie Mellon University, 2022",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:Lc9Ei6r3docC"
     },
     {
         "title": "Revisiting software defined radios in the IoT era",
         "pub_year": "2018",
-        "citation": "Proceedings of the 17th ACM Workshop on Hot Topics in Networks, 43-49, 2018"
+        "citation": "Proceedings of the 17th ACM Workshop on Hot Topics in Networks, 43-49, 2018",
+        "num_citations": 19,
+        "author_pub_id": "WfaqxlgAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Rf-wear: Towards wearable everyday skeleton tracking using passive rfids",
         "pub_year": "2018",
-        "citation": "Proceedings of the 2018 ACM International Joint Conference and 2018 …, 2018"
+        "citation": "Proceedings of the 2018 ACM International Joint Conference and 2018 …, 2018",
+        "num_citations": 16,
+        "author_pub_id": "WfaqxlgAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Robotics Research: The 16th International Symposium ISRR",
         "pub_year": "2016",
-        "citation": "Springer, 2016"
+        "citation": "Springer, 2016",
+        "num_citations": 11,
+        "author_pub_id": "WfaqxlgAAAAJ:7EeV9ZTah7MC"
     },
     {
         "title": "Sanitizable signatures with strong transparency in the standard model",
         "pub_year": "2009",
-        "citation": "International Conference on Information Security and Cryptology, 93-107, 2009"
+        "citation": "International Conference on Information Security and Cryptology, 93-107, 2009",
+        "num_citations": 10,
+        "author_pub_id": "WfaqxlgAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "SelfieStick: Towards Earth Imaging from a Low-Cost Ground Module Using LEO Satellites",
         "pub_year": "2022",
-        "citation": "ACM/IEEE International Conference on Information Processing in Sensor …, 2022"
+        "citation": "ACM/IEEE International Conference on Information Processing in Sensor …, 2022",
+        "num_citations": 4,
+        "author_pub_id": "WfaqxlgAAAAJ:_9EdYq_GCQ0C"
     },
     {
         "title": "Sensor as a Company: On Self-Sustaining IoT Commons",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2112.02775, 2021"
+        "citation": "arXiv preprint arXiv:2112.02775, 2021",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:sCWLdL-sCz8C"
     },
     {
         "title": "Session details: 5G and Wireless Access.",
         "pub_year": "2018",
-        "citation": "WiNTECH@ MOBICOM, 2018"
+        "citation": "WiNTECH@ MOBICOM, 2018",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Session details: Internet of Wireless Things.",
         "pub_year": "2018",
-        "citation": "WiNTECH@ MOBICOM, 2018"
+        "citation": "WiNTECH@ MOBICOM, 2018",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Session details: Keynote Address.",
         "pub_year": "2018",
-        "citation": "WiNTECH@ MOBICOM, 2018"
+        "citation": "WiNTECH@ MOBICOM, 2018",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:Kr09a2QcR50C"
     },
     {
         "title": "Session details: Testbeds, Measurements and Experimentation.",
         "pub_year": "2018",
-        "citation": "WiNTECH@ MOBICOM, 2018"
+        "citation": "WiNTECH@ MOBICOM, 2018",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Session details: What's the Frequency, Kenneth? Millimeter-Wave Networks.",
         "pub_year": "2018",
-        "citation": "MobiCom, 2018"
+        "citation": "MobiCom, 2018",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Silver-Coated Poly (dimethylsiloxane) Beads for Soft, Stretchable, and Thermally Stable Conductive Elastomer Composites",
         "pub_year": "2019",
-        "citation": "ACS applied materials & interfaces 11 (45), 42561-42570, 2019"
+        "citation": "ACS applied materials & interfaces 11 (45), 42561-42570, 2019",
+        "num_citations": 30,
+        "author_pub_id": "WfaqxlgAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Software-Defined Cooking Using a Microwave Oven",
         "pub_year": "2020",
-        "citation": "GetMobile: Mobile Computing and Communications 23 (4), 21-24, 2020"
+        "citation": "GetMobile: Mobile Computing and Communications 23 (4), 21-24, 2020",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:1tvASLRm6poC"
     },
     {
         "title": "Software-Defined Cooking using a Microwave Oven",
         "pub_year": "2019",
-        "citation": "The 25th Annual International Conference on Mobile Computing and Networking …, 2019"
+        "citation": "The 25th Annual International Conference on Mobile Computing and Networking …, 2019",
+        "num_citations": 10,
+        "author_pub_id": "WfaqxlgAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Software-Defined Cooking using a Microwave Oven",
         "pub_year": "2019",
-        "citation": "The 25th Annual International Conference on Mobile Computing and Networking …, 2019"
+        "citation": "The 25th Annual International Conference on Mobile Computing and Networking …, 2019",
+        "num_citations": 10,
+        "author_pub_id": "WfaqxlgAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Software-defined cooking using a microwave oven",
         "pub_year": "2021",
-        "citation": "Communications of the ACM 64 (12), 95-103, 2021"
+        "citation": "Communications of the ACM 64 (12), 95-103, 2021",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:JTutsjMeBaAC"
     },
     {
         "title": "Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing",
         "pub_year": "2019",
-        "citation": "Proceedings of the 32nd Annual ACM Symposium on User Interface Software and …, 2019"
+        "citation": "Proceedings of the 32nd Annual ACM Symposium on User Interface Software and …, 2019",
+        "num_citations": 57,
+        "author_pub_id": "WfaqxlgAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing",
         "pub_year": "2019",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:2POsdo3tyOAC"
     },
     {
         "title": "Speech Recognition Using RFID Tattoos",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:KxNY-X0OflYC"
     },
     {
         "title": "Sub-decimeter radio frequency ranging",
         "pub_year": "2018",
-        "citation": "US Patent 9,961,495, 2018"
+        "citation": "US Patent 9,961,495, 2018",
+        "num_citations": 10,
+        "author_pub_id": "WfaqxlgAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Sub-nanosecond time of flight on commercial wi-fi cards",
         "pub_year": "2015",
-        "citation": "arXiv preprint arXiv:1505.03446, 2015"
+        "citation": "arXiv preprint arXiv:1505.03446, 2015",
+        "num_citations": 50,
+        "author_pub_id": "WfaqxlgAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "System and Method for Heating an Item in a Microwave Oven",
         "pub_year": "2022",
-        "citation": "US Patent App. 17/620,915, 2022"
+        "citation": "US Patent App. 17/620,915, 2022",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:4Q5OFK1iulkC"
     },
     {
         "title": "System and Method for Tracking a Body",
         "pub_year": "2020",
-        "citation": "US Patent App. 16/769,741, 2020"
+        "citation": "US Patent App. 16/769,741, 2020",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:eEnCcB-k6EAC"
     },
     {
         "title": "System and Method for Tracking a Shape",
         "pub_year": "2021",
-        "citation": "US Patent App. 17/050,010, 2021"
+        "citation": "US Patent App. 17/050,010, 2021",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:d9ydBXnamCkC"
     },
     {
         "title": "TagFi: Locating Ultra-Low Power WiFi Tags Using Unmodified WiFi Infrastructure",
         "pub_year": "2021",
-        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2021"
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2021",
+        "num_citations": 20,
+        "author_pub_id": "WfaqxlgAAAAJ:QXXbHxWZe5oC"
     },
     {
         "title": "Tartan Artibeus: A Batteryless, Computational Satellite Research Platform",
         "pub_year": "2022",
-        "citation": ""
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "WfaqxlgAAAAJ:KmkpU35IWjAC"
     },
     {
         "title": "The Interplay of Clustering and Evolution in the Emergence of Epidemics on Networks",
         "pub_year": "2023",
-        "citation": "ICC 2023-IEEE International Conference on Communications, 5582-5588, 2023"
+        "citation": "ICC 2023-IEEE International Conference on Communications, 5582-5588, 2023",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:TAWzVH7WYHIC"
     },
     {
         "title": "The first fifty years of ACM SIGCOMM",
         "pub_year": "2019",
-        "citation": "ACM SIGCOMM Computer Communication Review 49 (5), 1-5, 2019"
+        "citation": "ACM SIGCOMM Computer Communication Review 49 (5), 1-5, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:JpYjwmnXVqYC"
     },
     {
         "title": "The openchirp low-power wide-area network and ecosystem: demo abstract",
         "pub_year": "2018",
-        "citation": "Proceedings of the 17th ACM/IEEE International Conference on Information …, 2018"
+        "citation": "Proceedings of the 17th ACM/IEEE International Conference on Information …, 2018",
+        "num_citations": 2,
+        "author_pub_id": "WfaqxlgAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Threshold discernible ring signatures",
         "pub_year": "2010",
-        "citation": "International Conference on E-Business and Telecommunications, 259-273, 2010"
+        "citation": "International Conference on E-Business and Telecommunications, 259-273, 2010",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Tire Sensing Systems and Methods",
         "pub_year": "2023",
-        "citation": "US Patent App. 17/924,647, 2023"
+        "citation": "US Patent App. 17/924,647, 2023",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:q7hqJx8pYzEC"
     },
     {
         "title": "ToMoBrush: Exploring Dental Health Sensing using a Sonic Toothbrush",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.01933, 2024"
+        "citation": "arXiv preprint arXiv:2402.01933, 2024",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:D2lc7i8A8ooC"
     },
     {
         "title": "Toolbox Release: A WiFi-Based Relative Bearing Framework for Robotics",
         "pub_year": "2022",
-        "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022"
+        "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
+        "num_citations": 3,
+        "author_pub_id": "WfaqxlgAAAAJ:vuU-T12QLgwC"
     },
     {
         "title": "Toolbox Release: A WiFi-Based Relative Bearing Sensor for Robotics",
         "pub_year": "2021",
-        "citation": "arXiv preprint arXiv:2109.12205, 2021"
+        "citation": "arXiv preprint arXiv:2109.12205, 2021",
+        "num_citations": 7,
+        "author_pub_id": "WfaqxlgAAAAJ:VofzgsFG4o0C"
     },
     {
         "title": "Towards Enabling City-Scale Internet of Things–Challenges and Opportunities",
         "pub_year": "2019",
-        "citation": "2019 11th International Conference on Communication Systems & Networks …, 2019"
+        "citation": "2019 11th International Conference on Communication Systems & Networks …, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Towards realizing the internet-of-things vision: in-body, homes, and farms",
         "pub_year": "2019",
-        "citation": "Massachusetts Institute of Technology, 2019"
+        "citation": "Massachusetts Institute of Technology, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:2pCWc5Tf3J4C"
     },
     {
         "title": "Towards wearable everyday body-frame tracking using passive rfids",
         "pub_year": "2018",
-        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2018"
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2018",
+        "num_citations": 81,
+        "author_pub_id": "WfaqxlgAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Ultra Low-Latency Backscatter for Fast-Moving Location Tracking",
         "pub_year": "2022",
-        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2022"
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2022",
+        "num_citations": 9,
+        "author_pub_id": "WfaqxlgAAAAJ:_Xy5tTOxz_oC"
     },
     {
         "title": "WSR: A WiFi Sensor for Collaborative Robotics",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2012.04174, 2020"
+        "citation": "arXiv preprint arXiv:2012.04174, 2020",
+        "num_citations": 7,
+        "author_pub_id": "WfaqxlgAAAAJ:vMcOFpnEpxoC"
     },
     {
         "title": "Wireless Actuation for Soft Electronics-free Robots",
         "pub_year": "2023",
-        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023"
+        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:nYc7v9NCwtsC"
     },
     {
         "title": "Wish: Towards a wireless shape-aware world using passive rfids",
         "pub_year": "2018",
-        "citation": "Proceedings of the 16th Annual International Conference on Mobile Systems …, 2018"
+        "citation": "Proceedings of the 16th Annual International Conference on Mobile Systems …, 2018",
+        "num_citations": 59,
+        "author_pub_id": "WfaqxlgAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Wsr: A wireless signal-based sensing framework for robotics",
         "pub_year": "2020",
-        "citation": "arXiv preprint arXiv:2012.04174, 2020"
+        "citation": "arXiv preprint arXiv:2012.04174, 2020",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:JZsVLox4iN8C"
     },
     {
         "title": "You foot the bill! Attacking NFC with passive relays",
         "pub_year": "2020",
-        "citation": "IEEE Internet of Things Journal 8 (2), 1197-1210, 2020"
+        "citation": "IEEE Internet of Things Journal 8 (2), 1197-1210, 2020",
+        "num_citations": 12,
+        "author_pub_id": "WfaqxlgAAAAJ:iUf_yyxph5wC"
     },
     {
         "title": "Zoom Out: Abstractions for Efficient Radar Algorithms on COTS architectures",
         "pub_year": "2022",
-        "citation": "2022 IEEE International Symposium on Phased Array Systems & Technology (PAST …, 2022"
+        "citation": "2022 IEEE International Symposium on Phased Array Systems & Technology (PAST …, 2022",
+        "num_citations": 1,
+        "author_pub_id": "WfaqxlgAAAAJ:OYCXtYc4maoC"
     },
     {
         "title": "mmNets' 19: The 3rd ACM Workshop on Millimeter-Wave Networks and Sensing Systems",
         "pub_year": "2019",
-        "citation": "The 25th Annual International Conference on Mobile Computing and Networking, 1-2, 2019"
+        "citation": "The 25th Annual International Conference on Mobile Computing and Networking, 1-2, 2019",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:4PzMk9GH2tkC"
     },
     {
         "title": "pistream: Physical layer informed adaptive video streaming over lte",
         "pub_year": "2015",
-        "citation": "Proceedings of the 21st Annual International Conference on Mobile Computing …, 2015"
+        "citation": "Proceedings of the 21st Annual International Conference on Mobile Computing …, 2015",
+        "num_citations": 174,
+        "author_pub_id": "WfaqxlgAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "pistream: Physical layer informed adaptive video streaming over lte",
         "pub_year": "2015",
-        "citation": "Proceedings of the 21st Annual International Conference on Mobile Computing …, 2015"
+        "citation": "Proceedings of the 21st Annual International Conference on Mobile Computing …, 2015",
+        "num_citations": 174,
+        "author_pub_id": "WfaqxlgAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "{Decimeter-Level} Localization with a Single {WiFi} Access Point",
         "pub_year": "2016",
-        "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016"
+        "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:CXI6bF9CpJ4C"
     },
     {
         "title": "{PLatter}: On the Feasibility of Building-scale Power Line Backscatter",
         "pub_year": "2022",
-        "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022"
+        "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
+        "num_citations": 0,
+        "author_pub_id": "WfaqxlgAAAAJ:RtDPZMhf-s8C"
     }
 ]

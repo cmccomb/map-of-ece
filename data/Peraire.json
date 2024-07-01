@@ -27,8 +27,8 @@
     },
     {
         "title": "A Scenario on Kick-Starting a Project",
-        "pub_year": "2014",
-        "citation": "Recuperado el 21, 2014",
+        "pub_year": "2015",
+        "citation": "",
         "num_citations": 3,
         "author_pub_id": "F8Tqw_kAAAAJ:TFP_iSt0sucC"
     },
@@ -43,7 +43,7 @@
         "title": "A Step Forward in Software Engineering Education: Introducing the SEMAT Essence Framework",
         "pub_year": "2013",
         "citation": "Keynote Address-LACREST, 2013",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "F8Tqw_kAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -64,7 +64,7 @@
         "title": "A theory of specification-based testing for object-oriented software",
         "pub_year": "1996",
         "citation": "Dependable Computing—EDCC-2: Second European Dependable Computing …, 1996",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "F8Tqw_kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -99,7 +99,7 @@
         "title": "Dual-Track Development.",
         "pub_year": "2020",
         "citation": "IEEE Softw. 37 (6), 58-64, 2020",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "F8Tqw_kAAAAJ:k_IJM867U9cC"
     },
     {
@@ -131,10 +131,10 @@
         "author_pub_id": "F8Tqw_kAAAAJ:WF5omc3nYNoC"
     },
     {
-        "title": "Formal testing of object-oriented software: From the method to the tool",
+        "title": "Formal testing of object-oriented software: from the method to the tool",
         "pub_year": "1998",
         "citation": "EPFL, 1998",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "F8Tqw_kAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -304,7 +304,7 @@
         "title": "Removing software development waste to improve productivity",
         "pub_year": "2019",
         "citation": "Rethinking productivity in software engineering, 221-240, 2019",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "F8Tqw_kAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -351,7 +351,7 @@
         "title": "Software development waste. In 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)",
         "pub_year": "2017",
         "citation": "IEEE. https://doi. org/10.1109/icse, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "F8Tqw_kAAAAJ:maZDTaKrznsC"
     },
     {
@@ -432,18 +432,18 @@
         "author_pub_id": "F8Tqw_kAAAAJ:hqOjcs7Dif8C"
     },
     {
-        "title": "The Product Backlog. In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE), Vol. 2019-May",
-        "pub_year": "2019",
-        "citation": "IEEE, 2019",
-        "num_citations": 6,
-        "author_pub_id": "F8Tqw_kAAAAJ:RGFaLdJalmkC"
-    },
-    {
         "title": "The product backlog",
         "pub_year": "2019",
         "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE …, 2019",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "F8Tqw_kAAAAJ:R3hNpaxXUhUC"
+    },
+    {
+        "title": "The product backlog. In 2019 IEEE/ACM 41st international conference on software engineering (ICSE)(pp. 200–211)",
+        "pub_year": "2019",
+        "citation": "IEEE, 2019",
+        "num_citations": 7,
+        "author_pub_id": "F8Tqw_kAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Towards generating essence kernels using genetic algorithms",

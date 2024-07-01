@@ -1,12 +1,5 @@
 [
     {
-        "title": "A Generalizable Physics-informed Learning Framework for Risk Probability Estimation",
-        "pub_year": "2023",
-        "citation": "Learning for Dynamics and Control Conference, 358-370, 2023",
-        "num_citations": 4,
-        "author_pub_id": "jnmyOEYAAAAJ:M3NEmzRMIkIC"
-    },
-    {
         "title": "A Learning and Control Perspective for Microfinance",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2207.12631, 2022",
@@ -19,6 +12,13 @@
         "citation": "Learning for Dynamics and Control Conference, 915-927, 2023",
         "num_citations": 0,
         "author_pub_id": "jnmyOEYAAAAJ:JV2RwH3_ST0C"
+    },
+    {
+        "title": "A generalizable physics-informed learning framework for risk probability estimation",
+        "pub_year": "2023",
+        "citation": "Learning for Dynamics and Control Conference, 358-370, 2023",
+        "num_citations": 4,
+        "author_pub_id": "jnmyOEYAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "A linear programming framework for networked control system design",
@@ -52,7 +52,7 @@
         "title": "An Integrative Perspective to LQ and  Control for Delayed and Quantized Systems",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Automatic Control 65 (11), 4781-4792, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "jnmyOEYAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Attack-Resilient H2, H-infinity, and L1 State Estimator",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Automatic Control, 2018",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "jnmyOEYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -91,18 +91,18 @@
         "author_pub_id": "jnmyOEYAAAAJ:ns9cj8rnVeAC"
     },
     {
+        "title": "COMPUTATIONAL MODEL FOR PROBABILITY PREDICTION OF SCAN PATHS IN STATIC SCENES",
+        "pub_year": "2012",
+        "citation": "International Conference on Computer Vision Theory and Applications 2, 427-430, 2012",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:RHpTSmoSYBkC"
+    },
+    {
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
         "pub_year": "2024",
         "citation": "Building and Environment 247, 111053, 2024",
         "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:BqipwSGYUEgC"
-    },
-    {
-        "title": "Computational Model for Probability Prediction of Scan Paths in Static Scenes.",
-        "pub_year": "2012",
-        "citation": "VISAPP (1), 427-430, 2012",
-        "num_citations": 0,
-        "author_pub_id": "jnmyOEYAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Connecting the speed-accuracy trade-offs in sensorimotor control and neurophysiology reveals diversity sweet spots in layered control architectures",
@@ -136,7 +136,7 @@
         "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences, 2021",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "jnmyOEYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Electric vehicle charging: a queueing approach",
         "pub_year": "2017",
         "citation": "SIGMETRICS Performance Evaluation Review 45 (2), 33-35, 2017",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "jnmyOEYAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Experimental and educational platforms for studying architecture and tradeoffs in human sensorimotor control",
         "pub_year": "2019",
         "citation": "2019 American Control Conference (ACC), 483-488, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "jnmyOEYAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Fitts’ law for speed-accuracy trade-off is a diversity sweet spot in sensorimotor control",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1906.00905, 2019",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "jnmyOEYAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -205,14 +205,21 @@
         "title": "Hard limits on robust control over delayed and quantized communication channels with applications to sensorimotor control",
         "pub_year": "2015",
         "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 7522-7529, 2015",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "jnmyOEYAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "Learning to Stabilize Unknown LTI Systems on a Single Trajectory under Stochastic Noise",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2406.00234, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Medical application on internet of things",
         "pub_year": "2011",
         "citation": "IET international conference on communication technology and application …, 2011",
-        "num_citations": 177,
+        "num_citations": 176,
         "author_pub_id": "jnmyOEYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -247,7 +254,7 @@
         "title": "On identification of parameterized switched linear systems",
         "pub_year": "2016",
         "citation": "2016 35th Chinese Control Conference (CCC), 2189-2195, 2016",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "jnmyOEYAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -288,7 +295,7 @@
         "title": "Rethinking safe control in the presence of self-seeking humans",
         "pub_year": "2023",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (12), 15331 …, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jnmyOEYAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -316,7 +323,7 @@
         "title": "Smoothed least-laxity-first algorithm for EV charging",
         "pub_year": "2017",
         "citation": "Proceedings of the Eighth International Conference on Future Energy Systems …, 2017",
-        "num_citations": 39,
+        "num_citations": 42,
         "author_pub_id": "jnmyOEYAAAAJ:u5HHmVD_uO8C"
     },
     {

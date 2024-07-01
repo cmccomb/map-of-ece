@@ -31,7 +31,7 @@
         "title": "32-bit cyclic redundancy codes for internet applications",
         "pub_year": "2002",
         "citation": "Proceedings International Conference on Dependable Systems and Networks, 459-468, 2002",
-        "num_citations": 332,
+        "num_citations": 334,
         "author_pub_id": "DFtapYEAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -53,13 +53,6 @@
         "citation": "Proceedings of DIPES 2000, 2000",
         "num_citations": 2,
         "author_pub_id": "DFtapYEAAAAJ:PoWvk5oyLR8C"
-    },
-    {
-        "title": "A Reasonable Driver Standard for Automated Vehicle Safety",
-        "pub_year": "2023",
-        "citation": "International Conference on Computer Safety, Reliability, and Security, 355-361, 2023",
-        "num_citations": 3,
-        "author_pub_id": "DFtapYEAAAAJ:AXkvAH5U_nMC"
     },
     {
         "title": "A Widely Deployable Web-based Distributed Network Simulation Framework using CORBA IDL-based APIs",
@@ -85,7 +78,7 @@
         "title": "A case study on runtime monitoring of an autonomous research vehicle (ARV) system",
         "pub_year": "2015",
         "citation": "Runtime Verification: 6th International Conference, RV 2015, Vienna, Austria …, 2015",
-        "num_citations": 91,
+        "num_citations": 90,
         "author_pub_id": "DFtapYEAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -99,21 +92,21 @@
         "title": "A flexible approach to embedded network multicast authentication",
         "pub_year": "2008",
         "citation": "Carnegie Mellon University, 2008",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "DFtapYEAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "A framework for scalable analysis and design of system-wide graceful degradation in distributed embedded systems",
         "pub_year": "2003",
         "citation": "Proceedings of the Eighth International Workshop on Object-Oriented Real …, 2003",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "DFtapYEAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "A fresh look at combinator graph reduction",
         "pub_year": "1989",
         "citation": "ACM SIGPLAN Notices 24 (7), 110-119, 1989",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "DFtapYEAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -134,28 +127,35 @@
         "title": "A philosophy for developing trust in self-driving cars",
         "pub_year": "2015",
         "citation": "Road Vehicle Automation 2, 163-171, 2015",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "DFtapYEAAAAJ:0KyAp5RtaNEC"
     },
     {
         "title": "A preliminary exploration of optimized stack code generation",
         "pub_year": "1992",
         "citation": "Carnegie Mellon University, 1992",
-        "num_citations": 45,
+        "num_citations": 44,
         "author_pub_id": "DFtapYEAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "A product family approach to graceful degradation",
         "pub_year": "2000",
         "citation": "IFIP Working Conference on Distributed and Parallel Embedded Systems, 131-140, 2000",
-        "num_citations": 75,
+        "num_citations": 74,
         "author_pub_id": "DFtapYEAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+        "title": "A reasonable driver standard for automated vehicle safety",
+        "pub_year": "2023",
+        "citation": "International Conference on Computer Safety, Reliability, and Security, 355-361, 2023",
+        "num_citations": 3,
+        "author_pub_id": "DFtapYEAAAAJ:AXkvAH5U_nMC"
     },
     {
         "title": "A safety standard approach for fully autonomous vehicles",
         "pub_year": "2019",
         "citation": "Computer Safety, Reliability, and Security: SAFECOMP 2019 Workshops, ASSURE …, 2019",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "DFtapYEAAAAJ:KbBQZpvPDL4C"
     },
     {
@@ -244,14 +244,14 @@
         "title": "Anatomy of a Robotaxi Crash: Lessons from the Cruise Pedestrian Dragging Mishap",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2402.06046, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "DFtapYEAAAAJ:jE2MZjpN3IcC"
     },
     {
         "title": "Architecting Dependable Systems V",
         "pub_year": "2008",
         "citation": "Springer, 2008",
-        "num_citations": 26,
+        "num_citations": 39,
         "author_pub_id": "DFtapYEAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -277,15 +277,8 @@
         "title": "Automated robustness testing of off-the-shelf software components",
         "pub_year": "1998",
         "citation": "Digest of papers. twenty-eighth annual international symposium on fault …, 1998",
-        "num_citations": 320,
+        "num_citations": 319,
         "author_pub_id": "DFtapYEAAAAJ:u5HHmVD_uO8C"
-    },
-    {
-        "title": "Autonomous Vehicle Regulation & Trust: The Impact of Failures to Comply with Standards",
-        "pub_year": "2022",
-        "citation": "UCLA JL & Tech. 27, 169, 2022",
-        "num_citations": 11,
-        "author_pub_id": "DFtapYEAAAAJ:wMgC3FpKEyYC"
     },
     {
         "title": "Autonomous Vehicle Regulation, Does Tesla's Full Self-Driving Beta Release Comply with Law?",
@@ -298,7 +291,7 @@
         "title": "Autonomous Vehicle Safety: An Interdisciplinary Challenge. IEEE Intelligent Transportation Systems Magazine, 9 (1), 90–96",
         "pub_year": "2016",
         "citation": "",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "DFtapYEAAAAJ:L1USKYWJimsC"
     },
     {
@@ -309,17 +302,24 @@
         "author_pub_id": "DFtapYEAAAAJ:jL-93Qbq4QoC"
     },
     {
+        "title": "Autonomous vehicle regulation & trust: The impact of failures to comply with standards",
+        "pub_year": "2022",
+        "citation": "UCLA JL & Tech. 27, 169, 2022",
+        "num_citations": 13,
+        "author_pub_id": "DFtapYEAAAAJ:wMgC3FpKEyYC"
+    },
+    {
         "title": "Autonomous vehicle safety: An interdisciplinary challenge",
         "pub_year": "2017",
         "citation": "IEEE Intelligent Transportation Systems Magazine 9 (1), 90-96, 2017",
-        "num_citations": 654,
+        "num_citations": 667,
         "author_pub_id": "DFtapYEAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "Autonomous vehicles meet the physical world: RSS, variability, uncertainty, and proving safety",
         "pub_year": "2019",
         "citation": "Computer Safety, Reliability, and Security: 38th International Conference …, 2019",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "DFtapYEAAAAJ:fFSKOagxvKUC"
     },
     {
@@ -345,9 +345,9 @@
     },
     {
         "title": "Best CRC polynomials",
-        "pub_year": "2018",
-        "citation": "URL: https://users. ece. cmu. edu/~ koopman/crc, 2018",
-        "num_citations": 37,
+        "pub_year": "2015",
+        "citation": "URL: https://users. ece. cmu. edu/~ koopman/crc, 2015",
+        "num_citations": 39,
         "author_pub_id": "DFtapYEAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -382,7 +382,7 @@
         "title": "CRC hamming weight data",
         "pub_year": "2016",
         "citation": "http://users. ece. cmu. edu/koopman/crc/hw_data. html. Accessed September 30 …, 2016",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "DFtapYEAAAAJ:6_hjMsCP8ZoC"
     },
     {
@@ -396,14 +396,14 @@
         "title": "Cache Organization",
         "pub_year": "1998",
         "citation": "lecture material, Carnegie Mellon University, Sep 2, 1998",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "DFtapYEAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "Cache behavior of combinator graph reduction",
         "pub_year": "1992",
         "citation": "ACM Transactions on Programming Languages and Systems (TOPLAS) 14 (2), 265-297, 1992",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "DFtapYEAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -421,6 +421,13 @@
         "author_pub_id": "DFtapYEAAAAJ:4fGpz3EwCPoC"
     },
     {
+        "title": "Certification of highly automated vehicles for use on UK roads: Creating an industry-wide framework for safety",
+        "pub_year": "2019",
+        "citation": "Five AI Ltd, 2019",
+        "num_citations": 8,
+        "author_pub_id": "DFtapYEAAAAJ:nZcligLrVowC"
+    },
+    {
         "title": "Certification of highly automated vehicles for use on public roads",
         "pub_year": "2019",
         "citation": "26th International Technical Conference on the Enhanced Safety of Vehicles …, 2019",
@@ -428,17 +435,10 @@
         "author_pub_id": "DFtapYEAAAAJ:Bg7qf7VwUHIC"
     },
     {
-        "title": "Certification of highly automated vehicles for use on uk roads: Creating an industry-wide framework for safety",
-        "pub_year": "2019",
-        "citation": "Five AI Ltd, 2019",
-        "num_citations": 9,
-        "author_pub_id": "DFtapYEAAAAJ:nZcligLrVowC"
-    },
-    {
         "title": "Challenges in autonomous vehicle testing and validation",
         "pub_year": "2016",
         "citation": "SAE International Journal of Transportation Safety 4 (1), 15-24, 2016",
-        "num_citations": 726,
+        "num_citations": 733,
         "author_pub_id": "DFtapYEAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -452,7 +452,7 @@
         "title": "Challenges in deeply networked system survivability",
         "pub_year": "2006",
         "citation": "NATO SECURITY THROUGH SCIENCE SERIES D-INFORMATION AND COMMUNICATION …, 2006",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "DFtapYEAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -487,7 +487,7 @@
         "title": "Comparing the robustness of POSIX operating systems",
         "pub_year": "1999",
         "citation": "Digest of Papers. Twenty-Ninth Annual International Symposium on Fault …, 1999",
-        "num_citations": 248,
+        "num_citations": 245,
         "author_pub_id": "DFtapYEAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -513,21 +513,21 @@
         "title": "Continuous learning approach to safety engineering",
         "pub_year": "2022",
         "citation": "CARS-Critical Automotive applications: Robustness & Safety, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DFtapYEAAAAJ:XUvXOeBm_78C"
     },
     {
         "title": "Coverage and the use of cyclic redundancy codes in ultra-dependable systems",
         "pub_year": "2005",
         "citation": "2005 International Conference on Dependable Systems and Networks (DSN'05 …, 2005",
-        "num_citations": 56,
+        "num_citations": 54,
         "author_pub_id": "DFtapYEAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Credible autonomy safety argumentation",
         "pub_year": "2019",
         "citation": "27th Safety-Critical Systems Symposium, 34-50, 2019",
-        "num_citations": 54,
+        "num_citations": 53,
         "author_pub_id": "DFtapYEAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -547,7 +547,7 @@
         "title": "Critical Systems and Software Safety",
         "pub_year": "2015",
         "citation": "Class, 2015",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "DFtapYEAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -561,7 +561,7 @@
         "title": "Cryptographic authentication of transmitted messages using pseudorandom numbers",
         "pub_year": "1994",
         "citation": "US Patent 5,377,270, 1994",
-        "num_citations": 212,
+        "num_citations": 217,
         "author_pub_id": "DFtapYEAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -719,7 +719,7 @@
         "title": "Design constraints on embedded real time control systems",
         "pub_year": "1990",
         "citation": "Carnegie Mellon University, 1990",
-        "num_citations": 20,
+        "num_citations": 18,
         "author_pub_id": "DFtapYEAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -768,14 +768,14 @@
         "title": "Doing the right thing",
         "pub_year": "1996",
         "citation": "IEEE Spectrum 33 (12), 25-32, 1996",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "DFtapYEAAAAJ:_axFR9aDTf0C"
     },
     {
-        "title": "Edge Cases and Autonomous Vehicle Safety",
+        "title": "Edge cases and autonomous vehicle safety",
         "pub_year": "2019",
         "citation": "27th Safety-Critical Systems Symposium (SSS), 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "DFtapYEAAAAJ:6bLC7aUMtPcC"
     },
     {
@@ -872,14 +872,14 @@
         "title": "Embedded system design issues (the rest of the story)",
         "pub_year": "1996",
         "citation": "Proceedings International Conference on Computer Design. VLSI in Computers …, 1996",
-        "num_citations": 177,
+        "num_citations": 175,
         "author_pub_id": "DFtapYEAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Embedded system security",
         "pub_year": "2004",
         "citation": "Computer 37 (7), 95-97, 2004",
-        "num_citations": 220,
+        "num_citations": 225,
         "author_pub_id": "DFtapYEAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -930,6 +930,13 @@
         "citation": "IEEE Spectrum 29 (4), 52-54, 1992",
         "num_citations": 1,
         "author_pub_id": "DFtapYEAAAAJ:NJ774b8OgUMC"
+    },
+    {
+        "title": "Ethical Design and Testing of Automated Driving Features",
+        "pub_year": "2023",
+        "citation": "University of Miami Legal Studies Research Paper, 2023",
+        "num_citations": 1,
+        "author_pub_id": "DFtapYEAAAAJ:QyXJ3EUuO1IC"
     },
     {
         "title": "Ethics, safety, and autonomous vehicles",
@@ -988,7 +995,7 @@
         "title": "Flexible multicast authentication for time-triggered embedded control network applications",
         "pub_year": "2009",
         "citation": "2009 IEEE/IFIP International Conference on Dependable Systems & Networks …, 2009",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "DFtapYEAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1015,28 +1022,28 @@
         "title": "Hardware/software codesign of aerospace and automotive systems",
         "pub_year": "2010",
         "citation": "Proceedings of the IEEE 98 (4), 584-602, 2010",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "DFtapYEAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "How many operational design domains, objects, and events?",
         "pub_year": "2019",
         "citation": "Safeai@ aaai 4, 2019",
-        "num_citations": 136,
+        "num_citations": 141,
         "author_pub_id": "DFtapYEAAAAJ:OTTXONDVkokC"
     },
     {
         "title": "How safe is safe enough?: Measuring and predicting Autonomous Vehicle Safety",
         "pub_year": "2022",
         "citation": "Carnegie Mellon University, 2022",
-        "num_citations": 24,
+        "num_citations": 18,
         "author_pub_id": "DFtapYEAAAAJ:hsZV8lGYWTMC"
     },
     {
         "title": "How to write an abstract",
         "pub_year": "1997",
-        "citation": "Carnegie Mellon University. Retrieved May 31, 2013, 1997",
-        "num_citations": 86,
+        "citation": "",
+        "num_citations": 83,
         "author_pub_id": "DFtapYEAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1104,7 +1111,7 @@
         "title": "Interface robustness testing: Experience and lessons learned from the ballista project",
         "pub_year": "2008",
         "citation": "Dependability Benchmarking for Computer Systems, 201-226, 2008",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "DFtapYEAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -1164,6 +1171,13 @@
         "author_pub_id": "DFtapYEAAAAJ:vDijr-p_gm4C"
     },
     {
+        "title": "Lessons from the Cruise Robotaxi Pedestrian Dragging Mishap",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2406.05281, 2024",
+        "num_citations": 0,
+        "author_pub_id": "DFtapYEAAAAJ:OBSaB-F7qqsC"
+    },
+    {
         "title": "Lessons learned in teaching a complex distributed embedded system project course",
         "pub_year": "2013",
         "citation": "Carnegie Mellon University, 2013",
@@ -1173,7 +1187,7 @@
     {
         "title": "Liability Rules for Automated Vehicles: Definitions & Details",
         "pub_year": "2023",
-        "citation": "Available at SSRN 4444848, 2023",
+        "citation": "University of Miami Legal Studies Research Paper, 2023",
         "num_citations": 0,
         "author_pub_id": "DFtapYEAAAAJ:DBa1UEJaJKAC"
     },
@@ -1209,7 +1223,7 @@
         "title": "MVP microcoded CPU/16: architecture",
         "pub_year": "1986",
         "citation": "Carnegie Mellon University, 1986",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "DFtapYEAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -1244,7 +1258,7 @@
         "title": "Method and system for analyzing advertisements delivered to a mobile unit",
         "pub_year": "2003",
         "citation": "US Patent 6,647,269, 2003",
-        "num_citations": 949,
+        "num_citations": 952,
         "author_pub_id": "DFtapYEAAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -1265,14 +1279,14 @@
         "title": "Method and system for connecting proximately located mobile users based on compatible attributes",
         "pub_year": "2003",
         "citation": "US Patent 6,542,749, 2003",
-        "num_citations": 505,
+        "num_citations": 510,
         "author_pub_id": "DFtapYEAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Method and system for selectively connecting mobile users based on physical proximity",
         "pub_year": "2003",
         "citation": "US Patent 6,542,750, 2003",
-        "num_citations": 582,
+        "num_citations": 583,
         "author_pub_id": "DFtapYEAAAAJ:Mojj43d5GZwC"
     },
     {
@@ -1312,7 +1326,7 @@
         "title": "Modern Stack Computer Architecture",
         "pub_year": "1990",
         "citation": "Carnegie Mellon University, 1990",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "DFtapYEAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -1326,7 +1340,7 @@
         "title": "Multi-bit error vulnerabilities in the controller area network protocol",
         "pub_year": "1999",
         "citation": "Carnegie Mellon University, Institute for Complex Engineered Systems, 1999",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "DFtapYEAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -1372,9 +1386,9 @@
         "author_pub_id": "DFtapYEAAAAJ:zCSUwVk65WsC"
     },
     {
-        "title": "Perception robustness testing at different levels of generality",
+        "title": "Perception robustness testing at different levels of generality.",
         "pub_year": "2021",
-        "citation": "",
+        "citation": "Field Robotics 1 (1), 253-286, 2021",
         "num_citations": 0,
         "author_pub_id": "DFtapYEAAAAJ:buQ7SEKw-1sC"
     },
@@ -1403,13 +1417,13 @@
         "title": "Perils of the PC Cache",
         "pub_year": "1993",
         "citation": "Carnegie Mellon University, 1993",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "DFtapYEAAAAJ:_kc_bZDykSQC"
     },
     {
-        "title": "Polynomial Selection For Embedded Networks",
-        "citation": "Preprint: The International Conference on Dependable Systems and Networks …, 0",
-        "num_citations": 2,
+        "title": "Polynomial Selection For Embedded Networks‖ The International Conference on Dependable Systems and Networks",
+        "citation": "DSN-2004, 0",
+        "num_citations": 3,
         "author_pub_id": "DFtapYEAAAAJ:foquWX3nUaYC"
     },
     {
@@ -1423,15 +1437,21 @@
         "title": "Positive trust balance for self-driving car deployment",
         "pub_year": "2020",
         "citation": "Computer Safety, Reliability, and Security. SAFECOMP 2020 Workshops: DECSoS …, 2020",
-        "num_citations": 16,
+        "num_citations": 20,
         "author_pub_id": "DFtapYEAAAAJ:u-coK7KVo8oC"
     },
     {
         "title": "Practical experience report: Automotive safety practices vs. accepted principles",
         "pub_year": "2018",
         "citation": "Computer Safety, Reliability, and Security: 37th International Conference …, 2018",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "DFtapYEAAAAJ:2VqYfGB8ITEC"
+    },
+    {
+        "title": "Preprint: SafeComp 2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "DFtapYEAAAAJ:-jrNzM816MMC"
     },
     {
         "title": "Proactive Fault-Recovery in Distributed Systems",
@@ -1458,14 +1478,14 @@
         "title": "Pseudorandom number generation and cryptographic authentication",
         "pub_year": "1994",
         "citation": "US Patent 5,363,448, 1994",
-        "num_citations": 354,
+        "num_citations": 359,
         "author_pub_id": "DFtapYEAAAAJ:9pM33mqn1YgC"
     },
     {
         "title": "Pseudorandom number generation and cryptographic authentication",
         "pub_year": "1994",
         "citation": "US Patent 5,363,448, 1994",
-        "num_citations": 354,
+        "num_citations": 359,
         "author_pub_id": "DFtapYEAAAAJ:_B80troHkn4C"
     },
     {
@@ -1492,7 +1512,7 @@
         "title": "Putting image manipulations in context: robustness testing for safe perception",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Safety, Security, and Rescue Robotics …, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "DFtapYEAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -1519,7 +1539,7 @@
         "title": "Random number generating system and process based on chaos",
         "pub_year": "1997",
         "citation": "US Patent 5,696,828, 1997",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "DFtapYEAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -1558,8 +1578,9 @@
     },
     {
         "title": "Representing Design Tradeoffs in Safety-Critical Systems",
-        "citation": "Carnegie Mellon University, 0",
-        "num_citations": 0,
+        "pub_year": "2005",
+        "citation": "Carnegie Mellon University, 2005",
+        "num_citations": 1,
         "author_pub_id": "DFtapYEAAAAJ:eflP2zaiRacC"
     },
     {
@@ -1636,7 +1657,7 @@
         "title": "Robustness testing and hardening of CORBA ORB implementations",
         "pub_year": "2001",
         "citation": "2001 International Conference on Dependable Systems and Networks, 141-150, 2001",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "DFtapYEAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1664,7 +1685,7 @@
         "title": "Robustness testing of the Microsoft Win32 API",
         "pub_year": "2000",
         "citation": "Proceeding International Conference on Dependable Systems and Networks. DSN …, 2000",
-        "num_citations": 95,
+        "num_citations": 94,
         "author_pub_id": "DFtapYEAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1687,9 +1708,9 @@
         "author_pub_id": "DFtapYEAAAAJ:uWiczbcajpAC"
     },
     {
-        "title": "Safety Ethics for Design & Test of Automated Driving Features",
+        "title": "Safety Ethics for Design and Test of Automated Driving Features",
         "pub_year": "2023",
-        "citation": "IEEE Design & Test, 2023",
+        "citation": "IEEE Design & Test 41 (1), 17-24, 2023",
         "num_citations": 1,
         "author_pub_id": "DFtapYEAAAAJ:3NQIlFlcGxIC"
     },
@@ -1697,14 +1718,14 @@
         "title": "Safety architecture for autonomous vehicles",
         "pub_year": "2021",
         "citation": "US Patent 10,962,972, 2021",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "DFtapYEAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Safety argument considerations for public road testing of autonomous vehicles",
         "pub_year": "2019",
         "citation": "SAE International Journal of Advances and Current Practices in Mobility 1 …, 2019",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "DFtapYEAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -1746,7 +1767,7 @@
         "title": "Software testing",
         "pub_year": "1999",
         "citation": "Dependable Embedded Systems 5 (2006), 1, 1999",
-        "num_citations": 172,
+        "num_citations": 178,
         "author_pub_id": "DFtapYEAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -1767,7 +1788,7 @@
         "title": "Stack Computers: the new wave",
         "pub_year": "1989",
         "citation": "Halsted Press, 1989",
-        "num_citations": 257,
+        "num_citations": 255,
         "author_pub_id": "DFtapYEAAAAJ:Ri6SYOTghG4C"
     },
     {
@@ -1795,7 +1816,7 @@
         "title": "System safety as an emergent property in composite systems",
         "pub_year": "2009",
         "citation": "2009 IEEE/IFIP International Conference on Dependable Systems & Networks …, 2009",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "DFtapYEAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -1829,14 +1850,14 @@
         "title": "The Ballista software robustness testing service",
         "pub_year": "1999",
         "citation": "Testing Computer Software Conference 1, 999, 1999",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "DFtapYEAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "The FlexRay Protocol",
-        "pub_year": "2013",
-        "citation": "Electrical and Computer Engineering, Carnegie Mellon University, 2013",
-        "num_citations": 10,
+        "pub_year": "2004",
+        "citation": "Electrical and Computer Engineering, Carnegie Mellon University, 2004",
+        "num_citations": 9,
         "author_pub_id": "DFtapYEAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -1870,7 +1891,7 @@
         "title": "The UL 4600 Guidebook: What to Include in an Autonomous Vehicle Safety Case",
         "pub_year": "2022",
         "citation": "Carnegie Mellon University, 2022",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "DFtapYEAAAAJ:Br1UauaknNIC"
     },
     {
@@ -1898,13 +1919,13 @@
         "title": "The architecture of supercomputers: Titan, a case study",
         "pub_year": "2014",
         "citation": "Academic Press, 2014",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "DFtapYEAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "The awkward middle for automated vehicles: Liability attribution rules when humans and computers share driving responsibilities",
         "pub_year": "2023",
-        "citation": "Available at SSRN 4444854, 2023",
+        "citation": "",
         "num_citations": 2,
         "author_pub_id": "DFtapYEAAAAJ:rHJHxKgnXwkC"
     },
@@ -1919,14 +1940,14 @@
         "title": "The effectiveness of checksums for embedded control networks",
         "pub_year": "2009",
         "citation": "IEEE Transactions on dependable and secure computing 6 (1), 59-72, 2009",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "DFtapYEAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "The exception handling effectiveness of POSIX operating systems",
         "pub_year": "2000",
         "citation": "IEEE Transactions on Software Engineering 26 (9), 837-848, 2000",
-        "num_citations": 195,
+        "num_citations": 194,
         "author_pub_id": "DFtapYEAAAAJ:XD-gHx7UXLsC"
     },
     {
@@ -1947,7 +1968,7 @@
         "title": "Toward a framework for highly automated vehicle safety validation",
         "pub_year": "2018",
         "citation": "SAE Technical Paper, 2018",
-        "num_citations": 146,
+        "num_citations": 148,
         "author_pub_id": "DFtapYEAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -2003,7 +2024,7 @@
         "title": "Undergraduate embedded system education at Carnegie Mellon",
         "pub_year": "2005",
         "citation": "ACM Transactions on Embedded Computing Systems (TECS) 4 (3), 500-528, 2005",
-        "num_citations": 113,
+        "num_citations": 112,
         "author_pub_id": "DFtapYEAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -2052,7 +2073,7 @@
         "title": "What’s wrong with fault injection as a benchmarking tool?",
         "pub_year": "2002",
         "citation": "Carnegie Mellon University, 2002",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "DFtapYEAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -2063,10 +2084,10 @@
         "author_pub_id": "DFtapYEAAAAJ:e_rmSamDkqQC"
     },
     {
-        "title": "Winning the Imitation Game: Setting Safety Expectations for Automated Vehicles",
+        "title": "Winning the imitation game: Setting safety expectations for automated vehicles",
         "pub_year": "2023",
-        "citation": "UNIV. OF MIAMI SCHOOL OF LAW RESEARCH PAPER, 2023",
-        "num_citations": 3,
+        "citation": "Minn. JL Sci. & Tech. 25, 113, 2023",
+        "num_citations": 4,
         "author_pub_id": "DFtapYEAAAAJ:SjuI4pbJlxcC"
     },
     {
@@ -2080,7 +2101,7 @@
         "title": "Work-arounds, make-work, and kludges",
         "pub_year": "2003",
         "citation": "IEEE Intelligent Systems 18 (6), 70-75, 2003",
-        "num_citations": 215,
+        "num_citations": 216,
         "author_pub_id": "DFtapYEAAAAJ:Y0pCki6q_DkC"
     },
     {

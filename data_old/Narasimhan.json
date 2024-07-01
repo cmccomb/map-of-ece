@@ -2,1249 +2,1761 @@
     {
         "title": "2003 Workshop on Duplicating, Deconstructing and Debunking",
         "pub_year": "2002",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "3rd IEEE International Workshop on Software Technologies for Future Embedded and Ubiquitous Systems (SEUS2005)",
         "pub_year": "2005",
-        "citation": "IEEE Computer Society, 2005"
+        "citation": "IEEE Computer Society, 2005",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:6bLC7aUMtPcC"
     },
     {
         "title": "A Survey of Faults and Fault-Injection Techniques in Edge Computing Systems",
         "pub_year": "2023",
-        "citation": "2023 IEEE International Conference on Edge Computing and Communications …, 2023"
+        "citation": "2023 IEEE International Conference on Edge Computing and Communications …, 2023",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:WC9gN4BGCRcC"
     },
     {
         "title": "A fault model for upgrades in distributed systems",
         "pub_year": "2008",
-        "citation": "Carnegie Mellon University, Tech. Rep. CMU-PDL-08-115 35 (36), 39,102, 2008"
+        "citation": "Carnegie Mellon University, Tech. Rep. CMU-PDL-08-115 35 (36), 39,102, 2008",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:Ehil0879vHcC"
     },
     {
         "title": "A fault tolerance framework for CORBA",
         "pub_year": "1999",
-        "citation": "Fault-Tolerant Computing, 1999. Digest of Papers. Twenty-Ninth Annual …, 1999"
+        "citation": "Fault-Tolerant Computing, 1999. Digest of Papers. Twenty-Ninth Annual …, 1999",
+        "num_citations": 65,
+        "author_pub_id": "qyPWUBcAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "A holistic approach to fault management: wheels within a wheel",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "A middleware for dependable distributed real-time systems",
         "pub_year": "2003",
-        "citation": "Proceedings of the Joint Systems and Software Engineering Symposium, 2003"
+        "citation": "Proceedings of the Joint Systems and Software Engineering Symposium, 2003",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "A multicast group communication protocol, engine, and bridge for corba",
         "pub_year": "2001",
-        "citation": "Concurrency and Computation: Practice and Experience 13 (7), 579-603, 2001"
+        "citation": "Concurrency and Computation: Practice and Experience 13 (7), 579-603, 2001",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "A scalable search index for binary files",
         "pub_year": "2012",
-        "citation": "2012 7th International Conference on Malicious and Unwanted Software, 94-103, 2012"
+        "citation": "2012 7th International Conference on Malicious and Unwanted Software, 94-103, 2012",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "A study of unpredictability in fault-tolerant middleware",
         "pub_year": "2013",
-        "citation": "Computer Networks 57 (3), 682-698, 2013"
+        "citation": "Computer Networks 57 (3), 682-698, 2013",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "A survey of security vulnerabilities in bluetooth low energy beacons",
         "pub_year": "2016",
-        "citation": "Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-16-109, 2016"
+        "citation": "Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-16-109, 2016",
+        "num_citations": 22,
+        "author_pub_id": "qyPWUBcAAAAJ:mlAyqtXpCwEC"
     },
     {
         "title": "A versatile, proactive dependability approach to handling unanticipated events in distributed systems",
         "pub_year": "2005",
-        "citation": "19th IEEE International Parallel and Distributed Processing Symposium, 5 pp., 2005"
+        "citation": "19th IEEE International Parallel and Distributed Processing Symposium, 5 pp., 2005",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "ASCoMS",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:QYdC8u9Cj1oC"
     },
     {
         "title": "ASDF: An automated, online framework for diagnosing performance problems",
         "pub_year": "2010",
-        "citation": "Architecting dependable systems VII, 201-226, 2010"
+        "citation": "Architecting dependable systems VII, 201-226, 2010",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "ASDF: Automated online fingerpointing for Hadoop",
         "pub_year": "2008",
-        "citation": "Technical Report CMU-PDL-08-104, Carnegie Mellon University PDL, 2008"
+        "citation": "Technical Report CMU-PDL-08-104, Carnegie Mellon University PDL, 2008",
+        "num_citations": 7,
+        "author_pub_id": "qyPWUBcAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "ASDF: Automated, Online Fingerpointing for Hadoop (CMU-PDL-08-104)",
         "pub_year": "2008",
-        "citation": "Parallel Data Laboratory, 23, 2008"
+        "citation": "Parallel Data Laboratory, 23, 2008",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "AUSPICE-R: Automatic Safety-Property Proofs for Realistic Features in Machine Code",
         "pub_year": "2016",
-        "citation": "Asian Symposium on Programming Languages and Systems, 42-62, 2016"
+        "citation": "Asian Symposium on Programming Languages and Systems, 42-62, 2016",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:_5tno0g5mFcC"
     },
     {
         "title": "AUSPICE: Automatic Safety Property Verification for Unmodified Executables",
         "pub_year": "2016",
-        "citation": "Verified Software: Theories, Tools, and Experiments: 7th International …, 2016"
+        "citation": "Verified Software: Theories, Tools, and Experiments: 7th International …, 2016",
+        "num_citations": 13,
+        "author_pub_id": "qyPWUBcAAAAJ:GtLg2Ama23sC"
     },
     {
         "title": "Adaptive Multilevel Middleware for Object Systems",
         "pub_year": "2006",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Aditya Akella, University of Wisconsin-Madison Jean Bacon, University of Cambridge Roger Barga, Microsoft Research Azer Bestavros, Boston University",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "AlliumBot",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:0N-VGjzr574C"
     },
     {
         "title": "AlliumBot: the Threat of Stealthier and More Resilient Botnets",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "An Analysis of Traces from a Production MapReduce Cluster (CMU-PDL-09-107)",
         "pub_year": "2009",
-        "citation": "Carnegie Mellon University, 2009"
+        "citation": "Carnegie Mellon University, 2009",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "An Empirical Study of Resource-Stressing Faults in Edge-Computing Applications",
         "pub_year": "2023",
-        "citation": "Proceedings of the 6th International Workshop on Edge Systems, Analytics and …, 2023"
+        "citation": "Proceedings of the 6th International Workshop on Edge Systems, Analytics and …, 2023",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:hsZV8lGYWTMC"
     },
     {
         "title": "An analysis of traces from a production MapReduce cluster",
         "pub_year": "2010",
-        "citation": "Cluster, Cloud and Grid Computing (CCGrid), 2010 10th IEEE/ACM International …, 2010"
+        "citation": "Cluster, Cloud and Grid Computing (CCGrid), 2010 10th IEEE/ACM International …, 2010",
+        "num_citations": 447,
+        "author_pub_id": "qyPWUBcAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "An architecture for versatile dependability",
         "pub_year": "2004",
-        "citation": "DSN Workshop on Architecting Dependable Systems, 2004"
+        "citation": "DSN Workshop on Architecting Dependable Systems, 2004",
+        "num_citations": 7,
+        "author_pub_id": "qyPWUBcAAAAJ:UxriW0iASnsC"
     },
     {
         "title": "Architecting and implementing versatile dependability",
         "pub_year": "2005",
-        "citation": "Architecting dependable systems III, 212-231, 2005"
+        "citation": "Architecting dependable systems III, 212-231, 2005",
+        "num_citations": 25,
+        "author_pub_id": "qyPWUBcAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Architectural support for mode-driven fault tolerance in distributed applications",
         "pub_year": "2005",
-        "citation": "ACM SIGSOFT Software Engineering Notes 30 (4), 1-7, 2005"
+        "citation": "ACM SIGSOFT Software Engineering Notes 30 (4), 1-7, 2005",
+        "num_citations": 17,
+        "author_pub_id": "qyPWUBcAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Architecture-driven diagnosis of performance failures in a token ring",
         "pub_year": "2007",
-        "citation": "Proceedings of the 3rd workshop on on Hot Topics in System Dependability, 8-es, 2007"
+        "citation": "Proceedings of the 3rd workshop on on Hot Topics in System Dependability, 8-es, 2007",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Assistive embedded technologies",
         "pub_year": "2006",
-        "citation": "Computer 39 (7), 85-87, 2006"
+        "citation": "Computer 39 (7), 85-87, 2006",
+        "num_citations": 22,
+        "author_pub_id": "qyPWUBcAAAAJ:q3oQSFYPqjQC"
     },
     {
         "title": "Automated viewer-centric personalized sports broadcast",
         "pub_year": "2010",
-        "citation": "Procedia Engineering 2 (2), 3397-3403, 2010"
+        "citation": "Procedia Engineering 2 (2), 3397-3403, 2010",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:PELIpwtuRlgC"
     },
     {
         "title": "BUFS: Towards bottom-up foundational security for software in the Internet-of-Things",
         "pub_year": "2016",
-        "citation": "2016 IEEE/ACM Symposium on Edge Computing (SEC), 107-108, 2016"
+        "citation": "2016 IEEE/ACM Symposium on Edge Computing (SEC), 107-108, 2016",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:WJVC3Jt7v1AC"
     },
     {
         "title": "Behavior-based problem localization for parallel file systems",
         "pub_year": "2010",
-        "citation": "HotDep 2010, USENIX Hot Topics in System Dependability, 2010"
+        "citation": "HotDep 2010, USENIX Hot Topics in System Dependability, 2010",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:JoZmwDi-zQgC"
     },
     {
         "title": "Benchmarking wireless protocols for feasibility in supporting crowdsourced mobile computing",
         "pub_year": "2016",
-        "citation": "Distributed Applications and Interoperable Systems: 16th IFIP WG 6.1 …, 2016"
+        "citation": "Distributed Applications and Interoperable Systems: 16th IFIP WG 6.1 …, 2016",
+        "num_citations": 25,
+        "author_pub_id": "qyPWUBcAAAAJ:XvxMoLDsR5gC"
     },
     {
         "title": "Binary function clustering using semantic hashes",
         "pub_year": "2012",
-        "citation": "2012 11th International Conference on Machine Learning and Applications 1 …, 2012"
+        "citation": "2012 11th International Conference on Machine Learning and Applications 1 …, 2012",
+        "num_citations": 67,
+        "author_pub_id": "qyPWUBcAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Black-box problem diagnosis in parallel file systems",
         "pub_year": "2010",
-        "citation": "FAST 2010: USENIX Conference on File and storage technologies, 4-4, 2010"
+        "citation": "FAST 2010: USENIX Conference on File and storage technologies, 4-4, 2010",
+        "num_citations": 81,
+        "author_pub_id": "qyPWUBcAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "CALL FOR PAPERS: WORKSHOP ON END-TO-END, SENSE-AND-RESPOND SYSTEMS, APPLICATIONS, AND SERVICES",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "CMU-ISRI-05-108 Software Engineering for the 21st Century: A basis for rethinking the curriculum",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Cachier: Edge-caching for recognition applications",
         "pub_year": "2017",
-        "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017"
+        "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017",
+        "num_citations": 199,
+        "author_pub_id": "qyPWUBcAAAAJ:cWzG1nlazyYC"
     },
     {
         "title": "Castor: Secure code updates using symmetric cryptosystems",
         "pub_year": "2007",
-        "citation": "28th IEEE International Real-Time Systems Symposium (RTSS 2007), 479-488, 2007"
+        "citation": "28th IEEE International Real-Time Systems Symposium (RTSS 2007), 479-488, 2007",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:t6usbXjVLHcC"
     },
     {
         "title": "Causes of Failure in Web Applications (CMU-PDL-05-109)",
         "pub_year": "2005",
-        "citation": "Parallel Data Laboratory, 48, 2005"
+        "citation": "Parallel Data Laboratory, 48, 2005",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Causes of failure in web applications",
         "pub_year": "2005",
-        "citation": "Parallel Data Laboratory, Carnegie Mellon University, CMU-PDL-05-109, 2005"
+        "citation": "Parallel Data Laboratory, Carnegie Mellon University, CMU-PDL-05-109, 2005",
+        "num_citations": 260,
+        "author_pub_id": "qyPWUBcAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Challenges and opportunities for embedded computing in retail environments",
         "pub_year": "2012",
-        "citation": "International Conference on Sensor Systems and Software, 2012"
+        "citation": "International Conference on Sensor Systems and Software, 2012",
+        "num_citations": 21,
+        "author_pub_id": "qyPWUBcAAAAJ:uJ-U7cs_P_0C"
     },
     {
         "title": "Challenges in deeply networked system survivability",
         "pub_year": "2006",
-        "citation": "NATO SECURITY THROUGH SCIENCE SERIES D-INFORMATION AND COMMUNICATION …, 2006"
+        "citation": "NATO SECURITY THROUGH SCIENCE SERIES D-INFORMATION AND COMMUNICATION …, 2006",
+        "num_citations": 13,
+        "author_pub_id": "qyPWUBcAAAAJ:_Ybze24A_UAC"
     },
     {
         "title": "Challenges in security and privacy for mobile edge-clouds",
         "pub_year": "2013",
-        "citation": "Technical Report CMU-PDL-13-113, 2013"
+        "citation": "Technical Report CMU-PDL-13-113, 2013",
+        "num_citations": 7,
+        "author_pub_id": "qyPWUBcAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "Comput Syst Sci & Eng (2002) 2: 103–114 International Journal of© 2002 CRL Publishing Ltd Computer Systems Science & Engineering",
         "pub_year": "2002",
-        "citation": "International Journal of Computer Systems Science & Engineering 17, 103, 2002"
+        "citation": "International Journal of Computer Systems Science & Engineering 17, 103, 2002",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:LPtt_HFRSbwC"
     },
     {
         "title": "Consistency of partitionable object groups in a CORBA framework",
         "pub_year": "1997",
-        "citation": "Proceedings of the Thirtieth Hawaii International Conference on System …, 1997"
+        "citation": "Proceedings of the Thirtieth Hawaii International Conference on System …, 1997",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Consistent Object Replication in the Eternal System",
         "pub_year": "1998",
-        "citation": "Theory and Practice of Object Systems 4 (2), 81-92, 1998"
+        "citation": "Theory and Practice of Object Systems 4 (2), 81-92, 1998",
+        "num_citations": 186,
+        "author_pub_id": "qyPWUBcAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "DEPENDABLE SERVICE-ORIENTED COMPUTING-Guest Editors' Introduction",
         "pub_year": "2009",
-        "citation": "IEEE Internet Computing Magazine 13 (2), 11, 2009"
+        "citation": "IEEE Internet Computing Magazine 13 (2), 11, 2009",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:4X0JR2_MtJMC"
     },
     {
         "title": "DSN 2008 organizers",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Decentralized resource management and fault-tolerance for distributed CORBA applications",
         "pub_year": "2003",
-        "citation": "2003 The Ninth IEEE International Workshop on Object-Oriented Real-Time …, 2003"
+        "citation": "2003 The Ninth IEEE International Workshop on Object-Oriented Real-Time …, 2003",
+        "num_citations": 14,
+        "author_pub_id": "qyPWUBcAAAAJ:8AbLer7MMksC"
     },
     {
         "title": "Dependability benchmarking for computer systems",
         "pub_year": "2008",
-        "citation": "Wiley-IEEE Computer Society Pr, 2008"
+        "citation": "Wiley-IEEE Computer Society Pr, 2008",
+        "num_citations": 163,
+        "author_pub_id": "qyPWUBcAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "Dependability in web services",
         "pub_year": "2004",
-        "citation": "Reliable Distributed Systems, 2004. Proceedings of the 23rd IEEE …, 2004"
+        "citation": "Reliable Distributed Systems, 2004. Proceedings of the 23rd IEEE …, 2004",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:AXPGKjj_ei8C"
     },
     {
         "title": "Designing Fault tolerant Mission-Critical Middleware Infrastructure for Distributed Real-time and Embedded Systems",
         "pub_year": "2006",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "Detection and Diagnosis of QoS Problems for Large-Scale Mobile Wireless Video Streaming",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:YohjEiUPhakC"
     },
     {
         "title": "Diagnosis in Automotive Systems: A Survey",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "",
+        "num_citations": 53,
+        "author_pub_id": "qyPWUBcAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Diagnostic Fusion for Dependable Vehicle Architectures",
         "pub_year": "2011",
-        "citation": "The Fourth International Conference on Dependability, 2011"
+        "citation": "The Fourth International Conference on Dependability, 2011",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Diagnostic Fusion for Time-Triggered Automotive Networks",
         "pub_year": "2012",
-        "citation": "2012 IEEE 14th International Symposium on High-Assurance Systems Engineering …, 2012"
+        "citation": "2012 IEEE 14th International Symposium on High-Assurance Systems Engineering …, 2012",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:hMsQuOkrut0C"
     },
     {
         "title": "Disseminating Code Updates in Sensor Networks: Survey of Protocols and Security Issues",
         "pub_year": "2005",
-        "citation": "Technical report, School of Computer Science, Carnegie Mellon University, PA, 2005"
+        "citation": "Technical report, School of Computer Science, Carnegie Mellon University, PA, 2005",
+        "num_citations": 15,
+        "author_pub_id": "qyPWUBcAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Draco: Statistical diagnosis of chronic problems in large distributed systems",
         "pub_year": "2012",
-        "citation": "DSN 2012, 42nd IEEE/IFIP International Conference on Dependable Systems and …, 2012"
+        "citation": "DSN 2012, 42nd IEEE/IFIP International Conference on Dependable Systems and …, 2012",
+        "num_citations": 74,
+        "author_pub_id": "qyPWUBcAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Draco: Top-down statistical diagnosis of large-scale VoIP networks",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "",
+        "num_citations": 12,
+        "author_pub_id": "qyPWUBcAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Dynamic change management for minimal impact on dependability and performance in autonomic service-oriented architectures",
         "pub_year": "2006",
-        "citation": "CyLab Carnegie Mellon University, 2006"
+        "citation": "CyLab Carnegie Mellon University, 2006",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:uWQEDVKXjbEC"
     },
     {
         "title": "Ecotopia: An ecological framework for change management in distributed systems",
         "pub_year": "2007",
-        "citation": "Architecting dependable systems IV, 262-286, 2007"
+        "citation": "Architecting dependable systems IV, 262-286, 2007",
+        "num_citations": 16,
+        "author_pub_id": "qyPWUBcAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Edge-caches for vision applications",
         "pub_year": "2016",
-        "citation": "2016 IEEE/ACM Symposium on Edge Computing (SEC), 91-92, 2016"
+        "citation": "2016 IEEE/ACM Symposium on Edge Computing (SEC), 91-92, 2016",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:IRz6iEL74y4C"
     },
     {
         "title": "Elephant: Network intrusion detection systems that don't forget",
         "pub_year": "2005",
-        "citation": "Proceedings of the 38th Annual Hawaii International Conference on System …, 2005"
+        "citation": "Proceedings of the 38th Annual Hawaii International Conference on System …, 2005",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Embedded sports technology: Taking it to the field",
         "pub_year": "2012",
-        "citation": "HPCA Workshop on SoCs, Heterogeneous Architectures and Workloads, 2012"
+        "citation": "HPCA Workshop on SoCs, Heterogeneous Architectures and Workloads, 2012",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:j8SEvjWlNXcC"
     },
     {
         "title": "End-to-End Consistency of Multi-Tier Operations Across Mixed Replicated and Unreplicated Components",
         "pub_year": "2006",
-        "citation": "Carnegie Mellon University, 2006"
+        "citation": "Carnegie Mellon University, 2006",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Enforcing determinism for the consistent replication of multithreaded CORBA applications",
         "pub_year": "1999",
-        "citation": "Proceedings of the 18th IEEE Symposium on Reliable Distributed Systems, 263-273, 1999"
+        "citation": "Proceedings of the 18th IEEE Symposium on Reliable Distributed Systems, 263-273, 1999",
+        "num_citations": 82,
+        "author_pub_id": "qyPWUBcAAAAJ:g5m5HwL7SMYC"
     },
     {
         "title": "Estimating faultdetection and fail-over times for nested real-time CORBA applications",
         "pub_year": "2003",
-        "citation": "International Conference on Parallel and Distributed Processing Techniques …, 2003"
+        "citation": "International Conference on Parallel and Distributed Processing Techniques …, 2003",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Eternal: fault tolerance and live upgrades for distributed object systems",
         "pub_year": "2000",
-        "citation": "DARPA Information Survivability Conference and Exposition, 2000. DISCEX'00 …, 2000"
+        "citation": "DARPA Information Survivability Conference and Exposition, 2000. DISCEX'00 …, 2000",
+        "num_citations": 35,
+        "author_pub_id": "qyPWUBcAAAAJ:3s1wT3WcHBgC"
     },
     {
         "title": "Eternal—a component‐based framework for transparent fault‐tolerant CORBA",
         "pub_year": "2002",
-        "citation": "Software: Practice and Experience 32 (8), 771-788, 2002"
+        "citation": "Software: Practice and Experience 32 (8), 771-788, 2002",
+        "num_citations": 152,
+        "author_pub_id": "qyPWUBcAAAAJ:HoB7MX3m0LUC"
     },
     {
         "title": "Experiences with a CANoe-based fault injection framework for AUTOSAR",
         "pub_year": "2010",
-        "citation": "DSN 2010, IEEE/IFIP International Conference on Dependable Systems and …, 2010"
+        "citation": "DSN 2010, IEEE/IFIP International Conference on Dependable Systems and …, 2010",
+        "num_citations": 38,
+        "author_pub_id": "qyPWUBcAAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Experiences with fault-injection in a byzantine fault-tolerant protocol",
         "pub_year": "2013",
-        "citation": "Middleware 2013: ACM/IFIP/USENIX 14th International Middleware Conference …, 2013"
+        "citation": "Middleware 2013: ACM/IFIP/USENIX 14th International Middleware Conference …, 2013",
+        "num_citations": 25,
+        "author_pub_id": "qyPWUBcAAAAJ:HbR8gkJAVGIC"
     },
     {
         "title": "Experiences, strategies, and challenges in building fault-tolerant CORBA systems",
         "pub_year": "2004",
-        "citation": "IEEE Transactions on Computers, 467-511, 2004"
+        "citation": "IEEE Transactions on Computers, 467-511, 2004",
+        "num_citations": 158,
+        "author_pub_id": "qyPWUBcAAAAJ:vRqMK49ujn8C"
     },
     {
         "title": "Experimental research in dependable computing at carnegie mellon university",
         "pub_year": "2004",
-        "citation": "Building the Information Society, 305-328, 2004"
+        "citation": "Building the Information Society, 305-328, 2004",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:V3AGJWp-ZtQC"
     },
     {
         "title": "Exploiting the Internet Inter-ORB Protocol interface to provide CORBA with fault tolerance",
         "pub_year": "1997",
-        "citation": "Proceedings of the 3rd conference on USENIX Conference on Object-Oriented …, 1997"
+        "citation": "Proceedings of the 3rd conference on USENIX Conference on Object-Oriented …, 1997",
+        "num_citations": 78,
+        "author_pub_id": "qyPWUBcAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Exploring symmetric cryptography for secure network reprogramming",
         "pub_year": "2007",
-        "citation": "27th International Conference on Distributed Computing Systems Workshops …, 2007"
+        "citation": "27th International Conference on Distributed Computing Systems Workshops …, 2007",
+        "num_citations": 20,
+        "author_pub_id": "qyPWUBcAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Eye of the Beholder: Phone-based text-recognition for the visually-impaired",
         "pub_year": "2006",
-        "citation": "2006 10th IEEE International Symposium on Wearable Computers, 145-146, 2006"
+        "citation": "2006 10th IEEE International Symposium on Wearable Computers, 145-146, 2006",
+        "num_citations": 24,
+        "author_pub_id": "qyPWUBcAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Failure diagnosis of complex systems",
         "pub_year": "2012",
-        "citation": "Resilience Assessment and Evaluation, 2012"
+        "citation": "Resilience Assessment and Evaluation, 2012",
+        "num_citations": 50,
+        "author_pub_id": "qyPWUBcAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Failure‐Tolerant Architectures for Health Management",
         "pub_year": "2011",
-        "citation": "System Health Management: With Aerospace Applications, 467-482, 2011"
+        "citation": "System Health Management: With Aerospace Applications, 467-482, 2011",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Fault Tolerant Edge Computing: Challenges and Opportunities",
         "pub_year": "2023",
-        "citation": "2023 IEEE 7th International Conference on Fog and Edge Computing (ICFEC), 73-80, 2023"
+        "citation": "2023 IEEE 7th International Conference on Fog and Edge Computing (ICFEC), 73-80, 2023",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:Ade32sEp0pkC"
     },
     {
         "title": "Fault tolerant approaches for distributed real-time and embedded systems",
         "pub_year": "2007",
-        "citation": "MILCOM 2007-IEEE Military Communications Conference, 1-8, 2007"
+        "citation": "MILCOM 2007-IEEE Military Communications Conference, 1-8, 2007",
+        "num_citations": 20,
+        "author_pub_id": "qyPWUBcAAAAJ:mvPsJ3kp5DgC"
     },
     {
         "title": "Fault tolerant architectures for space and avionics",
         "pub_year": "2006",
-        "citation": "Workshop on Dependability in Robotics and Autonomous Systems, 2006"
+        "citation": "Workshop on Dependability in Robotics and Autonomous Systems, 2006",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:HtEfBTGE9r8C"
     },
     {
         "title": "Fault-Tolerant Middleware and the Magical 1%",
         "pub_year": "2011",
-        "citation": "IFIP Lecture Notes in Computer Science (LNCS), 431-441, 2011"
+        "citation": "IFIP Lecture Notes in Computer Science (LNCS), 431-441, 2011",
+        "num_citations": 23,
+        "author_pub_id": "qyPWUBcAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Fault-tolerant CORBA: From specification to reality",
         "pub_year": "2007",
-        "citation": "Computer 40 (1), 110-112, 2007"
+        "citation": "Computer 40 (1), 110-112, 2007",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "Fault-tolerant architectures for space and avionics applications",
         "pub_year": "2005",
-        "citation": "NASA Ames Research http://ic. arc. nasa. gov/projects/ishem/Papers/Siewi, 2005"
+        "citation": "NASA Ames Research http://ic. arc. nasa. gov/projects/ishem/Papers/Siewi, 2005",
+        "num_citations": 31,
+        "author_pub_id": "qyPWUBcAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "Fault-tolerant middleware and the magical 1%",
         "pub_year": "2005",
-        "citation": "Proceedings of the ACM/IFIP/USENIX 2005 International Conference on …, 2005"
+        "citation": "Proceedings of the ACM/IFIP/USENIX 2005 International Conference on …, 2005",
+        "num_citations": 23,
+        "author_pub_id": "qyPWUBcAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Fingerpointing correlated failures in replicated systems",
         "pub_year": "2007",
-        "citation": "Proceedings of the 2nd USENIX workshop on Tackling computer systems problems …, 2007"
+        "citation": "Proceedings of the 2nd USENIX workshop on Tackling computer systems problems …, 2007",
+        "num_citations": 28,
+        "author_pub_id": "qyPWUBcAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Foundations of Middleware Technologies",
         "pub_year": "2005",
-        "citation": "Concurrency and Computation: Practice and Experience 17 (12), 1469-1470, 2005"
+        "citation": "Concurrency and Computation: Practice and Experience 17 (12), 1469-1470, 2005",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Ganesha: Black-Box Fault Diagnosis for MapReduce Systems (CMU-PDL-08-112)",
         "pub_year": "2008",
-        "citation": "Parallel Data Laboratory, 2008"
+        "citation": "Parallel Data Laboratory, 2008",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Ganesha: black-box fault diagnosis for MapReduce systems",
         "pub_year": "2008",
-        "citation": "Hot Metrics, 2008"
+        "citation": "Hot Metrics, 2008",
+        "num_citations": 127,
+        "author_pub_id": "qyPWUBcAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Ganesha: blackBox diagnosis of MapReduce systems",
         "pub_year": "2010",
-        "citation": "ACM SIGMETRICS Performance Evaluation Review 37 (3), 8-13, 2010"
+        "citation": "ACM SIGMETRICS Performance Evaluation Review 37 (3), 8-13, 2010",
+        "num_citations": 127,
+        "author_pub_id": "qyPWUBcAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Gateways for accessing fault tolerance domains",
         "pub_year": "2000",
-        "citation": "IFIP/ACM International Conference on Distributed Systems Platforms and Open …, 2000"
+        "citation": "IFIP/ACM International Conference on Distributed Systems Platforms and Open …, 2000",
+        "num_citations": 14,
+        "author_pub_id": "qyPWUBcAAAAJ:PR6Y55bgFSsC"
     },
     {
         "title": "Got predictability? Experiences with fault-tolerant middleware",
         "pub_year": "2007",
-        "citation": "Proceedings of the 2007 ACM/IFIP/USENIX international conference on …, 2007"
+        "citation": "Proceedings of the 2007 ACM/IFIP/USENIX international conference on …, 2007",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Group Communication: Helping or Obscuring Failure Diagnosis?(CMU-PDL-06-107)",
         "pub_year": "2006",
-        "citation": "Carnegie Mellon University, 2006"
+        "citation": "Carnegie Mellon University, 2006",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Group communication: Helping or obscuring failure diagnosis",
         "pub_year": "2006",
-        "citation": "Group Communication: Helping Or Obscuring Failure Diagnosis, 2006"
+        "citation": "Group Communication: Helping Or Obscuring Failure Diagnosis, 2006",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Guest Editors' Introduction to Special Issue Service-Oriented Computing (ICSOC) 2007",
         "pub_year": "2008",
-        "citation": "International Journal of Cooperative Information Systems 17 (03), 257-258, 2008"
+        "citation": "International Journal of Cooperative Information Systems 17 (03), 257-258, 2008",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:yMeIxYmEMEAC"
     },
     {
         "title": "Gumshoe: Diagnosing performance problems in replicated file-systems",
         "pub_year": "2008",
-        "citation": "2008 Symposium on Reliable Distributed Systems, 137-146, 2008"
+        "citation": "2008 Symposium on Reliable Distributed Systems, 137-146, 2008",
+        "num_citations": 17,
+        "author_pub_id": "qyPWUBcAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Handling Emergent Nondeterminism in Replicated Services",
         "pub_year": "2008",
-        "citation": "Lecture Notes in Computer Science 5135, 199, 2008"
+        "citation": "Lecture Notes in Computer Science 5135, 199, 2008",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Handling cascading failures: the case for topology-aware fault-tolerance",
         "pub_year": "2005",
-        "citation": "Proceedings of the IEEE First Workshop on Hot Topics in System Dependability, 2005"
+        "citation": "Proceedings of the IEEE First Workshop on Hot Topics in System Dependability, 2005",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Hans-Peter Schwefel, FTW, Austria Mukesh Singhal, The University of Kentucky, USA Janusz Sosnowski, University of Warsaw, Poland Shambhu Upadhyaya, SUNY at Buffalo, USA Nalini …",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:KUbvn5osdkgC"
     },
     {
         "title": "Hardware performance counter-based problem diagnosis for e-commerce systems",
         "pub_year": "2010",
-        "citation": "2010 IEEE Network Operations and Management Symposium-NOMS 2010, 551-558, 2010"
+        "citation": "2010 IEEE Network Operations and Management Symposium-NOMS 2010, 551-558, 2010",
+        "num_citations": 12,
+        "author_pub_id": "qyPWUBcAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Holistic Data-Driven Diagnosis for Dependable Automotive Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "How To Write a Good (no, Great)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:4hFrxpcac9AC"
     },
     {
         "title": "Hyrax: Cloud computing on mobile devices using MapReduce",
         "pub_year": "2009",
-        "citation": "Master's Thesis, Carnegie Mellon University, 2009"
+        "citation": "Master's Thesis, Carnegie Mellon University, 2009",
+        "num_citations": 637,
+        "author_pub_id": "qyPWUBcAAAAJ:9Nmd_mFXekcC"
     },
     {
         "title": "Impact-Sensitive Framework for Dynamic Change-Management",
         "pub_year": "2006",
-        "citation": "DSN 2006, 94, 2006"
+        "citation": "DSN 2006, 94, 2006",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Interactive shopping experience through immersive store environments",
         "pub_year": "2013",
-        "citation": "Design, User Experience, and Usability. User Experience in Novel …, 2013"
+        "citation": "Design, User Experience, and Usability. User Experience in Novel …, 2013",
+        "num_citations": 10,
+        "author_pub_id": "qyPWUBcAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "Is devops the future of sysadmin?",
         "pub_year": "2013",
-        "citation": "Usenix. org login 38 (2), 2013"
+        "citation": "Usenix. org login 38 (2), 2013",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:Aul-kAQHnToC"
     },
     {
         "title": "Kahuna: Problem diagnosis for MapReduce-based cloud computing environments",
         "pub_year": "2010",
-        "citation": "Network Operations and Management Symposium (NOMS), 2010 IEEE, 112-119, 2010"
+        "citation": "Network Operations and Management Symposium (NOMS), 2010 IEEE, 112-119, 2010",
+        "num_citations": 94,
+        "author_pub_id": "qyPWUBcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Krowd: A key-value store for crowded venues",
         "pub_year": "2015",
-        "citation": "Proceedings of the 10th International Workshop on Mobility in the Evolving …, 2015"
+        "citation": "Proceedings of the 10th International Workshop on Mobility in the Evolving …, 2015",
+        "num_citations": 33,
+        "author_pub_id": "qyPWUBcAAAAJ:FAceZFleit8C"
     },
     {
         "title": "Lessons learned in building a fault-tolerant CORBA system",
         "pub_year": "2002",
-        "citation": "Proceedings International Conference on Dependable Systems and Networks, 39-44, 2002"
+        "citation": "Proceedings International Conference on Dependable Systems and Networks, 39-44, 2002",
+        "num_citations": 10,
+        "author_pub_id": "qyPWUBcAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Light-weight black-box failure detection for distributed systems",
         "pub_year": "2012",
-        "citation": "Proceedings of the 2012 workshop on Management of big data systems, 13-18, 2012"
+        "citation": "Proceedings of the 2012 workshop on Management of big data systems, 13-18, 2012",
+        "num_citations": 25,
+        "author_pub_id": "qyPWUBcAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Lightweight Fault-Tolerance for Peer-to-Peer Middleware",
         "pub_year": "2010",
-        "citation": "Workshop, IEEE Symposium on Reliable Distributed Systems (SRDS), 313-317, 2010"
+        "citation": "Workshop, IEEE Symposium on Reliable Distributed Systems (SRDS), 313-317, 2010",
+        "num_citations": 12,
+        "author_pub_id": "qyPWUBcAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Living with nondeterminism in replicated middleware applications",
         "pub_year": "2006",
-        "citation": "Middleware 2006, 81-100, 2006"
+        "citation": "Middleware 2006, 81-100, 2006",
+        "num_citations": 27,
+        "author_pub_id": "qyPWUBcAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Log-Based Approaches to Characterizing and Diagnosing MapReduce Systems",
-        "citation": "Carnegie Mellon University, 0"
+        "citation": "Carnegie Mellon University, 0",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "MEAD: Support for Real-Time Fault-Tolerant Middleware",
         "pub_year": "2003",
-        "citation": "OMG Workshop on Distributed Object Computing for Real-time and Embedded Systems, 2003"
+        "citation": "OMG Workshop on Distributed Object Computing for Real-time and Embedded Systems, 2003",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "MEAD: support for Real‐Time Fault‐Tolerant CORBA",
         "pub_year": "2005",
-        "citation": "Concurrency and Computation: Practice and Experience 17 (12), 1527-1545, 2005"
+        "citation": "Concurrency and Computation: Practice and Experience 17 (12), 1527-1545, 2005",
+        "num_citations": 94,
+        "author_pub_id": "qyPWUBcAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Making Problem Diagnosis Work for {Large-Scale}, Production Storage Systems",
         "pub_year": "2013",
-        "citation": "27th Large Installation System Administration Conference (LISA 13), 27-44, 2013"
+        "citation": "27th Large Installation System Administration Conference (LISA 13), 27-44, 2013",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:Dip1O2bNi0gC"
     },
     {
         "title": "Message from the technical program co-chairs",
         "pub_year": "2005",
-        "citation": "Third IEEE Workshop on Software Technologies for Future Embedded and …, 2005"
+        "citation": "Third IEEE Workshop on Software Technologies for Future Embedded and …, 2005",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:Ri6SYOTghG4C"
     },
     {
         "title": "Message packing as a performance enhancement strategy with application to the Totem protocols",
         "pub_year": "1996",
-        "citation": "Proceedings of GLOBECOM'96. 1996 IEEE Global Telecommunications Conference 1 …, 1996"
+        "citation": "Proceedings of GLOBECOM'96. 1996 IEEE Global Telecommunications Conference 1 …, 1996",
+        "num_citations": 19,
+        "author_pub_id": "qyPWUBcAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "MetaBot: Automated and dynamically schedulable robotic behaviors in retail environments",
         "pub_year": "2013",
-        "citation": "2013 IEEE International Symposium on Robotic and Sensors Environments (ROSE …, 2013"
+        "citation": "2013 IEEE International Symposium on Robotic and Sensors Environments (ROSE …, 2013",
+        "num_citations": 7,
+        "author_pub_id": "qyPWUBcAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "MetaMorphMagi: From Oline to Online Sotware Upgrades in Large-Scale IT Infrastructures",
         "pub_year": "2007",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Metrics for the evaluation of proactive and reactive survivability",
         "pub_year": "2003",
-        "citation": "Procedings of the 2003 International Conference on Dependable Systems and …, 2003"
+        "citation": "Procedings of the 2003 International Conference on Dependable Systems and …, 2003",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Middleware 2012",
         "pub_year": "2012",
-        "citation": "Springer Berlin Heidelberg, 2012"
+        "citation": "Springer Berlin Heidelberg, 2012",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Middleware for Embedded Adaptive Dependability (MEAD)",
         "pub_year": "2003",
-        "citation": "Electrical and Computer Engg, 2003"
+        "citation": "Electrical and Computer Engg, 2003",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "Middleware for embedded adaptive dependability",
         "pub_year": "2002",
-        "citation": "IEEE Workshop on Large Scale Real-Time and Embedded Systems, Austin, TX, 2002"
+        "citation": "IEEE Workshop on Large Scale Real-Time and Embedded Systems, Austin, TX, 2002",
+        "num_citations": 10,
+        "author_pub_id": "qyPWUBcAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "Middleware, Fault-Tolerance and the Magical 1%",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Middleware-Based Software Infrastructures for the Transparent Composition of System Properties",
         "pub_year": "2001",
-        "citation": "proc. NSF Workshop on New Visions for Software Design and Productivity …, 2001"
+        "citation": "proc. NSF Workshop on New Visions for Software Design and Productivity …, 2001",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Mochi: Visual Log-Analysis Based Tools for Debugging Hadoop (CMU-PDL-09-103)",
         "pub_year": "2009",
-        "citation": "Carnegie Mellon University, 2009"
+        "citation": "Carnegie Mellon University, 2009",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Mochi: visual log-analysis based tools for debugging hadoop",
         "pub_year": "2009",
-        "citation": "Proceedings of the 2009 conference on Hot topics in cloud computing, 18, 2009"
+        "citation": "Proceedings of the 2009 conference on Hot topics in cloud computing, 18, 2009",
+        "num_citations": 104,
+        "author_pub_id": "qyPWUBcAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Model-driven Techniques for Proactive Fault Tolerance",
         "pub_year": "2003",
-        "citation": "Third Annual TAO Workshop, Arlington, VA, 2003"
+        "citation": "Third Annual TAO Workshop, Arlington, VA, 2003",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:fEOibwPWpKIC"
     },
     {
         "title": "Models and Methodologies",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Multicast group communication for CORBA",
         "pub_year": "1999",
-        "citation": "Proceedings of the International Symposium on Distributed Objects and …, 1999"
+        "citation": "Proceedings of the International Symposium on Distributed Objects and …, 1999",
+        "num_citations": 17,
+        "author_pub_id": "qyPWUBcAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Myron: Smart footballs for automated coaching",
         "pub_year": "2009",
-        "citation": "The Impact of Technology on Sport, III, 593-7, 2009"
+        "citation": "The Impact of Technology on Sport, III, 593-7, 2009",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Navigating a store planogram on digital signs through gestures",
         "pub_year": "2012",
-        "citation": "HPCA Workshop on SoCs, Heterogeneous Architectures and Workloads, 2012"
+        "citation": "HPCA Workshop on SoCs, Heterogeneous Architectures and Workloads, 2012",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:z_wVstp3MssC"
     },
     {
         "title": "No Downtime for Data Conversions: Rethinking Hot Upgrades (CMU-PDL-09-106)",
         "pub_year": "2009",
-        "citation": "Carnegie Mellon University, 2009"
+        "citation": "Carnegie Mellon University, 2009",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "No downtime for data conversions: Rethinking hot upgrades",
         "pub_year": "2009",
-        "citation": "Parallel Data Laboratory, 1-8, 2009"
+        "citation": "Parallel Data Laboratory, 1-8, 2009",
+        "num_citations": 15,
+        "author_pub_id": "qyPWUBcAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "No more HotDependencies: Toward dependency-agnostic online upgrades in distributed systems",
         "pub_year": "2007",
-        "citation": "Proc. of the Third Workshop on Hot Topics in System Dependability, 14, 2007"
+        "citation": "Proc. of the Third Workshop on Hot Topics in System Dependability, 14, 2007",
+        "num_citations": 17,
+        "author_pub_id": "qyPWUBcAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Nondeterminism in ORBs: The perception and the reality",
         "pub_year": "2006",
-        "citation": "17th International Workshop on Database and Expert Systems Applications …, 2006"
+        "citation": "17th International Workshop on Database and Expert Systems Applications …, 2006",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:a0OBvERweLwC"
     },
     {
         "title": "Object-oriented programming of complex fault-tolerant real-time systems",
         "pub_year": "1996",
-        "citation": "Proceedings of WORDS'96. The Second Workshop on Object-Oriented Real-Time …, 1996"
+        "citation": "Proceedings of WORDS'96. The Second Workshop on Object-Oriented Real-Time …, 1996",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "On the Impact of Fault-Tolerance Mechanisms in a Peer-to-Peer Middleware",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Open Research Issues in Building Dependable Middleware",
         "pub_year": "2002",
-        "citation": "Proceedings of WORDS 2002: 7th International Workshop on Object-Oriented …, 2002"
+        "citation": "Proceedings of WORDS 2002: 7th International Workshop on Object-Oriented …, 2002",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "PCFIRE: towards provable preventative control-flow integrity enforcement for realistic embedded software",
         "pub_year": "2016",
-        "citation": "Proceedings of the 13th International Conference on Embedded Software, 1-10, 2016"
+        "citation": "Proceedings of the 13th International Conference on Embedded Software, 1-10, 2016",
+        "num_citations": 9,
+        "author_pub_id": "qyPWUBcAAAAJ:2VqYfGB8ITEC"
     },
     {
         "title": "Panel: Open Research Issues in Building Dependable Middleware",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:mNrWkgRL2YcC"
     },
     {
         "title": "Panoptes: crowd-sourced cars with a cause",
         "pub_year": "2012",
-        "citation": "2012 International Conference on Connected Vehicles and Expo (ICCVE), 148-153, 2012"
+        "citation": "2012 International Conference on Connected Vehicles and Expo (ICCVE), 148-153, 2012",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:tuHXwOkdijsC"
     },
     {
         "title": "Performance troubleshooting in data centers: an annotated bibliography?",
         "pub_year": "2013",
-        "citation": "ACM SIGOPS Operating Systems Review 47 (3), 50-62, 2013"
+        "citation": "ACM SIGOPS Operating Systems Review 47 (3), 50-62, 2013",
+        "num_citations": 51,
+        "author_pub_id": "qyPWUBcAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Performance-Aware Wi-Fi Problem Diagnosis and Mitigation through Peer-to-Peer Data Sharing",
         "pub_year": "2020",
-        "citation": "2020 50th Annual IEEE-IFIP International Conference on Dependable Systems …, 2020"
+        "citation": "2020 50th Annual IEEE-IFIP International Conference on Dependable Systems …, 2020",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:Bg7qf7VwUHIC"
     },
     {
         "title": "Poster: Approximate Memoization for Perception-based Mobile Applications",
         "pub_year": "2016",
-        "citation": "Proceedings of the 14th Annual International Conference on Mobile Systems …, 2016"
+        "citation": "Proceedings of the 14th Annual International Conference on Mobile Systems …, 2016",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:DUooU5lO8OsC"
     },
     {
         "title": "Poster: Krowd: A Key-Value Store for Crowded Venues",
         "pub_year": "2015",
-        "citation": "Proceedings of the 2015 Workshop on Wireless of the Students, by the …, 2015"
+        "citation": "Proceedings of the 2015 Workshop on Wireless of the Students, by the …, 2015",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:8d8msizDQcsC"
     },
     {
         "title": "Poster: Towards secure execution of untrusted code for mobile edge-clouds",
         "pub_year": "2014",
-        "citation": "ACM WiSec, 2014"
+        "citation": "ACM WiSec, 2014",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "Practical considerations in making CORBA services fault-tolerant",
         "pub_year": "2002",
-        "citation": "Proceedings Fifth IEEE International Symposium on Object-Oriented Real-Time …, 2002"
+        "citation": "Proceedings Fifth IEEE International Symposium on Object-Oriented Real-Time …, 2002",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Practical experiences with chronics discovery in large telecommunications systems",
         "pub_year": "2011",
-        "citation": "SLAML 2011, Managing Large-scale Systems via the Analysis of System Logs and …, 2011"
+        "citation": "SLAML 2011, Managing Large-scale Systems via the Analysis of System Logs and …, 2011",
+        "num_citations": 12,
+        "author_pub_id": "qyPWUBcAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Prato: databases on demand",
         "pub_year": "2007",
-        "citation": "Fourth International Conference on Autonomic Computing (ICAC'07), 11-11, 2007"
+        "citation": "Fourth International Conference on Autonomic Computing (ICAC'07), 11-11, 2007",
+        "num_citations": 7,
+        "author_pub_id": "qyPWUBcAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Precog: prefetching for image recognition applications at the edge",
         "pub_year": "2017",
-        "citation": "Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 1-13, 2017"
+        "citation": "Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 1-13, 2017",
+        "num_citations": 84,
+        "author_pub_id": "qyPWUBcAAAAJ:DJbcl8HfkQkC"
     },
     {
         "title": "Proactive Fault-Recovery in Distributed Systems",
         "pub_year": "2004",
-        "citation": "Carnegie Mellon University, 2004"
+        "citation": "Carnegie Mellon University, 2004",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Proactive Problem Determination in Transaction-Oriented Applications",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Proactive containment of malice in survivable distributed systems",
         "pub_year": "2003",
-        "citation": "International Conference on Security and Management, Las Vegas, NV, 2003"
+        "citation": "International Conference on Security and Management, Las Vegas, NV, 2003",
+        "num_citations": 15,
+        "author_pub_id": "qyPWUBcAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "Proactive recovery in distributed corba applications",
         "pub_year": "2004",
-        "citation": "International Conference on Dependable Systems and Networks, 2004, 357-366, 2004"
+        "citation": "International Conference on Dependable Systems and Networks, 2004, 357-366, 2004",
+        "num_citations": 44,
+        "author_pub_id": "qyPWUBcAAAAJ:_xSYboBqXhAC"
     },
     {
         "title": "Proceedings of the 5th international conference on Service-Oriented Computing",
         "pub_year": "2007",
-        "citation": "Springer-Verlag, 2007"
+        "citation": "Springer-Verlag, 2007",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "Proceedings of the 7th IFIP WG 10.2 International Workshop on Software Technologies for Embedded and Ubiquitous Systems",
         "pub_year": "2009",
-        "citation": "Springer-Verlag, 2009"
+        "citation": "Springer-Verlag, 2009",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:PVgj2kMGcgYC"
     },
     {
         "title": "Providing support for survivable CORBA applications with the Immune system",
         "pub_year": "1999",
-        "citation": "Distributed Computing Systems, 1999. Proceedings. 19th IEEE International …, 1999"
+        "citation": "Distributed Computing Systems, 1999. Proceedings. 19th IEEE International …, 1999",
+        "num_citations": 74,
+        "author_pub_id": "qyPWUBcAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Quantitative evaluation of application layer protocols for edge-centric real-time iovt applications",
         "pub_year": "2022",
-        "citation": "2022 IEEE 13th Annual Ubiquitous Computing, Electronics & Mobile …, 2022"
+        "citation": "2022 IEEE 13th Annual Ubiquitous Computing, Electronics & Mobile …, 2022",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:L1USKYWJimsC"
     },
     {
         "title": "RAMS and BlackSheep: Inferring White-box Application Behavior Using Black-box Techniques (CMU-PDL-08-103)",
         "pub_year": "2008",
-        "citation": "Carnegie Mellon University, 2008"
+        "citation": "Carnegie Mellon University, 2008",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "RAMS and BlackSheep: Inferring white-box application behavior using black-box techniques",
         "pub_year": "2008",
-        "citation": "Technical Report CMU-PDL-08-103, Carnegie Mellon University Parallel Data …, 2008"
+        "citation": "Technical Report CMU-PDL-08-103, Carnegie Mellon University Parallel Data …, 2008",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Real-time tracking of game assets in American football for automated camera selection and motion capture",
         "pub_year": "2010",
-        "citation": "Procedia Engineering 2 (2), 2667-2673, 2010"
+        "citation": "Procedia Engineering 2 (2), 2667-2673, 2010",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Realize: Resource Management for Soft Real-Time Distributed Systems",
         "pub_year": "1999",
-        "citation": "DARPA Information Survivability Conference & Exposition: DISCEX'00, 25-27 …, 1999"
+        "citation": "DARPA Information Survivability Conference & Exposition: DISCEX'00, 25-27 …, 1999",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:BzfGm06jWhQC"
     },
     {
         "title": "Realize: Resource management for soft real-time distributed systems",
         "pub_year": "2000",
-        "citation": "Proceedings DARPA Information Survivability Conference and Exposition …, 2000"
+        "citation": "Proceedings DARPA Information Survivability Conference and Exposition …, 2000",
+        "num_citations": 26,
+        "author_pub_id": "qyPWUBcAAAAJ:dQ2og3OwTAUC"
     },
     {
         "title": "Reconciling Replication and Transactions for the End-to-End Reliability of CORBA Applications, On the Move to Meaningful Internet Systems, 2002-DOA/CoopIS/ODBASE 2002 …",
-        "citation": "October, 0"
+        "citation": "October, 0",
+        "num_citations": 60,
+        "author_pub_id": "qyPWUBcAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Reconciling replication and transactions for the end-to-end reliability of CORBA applications",
         "pub_year": "2002",
-        "citation": "On the Move to Meaningful Internet Systems 2002: CoopIS, DOA, and ODBASE …, 2002"
+        "citation": "On the Move to Meaningful Internet Systems 2002: CoopIS, DOA, and ODBASE …, 2002",
+        "num_citations": 60,
+        "author_pub_id": "qyPWUBcAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Recovering C++ objects from binaries using inter-procedural data-flow analysis",
         "pub_year": "2014",
-        "citation": "Proceedings of ACM SIGPLAN on Program Protection and Reverse Engineering …, 2014"
+        "citation": "Proceedings of ACM SIGPLAN on Program Protection and Reverse Engineering …, 2014",
+        "num_citations": 56,
+        "author_pub_id": "qyPWUBcAAAAJ:q3CdL3IzO_QC"
     },
     {
         "title": "Reliable Distributed Object Systems",
         "pub_year": "1997",
-        "citation": "Third USENIX Conference on Object-Oriented Technologies and Systems (COOTS 97), 1997"
+        "citation": "Third USENIX Conference on Object-Oriented Technologies and Systems (COOTS 97), 1997",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:yxmsSjX2EkcC"
     },
     {
         "title": "Replica consistency of CORBA objects in partitionable distributed systems",
         "pub_year": "1997",
-        "citation": "Distributed Systems Engineering 4 (3), 139, 1997"
+        "citation": "Distributed Systems Engineering 4 (3), 139, 1997",
+        "num_citations": 83,
+        "author_pub_id": "qyPWUBcAAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "Resource-Aware Deployment and Configuration of QoS-enabled Middleware",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Retrofitting networked applications to add autonomic reconfiguration",
         "pub_year": "2005",
-        "citation": "ACM SIGSOFT Software Engineering Notes 30 (4), 1-7, 2005"
+        "citation": "ACM SIGSOFT Software Engineering Notes 30 (4), 1-7, 2005",
+        "num_citations": 7,
+        "author_pub_id": "qyPWUBcAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "SALSA: analyzing logs as state machines",
         "pub_year": "2008",
-        "citation": "Proceedings of the First USENIX conference on Analysis of system logs, 6-6, 2008"
+        "citation": "Proceedings of the First USENIX conference on Analysis of system logs, 6-6, 2008",
+        "num_citations": 166,
+        "author_pub_id": "qyPWUBcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "STOVE: Strict, Observable, Verifiable Data and Execution Models for Untrusted Applications",
         "pub_year": "2014",
-        "citation": "2014 IEEE 6th International Conference on Cloud Computing Technology and …, 2014"
+        "citation": "2014 IEEE 6th International Conference on Cloud Computing Technology and …, 2014",
+        "num_citations": 14,
+        "author_pub_id": "qyPWUBcAAAAJ:4fGpz3EwCPoC"
     },
     {
         "title": "STOVEPipe: Observable access control of user data for untrusted applications on mobile devices",
         "pub_year": "2014",
-        "citation": "2014 IEEE 6th International Conference on Cloud Computing Technology and …, 2014"
+        "citation": "2014 IEEE 6th International Conference on Cloud Computing Technology and …, 2014",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:9pM33mqn1YgC"
     },
     {
         "title": "Secure dissemination of code updates in sensor networks",
         "pub_year": "2005",
-        "citation": "Proceedings of the 3rd international conference on Embedded networked sensor …, 2005"
+        "citation": "Proceedings of the 3rd international conference on Embedded networked sensor …, 2005",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Self-Healing and Self-Adaptive Systems",
         "pub_year": "2009",
-        "citation": "Proceedings 09201 Combinatorial Scientific Computing, 2009"
+        "citation": "Proceedings 09201 Combinatorial Scientific Computing, 2009",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:HtS1dXgVpQUC"
     },
     {
         "title": "Separation of concerns: functionality vs. quality of service",
         "pub_year": "1997",
-        "citation": "Proceedings Third International Workshop on Object-Oriented Real-Time …, 1997"
+        "citation": "Proceedings Third International Workshop on Object-Oriented Real-Time …, 1997",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Service-Oriented Computing ICSOC 2007",
         "pub_year": "2009",
-        "citation": "Springer-Verlag Berlin Heidelberg 4749, 157-168, 2009"
+        "citation": "Springer-Verlag Berlin Heidelberg 4749, 157-168, 2009",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "Service-Oriented Computing-ICSOC 2007: Fifth International Conference, Vienna, Austria, September 17-20, 2007, Proceedings",
         "pub_year": "2007",
-        "citation": "Springer Science & Business Media, 2007"
+        "citation": "Springer Science & Business Media, 2007",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:_OXeSy2IsFwC"
     },
     {
         "title": "Short paper: Chips: content-based heuristics for improving photo privacy for smartphones",
         "pub_year": "2014",
-        "citation": "Proceedings of the 2014 ACM conference on Security and privacy in wireless …, 2014"
+        "citation": "Proceedings of the 2014 ACM conference on Security and privacy in wireless …, 2014",
+        "num_citations": 19,
+        "author_pub_id": "qyPWUBcAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Sluice: Secure dissemination of code updates in sensor networks",
         "pub_year": "2006",
-        "citation": "26th IEEE international conference on Distributed Computing Systems (ICDCS …, 2006"
+        "citation": "26th IEEE international conference on Distributed Computing Systems (ICDCS …, 2006",
+        "num_citations": 177,
+        "author_pub_id": "qyPWUBcAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Smartphone-based assistive technologies for the blind",
         "pub_year": "2009",
-        "citation": "Proceedings of the 2009 international conference on Compilers, architecture …, 2009"
+        "citation": "Proceedings of the 2009 international conference on Compilers, architecture …, 2009",
+        "num_citations": 35,
+        "author_pub_id": "qyPWUBcAAAAJ:BrmTIyaxlBUC"
     },
     {
         "title": "Software Technologies for Embedded and Ubiquitous Systems: 7th IFIP WG 10.2 International Workshop, SEUS 2009 Newport Beach, CA, USA, November 16-18, 2009 Proceedings",
         "pub_year": "2009",
-        "citation": "Springer, 2009"
+        "citation": "Springer, 2009",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "State of the Art in Dependability",
-        "citation": ""
+        "citation": "",
+        "num_citations": 26,
+        "author_pub_id": "qyPWUBcAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "State synchronization and recovery for strongly consistent replicated CORBA objects",
         "pub_year": "2001",
-        "citation": "2001 International Conference on Dependable Systems and Networks, 261-270, 2001"
+        "citation": "2001 International Conference on Dependable Systems and Networks, 261-270, 2001",
+        "num_citations": 55,
+        "author_pub_id": "qyPWUBcAAAAJ:ZHo1McVdvXMC"
     },
     {
         "title": "Static analysis meets distributed fault-tolerance: enabling state-machine replication with nondeterminism",
         "pub_year": "2006",
-        "citation": "Proceedings of the 2nd conference on Hot Topics in System Dependability …, 2006"
+        "citation": "Proceedings of the 2nd conference on Hot Topics in System Dependability …, 2006",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:D03iK_w7-QYC"
     },
     {
         "title": "Stheno, a real-time fault-tolerant P2P middleware platform for light-train systems",
         "pub_year": "2013",
-        "citation": "Proceedings of the 28th Annual ACM Symposium on Applied Computing, 431-438, 2013"
+        "citation": "Proceedings of the 28th Annual ACM Symposium on Applied Computing, 431-438, 2013",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "Strong replica consistency for fault-tolerant CORBA applications",
         "pub_year": "2001",
-        "citation": "Proceedings Sixth International Workshop on Object-Oriented Real-Time …, 2001"
+        "citation": "Proceedings Sixth International Workshop on Object-Oriented Real-Time …, 2001",
+        "num_citations": 47,
+        "author_pub_id": "qyPWUBcAAAAJ:hkOj_22Ku90C"
     },
     {
         "title": "Strongly consistent replication and recovery of fault-tolerant CORBA applications",
         "pub_year": "2002",
-        "citation": "Computer Systems Science and Engineering 17 (2), 103-114, 2002"
+        "citation": "Computer Systems Science and Engineering 17 (2), 103-114, 2002",
+        "num_citations": 49,
+        "author_pub_id": "qyPWUBcAAAAJ:SeFeTyx0c_EC"
     },
     {
         "title": "Supported Hardware Platforms [Recitation]",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "Supporting Synthetic Data-Driven Diagnosis through Automated Fault-Injection",
         "pub_year": "2011",
-        "citation": "International Conference on Dependability (DEPEND), Nice, France, 2011"
+        "citation": "International Conference on Dependability (DEPEND), Nice, France, 2011",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "System-call based problem diagnosis for PVFS",
         "pub_year": "2009",
-        "citation": "CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF ELECTRICAL AND COMPUTER ENGINEERING, 2009"
+        "citation": "CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF ELECTRICAL AND COMPUTER ENGINEERING, 2009",
+        "num_citations": 6,
+        "author_pub_id": "qyPWUBcAAAAJ:SdhP9T11ey4C"
     },
     {
         "title": "Systems and methods for providing interactive video services",
         "pub_year": "2015",
-        "citation": "US Patent 9,137,495, 2015"
+        "citation": "US Patent 9,137,495, 2015",
+        "num_citations": 34,
+        "author_pub_id": "qyPWUBcAAAAJ:_kc_bZDykSQC"
     },
     {
         "title": "Systems and methods for providing interactive video services",
         "pub_year": "2018",
-        "citation": "US Patent 9,894,323, 2018"
+        "citation": "US Patent 9,894,323, 2018",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:0izLItjtcgwC"
     },
     {
         "title": "Systems and methods for providing interactive video services",
         "pub_year": "2019",
-        "citation": "US Patent 10,187,609, 2019"
+        "citation": "US Patent 10,187,609, 2019",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:3htObqc8RwsC"
     },
     {
         "title": "Team 4 Experimental Evaluation",
         "pub_year": "2006",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:bKqednn6t2AC"
     },
     {
         "title": "The Architecture of the Starfish System: Mapping the Survivability Space Kim Potter Kihlstrom Department of Mathematics and Computer Science Westmont College",
-        "citation": "system 392, 225, 0"
+        "citation": "system 392, 225, 0",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:ML0RJ9NH7IQC"
     },
     {
         "title": "The Blind Men and the Elephant: Piecing Together Hadoop for Diagnosis",
         "pub_year": "2009",
-        "citation": "Carnegie Mellon University, 2009"
+        "citation": "Carnegie Mellon University, 2009",
+        "num_citations": 18,
+        "author_pub_id": "qyPWUBcAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "The Eternal system: An architecture for enterprise applications",
         "pub_year": "1999",
-        "citation": "Proceedings Third International Enterprise Distributed Object Computing …, 1999"
+        "citation": "Proceedings Third International Enterprise Distributed Object Computing …, 1999",
+        "num_citations": 98,
+        "author_pub_id": "qyPWUBcAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "The Realize middleware for replication and",
         "pub_year": "2012",
-        "citation": "Middleware’98: IFIP International Conference on Distributed Systems …, 2012"
+        "citation": "Middleware’98: IFIP International Conference on Distributed Systems …, 2012",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:SjuI4pbJlxcC"
     },
     {
         "title": "The Realize middleware for replication and resource management",
         "pub_year": "1998",
-        "citation": "Middleware’98: IFIP International Conference on Distributed Systems …, 1998"
+        "citation": "Middleware’98: IFIP International Conference on Distributed Systems …, 1998",
+        "num_citations": 23,
+        "author_pub_id": "qyPWUBcAAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "The Starfish system: Providing intrusion detection and intrusion tolerance for middleware systems",
         "pub_year": "2003",
-        "citation": "Proceedings of the Eighth International Workshop on Object-Oriented Real …, 2003"
+        "citation": "Proceedings of the Eighth International Workshop on Object-Oriented Real …, 2003",
+        "num_citations": 22,
+        "author_pub_id": "qyPWUBcAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "The architecture of the Starfish system: Mapping the survivability space",
         "pub_year": "2003",
-        "citation": "Proceedings of the 15th IASTED International Conference on Parallel and …, 2003"
+        "citation": "Proceedings of the 15th IASTED International Conference on Parallel and …, 2003",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:olpn-zPbct0C"
     },
     {
         "title": "The case for mobile edge-clouds",
         "pub_year": "2013",
-        "citation": "2013 IEEE 10th International Conference on Ubiquitous Intelligence and …, 2013"
+        "citation": "2013 IEEE 10th International Conference on Ubiquitous Intelligence and …, 2013",
+        "num_citations": 149,
+        "author_pub_id": "qyPWUBcAAAAJ:ruyezt5ZtCIC"
     },
     {
         "title": "The eternal system",
         "pub_year": "2001",
-        "citation": "Rome Laboratory, Air Force Research Laboratory, Information Directorate …, 2001"
+        "citation": "Rome Laboratory, Air Force Research Laboratory, Information Directorate …, 2001",
+        "num_citations": 15,
+        "author_pub_id": "qyPWUBcAAAAJ:1yWc8FF-_SYC"
     },
     {
         "title": "The interception approach to reliable distributed CORBA objects",
         "pub_year": "1997",
-        "citation": "Proceedings of the 3rd conference on USENIX Conference on Object-Oriented …, 1997"
+        "citation": "Proceedings of the 3rd conference on USENIX Conference on Object-Oriented …, 1997",
+        "num_citations": 45,
+        "author_pub_id": "qyPWUBcAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "The next-generation in-stadium experience (keynote)",
         "pub_year": "2015",
-        "citation": "ACM SIGPLAN Notices 51 (3), 1-10, 2015"
+        "citation": "ACM SIGPLAN Notices 51 (3), 1-10, 2015",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:anf4URPfarAC"
     },
     {
         "title": "Theia: Visual signatures for problem diagnosis in large Hadoop clusters",
         "pub_year": "2012",
-        "citation": "USENIX LISA 2012, USENIX Large Installation System Administration Conference, 2012"
+        "citation": "USENIX LISA 2012, USENIX Large Installation System Administration Conference, 2012",
+        "num_citations": 36,
+        "author_pub_id": "qyPWUBcAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Thema: Byzantine-fault-tolerant middleware for web-service applications",
         "pub_year": "2005",
-        "citation": "Reliable Distributed Systems, 2005. SRDS 2005. 24th IEEE Symposium on, 131-140, 2005"
+        "citation": "Reliable Distributed Systems, 2005. SRDS 2005. 24th IEEE Symposium on, 131-140, 2005",
+        "num_citations": 165,
+        "author_pub_id": "qyPWUBcAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Tiresias: Black-box failure prediction in distributed systems",
         "pub_year": "2007",
-        "citation": "2007 IEEE international parallel and distributed processing symposium, 1-8, 2007"
+        "citation": "2007 IEEE international parallel and distributed processing symposium, 1-8, 2007",
+        "num_citations": 91,
+        "author_pub_id": "qyPWUBcAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "To Auto Scale or not to Auto Scale",
         "pub_year": "2013",
-        "citation": "USENIX International Conference on Autonomic Computing (ICAC), 2013"
+        "citation": "USENIX International Conference on Autonomic Computing (ICAC), 2013",
+        "num_citations": 21,
+        "author_pub_id": "qyPWUBcAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "To Upgrade or Not to Upgrade",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "To upgrade or not to upgrade: impact of online upgrades across multiple administrative domains",
         "pub_year": "2010",
-        "citation": "ACM SIGPLAN Notices 45 (10), 865-876, 2010"
+        "citation": "ACM SIGPLAN Notices 45 (10), 865-876, 2010",
+        "num_citations": 45,
+        "author_pub_id": "qyPWUBcAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Toward upgrades-as-a-service in distributed systems",
         "pub_year": "2009",
-        "citation": "ACM/IFIP/USENIX International Conference on Middleware, 29, 2009"
+        "citation": "ACM/IFIP/USENIX International Conference on Middleware, 29, 2009",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:_B80troHkn4C"
     },
     {
         "title": "Towards a Holistic Approach to Fault Management: Wheels Within a Wheel",
         "pub_year": "2012",
-        "citation": "Dependability and Computer Engineering: Concepts for Software-Intensive …, 2012"
+        "citation": "Dependability and Computer Engineering: Concepts for Software-Intensive …, 2012",
+        "num_citations": 10,
+        "author_pub_id": "qyPWUBcAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Towards edge-caching for image recognition",
         "pub_year": "2017",
-        "citation": "2017 IEEE International Conference on Pervasive Computing and Communications …, 2017"
+        "citation": "2017 IEEE International Conference on Pervasive Computing and Communications …, 2017",
+        "num_citations": 10,
+        "author_pub_id": "qyPWUBcAAAAJ:HIFyuExEbWQC"
     },
     {
         "title": "Towards fingerpointing in the emulab dynamic distributed system",
         "pub_year": "2006",
-        "citation": "Proceedings of the 3rd conference on USENIX Workshop on Real, Large …, 2006"
+        "citation": "Proceedings of the 3rd conference on USENIX Workshop on Real, Large …, 2006",
+        "num_citations": 9,
+        "author_pub_id": "qyPWUBcAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Trade-offs between real-time and fault tolerance for middleware applications",
         "pub_year": "2002",
-        "citation": "Workshop on Foundations of Middleware Technologies, 2002"
+        "citation": "Workshop on Foundations of Middleware Technologies, 2002",
+        "num_citations": 22,
+        "author_pub_id": "qyPWUBcAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "Tradeoffs in configuring secure data dissemination in sensor networks: An empirical outlook",
         "pub_year": "2007",
-        "citation": "Technical Report 006, Carnegie Mellon University, 2007"
+        "citation": "Technical Report 006, Carnegie Mellon University, 2007",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Transparent fault tolerance for CORBA",
         "pub_year": "1999",
-        "citation": "UNIVERSITY OF CALIFORNIA, 1999"
+        "citation": "UNIVERSITY OF CALIFORNIA, 1999",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Transparent fault tolerance for enterprise applications",
         "pub_year": "2000",
-        "citation": "Proceedings of the International Conference on Advances in Infrastructure …, 2000"
+        "citation": "Proceedings of the International Conference on Advances in Infrastructure …, 2000",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "Transparent system call based performance debugging for cloud computing",
         "pub_year": "2012",
-        "citation": "2012 Workshop on Managing Systems Automatically and Dynamically (MAD 12), 2012"
+        "citation": "2012 Workshop on Managing Systems Automatically and Dynamically (MAD 12), 2012",
+        "num_citations": 12,
+        "author_pub_id": "qyPWUBcAAAAJ:p__nRnzSRKYC"
     },
     {
         "title": "Trinetra: Assistive technologies for grocery shopping for the blind",
         "pub_year": "2007",
-        "citation": "International IEEE-BAIS Symposium on Research on Assistive Technologies (RAT …, 2007"
+        "citation": "International IEEE-BAIS Symposium on Research on Assistive Technologies (RAT …, 2007",
+        "num_citations": 109,
+        "author_pub_id": "qyPWUBcAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Trinetra: assistive technologies for the blind",
         "pub_year": "2006",
-        "citation": "International IEEE-BAIS Symposium on Research on Assistive Technologies (RAT), 2006"
+        "citation": "International IEEE-BAIS Symposium on Research on Assistive Technologies (RAT), 2006",
+        "num_citations": 24,
+        "author_pub_id": "qyPWUBcAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "Trone: Trustworthy and resilient operations in a network environment",
         "pub_year": "2012",
-        "citation": "IEEE/IFIP International Conference on Dependable Systems and Networks …, 2012"
+        "citation": "IEEE/IFIP International Conference on Dependable Systems and Networks …, 2012",
+        "num_citations": 9,
+        "author_pub_id": "qyPWUBcAAAAJ:2KloaMYe4IUC"
     },
     {
         "title": "Tutorial on fault tolerant CORBA",
         "pub_year": "2000",
-        "citation": "http://www. omg. org/cgi-bin/doc? orbos/2000-09-14, 2000"
+        "citation": "http://www. omg. org/cgi-bin/doc? orbos/2000-09-14, 2000",
+        "num_citations": 3,
+        "author_pub_id": "qyPWUBcAAAAJ:tzM49s52ZIMC"
     },
     {
         "title": "TwitterJacket: An automated activity and health monitoring solution for the elderly",
         "pub_year": "2009",
-        "citation": ""
+        "citation": "",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Undergraduate embedded system education at carnegie mellon",
         "pub_year": "2005",
-        "citation": "ACM Transactions on Embedded Computing Systems (TECS) 4 (3), 500-528, 2005"
+        "citation": "ACM Transactions on Embedded Computing Systems (TECS) 4 (3), 500-528, 2005",
+        "num_citations": 113,
+        "author_pub_id": "qyPWUBcAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Understanding and Improving the Diagnostic Workflow of MapReduce Users",
         "pub_year": "2011",
-        "citation": ""
+        "citation": "",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Understanding and improving the diagnostic workflow of MapReduce users",
         "pub_year": "2011",
-        "citation": "ACM Symposium on Computer Human Interaction for Management of Information …, 2011"
+        "citation": "ACM Symposium on Computer Human Interaction for Management of Information …, 2011",
+        "num_citations": 4,
+        "author_pub_id": "qyPWUBcAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Using interceptors to enhance CORBA",
         "pub_year": "1999",
-        "citation": "Computer 32 (7), 62-68, 1999"
+        "citation": "Computer 32 (7), 62-68, 1999",
+        "num_citations": 160,
+        "author_pub_id": "qyPWUBcAAAAJ:70eg2SAEIzsC"
     },
     {
         "title": "Using program analysis to identify and compensate for nondeterminism in fault-tolerant, replicated systems",
         "pub_year": "2004",
-        "citation": "Proceedings of the 23rd IEEE International Symposium on Reliable Distributed …, 2004"
+        "citation": "Proceedings of the 23rd IEEE International Symposium on Reliable Distributed …, 2004",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Vajra: Benchmarking Survivability in Distributed Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 5,
+        "author_pub_id": "qyPWUBcAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Vajra: Evaluating Byzantine‐Fault‐Tolerant Distributed Systems",
         "pub_year": "2008",
-        "citation": "Dependability Benchmarking for Computer Systems, 163-183, 2008"
+        "citation": "Dependability Benchmarking for Computer Systems, 163-183, 2008",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Virtual Memory-Induced Priority Inversion in Multi-Tasked Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Visual, log-based causal tracing for performance debugging of MapReduce systems",
         "pub_year": "2010",
-        "citation": "ICDCS 2010, IEEE International Conference on Distributed Computing Systems …, 2010"
+        "citation": "ICDCS 2010, IEEE International Conference on Distributed Computing Systems …, 2010",
+        "num_citations": 79,
+        "author_pub_id": "qyPWUBcAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "WPDRTS 2004 technical program",
         "pub_year": "2004",
-        "citation": "Parallel and Distributed Processing Symposium, International 19, 115-116, 2004"
+        "citation": "Parallel and Distributed Processing Symposium, International 19, 115-116, 2004",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "WRSM 2003 PC Co-Chairs’ Message",
         "pub_year": "2003",
-        "citation": "On The Move to Meaningful Internet Systems 2003: OTM 2003 Workshops: OTM …, 2003"
+        "citation": "On The Move to Meaningful Internet Systems 2003: OTM 2003 Workshops: OTM …, 2003",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "What are the Most Urgent Research Problems of Component-Based Software Engineering for Resource-Constraint Systems?",
         "pub_year": "2001",
-        "citation": "Proceedings of the Sixth International Workshop on Object-Oriented Real-Time …, 2001"
+        "citation": "Proceedings of the Sixth International Workshop on Object-Oriented Real-Time …, 2001",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Wheels within Wheels: Making Fault Management Cost-Effective",
         "pub_year": "2009",
-        "citation": "Dagstuhl Seminar Proceedings 09201, Combinatorial Scientific Computing, 10–15, 2009"
+        "citation": "Dagstuhl Seminar Proceedings 09201, Combinatorial Scientific Computing, 10–15, 2009",
+        "num_citations": 1,
+        "author_pub_id": "qyPWUBcAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "When good-enough is enough: Complex queries at fixed cost",
         "pub_year": "2015",
-        "citation": "2015 IEEE First International Conference on Big Data Computing Service and …, 2015"
+        "citation": "2015 IEEE First International Conference on Big Data Computing Service and …, 2015",
+        "num_citations": 2,
+        "author_pub_id": "qyPWUBcAAAAJ:_FM0Bhl9EiAC"
     },
     {
         "title": "White-box Software Isolation with Fully Automated Black-Box Proofs",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "Why do upgrades fail and what can we do about it?: toward dependable, online upgrades in enterprise system",
         "pub_year": "2009",
-        "citation": "ACM/IFIP/USENIX International conference on Middleware, 349-372, 2009"
+        "citation": "ACM/IFIP/USENIX International conference on Middleware, 349-372, 2009",
+        "num_citations": 126,
+        "author_pub_id": "qyPWUBcAAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "Workshop General Co-Chairs",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Workshop on Dependable Middleware-Based Systems",
         "pub_year": "2002",
-        "citation": "Proceedings International Conference on Dependable Systems and Networks, 792-792, 2002"
+        "citation": "Proceedings International Conference on Dependable Systems and Networks, 792-792, 2002",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:kzcrU_BdoSEC"
     },
     {
         "title": "Workshop on Dependable Middleware-Based Systems (WDMS 2002)",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:F1b5ZUV5XREC"
     },
     {
         "title": "Workshop on Parallel and Distributed Real-Time Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:kh2fBNsKQNwC"
     },
     {
         "title": "Zephyr: First-person wireless analytics from high-density in-stadium deployments",
         "pub_year": "2016",
-        "citation": "2016 IEEE 17th International Symposium on A World of Wireless, Mobile and …, 2016"
+        "citation": "2016 IEEE 17th International Symposium on A World of Wireless, Mobile and …, 2016",
+        "num_citations": 11,
+        "author_pub_id": "qyPWUBcAAAAJ:6ZxmRoH8BuwC"
     },
     {
         "title": "Zephyrus: Scalable, Lightweight Failure Diagnosis in Distributed Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:hCrLmN-GePgC"
     },
     {
         "title": "is an associate professor of electrical and computer engineering at Carnegie Mellon University and an Alfred P",
-        "citation": "Sloan research fellow. Her research interests include various aspects of …, 0"
+        "citation": "Sloan research fellow. Her research interests include various aspects of …, 0",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "usenix conference policies",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:3NQIlFlcGxIC"
     },
     {
         "title": "{Upgrades-as-a-Service} in Distributed Systems",
         "pub_year": "2010",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "qyPWUBcAAAAJ:CdxZDUztZiMC"
     },
     {
         "title": "{YinzCam}: Experiences with {In-Venue} Mobile Video and Replays",
         "pub_year": "2013",
-        "citation": "27th Large Installation System Administration Conference (LISA 13), 133-144, 2013"
+        "citation": "27th Large Installation System Administration Conference (LISA 13), 133-144, 2013",
+        "num_citations": 8,
+        "author_pub_id": "qyPWUBcAAAAJ:PoWvk5oyLR8C"
     }
 ]

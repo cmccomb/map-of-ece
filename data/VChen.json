@@ -3,7 +3,7 @@
         "title": "22.2 A 69.5mW 20GS/s 6b time-interleaved ADC with embedded time-to-digital calibration in 32nm CMOS SOI",
         "pub_year": "2014",
         "citation": "Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014 …, 2014",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "hkAq-IIAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -38,7 +38,7 @@
         "title": "An 8.5 mW 5GS/s 6b flash ADC with dynamic offset calibration in 32nm CMOS SOI",
         "pub_year": "2013",
         "citation": "2013 Symposium on VLSI Circuits, C264-C265, 2013",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "hkAq-IIAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -63,7 +63,7 @@
         "author_pub_id": "hkAq-IIAAAAJ:YsMSGLbcyi4C"
     },
     {
-        "title": "Analysis and Digital Predistortion of In-Band Cross Modulation in Concurrent Multi-Band Transmitters",
+        "title": "Analysis and digital predistortion of in-band cross modulation in concurrent multi-band transmitters",
         "pub_year": "2022",
         "citation": "IEEE Access 10, 120462-120474, 2022",
         "num_citations": 1,
@@ -93,7 +93,7 @@
     {
         "title": "Deep Reinforcement Learning on FPGA for Self-Healing Cryogenic Power Amplifier Control",
         "pub_year": "2023",
-        "citation": "IEEE Open Journal of Circuits and Systems, 2023",
+        "citation": "IEEE Open Journal of Circuits and Systems 4, 176-187, 2023",
         "num_citations": 0,
         "author_pub_id": "hkAq-IIAAAAJ:iH-uZ7U-co4C"
     },
@@ -196,7 +196,7 @@
         "title": "Multichannel many-class real-time neural spike sorting with convolutional neural networks",
         "pub_year": "2022",
         "citation": "IEEE Open Journal of Circuits and Systems 3, 168-179, 2022",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "hkAq-IIAAAAJ:mB3voiENLucC"
     },
     {
@@ -214,7 +214,7 @@
         "author_pub_id": "hkAq-IIAAAAJ:HDshCWvjkbEC"
     },
     {
-        "title": "RF Fingerprint Classification With Combinatorial-Randomness-Based Power Amplifiers and Convolutional Neural Networks: Secure analog/RF electronics and electromagnetics",
+        "title": "RF fingerprint classification with combinatorial-randomness-based power amplifiers and convolutional neural networks: Secure analog/RF electronics and electromagnetics",
         "pub_year": "2022",
         "citation": "IEEE Solid-State Circuits Magazine 14 (4), 28-36, 2022",
         "num_citations": 1,
@@ -243,7 +243,7 @@
         "title": "Single-input broadband hybrid Doherty power amplifiers design relying on a phase sliding-mode of the load modulation scheme",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 71 (4), 1550-1562, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "hkAq-IIAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -257,15 +257,8 @@
         "title": "Wideband two-way hybrid Doherty outphasing power amplifier",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (2), 1415-1428, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "hkAq-IIAAAAJ:dhFuZR0502QC"
-    },
-    {
-        "title": "Wireless Actuation for Soft Electronics-free Robots",
-        "pub_year": "2023",
-        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
-        "num_citations": 1,
-        "author_pub_id": "hkAq-IIAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Wireless Bayesian neural networks with self-assembly DNA memory and spin-torque oscillators",
@@ -273,5 +266,12 @@
         "citation": "2020 IEEE 63rd International Midwest Symposium on Circuits and Systems …, 2020",
         "num_citations": 1,
         "author_pub_id": "hkAq-IIAAAAJ:9ZlFYXVOiuMC"
+    },
+    {
+        "title": "Wireless actuation for soft electronics-free robots",
+        "pub_year": "2023",
+        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
+        "num_citations": 2,
+        "author_pub_id": "hkAq-IIAAAAJ:bEWYMUwI8FkC"
     }
 ]

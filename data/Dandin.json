@@ -52,14 +52,14 @@
         "title": "Characterization of Single-Photon Avalanche Diodes in a 0.5 μm Standard CMOS Process—Part 1: Perimeter Breakdown Suppression",
         "pub_year": "2010",
         "citation": "IEEE Sensors Journal, 1682, 2010",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "mjixDB8AAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Characterization of Single-Photon Avalanche Diodes in a 0.5-  Standard CMOS Process—Part 2: Equivalent Circuit Model and Geiger Mode Readout",
         "pub_year": "2016",
         "citation": "IEEE Sensors Journal 16 (9), 3075-3083, 2016",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "mjixDB8AAAAJ:a9-T7VOCCH8C"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Correlation of capacitance and microscopy measurements using image processing for a lab-on-CMOS microsystem",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Biomedical Circuits and Systems 13 (6), 1214-1225, 2019",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "mjixDB8AAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -121,14 +121,14 @@
         "title": "Handheld fluorometers for lab-on-a-chip applications",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Biomedical Circuits and Systems 3 (2), 97-107, 2009",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "mjixDB8AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "High resolution monitoring of chemotherapeutic agent potency in cancer cells using a CMOS capacitance biosensor",
         "pub_year": "2019",
         "citation": "Biosensors and Bioelectronics 142, 111501, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "mjixDB8AAAAJ:dBIO0h50nwkC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Low-noise CMOS fluorescence sensor",
         "pub_year": "2007",
         "citation": "2007 IEEE International Symposium on Circuits and Systems, 2007",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "mjixDB8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -208,17 +208,24 @@
         "author_pub_id": "mjixDB8AAAAJ:LO7wyVUgiFcC"
     },
     {
+        "title": "Machine Learning Identification and Classification of Cancer Cell Behaviors in a Lab-on-CMOS Capacitance Sensing Platform",
+        "pub_year": "2024",
+        "citation": "Machine Learning 39, 10, 2024",
+        "num_citations": 0,
+        "author_pub_id": "mjixDB8AAAAJ:P7Ujq4OLJYoC"
+    },
+    {
         "title": "Measuring and Modeling Macrophage Growth using a Lab-on-CMOS Capacitance Sensing Microsystem",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.01. 27.525955, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mjixDB8AAAAJ:KbBQZpvPDL4C"
     },
     {
         "title": "Measuring and modeling macrophage proliferation in a lab-on-CMOS capacitance sensing microsystem",
         "pub_year": "2023",
         "citation": "Frontiers in Bioengineering and Biotechnology 11, 1159004, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "mjixDB8AAAAJ:OR75R8vi5nAC"
     },
     {
@@ -239,7 +246,7 @@
         "title": "Optical filtering technologies for integrated fluorescence sensors",
         "pub_year": "2007",
         "citation": "Lab on a Chip 7 (8), 955-977, 2007",
-        "num_citations": 196,
+        "num_citations": 200,
         "author_pub_id": "mjixDB8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -288,7 +295,7 @@
         "title": "Real-time measurements of cell proliferation using a lab-on-CMOS capacitance sensor array",
         "pub_year": "2018",
         "citation": "IEEE transactions on biomedical circuits and systems 12 (3), 510-520, 2018",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "mjixDB8AAAAJ:OTTXONDVkokC"
     },
     {
@@ -365,7 +372,7 @@
         "title": "True Random Number Generation Using Dark Noise Modulation of a Single-Photon Avalanche Diode",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mjixDB8AAAAJ:r_AWSJRzSzQC"
     }
 ]

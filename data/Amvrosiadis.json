@@ -1,8 +1,8 @@
 [
     {
-        "title": "A Software Defined Storage Approach to Exascale Storage Services. Final Technical Report",
+        "title": "A Software Defined Storage Approach to Exascale Storage Services (Final Technical Report)",
         "pub_year": "2019",
-        "citation": "The HDF Group, 2019",
+        "citation": "The HDF Group, Champaign, IL (United States), 2019",
         "num_citations": 0,
         "author_pub_id": "ygiY7C8AAAAJ:qxL8FJ1GzNcC"
     },
@@ -37,15 +37,8 @@
         "title": "Data Storage Research Vision 2025: Report on NSF Visioning Workshop held May 30--June 1, 2018",
         "pub_year": "2018",
         "citation": "National Science Foundation, 2018",
-        "num_citations": 7,
+        "num_citations": 4,
         "author_pub_id": "ygiY7C8AAAAJ:MXK_kJrjxJIC"
-    },
-    {
-        "title": "Data storage research vision 2025",
-        "pub_year": "2018",
-        "citation": "National Science Foundation, 2018",
-        "num_citations": 1,
-        "author_pub_id": "ygiY7C8AAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Data storage research vision 2025 report",
@@ -58,7 +51,7 @@
         "title": "DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing",
         "pub_year": "2021",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ygiY7C8AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -78,20 +71,26 @@
         "title": "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces",
         "citation": "",
         "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:TFP_iSt0sucC"
+    },
+    {
+        "title": "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces",
+        "citation": "",
+        "num_citations": 0,
         "author_pub_id": "ygiY7C8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 113,
+        "num_citations": 117,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Filebench",
         "pub_year": "2018",
         "citation": "",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "ygiY7C8AAAAJ:IWHjjKOFINEC"
     },
     {
@@ -144,7 +143,7 @@
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 65,
+        "num_citations": 70,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -158,21 +157,21 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 143,
+        "num_citations": 142,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Opportunistic storage maintenance",
         "pub_year": "2015",
         "citation": "Proceedings of the 25th Symposium on Operating Systems Principles, 457-473, 2015",
-        "num_citations": 41,
+        "num_citations": 39,
         "author_pub_id": "ygiY7C8AAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -200,7 +199,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -214,7 +213,7 @@
         "title": "Scaling embedded in-situ indexing with deltaFS",
         "pub_year": "2018",
         "citation": "SC18: International Conference for High Performance Computing, Networking …, 2018",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "ygiY7C8AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -228,7 +227,7 @@
         "title": "Software-defined storage for fast trajectory queries using a deltafs indexed massive directory",
         "pub_year": "2017",
         "citation": "Proceedings of the 2nd Joint International Workshop on Parallel Data Storage …, 2017",
-        "num_citations": 13,
+        "num_citations": 11,
         "author_pub_id": "ygiY7C8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -242,7 +241,7 @@
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
-        "num_citations": 311,
+        "num_citations": 317,
         "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -298,21 +297,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 122,
+        "num_citations": 127,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

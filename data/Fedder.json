@@ -29,8 +29,8 @@
     {
         "title": "2. Photolithographic microfabrication",
         "pub_year": "1998",
-        "citation": "Micro Mechanical Systems: Principles and Technology, 13, 1998",
-        "num_citations": 17,
+        "citation": "Micro Mechanical Systems: Principles and Technology 13, 1998",
+        "num_citations": 21,
         "author_pub_id": "JOMYt6gAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -50,7 +50,7 @@
         "title": "A 1 mg lateral CMOS-MEMS accelerometer",
         "pub_year": "2000",
         "citation": "Proceedings IEEE Thirteenth Annual International Conference on Micro Electro …, 2000",
-        "num_citations": 81,
+        "num_citations": 78,
         "author_pub_id": "JOMYt6gAAAAJ:4DMP91E08xMC"
     },
     {
@@ -61,9 +61,9 @@
         "author_pub_id": "JOMYt6gAAAAJ:geHnlv5EZngC"
     },
     {
-        "title": "A 46.6 g/Hz Single-Chip Accelerometer Exploiting a DTC-Assisted Chopper Amplifier",
+        "title": "A 46.6 μg/√ Hz Single-Chip Accelerometer Exploiting a DTC-Assisted Chopper Amplifier",
         "pub_year": "2023",
-        "citation": "IEEE Journal of Solid-State Circuits, 2023",
+        "citation": "IEEE Journal of Solid-State Circuits 59 (2), 502-515, 2023",
         "num_citations": 4,
         "author_pub_id": "JOMYt6gAAAAJ:TaaCk18tZOkC"
     },
@@ -78,14 +78,14 @@
         "title": "A CMOS z-axis capacitive accelerometer with comb-finger sensing",
         "pub_year": "2000",
         "citation": "Proceedings IEEE Thirteenth Annual International Conference on Micro Electro …, 2000",
-        "num_citations": 116,
+        "num_citations": 108,
         "author_pub_id": "JOMYt6gAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "A CMOS-MEMS lateral-axis gyroscope",
         "pub_year": "2001",
         "citation": "Technical Digest. MEMS 2001. 14th IEEE International Conference on Micro …, 2001",
-        "num_citations": 99,
+        "num_citations": 97,
         "author_pub_id": "JOMYt6gAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -99,7 +99,7 @@
         "title": "A CMOS-MEMS mirror with curled-hinge comb drives",
         "pub_year": "2003",
         "citation": "Journal of microelectromechanical systems 12 (4), 450-457, 2003",
-        "num_citations": 136,
+        "num_citations": 134,
         "author_pub_id": "JOMYt6gAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -133,7 +133,7 @@
         "title": "A MEMS-based monolithic electrostatic microactuator for ultra-low magnetic disk head fly height control",
         "pub_year": "2001",
         "citation": "IEEE transactions on magnetics 37 (4), 1915-1918, 2001",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "JOMYt6gAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -146,14 +146,14 @@
         "title": "A SCS CMOS micromirror for optical coherence tomographic imaging",
         "pub_year": "2002",
         "citation": "Technical Digest. MEMS 2002 IEEE International Conference. Fifteenth IEEE …, 2002",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "JOMYt6gAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "A SCS micromirror for optical coherence tomographic imaging",
         "pub_year": "2003",
         "citation": "Sens. Actuators A, Phys 103 (1), 237-241, 2003",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "JOMYt6gAAAAJ:QD3KBmkZPeQC"
     },
     {
@@ -181,21 +181,21 @@
         "title": "A comparison of induction-detection nmr and force-detection nmr on micro-nmr device design",
         "pub_year": "2001",
         "citation": "Carnegie Mellon University, the Robotics Institute, 2001",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "JOMYt6gAAAAJ:VOx2b1Wkg3QC"
     },
     {
         "title": "A copper CMOS-MEMS z-axis gyroscope",
         "pub_year": "2002",
         "citation": "Technical Digest. MEMS 2002 IEEE International Conference. Fifteenth IEEE …, 2002",
-        "num_citations": 62,
+        "num_citations": 60,
         "author_pub_id": "JOMYt6gAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "A design methodology for micromechanical bandpass filters",
         "pub_year": "1999",
         "citation": "1999 IEEE/ACM Int. Workshop Behavioral Modeling and Simulation (BMAS 99), 1999",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "JOMYt6gAAAAJ:j8SEvjWlNXcC"
     },
     {
@@ -216,14 +216,14 @@
         "title": "A dual probe STM imaging system and a low noise switched-capacitor transimpedance amplifier",
         "pub_year": "2013",
         "citation": "IEEE Sensors Journal 13 (8), 2984-2992, 2013",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "JOMYt6gAAAAJ:S16KYo8Pm5AC"
     },
     {
         "title": "A hierarchical circuit-level design methodology for microelectromechanical systems",
         "pub_year": "1999",
         "citation": "IEEE Transactions on Circuits and Systems II: Analog and Digital Signal …, 1999",
-        "num_citations": 135,
+        "num_citations": 133,
         "author_pub_id": "JOMYt6gAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -237,7 +237,7 @@
         "title": "A high-speed, bimodal, CMOS-MEMS resonant scanner driven by temperature-gradient actuators",
         "pub_year": "2012",
         "citation": "MOEMS and Miniaturized Systems XI 8252, 242-251, 2012",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "JOMYt6gAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -265,14 +265,14 @@
         "title": "A low-noise low-offset chopper-stabilized capacitive-readout amplifier for CMOS MEMS accelerometers",
         "pub_year": "2002",
         "citation": "2002 IEEE International Solid-State Circuits Conference. Digest of Technical …, 2002",
-        "num_citations": 85,
+        "num_citations": 83,
         "author_pub_id": "JOMYt6gAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "A post-CMOS micromachined lateral accelerometer",
         "pub_year": "2002",
         "citation": "Journal of Microelectromechanical systems 11 (3), 188-195, 2002",
-        "num_citations": 200,
+        "num_citations": 202,
         "author_pub_id": "JOMYt6gAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -307,7 +307,7 @@
         "title": "A single-crystal silicon-based micromirror with large scanning angle for biomedical applications",
         "pub_year": "2003",
         "citation": "Conference on Lasers and Electro-Optics, CTuW1, 2003",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "JOMYt6gAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -335,14 +335,14 @@
         "title": "A two-axis electrothermal SCS micromirror for biomedical imaging",
         "pub_year": "2003",
         "citation": "2003 IEEE/LEOS International Conference on Optical MEMS (Cat. No. 03EX682 …, 2003",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "JOMYt6gAAAAJ:B3FOqHPlNUQC"
     },
     {
         "title": "A two-axis electrothermal micromirror for endoscopic optical coherence tomography",
         "pub_year": "2004",
         "citation": "IEEE journal of selected topics in Quantum electronics 10 (3), 636-642, 2004",
-        "num_citations": 182,
+        "num_citations": 181,
         "author_pub_id": "JOMYt6gAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -403,7 +403,7 @@
         "title": "Active CMOS-MEMS dual probe array for STM based parallel imaging and nanopatterning",
         "pub_year": "2013",
         "citation": "2013 IEEE 26th International Conference on Micro Electro Mechanical Systems …, 2013",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "JOMYt6gAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -417,21 +417,21 @@
         "title": "Advanced micro & nanosystems",
         "pub_year": "2005",
         "citation": "CMOS-MEMS 2, 2005",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "JOMYt6gAAAAJ:mKu_rENv82IC"
     },
     {
         "title": "Aerosol-Jet-Printed Stretchable Electronic Decal Technology",
         "pub_year": "2022",
         "citation": "2022 IEEE 35th International Conference on Micro Electro Mechanical Systems …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "JOMYt6gAAAAJ:mel-f30kHHgC"
     },
     {
         "title": "An elastically gimbaled Z-axis CMOS-MEMS Gyroscope",
         "pub_year": "2000",
         "citation": "Int. Sym. Smart Structures & Microsystems, 19-21, 2000",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "JOMYt6gAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -459,14 +459,14 @@
         "title": "Analysis of temperature-dependent residual stress gradients in CMOS micromachined structures",
         "pub_year": "1999",
         "citation": "Transducers 99, 526-529, 1999",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "JOMYt6gAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Apparatus and method for implantation of devices into soft tissue",
         "pub_year": "2016",
         "citation": "US Patent 9,408,571, 2016",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "JOMYt6gAAAAJ:OTTXONDVkokC"
     },
     {
@@ -491,10 +491,10 @@
         "author_pub_id": "JOMYt6gAAAAJ:a3BOlSfXSfwC"
     },
     {
-        "title": "Application-Specific Integrated-Microelectromechanical Systems (MEMS) process services (ASIMPS)",
+        "title": "Application-Specific Integrated-Microelectromechanical Systems(MEMS) Process Services(ASIMPS)",
         "pub_year": "2005",
-        "citation": "Air Force Research Laboratory, Tech. Rep. AFRL-IF-RS-TR-2005-140, 2005",
-        "num_citations": 3,
+        "citation": "",
+        "num_citations": 2,
         "author_pub_id": "JOMYt6gAAAAJ:SpbeaW3--B0C"
     },
     {
@@ -508,7 +508,7 @@
         "title": "Automated optimal synthesis of microaccelerometers",
         "pub_year": "1999",
         "citation": "Technical Digest. IEEE International MEMS 99 Conference. Twelfth IEEE …, 1999",
-        "num_citations": 61,
+        "num_citations": 58,
         "author_pub_id": "JOMYt6gAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -561,13 +561,6 @@
         "author_pub_id": "JOMYt6gAAAAJ:u9iWguZQMMsC"
     },
     {
-        "title": "Biologically-Inspired Micro-Robots: Volume 2: Investigation of a Micro-Joint Angle Sensor Using MEMS Cilia",
-        "pub_year": "2005",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "JOMYt6gAAAAJ:i2xiXl-TujoC"
-    },
-    {
         "title": "CMOS MEMS Integration",
         "pub_year": "2011",
         "citation": "ECS Transactions 35 (2), 331, 2011",
@@ -578,7 +571,7 @@
         "title": "CMOS MEMS oscillator for gas chemical detection",
         "pub_year": "2004",
         "citation": "SENSORS, 2004 IEEE, 955-958, 2004",
-        "num_citations": 64,
+        "num_citations": 63,
         "author_pub_id": "JOMYt6gAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -592,14 +585,14 @@
         "title": "CMOS micromachined infrared imager pixel",
         "pub_year": "2001",
         "citation": "Transducers’ 01 Eurosensors XV: The 11th International Conference on Solid …, 2001",
-        "num_citations": 20,
+        "num_citations": 18,
         "author_pub_id": "JOMYt6gAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "CMOS micromechanical bandpass filter design using a hierarchical MEMS circuit library",
         "pub_year": "2000",
         "citation": "Proceedings IEEE Thirteenth Annual International Conference on Micro Electro …, 2000",
-        "num_citations": 42,
+        "num_citations": 38,
         "author_pub_id": "JOMYt6gAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -676,14 +669,14 @@
         "title": "CMOS-based sensors",
         "pub_year": "2005",
         "citation": "SENSORS, 2005 IEEE, 4 pp., 2005",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "JOMYt6gAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "CMOS-compatible RF-MEMS tunable capacitors",
         "pub_year": "2003",
         "citation": "IEEE MTT-S International Microwave Symposium Digest, 2003 1, A97-A100 vol. 1, 2003",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "JOMYt6gAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -697,7 +690,7 @@
         "title": "CMOS–MEMS lateral electrothermal actuators",
         "pub_year": "2008",
         "citation": "Journal of Microelectromechanical Systems 17 (1), 103-114, 2008",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "JOMYt6gAAAAJ:dhFuZR0502QC"
     },
     {
@@ -711,7 +704,7 @@
         "title": "Characterization and reliability of CMOS microstructures",
         "pub_year": "1999",
         "citation": "MEMS Reliability for Critical and Space Applications 3880, 132-139, 1999",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "JOMYt6gAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -725,28 +718,28 @@
         "title": "Characterization of silicon isotropic etch by inductively coupled plasma etch in post-CMOS processing",
         "pub_year": "2000",
         "citation": "Proceedings IEEE Thirteenth Annual International Conference on Micro Electro …, 2000",
-        "num_citations": 40,
+        "num_citations": 36,
         "author_pub_id": "JOMYt6gAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Chronic tissue response to carboxymethyl cellulose based dissolvable insertion needle for ultra-small neural probes",
         "pub_year": "2014",
         "citation": "Biomaterials 35 (34), 9255-9268, 2014",
-        "num_citations": 202,
+        "num_citations": 203,
         "author_pub_id": "JOMYt6gAAAAJ:ML0RJ9NH7IQC"
     },
     {
         "title": "Cmos-Mems",
-        "pub_year": "2013",
-        "citation": "John Wiley & Sons, 2013",
-        "num_citations": 209,
+        "pub_year": "2008",
+        "citation": "John Wiley & Sons, 2008",
+        "num_citations": 211,
         "author_pub_id": "JOMYt6gAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Cmos-Mems",
         "pub_year": "2005",
         "citation": "Wiley-VCH, 2005",
-        "num_citations": 53,
+        "num_citations": 58,
         "author_pub_id": "JOMYt6gAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -767,7 +760,7 @@
         "title": "Compliant adhesive cuff electrode for selective stimulation in rat vagus nerve",
         "pub_year": "2019",
         "citation": "2019 IEEE SENSORS, 1-4, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "JOMYt6gAAAAJ:DrR-2ekChdkC"
     },
     {
@@ -788,14 +781,14 @@
         "title": "Convergence and speed issues in analog HDL model formulation for MEMS",
         "pub_year": "2001",
         "citation": "MSM’01, 19-21, 2001",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "JOMYt6gAAAAJ:bnK-pcrLprsC"
     },
     {
         "title": "Copper interconnect low-K dielectric post-CMOS micromachining",
         "pub_year": "2001",
         "citation": "Transducers’ 01 Eurosensors XV: The 11th International Conference on Solid …, 2001",
-        "num_citations": 14,
+        "num_citations": 12,
         "author_pub_id": "JOMYt6gAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -836,13 +829,13 @@
         "title": "Design and evaluation of a MEMS-based Stirling microcooler",
         "pub_year": "2013",
         "citation": "Journal of heat transfer 135 (11), 111003, 2013",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "JOMYt6gAAAAJ:9vf0nzSNQJEC"
     },
     {
         "title": "Design and fabrication of an integrated CMOS-MEMS 3-axis accelerometer",
         "pub_year": "2003",
-        "citation": "MSM’03 (San Francisco, CA, 23–27 February), 292-5, 2003",
+        "citation": "The 2003 Nanotechnology Conference, 292-295, 2003",
         "num_citations": 31,
         "author_pub_id": "JOMYt6gAAAAJ:GnPB-g6toBAC"
     },
@@ -850,21 +843,21 @@
         "title": "Design and modeling of a fluid-based micro-scale electrocaloric refrigeration system",
         "pub_year": "2014",
         "citation": "International Journal of Heat and Mass Transfer 72, 559-564, 2014",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "JOMYt6gAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Design and simulation of thermal actuators for STM applications in a standard CMOS process",
         "pub_year": "1999",
         "citation": "Materials and Device Characterization in Micromachining II 3875, 32-39, 1999",
-        "num_citations": 9,
+        "num_citations": 7,
         "author_pub_id": "JOMYt6gAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Design methodology for mixed-domain systems-on-a-chip [MEMS design]",
         "pub_year": "1998",
         "citation": "Proceedings IEEE Computer Society Workshop on VLSI'98 System Level Design …, 1998",
-        "num_citations": 34,
+        "num_citations": 33,
         "author_pub_id": "JOMYt6gAAAAJ:hMod-77fHWUC"
     },
     {
@@ -955,7 +948,7 @@
         "title": "Developments in chlorine detection in concrete using NMR",
         "pub_year": "2002",
         "citation": "Smart Structures and Materials 2002: Smart Systems for Bridges, Structures …, 2002",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "JOMYt6gAAAAJ:XD-gHx7UXLsC"
     },
     {
@@ -996,7 +989,7 @@
     {
         "title": "Effect of stress on matched-mode gyroscope frequencies",
         "pub_year": "2014",
-        "citation": "2014 International Symposium on Inertial Sensors and Systems (ISISS), 1-4, 2014",
+        "citation": "2014 International Symposium on Inertial Sensors and Systems (INERTIAL), 1-4, 2014",
         "num_citations": 7,
         "author_pub_id": "JOMYt6gAAAAJ:hMsQuOkrut0C"
     },
@@ -1032,14 +1025,14 @@
         "title": "Electrostatically actuated resonant microcantilever beam in CMOS technology for the detection of chemical weapons",
         "pub_year": "2005",
         "citation": "IEEE Sensors Journal 5 (4), 641-647, 2005",
-        "num_citations": 146,
+        "num_citations": 148,
         "author_pub_id": "JOMYt6gAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Electrothermal SCS micromirror with large-vertical-displacement actuation",
         "pub_year": "2004",
-        "citation": "Technical Digest of the 2004 Solid-State Sensor, Actuator and Microsystems …, 2004",
-        "num_citations": 20,
+        "citation": "2004 Solid State Sensor, Actuator and Microsystems Workshop, 228-231, 2004",
+        "num_citations": 19,
         "author_pub_id": "JOMYt6gAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -1060,56 +1053,56 @@
         "title": "Emerging simulation approaches for micromachined devices",
         "pub_year": "2000",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 2000",
-        "num_citations": 136,
+        "num_citations": 135,
         "author_pub_id": "JOMYt6gAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Enabling Technology for MEMS and Nanodevices: Advanced Micro and Nanosystems",
         "pub_year": "2013",
         "citation": "John Wiley & Sons, 2013",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "JOMYt6gAAAAJ:2tRrZ1ZAMYUC"
     },
     {
         "title": "Endoscopic imaging system",
         "pub_year": "2003",
         "citation": "US Patent App. 10/316,404, 2003",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "JOMYt6gAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Endoscopic optical coherence tomographic imaging with a CMOS-MEMS micromirror",
         "pub_year": "2003",
         "citation": "Sensors and actuators A: physical 103 (1-2), 237-241, 2003",
-        "num_citations": 127,
+        "num_citations": 129,
         "author_pub_id": "JOMYt6gAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Endoscopic optical coherence tomography based on a microelectromechanical mirror",
         "pub_year": "2001",
         "citation": "Optics letters 26 (24), 1966-1968, 2001",
-        "num_citations": 529,
+        "num_citations": 527,
         "author_pub_id": "JOMYt6gAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Endoscopic optical coherence tomography with a micromachined mirror",
         "pub_year": "2002",
         "citation": "2nd Annual International IEEE-EMBS Special Topic Conference on …, 2002",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "JOMYt6gAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "Endoscopic optical coherence tomography with a modified microelectromechanical systems mirror for detection of bladder cancers",
         "pub_year": "2003",
         "citation": "Applied optics 42 (31), 6422-6426, 2003",
-        "num_citations": 174,
+        "num_citations": 170,
         "author_pub_id": "JOMYt6gAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Endoscopic optical coherence tomography with new MEMS mirror",
         "pub_year": "2003",
         "citation": "Electronics Letters 39 (21), 1, 2003",
-        "num_citations": 69,
+        "num_citations": 67,
         "author_pub_id": "JOMYt6gAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -1144,7 +1137,7 @@
         "title": "Estimation of line dimensions in 3D direct laser writing lithography",
         "pub_year": "2016",
         "citation": "Journal of Micromechanics and Microengineering 26 (10), 105011, 2016",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "JOMYt6gAAAAJ:jgBuDB5drN8C"
     },
     {
@@ -1171,7 +1164,7 @@
         "title": "Fabrication, characterization, and analysis of a DRIE CMOS-MEMS gyroscope",
         "pub_year": "2003",
         "citation": "IEEE Sensors Journal 3 (5), 622-631, 2003",
-        "num_citations": 170,
+        "num_citations": 168,
         "author_pub_id": "JOMYt6gAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1199,7 +1192,7 @@
         "title": "Focused epicranial brain stimulation by spatial sculpting of pulsed electric fields using high density electrode arrays",
         "pub_year": "2023",
         "citation": "Advanced Science 10 (20), 2207251, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "JOMYt6gAAAAJ:LK8CI43ZvvMC"
     },
     {
@@ -1267,28 +1260,28 @@
         "title": "Hierarchical design and test of MEMS",
         "pub_year": "1998",
         "citation": "Microsystem Technology News, 28-31, 1998",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "JOMYt6gAAAAJ:kRWSkSYxWN8C"
     },
     {
         "title": "Hierarchical design and test of integrated microsystems",
         "pub_year": "1999",
         "citation": "IEEE Design & Test of Computers 16 (4), 18-27, 1999",
-        "num_citations": 54,
+        "num_citations": 51,
         "author_pub_id": "JOMYt6gAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Hierarchical mixed-domain circuit simulation, synthesis and extraction methodology for MEMS",
         "pub_year": "1999",
         "citation": "Journal of VLSI signal processing systems for signal, image and video …, 1999",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "JOMYt6gAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Hierarchical representation and simulation of micromachined inertial sensors",
         "pub_year": "1998",
         "citation": "Carnegie Mellon University, 1998",
-        "num_citations": 74,
+        "num_citations": 70,
         "author_pub_id": "JOMYt6gAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1302,7 +1295,7 @@
         "title": "High dynamic range CMOS-MEMS capacitive accelerometer array",
         "pub_year": "2018",
         "citation": "2018 IEEE Micro Electro Mechanical Systems (MEMS), 992-995, 2018",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "JOMYt6gAAAAJ:jFemdcug13IC"
     },
     {
@@ -1362,7 +1355,7 @@
     {
         "title": "In vitro electrochemical characterization of polydopamine melanin as a tissue stimulating electrode material",
         "pub_year": "2016",
-        "citation": "Journal of materials chemistry B 4 (18), 3031-3036, 2016",
+        "citation": "Journal of Materials Chemistry B 4 (18), 3031-3036, 2016",
         "num_citations": 21,
         "author_pub_id": "JOMYt6gAAAAJ:buQ7SEKw-1sC"
     },
@@ -1370,7 +1363,7 @@
         "title": "Inkjet printed chemical sensor array based on polythiophene conductive polymers",
         "pub_year": "2007",
         "citation": "Sensors and Actuators B: Chemical 123 (2), 651-660, 2007",
-        "num_citations": 224,
+        "num_citations": 226,
         "author_pub_id": "JOMYt6gAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1405,7 +1398,7 @@
         "title": "Integrated MEMS in conventional CMOS",
         "pub_year": "1998",
         "citation": "Tribology Issues and Opportunities in MEMS: Proceedings of the NSF/AFOSR …, 1998",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "JOMYt6gAAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -1433,7 +1426,7 @@
         "title": "Integrated microelectromechanical gyroscopes",
         "pub_year": "2003",
         "citation": "Journal of aerospace engineering 16 (2), 65-75, 2003",
-        "num_citations": 154,
+        "num_citations": 153,
         "author_pub_id": "JOMYt6gAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -1454,21 +1447,21 @@
         "title": "Integrated multiple-device IMU system with continuous-time sensing circuitry",
         "pub_year": "2003",
         "citation": "2003 IEEE International Solid-State Circuits Conference, 2003. Digest of …, 2003",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "JOMYt6gAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Integrated vertical parallel-plate capacitive humidity sensor",
         "pub_year": "2011",
         "citation": "Journal of micromechanics and microengineering 21 (6), 065028, 2011",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "JOMYt6gAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Intelligent automatic meshing of multilayer CMOS micromachined structures for finite element analysis",
         "pub_year": "1999",
         "citation": "Proc. of MSM ‘99, San Juan, Puerto Rico, 297-300, 1999",
-        "num_citations": 15,
+        "num_citations": 13,
         "author_pub_id": "JOMYt6gAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -1482,7 +1475,7 @@
         "title": "Interfacial delamination and delamination mechanism maps for 3D printed flexible electrical interconnects",
         "pub_year": "2021",
         "citation": "Extreme Mechanics Letters 43, 101199, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "JOMYt6gAAAAJ:-yGd096yOn8C"
     },
     {
@@ -1496,7 +1489,7 @@
         "title": "Issues in MEMS macromodeling",
         "pub_year": "2003",
         "citation": "Proceedings of the 2003 IEEE International Workshop on Behavioral Modeling …, 2003",
-        "num_citations": 34,
+        "num_citations": 33,
         "author_pub_id": "JOMYt6gAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -1507,10 +1500,17 @@
         "author_pub_id": "JOMYt6gAAAAJ:bKqednn6t2AC"
     },
     {
+        "title": "LIGA and its Applications",
+        "pub_year": "2009",
+        "citation": "John Wiley & Sons, 2009",
+        "num_citations": 21,
+        "author_pub_id": "JOMYt6gAAAAJ:c_xDhezhKKUC"
+    },
+    {
         "title": "Laminated high-aspect-ratio microstructures in a conventional CMOS process",
         "pub_year": "1996",
         "citation": "Sensors and Actuators A: Physical 57 (2), 103-110, 1996",
-        "num_citations": 456,
+        "num_citations": 454,
         "author_pub_id": "JOMYt6gAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1524,7 +1524,7 @@
         "title": "Large-deflection beam model for schematic-based behavioral simulation in NODAS",
         "pub_year": "2002",
         "citation": "MSM’02, 21-25, 2002",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "JOMYt6gAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -1559,7 +1559,7 @@
         "title": "Low-order squeeze film model for simulation of MEMS devices",
         "pub_year": "2000",
         "citation": "Proc. MSM’00, 205-208, 2000",
-        "num_citations": 78,
+        "num_citations": 76,
         "author_pub_id": "JOMYt6gAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1580,7 +1580,7 @@
         "title": "MEMS fabrication",
         "pub_year": "2003",
         "citation": "International Test Conference, 2003. Proceedings. ITC 2003., 691-691, 2003",
-        "num_citations": 66,
+        "num_citations": 65,
         "author_pub_id": "JOMYt6gAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1608,14 +1608,14 @@
         "title": "Macromodeling temperature-dependent curl in CMOS micromachined beams",
         "pub_year": "2001",
         "citation": "Proc. Int. Conf. Modeling and Simulation of Microsystems (MSM ‘01), 88-91, 2001",
-        "num_citations": 17,
+        "num_citations": 15,
         "author_pub_id": "JOMYt6gAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Material Gradients in Stretchable Substrates toward Integrated Electronic Functionality.",
         "pub_year": "2016",
         "citation": "Advanced Materials (Deerfield Beach, Fla.) 28 (18), 3584-3591, 2016",
-        "num_citations": 68,
+        "num_citations": 70,
         "author_pub_id": "JOMYt6gAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -1643,21 +1643,21 @@
         "title": "Mechanical effects of fatigue and charge on CMOS MEMS",
         "pub_year": "2000",
         "citation": "MEMS Reliability for Critical Applications 4180, 108-116, 2000",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "JOMYt6gAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "Mechanical noise-limited CMOS-MEMS accelerometers",
         "pub_year": "2005",
         "citation": "18th IEEE International Conference on Micro Electro Mechanical Systems, 2005 …, 2005",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "JOMYt6gAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Mechanical property measurement of 0.5-µm CMOS microstructures",
         "pub_year": "1998",
         "citation": "MRS Online Proceedings Library (OPL) 518, 27, 1998",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "JOMYt6gAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -1685,14 +1685,14 @@
         "title": "Method of fabricating micromachined structures and devices formed therefrom",
         "pub_year": "2002",
         "citation": "US Patent 6,458,615, 2002",
-        "num_citations": 54,
+        "num_citations": 53,
         "author_pub_id": "JOMYt6gAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Method of fabricating microstructures and devices made therefrom",
         "pub_year": "2006",
         "citation": "US Patent 7,026,184, 2006",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "JOMYt6gAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -1713,21 +1713,21 @@
         "title": "Micro and Nano Scale NMR: Technologies and Systems",
         "pub_year": "2018",
         "citation": "John Wiley & Sons, 2018",
-        "num_citations": 18,
+        "num_citations": 16,
         "author_pub_id": "JOMYt6gAAAAJ:-7ulzOJl1JYC"
     },
     {
         "title": "Micro energy harvesting",
         "pub_year": "2015",
         "citation": "Wiley-VCH Verlag GmbH & Company KGaA, 2015",
-        "num_citations": 178,
+        "num_citations": 175,
         "author_pub_id": "JOMYt6gAAAAJ:F9fV5C73w3QC"
     },
     {
         "title": "Micro process engineering: fundamentals, devices, fabrication, and applications",
         "pub_year": "2013",
         "citation": "John Wiley & Sons, 2013",
-        "num_citations": 172,
+        "num_citations": 169,
         "author_pub_id": "JOMYt6gAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -1762,7 +1762,7 @@
         "title": "Microengineering of Metals and Ceramics, Part I: Design, Tooling, and Injection Molding",
         "pub_year": "2008",
         "citation": "John Wiley & Sons, 2008",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "JOMYt6gAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -1782,14 +1782,14 @@
         "title": "Micromachined electrothermal rotary actuator",
         "pub_year": "2012",
         "citation": "US Patent 8,243,397, 2012",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "JOMYt6gAAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "Micromachined high-Q inductors in a 0.18-/spl mu/m copper interconnect low-k dielectric CMOS process",
         "pub_year": "2002",
         "citation": "IEEE Journal of Solid-State Circuits 37 (3), 394-403, 2002",
-        "num_citations": 215,
+        "num_citations": 217,
         "author_pub_id": "JOMYt6gAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1810,7 +1810,7 @@
         "title": "Micromechanical vibratory rate gyroscopes fabricated in conventional CMOS",
         "pub_year": "1997",
         "citation": "Proc. Symposium Gyro Technology, 1997",
-        "num_citations": 79,
+        "num_citations": 77,
         "author_pub_id": "JOMYt6gAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1838,7 +1838,7 @@
         "title": "Modeling methodology for a CMOS-MEMS electrostatic comb",
         "pub_year": "2002",
         "citation": "Design, Test, Integration, and Packaging of MEMS/MOEMS 2002 4755, 114-125, 2002",
-        "num_citations": 8,
+        "num_citations": 6,
         "author_pub_id": "JOMYt6gAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -1852,7 +1852,7 @@
         "title": "Modelling and simulation of microresonators with meander suspensions",
         "pub_year": "1970",
         "citation": "WIT Transactions on The Built Environment 13, 1970",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "JOMYt6gAAAAJ:D_sINldO8mEC"
     },
     {
@@ -1887,7 +1887,7 @@
         "title": "Multimode digital control of a suspended polysilicon microstructure",
         "pub_year": "1996",
         "citation": "Journal of Microelectromechanical Systems 5 (4), 283-297, 1996",
-        "num_citations": 94,
+        "num_citations": 93,
         "author_pub_id": "JOMYt6gAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1908,7 +1908,7 @@
         "title": "NODAS 1.3-Nodal Design of Actuators and Sensors",
         "pub_year": "1998",
         "citation": "IEEE/VIUF Workshop on Behavioral Modeling and Simulation (BMAS), 1998",
-        "num_citations": 26,
+        "num_citations": 24,
         "author_pub_id": "JOMYt6gAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -1922,14 +1922,14 @@
         "title": "Nodal simulation of suspended MEMS with multiple degrees of freedom",
         "pub_year": "1997",
         "citation": "ASME International Mechanical Engineering Congress and Exposition 18435, 113-118, 1997",
-        "num_citations": 45,
+        "num_citations": 43,
         "author_pub_id": "JOMYt6gAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Nonlinear structural models for schematic-based MEMS design.",
         "pub_year": "2001",
         "citation": "USACM: Sixth US National Congress on Computational Mechanics Abstracts, 581, 2001",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "JOMYt6gAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1992,7 +1992,7 @@
         "title": "Optimization-based synthesis of microresonators",
         "pub_year": "1998",
         "citation": "Sensors and Actuators A: Physical 70 (1-2), 118-127, 1998",
-        "num_citations": 67,
+        "num_citations": 66,
         "author_pub_id": "JOMYt6gAAAAJ:-jrNzM816MMC"
     },
     {
@@ -2019,7 +2019,7 @@
         "title": "Paper generators: harvesting energy from touching, rubbing and sliding",
         "pub_year": "2013",
         "citation": "Proceedings of the 26th annual ACM symposium on User interface software and …, 2013",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "JOMYt6gAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -2080,7 +2080,7 @@
         "title": "Phase and vibration analysis for a CMOS-MEMS gyroscope",
         "pub_year": "2002",
         "citation": "International Journal of Nonlinear Sciences and Numerical Simulation 3 (3-4 …, 2002",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "JOMYt6gAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -2115,7 +2115,7 @@
         "title": "Polymer wicking to mass load cantilevers for chemical gravimetric sensors",
         "pub_year": "2005",
         "citation": "The 13th International Conference on Solid-State Sensors, Actuators and …, 2005",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "JOMYt6gAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -2129,14 +2129,14 @@
         "title": "Position control of parallel-plate microactuators for probe-based data storage",
         "pub_year": "2004",
         "citation": "Journal of microelectromechanical Systems 13 (5), 759-769, 2004",
-        "num_citations": 153,
+        "num_citations": 155,
         "author_pub_id": "JOMYt6gAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Post-CMOS processing for high-aspect-ratio integrated silicon microstructures",
         "pub_year": "2002",
         "citation": "Journal of Microelectromechanical Systems 11 (2), 93-101, 2002",
-        "num_citations": 218,
+        "num_citations": 214,
         "author_pub_id": "JOMYt6gAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -2177,7 +2177,7 @@
         "title": "RF CMOS-MEMS capacitor having large tuning range",
         "pub_year": "2003",
         "citation": "TRANSDUCERS'03. 12th International Conference on Solid-State Sensors …, 2003",
-        "num_citations": 55,
+        "num_citations": 54,
         "author_pub_id": "JOMYt6gAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -2254,7 +2254,7 @@
         "title": "Resonant MEMS: fundamentals, implementation, and application",
         "pub_year": "2015",
         "citation": "John Wiley & Sons, 2015",
-        "num_citations": 126,
+        "num_citations": 128,
         "author_pub_id": "JOMYt6gAAAAJ:nZcligLrVowC"
     },
     {
@@ -2309,7 +2309,7 @@
         "title": "Schematic-based lumped parameterized behavioral modeling for suspended MEMS",
         "pub_year": "2002",
         "citation": "Proceedings of the 2002 IEEE/ACM international conference on Computer-aided …, 2002",
-        "num_citations": 38,
+        "num_citations": 36,
         "author_pub_id": "JOMYt6gAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -2365,7 +2365,7 @@
         "title": "Sensors, Update 9",
         "pub_year": "2001",
         "citation": "Sensors 9, 414, 2001",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "JOMYt6gAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -2379,7 +2379,7 @@
         "title": "Silicon undercut characterization in a CMOS-MEMS process",
         "pub_year": "2007",
         "citation": "TRANSDUCERS 2007-2007 International Solid-State Sensors, Actuators and …, 2007",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "JOMYt6gAAAAJ:_B80troHkn4C"
     },
     {
@@ -2400,14 +2400,14 @@
         "title": "Simulation and characterization of a CMOS z-axis microactuator with electrostatic comb drives",
         "pub_year": "2000",
         "citation": "Carnegie Mellon University, 2000",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "JOMYt6gAAAAJ:dshw04ExmUIC"
     },
     {
         "title": "Simulation of microelectromechanical systems",
         "pub_year": "1994",
         "citation": "University of California, Berkeley, 1994",
-        "num_citations": 505,
+        "num_citations": 504,
         "author_pub_id": "JOMYt6gAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -2428,7 +2428,7 @@
         "title": "Single-crystal silicon based electrothermal MEMS mirrors for biomedical imaging applications",
         "pub_year": "2006",
         "citation": "MEMS/NEMS: Handbook Techniques and Applications, 1429-1471, 2006",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "JOMYt6gAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -2442,14 +2442,14 @@
         "title": "Stress effects and compensation of bias drift in a MEMS vibratory-rate gyroscope",
         "pub_year": "2017",
         "citation": "Journal of Microelectromechanical Systems 26 (3), 569-579, 2017",
-        "num_citations": 59,
+        "num_citations": 62,
         "author_pub_id": "JOMYt6gAAAAJ:1taIhTC69MYC"
     },
     {
         "title": "Stress-and-temperature-induced drift compensation on a high dynamic range accelerometer array using deep neural networks",
         "pub_year": "2021",
         "citation": "2021 IEEE 34th International Conference on Micro Electro Mechanical Systems …, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "JOMYt6gAAAAJ:NxmKEeNBbOMC"
     },
     {
@@ -2477,14 +2477,14 @@
         "title": "Structured design of integrated MEMS",
         "pub_year": "1999",
         "citation": "Technical Digest. IEEE International MEMS 99 Conference. Twelfth IEEE …, 1999",
-        "num_citations": 94,
+        "num_citations": 92,
         "author_pub_id": "JOMYt6gAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Structured design of microelectromechanical systems",
         "pub_year": "1997",
         "citation": "Proceedings of the 34th annual Design Automation Conference, 680-685, 1997",
-        "num_citations": 96,
+        "num_citations": 94,
         "author_pub_id": "JOMYt6gAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -2526,7 +2526,7 @@
         "title": "System-level synthesis",
         "pub_year": "2003",
         "citation": "Optimal Synthesis Methods for MEMS, 2003",
-        "num_citations": 6,
+        "num_citations": 4,
         "author_pub_id": "JOMYt6gAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -2546,14 +2546,14 @@
         "title": "Technologies for cofabricating MEMS and electronics",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (2), 306-322, 2008",
-        "num_citations": 309,
+        "num_citations": 308,
         "author_pub_id": "JOMYt6gAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Temperature control of CMOS micromachined sensors",
         "pub_year": "2002",
         "citation": "Technical Digest. MEMS 2002 IEEE International Conference. Fifteenth IEEE …, 2002",
-        "num_citations": 34,
+        "num_citations": 32,
         "author_pub_id": "JOMYt6gAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -2574,7 +2574,7 @@
         "title": "The role of hierarchical design and morphology in the mechanical response of diatom-inspired structures via simulation",
         "pub_year": "2018",
         "citation": "Biomaterials science 6 (1), 146-153, 2018",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "JOMYt6gAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -2588,7 +2588,7 @@
         "title": "Thermal assembly of polysilicon microactuators with narrow-gap electrostatic comb drive",
         "pub_year": "1992",
         "citation": "Technical Digest IEEE Solid-State Sensor and Actuator Workshop, 63-68, 1992",
-        "num_citations": 34,
+        "num_citations": 33,
         "author_pub_id": "JOMYt6gAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -2629,7 +2629,7 @@
         "title": "Top-down design of MEMS",
         "pub_year": "2000",
         "citation": "2000 International Conference on Modeling and Simulation of Microsystems-MSM …, 2000",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "JOMYt6gAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -2643,7 +2643,7 @@
         "title": "Tunable RF and analog circuits using on-chip MEMS passive components",
         "pub_year": "2005",
         "citation": "ISSCC. 2005 IEEE International Digest of Technical Papers. Solid-State …, 2005",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "JOMYt6gAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -2699,7 +2699,7 @@
         "title": "Ultra-miniature ultra-compliant neural probes with dissolvable delivery needles: design, fabrication and characterization",
         "pub_year": "2016",
         "citation": "Biomedical microdevices 18, 1-20, 2016",
-        "num_citations": 54,
+        "num_citations": 56,
         "author_pub_id": "JOMYt6gAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -2713,7 +2713,7 @@
         "title": "Ultracompliant hydrogel‐based neural interfaces fabricated by aqueous‐phase microtransfer printing",
         "pub_year": "2018",
         "citation": "Advanced Functional Materials 28 (29), 1801059, 2018",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "JOMYt6gAAAAJ:jE2MZjpN3IcC"
     },
     {
@@ -2726,7 +2726,7 @@
         "title": "Vertical comb-finger capacitive actuation and sensing for CMOS-MEMS",
         "pub_year": "2002",
         "citation": "Sensors and Actuators A: Physical 95 (2-3), 212-221, 2002",
-        "num_citations": 149,
+        "num_citations": 150,
         "author_pub_id": "JOMYt6gAAAAJ:UebtZRa9Y70C"
     },
     {

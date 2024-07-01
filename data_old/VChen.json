@@ -2,196 +2,276 @@
     {
         "title": "22.2 A 69.5mW 20GS/s 6b time-interleaved ADC with embedded time-to-digital calibration in 32nm CMOS SOI",
         "pub_year": "2014",
-        "citation": "Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014 …, 2014"
+        "citation": "Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014 …, 2014",
+        "num_citations": 111,
+        "author_pub_id": "hkAq-IIAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "A 18mw, 3.3 db nf, 60ghz lna in 32nm soi cmos technology with autonomic nf calibration",
         "pub_year": "2015",
-        "citation": "2015 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), 319-322, 2015"
-    },
-    {
-        "title": "A 69.5 mW 20 GS/s 6b time-interleaved ADC with embedded time-to-digital calibration in 32 nm CMOS SOI",
-        "pub_year": "2014",
-        "citation": "IEEE Journal of Solid-State Circuits 49 (12), 2891-2901, 2014"
+        "citation": "2015 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), 319-322, 2015",
+        "num_citations": 31,
+        "author_pub_id": "hkAq-IIAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "A New Photodiode Model for SPICE Simulation of Complementary Metal–Oxide–Semiconductor Image Sensors",
         "pub_year": "2007",
-        "citation": "Japanese journal of applied physics 46 (4S), 2352, 2007"
+        "citation": "Japanese journal of applied physics 46 (4S), 2352, 2007",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+        "title": "A Reinforcement-Learning-Assisted Power Amplifier for RF Fingerprint Generation in 65 nm CMOS",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "A novel 3-way dual-band Doherty power amplifier for enhanced concurrent operation",
         "pub_year": "2021",
-        "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (9), 4041-4058, 2021"
+        "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (9), 4041-4058, 2021",
+        "num_citations": 17,
+        "author_pub_id": "hkAq-IIAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "An 8.5 mW 5GS/s 6b flash ADC with dynamic offset calibration in 32nm CMOS SOI",
         "pub_year": "2013",
-        "citation": "2013 Symposium on VLSI Circuits, C264-C265, 2013"
+        "citation": "2013 Symposium on VLSI Circuits, C264-C265, 2013",
+        "num_citations": 78,
+        "author_pub_id": "hkAq-IIAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "An ultra-high bandwidth sub-ranging ADC with programmable dynamic range in 32nm CMOS SOI",
         "pub_year": "2017",
-        "citation": "2017 IEEE 60th International Midwest Symposium on Circuits and Systems …, 2017"
+        "citation": "2017 IEEE 60th International Midwest Symposium on Circuits and Systems …, 2017",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "An ultra-low voltage chaos-based true random number generator for IoT applications",
         "pub_year": "2019",
-        "citation": "Microelectronics journal 87, 55-64, 2019"
+        "citation": "Microelectronics journal 87, 55-64, 2019",
+        "num_citations": 35,
+        "author_pub_id": "hkAq-IIAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Analog to digital converter with digital reference voltage signal",
         "pub_year": "2017",
-        "citation": "US Patent 9,602,120, 2017"
+        "citation": "US Patent 9,602,120, 2017",
+        "num_citations": 2,
+        "author_pub_id": "hkAq-IIAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Analysis and Digital Predistortion of In-Band Cross Modulation in Concurrent Multi-Band Transmitters",
         "pub_year": "2022",
-        "citation": "IEEE Access 10, 120462-120474, 2022"
+        "citation": "IEEE Access 10, 120462-120474, 2022",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Bayesian neural networks for identification and classification of radio frequency transmitters using power amplifiers’ nonlinearity signatures",
         "pub_year": "2021",
-        "citation": "IEEE Open Journal of Circuits and Systems 2, 457-471, 2021"
+        "citation": "IEEE Open Journal of Circuits and Systems 2, 457-471, 2021",
+        "num_citations": 13,
+        "author_pub_id": "hkAq-IIAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Calibrated digital predistortion using a vector network analyzer as the receiver",
         "pub_year": "2019",
-        "citation": "2019 93rd ARFTG Microwave Measurement Conference (ARFTG), 1-4, 2019"
+        "citation": "2019 93rd ARFTG Microwave Measurement Conference (ARFTG), 1-4, 2019",
+        "num_citations": 11,
+        "author_pub_id": "hkAq-IIAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Class-E power amplifiers incorporating fingerprint augmentation with combinatorial security primitives for machine-learning-based authentication in 65 nm CMOS",
         "pub_year": "2022",
-        "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 69 (5), 1896-1909, 2022"
+        "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 69 (5), 1896-1909, 2022",
+        "num_citations": 12,
+        "author_pub_id": "hkAq-IIAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Deep Reinforcement Learning on FPGA for Self-Healing Cryogenic Power Amplifier Control",
         "pub_year": "2023",
-        "citation": "IEEE Open Journal of Circuits and Systems, 2023"
+        "citation": "IEEE Open Journal of Circuits and Systems, 2023",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Device simulations of silicon detectors: a design perspective",
         "pub_year": "2003",
-        "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 2003"
+        "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 2003",
+        "num_citations": 12,
+        "author_pub_id": "hkAq-IIAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Empirical dark current modeling for complementary metal oxide semiconductor active pixel sensor",
         "pub_year": "2002",
-        "citation": "Optical Engineering 41 (6), 1216-1219, 2002"
+        "citation": "Optical Engineering 41 (6), 1216-1219, 2002",
+        "num_citations": 44,
+        "author_pub_id": "hkAq-IIAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Energy-efficient data symbol detection via boosted learning for multi-actuator data storage systems",
         "pub_year": "2021",
-        "citation": "2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2021"
+        "citation": "2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2021",
+        "num_citations": 2,
+        "author_pub_id": "hkAq-IIAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Guest Editorial Special Issue on Selected Papers from IEEE BioCAS 2022",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Biomedical Circuits and Systems 17 (4), 650-652, 2023"
+        "citation": "IEEE Transactions on Biomedical Circuits and Systems 17 (4), 650-652, 2023",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Guest Editorial: Secure Radio-Frequency (RF)-Analog Electronics and Electromagnetics",
         "pub_year": "2022",
-        "citation": "ACM Journal on Emerging Technologies in Computing Systems (JETC) 18 (4), 1-2, 2022"
+        "citation": "ACM Journal on Emerging Technologies in Computing Systems (JETC) 18 (4), 1-2, 2022",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Guest Editorial: Special Issue on Selected Papers From IEEE BioCAS 2021",
         "pub_year": "2022",
-        "citation": "IEEE Transactions on Biomedical Circuits and Systems 16 (4), 490-491, 2022"
+        "citation": "IEEE Transactions on Biomedical Circuits and Systems 16 (4), 490-491, 2022",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "IEEE CIRCUITS AND SYSTEMS SOCIETY",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "IEEE Circuits and Systems Society",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "IEEE Open Journal of Circuits and Systems",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "In-sensor time-domain classifiers using pseudo sigmoid activation functions",
         "pub_year": "2020",
-        "citation": "Integration 73, 43-49, 2020"
+        "citation": "Integration 73, 43-49, 2020",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "Instantaneous in‐band radio frequency interference suppression using non‐linear folders",
         "pub_year": "2019",
-        "citation": "Electronics Letters 55 (7), 372-374, 2019"
+        "citation": "Electronics Letters 55 (7), 372-374, 2019",
+        "num_citations": 2,
+        "author_pub_id": "hkAq-IIAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Intelligent electromagnetic sensors for non-invasive trojan detection",
         "pub_year": "2021",
-        "citation": "Sensors 21 (24), 8288, 2021"
+        "citation": "Sensors 21 (24), 8288, 2021",
+        "num_citations": 5,
+        "author_pub_id": "hkAq-IIAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Introduction to the Special Section on Smart Imaging",
         "pub_year": "2022",
-        "citation": "IEEE Open Journal of Circuits and Systems 3, 309-310, 2022"
+        "citation": "IEEE Open Journal of Circuits and Systems 3, 309-310, 2022",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Lower-power giga-hertz analog-to-digital converters with background calibration",
         "pub_year": "2013",
-        "citation": "Carnegie Mellon University, 2013"
+        "citation": "Carnegie Mellon University, 2013",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Multichannel many-class real-time neural spike sorting with convolutional neural networks",
         "pub_year": "2022",
-        "citation": "IEEE Open Journal of Circuits and Systems 3, 168-179, 2022"
+        "citation": "IEEE Open Journal of Circuits and Systems 3, 168-179, 2022",
+        "num_citations": 5,
+        "author_pub_id": "hkAq-IIAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Photodiode Model for CMOS Image Sensor SPICE Simulation",
         "pub_year": "2006",
-        "citation": "Extended abstracts of the... Conference on Solid State Devices and Materials …, 2006"
+        "citation": "Extended abstracts of the... Conference on Solid State Devices and Materials …, 2006",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "RF Analog Hardware Trojan Detection Through Electromagnetic Side-Channel",
         "pub_year": "2022",
-        "citation": "IEEE Open Journal of Circuits and Systems 3, 237-251, 2022"
+        "citation": "IEEE Open Journal of Circuits and Systems 3, 237-251, 2022",
+        "num_citations": 2,
+        "author_pub_id": "hkAq-IIAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "RF Fingerprint Classification With Combinatorial-Randomness-Based Power Amplifiers and Convolutional Neural Networks: Secure analog/RF electronics and electromagnetics",
         "pub_year": "2022",
-        "citation": "IEEE Solid-State Circuits Magazine 14 (4), 28-36, 2022"
+        "citation": "IEEE Solid-State Circuits Magazine 14 (4), 28-36, 2022",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "SPONSORING SOCIETIES",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "SPONSORING SOCIETIES",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Self-Healing Circuits Using Statistical Element Selection",
         "pub_year": "2013",
-        "citation": "Analog/RF and Mixed-Signal Circuit Systematic Design, 53-75, 2013"
+        "citation": "Analog/RF and Mixed-Signal Circuit Systematic Design, 53-75, 2013",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Single-input broadband hybrid Doherty power amplifiers design relying on a phase sliding-mode of the load modulation scheme",
         "pub_year": "2022",
-        "citation": "IEEE Transactions on Microwave Theory and Techniques 71 (4), 1550-1562, 2022"
+        "citation": "IEEE Transactions on Microwave Theory and Techniques 71 (4), 1550-1562, 2022",
+        "num_citations": 4,
+        "author_pub_id": "hkAq-IIAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Statistical RF/Analog Integrated Circuit Design Using Combinatorial Randomness for Hardware Security Applications",
         "pub_year": "2020",
-        "citation": "Mathematics 8 (5), 829, 2020"
+        "citation": "Mathematics 8 (5), 829, 2020",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "Wideband two-way hybrid Doherty outphasing power amplifier",
         "pub_year": "2020",
-        "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (2), 1415-1428, 2020"
+        "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (2), 1415-1428, 2020",
+        "num_citations": 30,
+        "author_pub_id": "hkAq-IIAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Wireless Actuation for Soft Electronics-free Robots",
         "pub_year": "2023",
-        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023"
+        "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Wireless Bayesian neural networks with self-assembly DNA memory and spin-torque oscillators",
         "pub_year": "2020",
-        "citation": "2020 IEEE 63rd International Midwest Symposium on Circuits and Systems …, 2020"
+        "citation": "2020 IEEE 63rd International Midwest Symposium on Circuits and Systems …, 2020",
+        "num_citations": 1,
+        "author_pub_id": "hkAq-IIAAAAJ:9ZlFYXVOiuMC"
     }
 ]

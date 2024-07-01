@@ -2,234 +2,335 @@
     {
         "title": "A tale of two efficient and informative negative sampling distributions",
         "pub_year": "2021",
-        "citation": "International conference on machine learning, 2319-2329, 2021"
+        "citation": "International conference on machine learning, 2319-2329, 2021",
+        "num_citations": 11,
+        "author_pub_id": "jCNJhFcAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Analyzing log analysis: An empirical study of user log mining",
         "pub_year": "2014",
-        "citation": "28th Large Installation System Administration Conference (LISA14), 62-77, 2014"
+        "citation": "28th Large Installation System Administration Conference (LISA14), 62-77, 2014",
+        "num_citations": 66,
+        "author_pub_id": "jCNJhFcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Angular visual hardness",
         "pub_year": "2020",
-        "citation": "International Conference on Machine Learning, 1637-1648, 2020"
+        "citation": "International Conference on Machine Learning, 1637-1648, 2020",
+        "num_citations": 49,
+        "author_pub_id": "jCNJhFcAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "BearLoc: a composable distributed framework for indoor localization systems",
         "pub_year": "2015",
-        "citation": "Proceedings of the 2015 Workshop on IoT challenges in Mobile and Industrial …, 2015"
+        "citation": "Proceedings of the 2015 Workshop on IoT challenges in Mobile and Industrial …, 2015",
+        "num_citations": 7,
+        "author_pub_id": "jCNJhFcAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "CocktailSGD: Fine-tuning foundation models over 500Mbps networks",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 36058-36076, 2023"
+        "citation": "International Conference on Machine Learning, 36058-36076, 2023",
+        "num_citations": 16,
+        "author_pub_id": "jCNJhFcAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Compress, then prompt: Improving accuracy-efficiency trade-off of llm inference with transferable prompt",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.11186, 2023"
+        "citation": "arXiv preprint arXiv:2305.11186, 2023",
+        "num_citations": 15,
+        "author_pub_id": "jCNJhFcAAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "Decentralized training of foundation models in heterogeneous environments",
         "pub_year": "2022",
-        "citation": "Neural Information Processing Systems., 2022"
+        "citation": "Neural Information Processing Systems., 2022",
+        "num_citations": 51,
+        "author_pub_id": "jCNJhFcAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Deja vu: Contextual sparsity for efficient llms at inference time",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 22137-22176, 2023"
+        "citation": "International Conference on Machine Learning, 22137-22176, 2023",
+        "num_citations": 89,
+        "author_pub_id": "jCNJhFcAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Densified winner take all (WTA) hashing for sparse datasets",
         "pub_year": "2018",
-        "citation": "Uncertainty in artificial intelligence, 2018"
+        "citation": "Uncertainty in artificial intelligence, 2018",
+        "num_citations": 23,
+        "author_pub_id": "jCNJhFcAAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Efficient streaming language models with attention sinks",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2309.17453, 2023"
+        "citation": "arXiv preprint arXiv:2309.17453, 2023",
+        "num_citations": 110,
+        "author_pub_id": "jCNJhFcAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Fast Algorithms for a New Relaxation of Optimal Transport",
         "pub_year": "2023",
-        "citation": "The Thirty Sixth Annual Conference on Learning Theory, 4831-4862, 2023"
+        "citation": "The Thirty Sixth Annual Conference on Learning Theory, 4831-4862, 2023",
+        "num_citations": 3,
+        "author_pub_id": "jCNJhFcAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Fast and accurate stochastic gradient estimation",
         "pub_year": "2019",
-        "citation": "Advances in Neural Information Processing Systems 32, 2019"
+        "citation": "Advances in Neural Information Processing Systems 32, 2019",
+        "num_citations": 47,
+        "author_pub_id": "jCNJhFcAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Fine-tuning language models over slow networks using activation compression with guarantees",
         "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2206.01299, 2022"
+        "citation": "arXiv preprint arXiv:2206.01299, 2022",
+        "num_citations": 12,
+        "author_pub_id": "jCNJhFcAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 2023"
+        "citation": "International Conference on Machine Learning, 2023",
+        "num_citations": 147,
+        "author_pub_id": "jCNJhFcAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.04797, 2024"
+        "citation": "arXiv preprint arXiv:2403.04797, 2024",
+        "num_citations": 2,
+        "author_pub_id": "jCNJhFcAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Galore: Memory-efficient llm training by gradient low-rank projection",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.03507, 2024"
+        "citation": "arXiv preprint arXiv:2403.03507, 2024",
+        "num_citations": 5,
+        "author_pub_id": "jCNJhFcAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.09398, 2024"
+        "citation": "arXiv preprint arXiv:2402.09398, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jCNJhFcAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "H  O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 2023"
+        "citation": "International Conference on Machine Learning, 2023",
+        "num_citations": 66,
+        "author_pub_id": "jCNJhFcAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Halos: Hashing large output space for cheap inference",
         "pub_year": "2022",
-        "citation": "Proceedings of Machine Learning and Systems 4, 110-125, 2022"
+        "citation": "Proceedings of Machine Learning and Systems 4, 110-125, 2022",
+        "num_citations": 10,
+        "author_pub_id": "jCNJhFcAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Hexgen: Generative inference of foundation model over heterogeneous decentralized environment",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.11514, 2023"
+        "citation": "arXiv preprint arXiv:2311.11514, 2023",
+        "num_citations": 3,
+        "author_pub_id": "jCNJhFcAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Inrank: Incremental low-rank learning",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2306.11250, 2023"
+        "citation": "arXiv preprint arXiv:2306.11250, 2023",
+        "num_citations": 7,
+        "author_pub_id": "jCNJhFcAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Joma: Demystifying multilayer transformers via joint dynamics of mlp and attention",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2310.00535, 2023"
+        "citation": "arXiv preprint arXiv:2310.00535, 2023",
+        "num_citations": 12,
+        "author_pub_id": "jCNJhFcAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.02750, 2024"
+        "citation": "arXiv preprint arXiv:2402.02750, 2024",
+        "num_citations": 2,
+        "author_pub_id": "jCNJhFcAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "KIVI: Plug-and-play 2bit KV Cache Quantization with Streaming Asymmetric Quantization",
-        "citation": ""
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "jCNJhFcAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "LLM Inference Unveiled: Survey and Roofline Model Insights",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.16363, 2024"
+        "citation": "arXiv preprint arXiv:2402.16363, 2024",
+        "num_citations": 5,
+        "author_pub_id": "jCNJhFcAAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Laughing hyena distillery: Extracting compact recurrences from convolutions",
         "pub_year": "2024",
-        "citation": "Advances in Neural Information Processing Systems 36, 2024"
+        "citation": "Advances in Neural Information Processing Systems 36, 2024",
+        "num_citations": 4,
+        "author_pub_id": "jCNJhFcAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "Layer skip: Enabling early exit inference and self-speculative decoding",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2404.16710, 2024",
+        "num_citations": 4,
+        "author_pub_id": "jCNJhFcAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "Learn To be Efficient: Build Structured Sparsity in Large Language Models",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.06126, 2024"
+        "citation": "arXiv preprint arXiv:2402.06126, 2024",
+        "num_citations": 3,
+        "author_pub_id": "jCNJhFcAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Locality Sensitive Sampling for Extreme-Scale Optimization and Deep Learning",
         "pub_year": "2020",
-        "citation": "Rice University, 2020"
+        "citation": "Rice University, 2020",
+        "num_citations": 0,
+        "author_pub_id": "jCNJhFcAAAAJ:UebtZRa9Y70C"
     },
     {
         "title": "Locality sensitive teaching",
         "pub_year": "2021",
-        "citation": "Advances in Neural Information Processing Systems 34, 18049-18062, 2021"
+        "citation": "Advances in Neural Information Processing Systems 34, 18049-18062, 2021",
+        "num_citations": 18,
+        "author_pub_id": "jCNJhFcAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "MONGOOSE: A learnable LSH framework for efficient neural network training",
         "pub_year": "2021",
-        "citation": "International Conference on Learning Representations, 2021"
+        "citation": "International Conference on Learning Representations, 2021",
+        "num_citations": 71,
+        "author_pub_id": "jCNJhFcAAAAJ:8k81kl-MbHgC"
     },
     {
-        "title": "Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length",
+        "title": "Megalodon: Efficient llm pretraining and inference with unlimited context length",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.08801, 2024"
+        "citation": "arXiv preprint arXiv:2404.08801, 2024",
+        "num_citations": 2,
+        "author_pub_id": "jCNJhFcAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Modeling scattering coefficients using self-attentive complex polynomials with image-based representation, 2022",
-        "citation": "URL https://arxiv. org/pdf/2301.02747. pdf, 0"
+        "citation": "URL https://arxiv. org/pdf/2301.02747. pdf, 0",
+        "num_citations": 2,
+        "author_pub_id": "jCNJhFcAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Monarch: Expressive structured matrices for efficient and accurate training",
         "pub_year": "2022",
-        "citation": "International Conference on Machine Learning, 4690-4721, 2022"
+        "citation": "International Conference on Machine Learning, 4690-4721, 2022",
+        "num_citations": 58,
+        "author_pub_id": "jCNJhFcAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "On the Similarity between Attention and SVM on the Token Separation and Selection Behavior",
         "pub_year": "2023",
-        "citation": ""
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "jCNJhFcAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Pixelated butterfly: Simple and efficient sparse training for neural network models",
         "pub_year": "2022",
-        "citation": "International Conference on Learning Representations, 2022"
+        "citation": "International Conference on Learning Representations, 2022",
+        "num_citations": 58,
+        "author_pub_id": "jCNJhFcAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Prompt-prompted Mixture of Experts for Efficient LLM Generation",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.01365, 2024"
+        "citation": "arXiv preprint arXiv:2404.01365, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jCNJhFcAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "SLIDE: In Defense of Smart Algorithms over Hardware Acceleration for Large-scale Deep Learning Systems",
         "pub_year": "2020",
-        "citation": "Proceedings of Machine Learning and System 2, 291--306, 2020"
+        "citation": "Proceedings of Machine Learning and System 2, 291--306, 2020",
+        "num_citations": 127,
+        "author_pub_id": "jCNJhFcAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "SOLAR: Sparse Orthogonal Learned and Random Embeddings",
         "pub_year": "2021",
-        "citation": "International Conference on Learning Representations, 2021"
+        "citation": "International Conference on Learning Representations, 2021",
+        "num_citations": 8,
+        "author_pub_id": "jCNJhFcAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Sample-efficient Surrogate Model for Frequency Response of Linear PDEs using Self-Attentive Complex Polynomials",
         "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2301.02747, 2023"
+        "citation": "arXiv preprint arXiv:2301.02747, 2023",
+        "num_citations": 0,
+        "author_pub_id": "jCNJhFcAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Satellite Images and Deep Learning to Identify Discrepancy in Mailing Addresses with Applications to Census 2020 in Houston",
         "pub_year": "2021",
-        "citation": "JSM Proceedings, Statistical Learning and Data Science Section. American …, 2021"
+        "citation": "JSM Proceedings, Statistical Learning and Data Science Section. American …, 2021",
+        "num_citations": 1,
+        "author_pub_id": "jCNJhFcAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Scan and Snap: Understanding Training Dynamics and Token Composition in 1-layer Transformer",
         "pub_year": "2023",
-        "citation": "International Conference on Machine Learning, 2023"
+        "citation": "International Conference on Machine Learning, 2023",
+        "num_citations": 31,
+        "author_pub_id": "jCNJhFcAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Scatterbrain: Unifying sparse and low-rank attention",
         "pub_year": "2021",
-        "citation": "Advances in Neural Information Processing Systems 34, 17413-17426, 2021"
+        "citation": "Advances in Neural Information Processing Systems 34, 17413-17426, 2021",
+        "num_citations": 86,
+        "author_pub_id": "jCNJhFcAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.12374, 2024"
+        "citation": "arXiv preprint arXiv:2402.12374, 2024",
+        "num_citations": 2,
+        "author_pub_id": "jCNJhFcAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Sub-linear privacy-preserving near-neighbor search",
         "pub_year": "2016",
-        "citation": "arXiv preprint arXiv:1612.01835, 2016"
+        "citation": "arXiv preprint arXiv:1612.01835, 2016",
+        "num_citations": 26,
+        "author_pub_id": "jCNJhFcAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Towards Structured Sparsity in Transformers for Efficient Inference",
         "pub_year": "2023",
-        "citation": "Workshop on Efficient Systems for Foundation Models@ ICML2023, 2023"
+        "citation": "Workshop on Efficient Systems for Foundation Models@ ICML2023, 2023",
+        "num_citations": 3,
+        "author_pub_id": "jCNJhFcAAAAJ:hFOr9nPyWt4C"
     },
     {
-        "title": "TriForce: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding",
+        "title": "Triforce: Lossless acceleration of long sequence generation with hierarchical speculative decoding",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.11912, 2024"
+        "citation": "arXiv preprint arXiv:2404.11912, 2024",
+        "num_citations": 2,
+        "author_pub_id": "jCNJhFcAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Unique entity estimation with application to the Syrian conflict",
         "pub_year": "2018",
-        "citation": "The Annals of Applied Statistics 12 (2), 1039-1067, 2018"
+        "citation": "The Annals of Applied Statistics 12 (2), 1039-1067, 2018",
+        "num_citations": 37,
+        "author_pub_id": "jCNJhFcAAAAJ:2osOgNQ5qMEC"
     }
 ]

@@ -17,7 +17,7 @@
         "title": "A 3 d-stacked memory manycore stencil accelerator system",
         "pub_year": "2015",
         "citation": "",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "hlh0cocAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -38,14 +38,14 @@
         "title": "A flexible framework for multidimensional DFTs",
         "pub_year": "2020",
         "citation": "SIAM Journal on Scientific Computing 42 (5), C245-C264, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "hlh0cocAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "A portable gpu framework for snp comparisons",
         "pub_year": "2019",
         "citation": "2019 IEEE International Parallel and Distributed Processing Symposium …, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "hlh0cocAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -66,11 +66,11 @@
         "title": "Accumulating Householder transformations, revisited",
         "pub_year": "2006",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 32 (2), 169-179, 2006",
-        "num_citations": 56,
+        "num_citations": 55,
         "author_pub_id": "hlh0cocAAAAJ:d1gkVwhDpl0C"
     },
     {
-        "title": "Addressing unreliability in emerging devices and non-von Neumann architectures using coded computing",
+        "title": "Addressing unreliability in emerging devices and non-von neumann architectures using coded computing",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 108 (8), 1219-1234, 2020",
         "num_citations": 18,
@@ -80,21 +80,21 @@
         "title": "An API for manipulating matrices stored by blocks",
         "pub_year": "2004",
         "citation": "Computer Science Department, University of Texas at Austin, 2004",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "hlh0cocAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Analytical cache modeling and tilesize optimization for tensor contractions",
         "pub_year": "2019",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2019",
-        "num_citations": 34,
+        "num_citations": 32,
         "author_pub_id": "hlh0cocAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Analytical modeling is enough for high-performance BLIS",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 43 (2), 1-18, 2016",
-        "num_citations": 176,
+        "num_citations": 177,
         "author_pub_id": "hlh0cocAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "hlh0cocAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -182,13 +182,6 @@
         "author_pub_id": "hlh0cocAAAAJ:cFHS6HbyZ2cC"
     },
     {
-        "title": "Exploiting Symmetries of Small Prime-Sized DFTs",
-        "pub_year": "2020",
-        "citation": "Parallel Processing and Applied Mathematics: 13th International Conference …, 2020",
-        "num_citations": 1,
-        "author_pub_id": "hlh0cocAAAAJ:M3NEmzRMIkIC"
-    },
-    {
         "title": "Exploiting Symmetry in Tensors for High Performance.",
         "pub_year": "2013",
         "citation": "ArXiv, 2013",
@@ -196,10 +189,17 @@
         "author_pub_id": "hlh0cocAAAAJ:UebtZRa9Y70C"
     },
     {
+        "title": "Exploiting symmetries of small prime-sized dfts",
+        "pub_year": "2020",
+        "citation": "Parallel Processing and Applied Mathematics: 13th International Conference …, 2020",
+        "num_citations": 1,
+        "author_pub_id": "hlh0cocAAAAJ:M3NEmzRMIkIC"
+    },
+    {
         "title": "Exploiting symmetry in tensors for high performance: Multiplication with symmetric tensors",
         "pub_year": "2014",
         "citation": "SIAM Journal on Scientific Computing 36 (5), C453-C479, 2014",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "hlh0cocAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -227,7 +227,7 @@
         "title": "FFTX and SpectralPack: A first look",
         "pub_year": "2018",
         "citation": "2018 IEEE 25th International Conference on High Performance Computing …, 2018",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "hlh0cocAAAAJ:mB3voiENLucC"
     },
     {
@@ -338,7 +338,7 @@
         "title": "Linear algebraic formulation of edge-centric k-truss algorithms with adjacency matrices",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "hlh0cocAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -401,13 +401,13 @@
         "title": "Reformulating the direct convolution for high-performance deep learning inference on ARM processors",
         "pub_year": "2023",
         "citation": "Journal of Systems Architecture 135, 102806, 2023",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "hlh0cocAAAAJ:ZHo1McVdvXMC"
     },
     {
-        "title": "SMaLL: Software for rapidly instantiating Machine Learning Libraries",
-        "pub_year": "2023",
-        "citation": "ACM Transactions on Embedded Computing Systems, 2023",
+        "title": "SMaLL: Software for Rapidly Instantiating Machine Learning Libraries",
+        "pub_year": "2024",
+        "citation": "ACM Transactions on Embedded Computing Systems 23 (3), 1-25, 2024",
         "num_citations": 0,
         "author_pub_id": "hlh0cocAAAAJ:dfsIfKJdRG4C"
     },
@@ -415,7 +415,7 @@
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "hlh0cocAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -429,7 +429,7 @@
         "title": "Scalable parallelization of FLAME code via the workqueuing model",
         "pub_year": "2008",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 34 (2), 2008",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "hlh0cocAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -457,7 +457,7 @@
         "title": "The BLIS framework: Experiments in portability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 42 (2), 1-19, 2016",
-        "num_citations": 128,
+        "num_citations": 125,
         "author_pub_id": "hlh0cocAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -512,7 +512,7 @@
         "title": "quickLD: An efficient software for linkage disequilibrium analyses",
         "pub_year": "2021",
         "citation": "Molecular Ecology Resources 21 (7), 2580-2587, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "hlh0cocAAAAJ:vV6vV6tmYwMC"
     }
 ]
