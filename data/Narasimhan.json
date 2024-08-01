@@ -65,7 +65,7 @@
         "title": "A survey of faults and fault-injection techniques in edge computing systems",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Edge Computing and Communications …, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "qyPWUBcAAAAJ:WC9gN4BGCRcC"
     },
     {
@@ -159,14 +159,14 @@
         "title": "An Empirical Study of Resource-Stressing Faults in Edge-Computing Applications",
         "pub_year": "2023",
         "citation": "Proceedings of the 6th International Workshop on Edge Systems, Analytics and …, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "qyPWUBcAAAAJ:hsZV8lGYWTMC"
     },
     {
         "title": "An analysis of traces from a production MapReduce cluster",
         "pub_year": "2010",
         "citation": "Cluster, Cloud and Grid Computing (CCGrid), 2010 10th IEEE/ACM International …, 2010",
-        "num_citations": 444,
+        "num_citations": 445,
         "author_pub_id": "qyPWUBcAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -229,7 +229,7 @@
         "title": "Benchmarking wireless protocols for feasibility in supporting crowdsourced mobile computing",
         "pub_year": "2016",
         "citation": "Distributed Applications and Interoperable Systems: 16th IFIP WG 6.1 …, 2016",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "qyPWUBcAAAAJ:XvxMoLDsR5gC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Cachier: Edge-caching for recognition applications",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017",
-        "num_citations": 202,
+        "num_citations": 204,
         "author_pub_id": "qyPWUBcAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -393,7 +393,7 @@
         "title": "Disseminating Code Updates in Sensor Networks: Survey of Protocols and Security Issues",
         "pub_year": "2005",
         "citation": "Technical report, School of Computer Science, Carnegie Mellon University, PA, 2005",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "qyPWUBcAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -456,7 +456,7 @@
         "title": "Enforcing determinism for the consistent replication of multithreaded CORBA applications",
         "pub_year": "1999",
         "citation": "Proceedings of the 18th IEEE Symposium on Reliable Distributed Systems, 263-273, 1999",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "qyPWUBcAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -498,7 +498,7 @@
         "title": "Experiences, strategies, and challenges in building fault-tolerant CORBA systems",
         "pub_year": "2004",
         "citation": "IEEE Transactions on Computers, 467-511, 2004",
-        "num_citations": 157,
+        "num_citations": 158,
         "author_pub_id": "qyPWUBcAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Exploiting the Internet Inter-ORB Protocol interface to provide CORBA with fault tolerance",
         "pub_year": "1997",
         "citation": "Proceedings of the 3rd conference on USENIX Conference on Object-Oriented …, 1997",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "qyPWUBcAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -547,7 +547,7 @@
         "title": "Fault Tolerant Edge Computing: Challenges and Opportunities",
         "pub_year": "2023",
         "citation": "2023 IEEE 7th International Conference on Fog and Edge Computing (ICFEC), 73-80, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "qyPWUBcAAAAJ:Ade32sEp0pkC"
     },
     {
@@ -617,14 +617,14 @@
         "title": "Ganesha: black-box fault diagnosis for MapReduce systems",
         "pub_year": "2008",
         "citation": "Hot Metrics, 2008",
-        "num_citations": 127,
+        "num_citations": 129,
         "author_pub_id": "qyPWUBcAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Ganesha: blackBox diagnosis of MapReduce systems",
         "pub_year": "2010",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 37 (3), 8-13, 2010",
-        "num_citations": 117,
+        "num_citations": 119,
         "author_pub_id": "qyPWUBcAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -712,7 +712,7 @@
         "title": "Hyrax: Cloud computing on mobile devices using MapReduce",
         "pub_year": "2009",
         "citation": "Master's Thesis, Carnegie Mellon University, 2009",
-        "num_citations": 637,
+        "num_citations": 638,
         "author_pub_id": "qyPWUBcAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -740,14 +740,14 @@
         "title": "Kahuna: Problem diagnosis for MapReduce-based cloud computing environments",
         "pub_year": "2010",
         "citation": "Network Operations and Management Symposium (NOMS), 2010 IEEE, 112-119, 2010",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "qyPWUBcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Krowd: A key-value store for crowded venues",
         "pub_year": "2015",
         "citation": "Proceedings of the 10th International Workshop on Mobility in the Evolving …, 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "qyPWUBcAAAAJ:FAceZFleit8C"
     },
     {
@@ -1050,7 +1050,7 @@
         "title": "Precog: prefetching for image recognition applications at the edge",
         "pub_year": "2017",
         "citation": "Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 1-13, 2017",
-        "num_citations": 86,
+        "num_citations": 88,
         "author_pub_id": "qyPWUBcAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -1263,7 +1263,7 @@
         "title": "Sluice: Secure dissemination of code updates in sensor networks",
         "pub_year": "2006",
         "citation": "26th IEEE international conference on Distributed Computing Systems (ICDCS …, 2006",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "qyPWUBcAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -1456,7 +1456,7 @@
         "title": "Thema: Byzantine-fault-tolerant middleware for web-service applications",
         "pub_year": "2005",
         "citation": "Reliable Distributed Systems, 2005. SRDS 2005. 24th IEEE Symposium on, 131-140, 2005",
-        "num_citations": 165,
+        "num_citations": 166,
         "author_pub_id": "qyPWUBcAAAAJ:P5F9QuxV20EC"
     },
     {
@@ -1554,14 +1554,14 @@
         "title": "Trinetra: Assistive technologies for grocery shopping for the blind",
         "pub_year": "2007",
         "citation": "International IEEE-BAIS Symposium on Research on Assistive Technologies (RAT …, 2007",
-        "num_citations": 109,
+        "num_citations": 111,
         "author_pub_id": "qyPWUBcAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Trinetra: assistive technologies for the blind",
         "pub_year": "2006",
         "citation": "International IEEE-BAIS Symposium on Research on Assistive Technologies (RAT), 2006",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "qyPWUBcAAAAJ:Tiz5es2fbqcC"
     },
     {

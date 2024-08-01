@@ -92,14 +92,14 @@
         "title": "A complexity-effective architecture for accelerating full-system multiprocessor simulations using FPGAs",
         "pub_year": "2008",
         "citation": "Proceedings of the 16th international ACM/SIGDA symposium on Field …, 2008",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "-syEyyAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "A high reliability PUF using hot carrier injection based response reinforcement",
         "pub_year": "2013",
         "citation": "Cryptographic Hardware and Embedded Systems-CHES 2013: 15th International …, 2013",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "-syEyyAAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -113,28 +113,28 @@
         "title": "A secure camouflaged logic family using post-manufacturing programming with a 3.6GHz adder prototype in 65nm CMOS at 1V nominal VDD",
         "pub_year": "2018",
         "citation": "2018 IEEE International Solid-State Circuits Conference-(ISSCC), 128-130, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "-syEyyAAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "A secure camouflaged threshold voltage defined logic family",
         "pub_year": "2016",
         "citation": "2016 IEEE International symposium on hardware oriented security and trust …, 2016",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "-syEyyAAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "ASIC accelerator in 28 nm for the post-quantum digital signature scheme XMSS",
         "pub_year": "2020",
         "citation": "2020 IEEE 38th International Conference on Computer Design (ICCD), 656-662, 2020",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "-syEyyAAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "An efficient reliable PUF-based cryptographic key generator in 65nm CMOS",
         "pub_year": "2014",
         "citation": "2014 Design, Automation & Test in Europe Conference & Exhibition (DATE), 1-6, 2014",
-        "num_citations": 137,
+        "num_citations": 138,
         "author_pub_id": "-syEyyAAAAAJ:k_IJM867U9cC"
     },
     {
@@ -162,14 +162,14 @@
         "title": "Architecture and circuit techniques for a reconfigurable memory block",
         "pub_year": "2004",
         "citation": "2004 IEEE International Solid-State Circuits Conference (IEEE Cat. No …, 2004",
-        "num_citations": 22,
+        "num_citations": 19,
         "author_pub_id": "-syEyyAAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Attack resistant sense amplifier based PUFs (SA-PUF) with deterministic and controllable reliability of PUF responses",
         "pub_year": "2010",
         "citation": "2010 IEEE international symposium on hardware-oriented security and trust …, 2010",
-        "num_citations": 69,
+        "num_citations": 68,
         "author_pub_id": "-syEyyAAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -210,7 +210,7 @@
         "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
         "pub_year": "2011",
         "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011",
-        "num_citations": 205,
+        "num_citations": 207,
         "author_pub_id": "-syEyyAAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -224,7 +224,7 @@
         "title": "Comparative evaluation of FPGA and ASIC implementations of bufferless and buffered routing algorithms for on-chip networks",
         "pub_year": "2015",
         "citation": "Sixteenth International Symposium on Quality Electronic Design, 475-484, 2015",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "-syEyyAAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -238,7 +238,7 @@
         "title": "Data retention in MLC NAND flash memory: Characterization, optimization, and recovery",
         "pub_year": "2015",
         "citation": "2015 IEEE 21st International Symposium on High Performance Computer …, 2015",
-        "num_citations": 329,
+        "num_citations": 331,
         "author_pub_id": "-syEyyAAAAAJ:blknAaTinKkC"
     },
     {
@@ -273,7 +273,7 @@
         "title": "Digital circuit design challenges and opportunities in the era of nanoscale CMOS",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (2), 343-365, 2008",
-        "num_citations": 267,
+        "num_citations": 268,
         "author_pub_id": "-syEyyAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -287,14 +287,14 @@
         "title": "Efficient on-chip global interconnects",
         "pub_year": "2003",
         "citation": "2003 Symposium on VLSI Circuits. Digest of Technical Papers (IEEE Cat. No …, 2003",
-        "num_citations": 159,
+        "num_citations": 157,
         "author_pub_id": "-syEyyAAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Error patterns in MLC NAND flash memory: Measurement, characterization, and analysis",
         "pub_year": "2012",
         "citation": "2012 Design, Automation & Test in Europe Conference & Exhibition (DATE), 521-526, 2012",
-        "num_citations": 476,
+        "num_citations": 475,
         "author_pub_id": "-syEyyAAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -329,7 +329,7 @@
         "title": "FPGA-based solid-state drive prototyping platform",
         "pub_year": "2011",
         "citation": "2011 IEEE 19th Annual International Symposium on Field-Programmable Custom …, 2011",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "-syEyyAAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -349,7 +349,7 @@
         "title": "Flash correct-and-refresh: Retention-aware error management for increased flash memory lifetime",
         "pub_year": "2012",
         "citation": "2012 IEEE 30th International Conference on Computer Design (ICCD), 94-101, 2012",
-        "num_citations": 300,
+        "num_citations": 305,
         "author_pub_id": "-syEyyAAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -363,7 +363,7 @@
         "title": "Hardware redaction via designer-directed fine-grained eFPGA insertion",
         "pub_year": "2021",
         "citation": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2021",
-        "num_citations": 34,
+        "num_citations": 37,
         "author_pub_id": "-syEyyAAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -400,6 +400,13 @@
         "author_pub_id": "-syEyyAAAAAJ:_Qo2XoVZTnwC"
     },
     {
+        "title": "In-Situ Observation of Circuit Behavior Using Pump-Probe Laser Voltage Probe Technique",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Nuclear Science, 2024",
+        "num_citations": 1,
+        "author_pub_id": "-syEyyAAAAAJ:J-pR_7NvFogC"
+    },
+    {
         "title": "Interconnect scaling implications for CAD",
         "pub_year": "1999",
         "citation": "1999 IEEE/ACM International Conference on Computer-Aided Design. Digest of …, 1999",
@@ -416,21 +423,21 @@
         "title": "Logic locking-connecting theory and practice",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "-syEyyAAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Low-overhead, digital offset compensated, SRAM sense amplifiers",
         "pub_year": "2009",
         "citation": "2009 IEEE Custom Integrated Circuits Conference, 705-708, 2009",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "-syEyyAAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Low-power SRAM design using half-swing pulse-mode techniques",
         "pub_year": "1998",
         "citation": "IEEE Journal of Solid-State Circuits 33 (11), 1659-1671, 1998",
-        "num_citations": 178,
+        "num_citations": 177,
         "author_pub_id": "-syEyyAAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -456,7 +463,7 @@
         "title": "Managing wire scaling: a circuit perspective",
         "pub_year": "2003",
         "citation": "Proceedings of the IEEE 2003 International Interconnect Technology …, 2003",
-        "num_citations": 66,
+        "num_citations": 65,
         "author_pub_id": "-syEyyAAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -491,7 +498,7 @@
         "title": "Multi-bit error tolerant caches using two-dimensional error coding",
         "pub_year": "2007",
         "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007",
-        "num_citations": 369,
+        "num_citations": 372,
         "author_pub_id": "-syEyyAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -512,7 +519,7 @@
         "title": "PROToFLEX: FPGA-accelerated hybrid functional simulator",
         "pub_year": "2007",
         "citation": "2007 IEEE International Parallel and Distributed Processing Symposium, 1-6, 2007",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "-syEyyAAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -593,7 +600,7 @@
         "title": "Read disturb errors in MLC NAND flash memory: Characterization, mitigation, and recovery",
         "pub_year": "2015",
         "citation": "2015 45th Annual IEEE/IFIP International Conference on Dependable Systems …, 2015",
-        "num_citations": 235,
+        "num_citations": 236,
         "author_pub_id": "-syEyyAAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -614,7 +621,7 @@
         "title": "SCAN-PUF: A low overhead physically unclonable function from scan chain power-up states",
         "pub_year": "2013",
         "citation": "2013 IEEE International Test Conference (ITC), 1-8, 2013",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "-syEyyAAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -653,7 +660,7 @@
         "title": "Secure chip odometers using intentional controlled aging",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Hardware Oriented Security and Trust …, 2018",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "-syEyyAAAAAJ:dshw04ExmUIC"
     },
     {
@@ -681,8 +688,15 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 339,
+        "num_citations": 341,
         "author_pub_id": "-syEyyAAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+        "title": "Smart Memories: A Modular Reconﬁgurable Architecture",
+        "pub_year": "2000",
+        "citation": "the Proc. of the 27th International Symposium on Computer Architecture (ISCA …, 2000",
+        "num_citations": 1,
+        "author_pub_id": "-syEyyAAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Smart memories: A configurable processor architecture for high productivity parallel programming",
@@ -695,7 +709,7 @@
         "title": "Smart memories: A modular reconfigurable architecture",
         "pub_year": "2000",
         "citation": "Proceedings of the 27th annual international symposium on Computer …, 2000",
-        "num_citations": 615,
+        "num_citations": 613,
         "author_pub_id": "-syEyyAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -709,7 +723,7 @@
         "title": "Statistical learning in chip (SLIC)",
         "pub_year": "2015",
         "citation": "2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 664-669, 2015",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "-syEyyAAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -722,18 +736,18 @@
         "title": "The future of wires",
         "pub_year": "2001",
         "citation": "Proceedings of the IEEE 89 (4), 490-504, 2001",
-        "num_citations": 1959,
+        "num_citations": 1961,
         "author_pub_id": "-syEyyAAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Threshold voltage distribution in MLC NAND flash memory: Characterization, analysis, and modeling",
         "pub_year": "2013",
         "citation": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2013",
-        "num_citations": 384,
+        "num_citations": 385,
         "author_pub_id": "-syEyyAAAAAJ:4TOpqqG69KYC"
     },
     {
-        "title": "Top-down physical design of soft embedded fpga fabrics",
+        "title": "Top-down physical design of soft embedded FPGA fabrics",
         "pub_year": "2021",
         "citation": "The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays …, 2021",
         "num_citations": 13,
@@ -743,7 +757,7 @@
         "title": "Towards specialized hardware for learning-based visual odometry on the edge",
         "pub_year": "2022",
         "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "-syEyyAAAAAJ:eflP2zaiRacC"
     },
     {

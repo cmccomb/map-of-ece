@@ -1,5 +1,18 @@
 [
     {
+        "title": "2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)| 979-8-3503-6460-6/24/$31.00© 2024 IEEE| DOI: 10.1109/IPDPSW63119. 2024.00212",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:BqipwSGYUEgC"
+    },
+    {
+        "title": "A Call for Research on Storage Emissions",
+        "pub_year": "2024",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:isC4tDSrTZIC"
+    },
+    {
         "title": "A Software Defined Storage Approach to Exascale Storage Services (Final Technical Report)",
         "pub_year": "2019",
         "citation": "The HDF Group, Champaign, IL (United States), 2019",
@@ -34,6 +47,13 @@
         "author_pub_id": "ygiY7C8AAAAJ:R3hNpaxXUhUC"
     },
     {
+        "title": "Data Storage Research Vision 2025: Report on NSF Visioning Workshop Held May 30–June 1",
+        "pub_year": "2018",
+        "citation": "2018, 2018",
+        "num_citations": 2,
+        "author_pub_id": "ygiY7C8AAAAJ:k_IJM867U9cC"
+    },
+    {
         "title": "Data Storage Research Vision 2025: Report on NSF Visioning Workshop held May 30--June 1, 2018",
         "pub_year": "2018",
         "citation": "National Science Foundation, 2018",
@@ -44,7 +64,7 @@
         "title": "Data storage research vision 2025 report",
         "pub_year": "2019",
         "citation": "Technical Report, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ygiY7C8AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -56,6 +76,7 @@
     },
     {
         "title": "Extending the Mochi Methodology to Enable Dynamic HPC Data Services",
+        "pub_year": "2024",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "ygiY7C8AAAAJ:iH-uZ7U-co4C"
@@ -69,21 +90,16 @@
     },
     {
         "title": "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ygiY7C8AAAAJ:TFP_iSt0sucC"
-    },
-    {
-        "title": "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces",
-        "citation": "",
-        "num_citations": 0,
+        "pub_year": "2024",
+        "citation": "18th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2024",
+        "num_citations": 1,
         "author_pub_id": "ygiY7C8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 117,
+        "num_citations": 123,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -103,22 +119,57 @@
         "title": "Getting back up: Understanding how enterprise data backups fail",
         "pub_year": "2016",
         "citation": "2016 USENIX Annual Technical Conference (USENIX ATC 16), 479-492, 2016",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "ygiY7C8AAAAJ:Y0pCki6q_DkC"
     },
     {
         "title": "Identifying trends in enterprise data protection systems",
         "pub_year": "2015",
         "citation": "2015 USENIX Annual Technical Conference (USENIX ATC 15), 151-164, 2015",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "ygiY7C8AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "It’s time to talk about hpc storage: Perspectives on the past and future",
         "pub_year": "2021",
         "citation": "Computing in Science & Engineering 23 (6), 63-68, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ygiY7C8AAAAJ:mB3voiENLucC"
+    },
+    {
+        "title": "LINCC Frameworks-HiPSCat Margin Caching",
+        "pub_year": "2024",
+        "citation": "American Astronomical Society Meeting Abstracts 56 (2), 261.12, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:NMxIlDl6LWMC"
+    },
+    {
+        "title": "LINCC Frameworks—KBMOD",
+        "pub_year": "2023",
+        "citation": "American Astronomical Society Meeting Abstracts 55 (2), 105.07, 2023",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:blknAaTinKkC"
+    },
+    {
+        "title": "LINCC Frameworks—Time series",
+        "pub_year": "2023",
+        "citation": "American Astronomical Society Meeting Abstracts 55 (2), 105.05, 2023",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:YFjsv_pBGBYC"
+    },
+    {
+        "title": "LINCC-HiPSCat and LSDB: Joint Distributed Analysis of LSST-Scale Datasets",
+        "pub_year": "2024",
+        "citation": "American Astronomical Society Meeting Abstracts 56 (2), 261.09, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:maZDTaKrznsC"
+    },
+    {
+        "title": "LINCC—HIPSCat and LSD2: Joint Distributed Analysis of LSST-Scale Datasets",
+        "pub_year": "2023",
+        "citation": "American Astronomical Society Meeting Abstracts 55 (2), 105.06, 2023",
+        "num_citations": 1,
+        "author_pub_id": "ygiY7C8AAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "MSST 2019",
@@ -143,11 +194,11 @@
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
-        "title": "More {IOPS} for less: Exploiting burstable storage in public clouds",
+        "title": "More IOPS for less: Exploiting burstable storage in public clouds",
         "pub_year": "2020",
         "citation": "12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 20), 2020",
         "num_citations": 14,
@@ -157,21 +208,21 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 142,
+        "num_citations": 146,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Opportunistic storage maintenance",
         "pub_year": "2015",
         "citation": "Proceedings of the 25th Symposium on Operating Systems Principles, 457-473, 2015",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "ygiY7C8AAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -185,14 +236,14 @@
         "title": "Progressive compressed records: Taking a byte out of deep learning data",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1911.00472, 2019",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "ygiY7C8AAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Quartet: Harmonizing task scheduling and caching for cluster computing",
         "pub_year": "2016",
         "citation": "8th USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage 16), 2016",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "ygiY7C8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -208,6 +259,13 @@
         "citation": "Technical Report CMU-PDL--, CMU Parallel Data Laboratory, April. URL http …, 2019",
         "num_citations": 6,
         "author_pub_id": "ygiY7C8AAAAJ:3fE2CSJIrl8C"
+    },
+    {
+        "title": "Reducing the optical depth: Solutions for an astronomer-friendly Cloud",
+        "pub_year": "2023",
+        "citation": "American Astronomical Society Meeting Abstracts 55 (2), 312.03, 2023",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Scaling embedded in-situ indexing with deltaFS",
@@ -259,6 +317,13 @@
         "author_pub_id": "ygiY7C8AAAAJ:9yKSN-GCB0IC"
     },
     {
+        "title": "The LINCC Frameworks Initiative",
+        "pub_year": "2023",
+        "citation": "American Astronomical Society Meeting Abstracts 55 (2), 105.04, 2023",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:M3NEmzRMIkIC"
+    },
+    {
         "title": "The atlas cluster trace repository",
         "pub_year": "2018",
         "citation": "Usenix Mag 43 (4), 2018",
@@ -269,7 +334,7 @@
         "title": "The case for custom storage backends in distributed storage systems",
         "pub_year": "2020",
         "citation": "ACM Transactions on Storage (TOS) 16 (2), 1-31, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ygiY7C8AAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -297,21 +362,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 127,
+        "num_citations": 131,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

@@ -23,7 +23,7 @@
         "title": "3DIC memory chips including computational logic-in-memory for performing accelerated data processing",
         "pub_year": "2016",
         "citation": "US Patent 9,286,216, 2016",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "SHcIvuoAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -176,14 +176,14 @@
         "title": "A stencil compiler for short-vector simd architectures",
         "pub_year": "2013",
         "citation": "Proceedings of the 27th international ACM conference on International …, 2013",
-        "num_citations": 176,
+        "num_citations": 177,
         "author_pub_id": "SHcIvuoAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "A synthesis methodology for application-specific logic-in-memory designs",
         "pub_year": "2015",
         "citation": "Proceedings of the 52Nd Annual Design Automation Conference, 1-6, 2015",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "SHcIvuoAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -204,7 +204,7 @@
         "title": "Accelerating sparse matrix-matrix multiplication with 3D-stacked logic-in-memory hardware",
         "pub_year": "2013",
         "citation": "2013 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2013",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "SHcIvuoAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -280,7 +280,7 @@
         "title": "An information-theoretic approach to PMU placement in electric power systems",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Smart Grid 4 (1), 446-456, 2012",
-        "num_citations": 173,
+        "num_citations": 174,
         "author_pub_id": "SHcIvuoAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -409,14 +409,14 @@
         "title": "Barometric and GPS altitude sensor fusion",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "SHcIvuoAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Big data computation of taxi movement in New York City",
         "pub_year": "2016",
         "citation": "2016 IEEE International Conference on Big Data (Big Data), 2616-2625, 2016",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "SHcIvuoAAAAJ:5ugPr518TE4C"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Data reorganization in memory using 3D-stacked DRAM",
         "pub_year": "2015",
         "citation": "ACM SIGARCH Computer Architecture News 43 (3S), 131-143, 2015",
-        "num_citations": 247,
+        "num_citations": 248,
         "author_pub_id": "SHcIvuoAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -546,7 +546,7 @@
         "title": "Discrete Fourier transform on multicore",
         "pub_year": "2009",
         "citation": "IEEE Signal Processing Magazine 26 (6), 90-102, 2009",
-        "num_citations": 123,
+        "num_citations": 124,
         "author_pub_id": "SHcIvuoAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -573,14 +573,14 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 76,
+        "num_citations": 79,
         "author_pub_id": "SHcIvuoAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "Efficient utilization of SIMD extensions",
         "pub_year": "2005",
         "citation": "Proceedings of the IEEE 93 (2), 409-425, 2005",
-        "num_citations": 114,
+        "num_citations": 115,
         "author_pub_id": "SHcIvuoAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -607,7 +607,7 @@
         "title": "Energy-efficient abundant-data computing: The N3XT 1,000 x",
         "pub_year": "2015",
         "citation": "Computer 48 (12), 24-33, 2015",
-        "num_citations": 282,
+        "num_citations": 283,
         "author_pub_id": "SHcIvuoAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -621,7 +621,7 @@
         "title": "FESIA: A fast and SIMD-efficient set intersection approach on modern CPUs",
         "pub_year": "2020",
         "citation": "2020 IEEE 36th International Conference on Data Engineering (ICDE), 1465-1476, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "SHcIvuoAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -682,7 +682,7 @@
         "title": "FFTX-IRIS: Towards Performance Portability and Heterogeneity for SPIRAL Generated Code",
         "pub_year": "2023",
         "citation": "Proceedings of the SC'23 Workshops of The International Conference on High …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "SHcIvuoAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -709,7 +709,7 @@
         "title": "Fast and accurate object detection in high resolution 4K and 8K video using GPUs",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "SHcIvuoAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -751,7 +751,7 @@
         "title": "First look: Linear algebra-based triangle counting without matrix multiplication",
         "pub_year": "2017",
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "SHcIvuoAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -820,7 +820,7 @@
         "title": "Gbtlx: A first look",
         "pub_year": "2020",
         "citation": "2020 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "SHcIvuoAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -841,7 +841,7 @@
         "title": "Generating SIMD vectorized permutations",
         "pub_year": "2008",
         "citation": "International Conference on Compiler Construction, 116-131, 2008",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "SHcIvuoAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -883,7 +883,7 @@
         "title": "HAMLeT: Hardware accelerated memory layout transform within 3D-stacked DRAM",
         "pub_year": "2014",
         "citation": "2014 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "SHcIvuoAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -946,7 +946,7 @@
         "title": "High performance zero-memory overhead direct convolutions",
         "pub_year": "2018",
         "citation": "International Conference on Machine Learning, 5776-5785, 2018",
-        "num_citations": 90,
+        "num_citations": 92,
         "author_pub_id": "SHcIvuoAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -1034,7 +1034,7 @@
         "title": "Large-scale electronic structure calculations of high-Z metals on the BlueGene/L platform",
         "pub_year": "2006",
         "citation": "Proceedings of the 2006 ACM/IEEE conference on Supercomputing, 45-es, 2006",
-        "num_citations": 122,
+        "num_citations": 123,
         "author_pub_id": "SHcIvuoAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1055,7 +1055,7 @@
         "title": "Linear algebraic formulation of edge-centric k-truss algorithms with adjacency matrices",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "SHcIvuoAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -1089,7 +1089,7 @@
         "title": "Mathematical foundations of the GraphBLAS",
         "pub_year": "2016",
         "citation": "2016 IEEE High Performance Extreme Computing Conference (HPEC), 1-9, 2016",
-        "num_citations": 285,
+        "num_citations": 290,
         "author_pub_id": "SHcIvuoAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -1186,7 +1186,7 @@
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "SHcIvuoAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -1351,7 +1351,7 @@
         "title": "Rpu: The ring processing unit",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Performance Analysis of Systems and …, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "SHcIvuoAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -1385,14 +1385,14 @@
         "title": "SPIRAL: Code generation for DSP transforms",
         "pub_year": "2005",
         "citation": "Proceedings of the IEEE 93 (2), 232-275, 2005",
-        "num_citations": 1071,
+        "num_citations": 1075,
         "author_pub_id": "SHcIvuoAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "SHcIvuoAAAAJ:JQOojiI6XY0C"
     },
     {

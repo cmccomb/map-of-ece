@@ -3,7 +3,7 @@
         "title": "A systems approach to land-use planning in irrigated areas",
         "pub_year": "1997",
         "citation": "Applications of Systems Approaches at the Farm and Regional Levels Volume 1 …, 1997",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "Fl1qHEAAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -30,7 +30,7 @@
         "title": "Characterizing and identifying composite refactorings: Concepts, heuristics and patterns",
         "pub_year": "2020",
         "citation": "Proceedings of the 17th International Conference on Mining Software …, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "Fl1qHEAAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -43,7 +43,7 @@
         "title": "Code anomalies flock together: Exploring code anomaly agglomerations for locating design problems",
         "pub_year": "2016",
         "citation": "Proceedings of the 38th International Conference on Software Engineering …, 2016",
-        "num_citations": 114,
+        "num_citations": 117,
         "author_pub_id": "Fl1qHEAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -64,14 +64,14 @@
         "title": "Does refactoring improve software structural quality? a longitudinal study of 25 projects",
         "pub_year": "2016",
         "citation": "Proceedings of the XXX Brazilian Symposium on Software Engineering, 73-82, 2016",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "Fl1qHEAAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Don’t Forget the Exception!: Considering Robustness Changes to Identify Design Problems",
         "pub_year": "2023",
         "citation": "2023 IEEE/ACM 20th International Conference on Mining Software Repositories …, 2023",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "Fl1qHEAAAAAJ:hMod-77fHWUC"
     },
     {
@@ -84,7 +84,7 @@
     {
         "title": "Evoluçao de software livre baseada em métricas de qualidade: Um estudo de caso",
         "pub_year": "2013",
-        "citation": "Anais do IX Simpósio Brasileiro de Sistemas de Informação, 815-826, 2013",
+        "citation": "Simpósio Brasileiro de Sistemas de Informação (SBSI), 815-826, 2013",
         "num_citations": 3,
         "author_pub_id": "Fl1qHEAAAAAJ:hFOr9nPyWt4C"
     },
@@ -93,13 +93,6 @@
         "citation": "Meeting the future demands for grassland production, 415, 0",
         "num_citations": 0,
         "author_pub_id": "Fl1qHEAAAAAJ:r0BpntZqJG4C"
-    },
-    {
-        "title": "FATORES SOCIAIS, AMBIENTAIS E ECONÔMICOS DA PRODUÇÃO DE BIOGÁS: O CASO DA USINA DE BIOGÁS DE ENTRE RIOS DO OESTE/PR",
-        "pub_year": "2023",
-        "citation": "DESENVOLVIMENTO RURAL E SUSTENTABILIDADE: ENERGIA, PRODUÇÃO E NOVOS MERCADOS …, 2023",
-        "num_citations": 0,
-        "author_pub_id": "Fl1qHEAAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Fruit flies (Diptera: Tephritidae) and their parasitoids associated with different hog plum genotypes in Teresina, Piauí",
@@ -146,7 +139,7 @@
     {
         "title": "INFLUÊNCIA DO ENRIQUECIMENTO AMBIENTAL NO COMPORTAMENTO DE JABUTIS-PIRANGA (CHELONOIDIS CARBONARIA) DO BIOPARQUE ZOOBOTÂNICO DE TERESINA-PI",
         "pub_year": "2023",
-        "citation": "ZOOLOGIA: DIVULGANDO O CONHECIMENTO CIENTÍFICO 1 (1), 94-104, 2023",
+        "citation": "ZOOLOGIA: DIVULGANDO O CONHECIMENTO CIENTÍFICO 1, 94-104, 2023",
         "num_citations": 0,
         "author_pub_id": "Fl1qHEAAAAAJ:BqipwSGYUEgC"
     },
@@ -189,7 +182,7 @@
         "title": "On the identification of design problems in stinky code: experiences and tool support",
         "pub_year": "2018",
         "citation": "Journal of the Brazilian Computer Society 24, 1-30, 2018",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "Fl1qHEAAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -217,7 +210,7 @@
         "title": "Refactoring effect on internal quality attributes: What haven’t they told you yet?",
         "pub_year": "2020",
         "citation": "Information and Software Technology 126, 106347, 2020",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "Fl1qHEAAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -251,7 +244,7 @@
         "title": "Revealing the social aspects of design decay: A retrospective study of pull requests",
         "pub_year": "2020",
         "citation": "Proceedings of the XXXIV Brazilian Symposium on Software Engineering, 364-373, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "Fl1qHEAAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -293,7 +286,7 @@
         "title": "Soil metagenomics in grasslands and forests–A review and bibliometric analysis",
         "pub_year": "2021",
         "citation": "Applied Soil Ecology 167, 104047, 2021",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "Fl1qHEAAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -302,6 +295,13 @@
         "citation": "Proceedings of the 38th International Conference on Software Engineering …, 2016",
         "num_citations": 9,
         "author_pub_id": "Fl1qHEAAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+        "title": "Tecnologia de sementes na superação de dormência para produção de mudas de alta qualidade de nim indiano",
+        "pub_year": "2022",
+        "citation": "ENGENHARIA FLORESTAL: CONTRIBUIÇÕES, ANÁLISES E PRÁTICAS EM PESQUISA 1, 253-263, 2022",
+        "num_citations": 0,
+        "author_pub_id": "Fl1qHEAAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Towards effective teams for the identification of code smells",
@@ -335,14 +335,14 @@
         "title": "Understanding the impact of refactoring on smells: A longitudinal study of 23 software projects",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 11th Joint Meeting on foundations of Software …, 2017",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "Fl1qHEAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "VazaDengue: An information system for preventing and combating mosquito-borne diseases with social networks",
         "pub_year": "2018",
         "citation": "Information Systems 75, 26-42, 2018",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "Fl1qHEAAAAAJ:qjMakFHDy7sC"
     },
     {

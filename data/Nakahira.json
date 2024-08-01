@@ -66,7 +66,7 @@
         "title": "Attack-Resilient H2, H-infinity, and L1 State Estimator",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Automatic Control, 2018",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "jnmyOEYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
         "pub_year": "2024",
         "citation": "Building and Environment 247, 111053, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Dynamic state estimation in the presence of compromised sensory data",
         "pub_year": "2015",
         "citation": "Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 5808-5813, 2015",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "jnmyOEYAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -195,6 +195,13 @@
         "author_pub_id": "jnmyOEYAAAAJ:0EnyYjriUFMC"
     },
     {
+        "title": "Generalizable Physics-informed Learning for Stochastic Safety-critical Systems",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2407.08868, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:2P1L_qKh6hAC"
+    },
+    {
         "title": "Generalized Exact Scheduling: A Minimal-Variance Distributed Deadline Scheduler",
         "pub_year": "2022",
         "citation": "Operations Research, 2022",
@@ -205,7 +212,7 @@
         "title": "Hard limits on robust control over delayed and quantized communication channels with applications to sensorimotor control",
         "pub_year": "2015",
         "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 7522-7529, 2015",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "jnmyOEYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -219,7 +226,7 @@
         "title": "Medical application on internet of things",
         "pub_year": "2011",
         "citation": "IET international conference on communication technology and application …, 2011",
-        "num_citations": 176,
+        "num_citations": 179,
         "author_pub_id": "jnmyOEYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -240,14 +247,14 @@
         "title": "Myopically Verifiable Probabilistic Certificate for Long-term Safety",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2110.13380, 2021",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "jnmyOEYAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Myopically Verifiable Probabilistic Certificates for Safe Control and Learning",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.16883, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -302,7 +309,7 @@
         "title": "Safe Control in the Presence of Stochastic Uncertainties",
         "pub_year": "2021",
         "citation": "60th IEEE Conference on Decision and Control (CDC), 6640-6645, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jnmyOEYAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -358,7 +365,7 @@
         "title": "Towards Proactive Safe Human-Robot Collaborations via Data-Efficient Conditional Behavior Prediction",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.11893, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:YFjsv_pBGBYC"
     },
     {

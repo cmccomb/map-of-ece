@@ -28,7 +28,7 @@
         "title": "50 years of software engineering",
         "pub_year": "2018",
         "citation": "IEEE Software 35 (5), 20-24, 2018",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "4PU5ZFYV-iEC:JQOojiI6XY0C"
     },
     {
@@ -166,7 +166,7 @@
         "title": "An industry experiment on the effects of test-driven development on external quality and productivity",
         "pub_year": "2017",
         "citation": "Empirical Software Engineering 22, 2763-2805, 2017",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "4PU5ZFYV-iEC:AXPGKjj_ei8C"
     },
     {
@@ -194,7 +194,7 @@
         "title": "Are computer science and engineering graduates ready for the software industry? Experiences from an industrial student training program",
         "pub_year": "2018",
         "citation": "Proceedings of the 40th International Conference on Software Engineering …, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "4PU5ZFYV-iEC:N5tVd3kTz84C"
     },
     {
@@ -261,7 +261,7 @@
         "title": "Cloud computing: Does nirvana hide behind the nebula?",
         "pub_year": "2009",
         "citation": "IEEE software 26 (2), 4-6, 2009",
-        "num_citations": 362,
+        "num_citations": 364,
         "author_pub_id": "4PU5ZFYV-iEC:d1gkVwhDpl0C"
     },
     {
@@ -338,7 +338,7 @@
         "title": "Detection and elimination of systematic labeling bias in code reviewer recommendation systems",
         "pub_year": "2021",
         "citation": "Proceedings of the 25th International Conference on Evaluation and …, 2021",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "4PU5ZFYV-iEC:t7zJ5fGR-2UC"
     },
     {
@@ -349,10 +349,10 @@
         "author_pub_id": "4PU5ZFYV-iEC:4JMBOYKVnBMC"
     },
     {
-        "title": "Diversity and Software Development",
+        "title": "Diversity and software development",
         "pub_year": "2009",
         "citation": "IEEE Software 26 (3), 2009",
-        "num_citations": 0,
+        "num_citations": 3,
         "author_pub_id": "4PU5ZFYV-iEC:bnK-pcrLprsC"
     },
     {
@@ -447,7 +447,7 @@
         "title": "How effective is test-driven development",
         "pub_year": "2010",
         "citation": "Making Software: What Really Works, and Why We Believe It, 207-217, 2010",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "4PU5ZFYV-iEC:aqlVkmm33-oC"
     },
     {
@@ -590,7 +590,7 @@
         "title": "On the effectiveness of the test-first approach to programming",
         "pub_year": "2005",
         "citation": "IEEE Transactions on software Engineering 31 (3), 226-237, 2005",
-        "num_citations": 498,
+        "num_citations": 500,
         "author_pub_id": "4PU5ZFYV-iEC:u-x6o8ySG0sC"
     },
     {
@@ -604,7 +604,7 @@
         "title": "On using distributed representations of source code for the detection of C security vulnerabilities",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2106.01367, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "4PU5ZFYV-iEC:9Nmd_mFXekcC"
     },
     {
@@ -632,7 +632,7 @@
         "title": "Operational definition and automated inference of test-driven development with Zorro",
         "pub_year": "2010",
         "citation": "Automated Software Engineering 17, 57-85, 2010",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "4PU5ZFYV-iEC:ULOm3_A8WrAC"
     },
     {
@@ -705,7 +705,7 @@
         "title": "Return on investment",
         "pub_year": "2004",
         "citation": "Ieee Software 21 (3), 18-22, 2004",
-        "num_citations": 106,
+        "num_citations": 108,
         "author_pub_id": "4PU5ZFYV-iEC:2osOgNQ5qMEC"
     },
     {
@@ -733,7 +733,7 @@
         "title": "SECOM: Towards a convention for security commit messages",
         "pub_year": "2022",
         "citation": "Proceedings of the 19th International Conference on Mining Software …, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "4PU5ZFYV-iEC:zLWjf1WUPmwC"
     },
     {
@@ -766,7 +766,7 @@
         "title": "Scaling agile methods",
         "pub_year": "2003",
         "citation": "IEEE software 20 (4), 12-14, 2003",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "4PU5ZFYV-iEC:zYLM7Y9cAGgC"
     },
     {
@@ -808,7 +808,7 @@
         "title": "Software engineering economics: background, current practices, and future directions",
         "pub_year": "2002",
         "citation": "Proceedings of the 24th International Conference on Software Engineering …, 2002",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "4PU5ZFYV-iEC:eQOLeE2rZwMC"
     },
     {
@@ -835,7 +835,7 @@
         "title": "Test-Driven Development.",
         "pub_year": "2010",
         "citation": "Encyclopedia of software engineering, 1211-1229, 2010",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "4PU5ZFYV-iEC:a0OBvERweLwC"
     },
     {
@@ -954,7 +954,7 @@
         "title": "Value-based software engineering",
         "pub_year": "2005",
         "citation": "Springer Verlag, 2005",
-        "num_citations": 563,
+        "num_citations": 564,
         "author_pub_id": "4PU5ZFYV-iEC:u5HHmVD_uO8C"
     },
     {
@@ -975,7 +975,7 @@
         "title": "What do we know about test-driven development?",
         "pub_year": "2010",
         "citation": "IEEE software 27 (6), 16-19, 2010",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "4PU5ZFYV-iEC:roLk4NBRz8UC"
     },
     {

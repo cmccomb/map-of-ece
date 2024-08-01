@@ -3,7 +3,7 @@
         "title": " -Connectivity in Random  -Out Graphs Intersecting Erdős-Rényi Graphs",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Information Theory 63 (3), 1677-1692, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "XtTBo1AAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -17,7 +17,7 @@
         "title": "A community-driven approach to democratize access to satellite ground stations",
         "pub_year": "2021",
         "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021",
-        "num_citations": 25,
+        "num_citations": 28,
         "author_pub_id": "XtTBo1AAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -31,21 +31,28 @@
         "title": "A unified approach to translate classical bandit algorithms to structured bandits",
         "pub_year": "2021",
         "citation": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
-        "num_citations": 16,
+        "num_citations": 3,
         "author_pub_id": "XtTBo1AAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "A unified approach to translate classical bandit algorithms to the structured bandit setting",
         "pub_year": "2020",
         "citation": "IEEE Journal on Selected Areas in Information Theory 1 (3), 840-853, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "XtTBo1AAAAAJ:wbdj-CoPYUoC"
+    },
+    {
+        "title": "A unified approach to translate classical bandit algorithms to the structured bandit setting",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1810.08164, 2018",
+        "num_citations": 13,
+        "author_pub_id": "XtTBo1AAAAAJ:URolC5Kub84C"
     },
     {
         "title": "A vector threshold model for the simultaneous spread of correlated influence",
         "pub_year": "2019",
         "citation": "ICC 2019-2019 IEEE International Conference on Communications (ICC), 1-7, 2019",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "XtTBo1AAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -93,8 +100,8 @@
     {
         "title": "Analysis of complex contagions in random multiplex networks",
         "pub_year": "2012",
-        "citation": "Physical Review E 86 (3), 036103, 2012",
-        "num_citations": 197,
+        "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 86 (3 …, 2012",
+        "num_citations": 198,
         "author_pub_id": "XtTBo1AAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -115,8 +122,15 @@
         "title": "Attack vulnerability of power systems under an equal load redistribution model",
         "pub_year": "2018",
         "citation": "IEEE/ACM Transactions on Networking 26 (3), 1306-1319, 2018",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "XtTBo1AAAAAJ:KxtntwgDAa4C"
+    },
+    {
+        "title": "Attack vulnerability of power systems under an equal load redistribution model",
+        "pub_year": "2018",
+        "citation": "arXiv e-prints, arXiv: 1804.01351, 2018",
+        "num_citations": 2,
+        "author_pub_id": "XtTBo1AAAAAJ:uWiczbcajpAC"
     },
     {
         "title": "Bandit-based communication-efficient client selection strategies for federated learning",
@@ -149,7 +163,7 @@
         "title": "Clustering determines the dynamics of complex contagions in multiplex networks",
         "pub_year": "2017",
         "citation": "Physical Review E 95 (1), 012312, 2017",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "XtTBo1AAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -163,7 +177,7 @@
         "title": "Conjoining speeds up information diffusion in overlaying social-physical networks",
         "pub_year": "2013",
         "citation": "IEEE Journal on Selected Areas in Communications 31 (6), 1038-1048, 2013",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "XtTBo1AAAAAJ:geHnlv5EZngC"
     },
     {
@@ -300,7 +314,7 @@
     {
         "title": "Dynamic coupling strategy for interdependent network systems against cascading failures",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Network Science and Engineering, 2023",
+        "citation": "IEEE Transactions on Network Science and Engineering 10 (4), 2265-2282, 2023",
         "num_citations": 6,
         "author_pub_id": "XtTBo1AAAAAJ:Fu2w8maKXqMC"
     },
@@ -314,7 +328,7 @@
         "title": "Empowering low-power wide area networks in urban settings",
         "pub_year": "2017",
         "citation": "Proceedings of the Conference of the ACM Special Interest Group on Data …, 2017",
-        "num_citations": 220,
+        "num_citations": 223,
         "author_pub_id": "XtTBo1AAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -360,7 +374,7 @@
         "author_pub_id": "XtTBo1AAAAAJ:TFP_iSt0sucC"
     },
     {
-        "title": "Existence and Size of the Giant Component in Inhomogeneous Random K-out Graphs",
+        "title": "Existence and Size of the Giant Component in Inhomogeneous Random K-Out Graphs",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Information Theory, 2023",
         "num_citations": 0,
@@ -370,7 +384,7 @@
         "title": "Exploiting correlation in finite-armed structured bandits",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1810.08164, 2018",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "XtTBo1AAAAAJ:738O_yMBCRsC"
     },
     {
@@ -394,10 +408,10 @@
         "author_pub_id": "XtTBo1AAAAAJ:olpn-zPbct0C"
     },
     {
-        "title": "Identifying cross-platform user relationships in 2020 us election fraud and protest discussions",
+        "title": "Identifying cross-platform user relationships in 2020 US election fraud and protest discussions",
         "pub_year": "2023",
         "citation": "Online Social Networks and Media 33, 100245, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "XtTBo1AAAAAJ:35r97b3x0nAC"
     },
     {
@@ -411,14 +425,14 @@
         "title": "Information diffusion in overlaying social-physical networks",
         "pub_year": "2012",
         "citation": "2012 46th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2012",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "XtTBo1AAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Information propagation in clustered multilayer networks",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Network Science and Engineering 3 (4), 211-224, 2016",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "XtTBo1AAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -432,7 +446,7 @@
         "title": "K-connectivity in random graphs induced by pairwise key predistribution schemes",
         "pub_year": "2020",
         "citation": "2020 IEEE International Symposium on Information Theory (ISIT), 1343-1348, 2020",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "XtTBo1AAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -480,7 +494,7 @@
         "title": "Modeling and analysis of the spread of COVID-19 under a multiple-strain model with mutations",
         "pub_year": "2021",
         "citation": "Harv. Data Sci. Rev 4, 2021",
-        "num_citations": 24,
+        "num_citations": 27,
         "author_pub_id": "XtTBo1AAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -498,10 +512,16 @@
         "author_pub_id": "XtTBo1AAAAAJ:iH-uZ7U-co4C"
     },
     {
+        "title": "Multi-Dimensional Threshold Model With Correlation: Emergence of Global Cascades",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "XtTBo1AAAAAJ:vDijr-p_gm4C"
+    },
+    {
         "title": "Multi-Platform Analysis of 2020 US Election Fraud and Protest Related Posts",
         "pub_year": "2021",
         "citation": "Technical Report, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "XtTBo1AAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -514,7 +534,7 @@
         "title": "Multi-armed bandits with correlated arms",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021",
-        "num_citations": 73,
+        "num_citations": 75,
         "author_pub_id": "XtTBo1AAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -700,7 +720,7 @@
         "title": "On topological properties of wireless sensor networks under the q-composite key predistribution scheme with on/off channels",
         "pub_year": "2014",
         "citation": "2014 IEEE International Symposium on Information Theory, 1131-1135, 2014",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "XtTBo1AAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -817,7 +837,7 @@
         "title": "Robustness of interdependent cyber-physical systems against cascading failures",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Automatic Control 65 (2), 711-726, 2019",
-        "num_citations": 73,
+        "num_citations": 72,
         "author_pub_id": "XtTBo1AAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -838,7 +858,7 @@
         "title": "Role of masks in mitigating viral spread on networks",
         "pub_year": "2023",
         "citation": "Physical Review E 108 (1), 014306, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "XtTBo1AAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -870,10 +890,10 @@
         "author_pub_id": "XtTBo1AAAAAJ:M3ejUd6NZC8C"
     },
     {
-        "title": "SelfieStick: Towards earth imaging from a low-cost ground module using LEO satellites",
+        "title": "Selfiestick: Towards earth imaging from a low-cost ground module using leo satellites",
         "pub_year": "2022",
         "citation": "2022 21st ACM/IEEE International Conference on Information Processing in …, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "XtTBo1AAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -891,13 +911,6 @@
         "author_pub_id": "XtTBo1AAAAAJ:JQOojiI6XY0C"
     },
     {
-        "title": "Spreading Processes with Mutations over Multi-layer Networks (preprint)",
-        "pub_year": "2022",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "XtTBo1AAAAAJ:-_dYPAW6P2MC"
-    },
-    {
         "title": "Spreading processes with layer-dependent population heterogeneity over multilayer networks",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Network Science and Engineering, 2024",
@@ -908,7 +921,7 @@
         "title": "Spreading processes with mutations over multilayer networks",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (24), e2302245120, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "XtTBo1AAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -925,20 +938,6 @@
         "author_pub_id": "XtTBo1AAAAAJ:EkHepimYqZsC"
     },
     {
-        "title": "The Interplay of Clustering and Evolution in the Emergence of Epidemics on Networks",
-        "pub_year": "2023",
-        "citation": "ICC 2023-IEEE International Conference on Communications, 5582-5588, 2023",
-        "num_citations": 0,
-        "author_pub_id": "XtTBo1AAAAAJ:yB1At4FlUx8C"
-    },
-    {
-        "title": "The Role of Masks in Mitigating Viral Spread on Networks (preprint)",
-        "pub_year": "2021",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "XtTBo1AAAAAJ:fEOibwPWpKIC"
-    },
-    {
         "title": "The Strength of Connectivity of Random Graphs induced by Pairwise Key Predistribution Schemes: Implications on Security and Reliability of Heterogeneous Sensor Networks.",
         "pub_year": "2019",
         "citation": "CoRR, 2019",
@@ -949,8 +948,15 @@
         "title": "The effects of evolutionary adaptations on spreading processes in complex networks",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (11), 5664-5670, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "XtTBo1AAAAAJ:HE397vMXCloC"
+    },
+    {
+        "title": "The interplay of clustering and evolution in the emergence of epidemics on networks",
+        "pub_year": "2023",
+        "citation": "ICC 2023-IEEE International Conference on Communications, 5582-5588, 2023",
+        "num_citations": 0,
+        "author_pub_id": "XtTBo1AAAAAJ:yB1At4FlUx8C"
     },
     {
         "title": "Threshold functions in random s-intersection graphs",
@@ -991,7 +997,7 @@
         "title": "Wireless sensor networks under the random pairwise key predistribution scheme: Can resiliency be achieved with small key rings?",
         "pub_year": "2016",
         "citation": "IEEE/ACM Transactions on Networking 24 (6), 3383-3396, 2016",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "XtTBo1AAAAAJ:hC7cP41nSMkC"
     },
     {
