@@ -23,7 +23,7 @@
         "title": "A market-based transmission planning for HVDC grid—case study of the North Sea",
         "pub_year": "2014",
         "citation": "IEEE Transactions on power systems 30 (2), 784-794, 2014",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "wVMHcqoAAAAJ:4DMP91E08xMC"
     },
     {
@@ -44,7 +44,7 @@
         "title": "A socio-technical perspective on transitioning to a circular plastic economy in Africa",
         "pub_year": "2022",
         "citation": "Available at SSRN 4332904, 2022",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "wVMHcqoAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -121,7 +121,7 @@
         "title": "Coordinated active power-dependent voltage regulation in distribution grids with PV systems",
         "pub_year": "2014",
         "citation": "IEEE Transactions on power delivery 29 (3), 1454-1464, 2014",
-        "num_citations": 267,
+        "num_citations": 272,
         "author_pub_id": "wVMHcqoAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -149,7 +149,7 @@
         "title": "Digital innovations for transitioning to circular plastic value chains in Africa",
         "pub_year": "2022",
         "citation": "Africa Journal of Management 8 (1), 83-108, 2022",
-        "num_citations": 46,
+        "num_citations": 49,
         "author_pub_id": "wVMHcqoAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -257,7 +257,7 @@
         "title": "Investigating the impact of unanticipated market and construction delays on the development of a meshed HVDC grid using dynamic transmission planning",
         "pub_year": "2015",
         "citation": "IET Generation, Transmission & Distribution 9 (15), 2224-2233, 2015",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "wVMHcqoAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -278,7 +278,7 @@
         "title": "Long term investment optimization methodology for multi-zonal transmission expansion",
         "pub_year": "2016",
         "citation": "2016 IEEE International Energy Conference (ENERGYCON), 1-6, 2016",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "wVMHcqoAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -292,7 +292,7 @@
         "title": "Methodologies to determine operating reserves due to increased wind power",
         "pub_year": "2012",
         "citation": "IEEE transactions on sustainable energy 3 (4), 713-723, 2012",
-        "num_citations": 391,
+        "num_citations": 394,
         "author_pub_id": "wVMHcqoAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -327,8 +327,15 @@
         "title": "Operating reserves and wind power integration: An international comparison",
         "pub_year": "2010",
         "citation": "National Renewable Energy Lab.(NREL), Golden, CO (United States), 2010",
-        "num_citations": 206,
+        "num_citations": 208,
         "author_pub_id": "wVMHcqoAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+        "title": "Optimal Design of the Mvar Controller of Far Shore HVAC Grid Connections",
+        "pub_year": "2015",
+        "citation": "Wind Integration Workshop, Date: 2015/10/20-2015/10/22, Location: Brussel …, 2015",
+        "num_citations": 0,
+        "author_pub_id": "wVMHcqoAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Optimization of transmission technology and routes for Pan-European electricity Highways considering spatial aspects",
@@ -341,7 +348,7 @@
         "title": "Phase current asymmetry on the double-circuit very high voltage overhead transmission line",
         "pub_year": "2016",
         "citation": "2016 17th International Scientific Conference on Electric Power Engineering …, 2016",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "wVMHcqoAAAAJ:mB3voiENLucC"
     },
     {
@@ -362,8 +369,15 @@
         "title": "Prediction of power fluctuation classes for photovoltaic installations and potential benefits of dynamic reserve allocation",
         "pub_year": "2014",
         "citation": "IET Renewable Power Generation 8 (3), 314-323, 2014",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "wVMHcqoAAAAJ:8k81kl-MbHgC"
+    },
+    {
+        "title": "Quasi-steady State Modelling of Low-voltage Connected Photovoltaic Systems for Analysing Distribution Feeder Behaviour During Faults",
+        "pub_year": "2013",
+        "citation": "International Workshop on Integration of Solar Power into Power Systems …, 2013",
+        "num_citations": 0,
+        "author_pub_id": "wVMHcqoAAAAJ:4OULZ7Gr8RgC"
     },
     {
         "title": "Reserve requirements of wind power",
@@ -396,7 +410,7 @@
         "title": "Stepwise investment plan optimization for large scale and multi-zonal transmission system expansion",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Power Systems 31 (4), 2726-2739, 2015",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "wVMHcqoAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -412,6 +426,13 @@
         "citation": "IEEE Transactions on Power Systems 29 (5), 2469-2477, 2014",
         "num_citations": 27,
         "author_pub_id": "wVMHcqoAAAAJ:_kc_bZDykSQC"
+    },
+    {
+        "title": "The Environment for a Digitally Enabled Circular Plastics Economy in Africa: Lessons from Cross-Sectional Stakeholder Engagements",
+        "pub_year": "2024",
+        "citation": "Journal of Strategy and Management, 2024",
+        "num_citations": 0,
+        "author_pub_id": "wVMHcqoAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Toward controlled wind farm output: adjustable power filtering",

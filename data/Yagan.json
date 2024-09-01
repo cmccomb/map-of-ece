@@ -38,7 +38,7 @@
         "title": "A unified approach to translate classical bandit algorithms to the structured bandit setting",
         "pub_year": "2020",
         "citation": "IEEE Journal on Selected Areas in Information Theory 1 (3), 840-853, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "XtTBo1AAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Analysis of complex contagions in random multiplex networks",
         "pub_year": "2012",
         "citation": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 86 (3 …, 2012",
-        "num_citations": 198,
+        "num_citations": 200,
         "author_pub_id": "XtTBo1AAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Bandit-based communication-efficient client selection strategies for federated learning",
         "pub_year": "2020",
         "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 1066-1069, 2020",
-        "num_citations": 64,
+        "num_citations": 68,
         "author_pub_id": "XtTBo1AAAAAJ:5awf1xo2G04C"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Conjoining speeds up information diffusion in overlaying social-physical networks",
         "pub_year": "2013",
         "citation": "IEEE Journal on Selected Areas in Communications 31 (6), 1038-1048, 2013",
-        "num_citations": 174,
+        "num_citations": 175,
         "author_pub_id": "XtTBo1AAAAAJ:geHnlv5EZngC"
     },
     {
@@ -264,6 +264,13 @@
         "author_pub_id": "XtTBo1AAAAAJ:NJ774b8OgUMC"
     },
     {
+        "title": "Correlated multi-armed bandits with a latent random source",
+        "pub_year": "2020",
+        "citation": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
+        "num_citations": 33,
+        "author_pub_id": "XtTBo1AAAAAJ:BUYA1_V_uYcC"
+    },
+    {
         "title": "Counting triangles, tunable clustering and the small-world property in random key graphs (Extended version)",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1701.03758, 2017",
@@ -322,7 +329,7 @@
         "title": "Dynamic coupling strategy for interdependent network systems against cascading failures",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Network Science and Engineering 10 (4), 2265-2282, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "XtTBo1AAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -335,7 +342,7 @@
         "title": "Empowering low-power wide area networks in urban settings",
         "pub_year": "2017",
         "citation": "Proceedings of the Conference of the ACM Special Interest Group on Data …, 2017",
-        "num_citations": 228,
+        "num_citations": 229,
         "author_pub_id": "XtTBo1AAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -443,8 +450,8 @@
         "author_pub_id": "XtTBo1AAAAAJ:YFjsv_pBGBYC"
     },
     {
-        "title": "Journal of C",
-        "pub_year": "2021",
+        "title": "Journal",
+        "pub_year": "1868",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "XtTBo1AAAAAJ:ye4kPcJQO24C"
@@ -519,8 +526,16 @@
         "author_pub_id": "XtTBo1AAAAAJ:iH-uZ7U-co4C"
     },
     {
+        "title": "Multi-Armed Bandits with Probing",
+        "pub_year": "2024",
+        "citation": "2024 IEEE International Symposium on Information Theory (ISIT), 2080-2085, 2024",
+        "num_citations": 0,
+        "author_pub_id": "XtTBo1AAAAAJ:epqYDVWIO7EC"
+    },
+    {
         "title": "Multi-Dimensional Threshold Model With Correlation: Emergence of Global Cascades",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "ICC 2024-IEEE International Conference on Communications, 533-538, 2024",
         "num_citations": 0,
         "author_pub_id": "XtTBo1AAAAAJ:vDijr-p_gm4C"
     },
@@ -532,16 +547,10 @@
         "author_pub_id": "XtTBo1AAAAAJ:1yQoGdGgb4wC"
     },
     {
-        "title": "Multi-armed Bandits with Probing",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "XtTBo1AAAAAJ:epqYDVWIO7EC"
-    },
-    {
         "title": "Multi-armed bandits with correlated arms",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021",
-        "num_citations": 76,
+        "num_citations": 58,
         "author_pub_id": "XtTBo1AAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -589,7 +598,7 @@
         "title": "On secure and reliable communications in wireless sensor networks: Towards k-connectivity under a random pairwise key predistribution scheme",
         "pub_year": "2014",
         "citation": "2014 IEEE International Symposium on Information Theory, 2381-2385, 2014",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "XtTBo1AAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -644,7 +653,7 @@
         "title": "On the minimum node degree and k-connectivity in inhomogeneous random K-out graphs",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6868-6893, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "XtTBo1AAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -741,7 +750,7 @@
         "title": "Optimal allocation of interconnecting links in cyber-physical systems: Interdependence, cascading failures, and robustness",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Parallel and Distributed Systems 23 (9), 1708-1720, 2012",
-        "num_citations": 232,
+        "num_citations": 233,
         "author_pub_id": "XtTBo1AAAAAJ:eQOLeE2rZwMC"
     },
     {

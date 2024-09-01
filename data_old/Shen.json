@@ -24,7 +24,7 @@
         "title": "A buffer-oriented methodology for microarchitecture validation",
         "pub_year": "2000",
         "citation": "Journal of Electronic Testing 16, 49-65, 2000",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "pARKzQsAAAAJ:K3LRdlH-MEoC"
     },
     {
@@ -210,6 +210,13 @@
         "author_pub_id": "pARKzQsAAAAJ:0KyAp5RtaNEC"
     },
     {
+        "title": "AttriNet",
+        "pub_year": "2019",
+        "citation": "Adjunct Proceedings of the 2019 ACM International Joint Conference on …, 2019",
+        "num_citations": 0,
+        "author_pub_id": "pARKzQsAAAAJ:bKqednn6t2AC"
+    },
+    {
         "title": "AttriNet: Learning mid-level features for human activity recognition with deep belief networks",
         "pub_year": "2019",
         "citation": "Adjunct proceedings of the 2019 acm international joint conference on …, 2019",
@@ -290,7 +297,7 @@
         "title": "Caching DAG traces",
         "pub_year": "2002",
         "citation": "US Patent App. 09/823,235, 2002",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "pARKzQsAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -324,7 +331,7 @@
         "title": "Characterizing human activity induced impulse and slip-pulse excitations through structural vibration",
         "pub_year": "2018",
         "citation": "Journal of Sound and Vibration 414, 61-80, 2018",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "pARKzQsAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -338,7 +345,7 @@
         "title": "Coming challenges in microarchitecture and architecture",
         "pub_year": "2001",
         "citation": "Proceedings of the IEEE 89 (3), 325-340, 2001",
-        "num_citations": 213,
+        "num_citations": 215,
         "author_pub_id": "pARKzQsAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -463,7 +470,7 @@
         "title": "Die stacking (3D) microarchitecture",
         "pub_year": "2006",
         "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006",
-        "num_citations": 788,
+        "num_citations": 793,
         "author_pub_id": "pARKzQsAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -912,7 +919,7 @@
         "title": "Mechanism for instruction set based thread execution on a plurality of instruction sequencers",
         "pub_year": "2014",
         "citation": "US Patent 8,719,819, 2014",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "pARKzQsAAAAJ:rO6llkc54NcC"
     },
     {
@@ -1080,7 +1087,7 @@
         "title": "Method and system to provide concurrent user-level, non-privileged shared resource thread creation and execution",
         "pub_year": "2015",
         "citation": "US Patent 9,189,230, 2015",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "pARKzQsAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -1150,7 +1157,7 @@
         "title": "Methods and apparatus for reducing memory latency in a software application",
         "pub_year": "2008",
         "citation": "US Patent 7,328,433, 2008",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "pARKzQsAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1212,14 +1219,14 @@
         "title": "Mitosis: A speculative multithreaded processor based on precomputation slices",
         "pub_year": "2008",
         "citation": "IEEE Transactions on parallel and distributed systems 19 (7), 914-925, 2008",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "pARKzQsAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Modern processor design: fundamentals of superscalar processors",
         "pub_year": "2013",
         "citation": "Waveland Press, 2013",
-        "num_citations": 618,
+        "num_citations": 623,
         "author_pub_id": "pARKzQsAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1414,7 +1421,7 @@
         "title": "Primitives to enhance thread-level speculation",
         "pub_year": "2011",
         "citation": "US Patent App. 12/970,040, 2011",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "pARKzQsAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -1616,7 +1623,7 @@
         "title": "SemNet: Learning semantic attributes for human activity recognition with deep belief networks",
         "pub_year": "2022",
         "citation": "Frontiers in big Data 5, 879389, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "pARKzQsAAAAJ:_5tno0g5mFcC"
     },
     {
@@ -1686,7 +1693,7 @@
         "title": "Speculative precomputation: Long-range prefetching of delinquent loads",
         "pub_year": "2001",
         "citation": "ACM SIGARCH Computer Architecture News 29 (2), 14-25, 2001",
-        "num_citations": 495,
+        "num_citations": 497,
         "author_pub_id": "pARKzQsAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -1747,7 +1754,8 @@
     },
     {
         "title": "TNN-CIM: An In-SRAM CMOS Implementation of TNN-Based Synaptic Arrays with STDP Learning",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "2024 IEEE 6th International Conference on AI Circuits and Systems (AICAS …, 2024",
         "num_citations": 0,
         "author_pub_id": "pARKzQsAAAAJ:DJbcl8HfkQkC"
     },
@@ -1944,7 +1952,7 @@
         "title": "User-programmable low-overhead multithreading",
         "pub_year": "2009",
         "citation": "US Patent 7,631,307, 2009",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "pARKzQsAAAAJ:_Ybze24A_UAC"
     },
     {

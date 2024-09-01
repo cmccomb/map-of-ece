@@ -3,14 +3,14 @@
         "title": "22.2 A 69.5mW 20GS/s 6b time-interleaved ADC with embedded time-to-digital calibration in 32nm CMOS SOI",
         "pub_year": "2014",
         "citation": "Solid-State Circuits Conference Digest of Technical Papers (ISSCC), 2014 …, 2014",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "hkAq-IIAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "A 18mw, 3.3 db nf, 60ghz lna in 32nm soi cmos technology with autonomic nf calibration",
         "pub_year": "2015",
         "citation": "2015 IEEE Radio Frequency Integrated Circuits Symposium (RFIC), 319-322, 2015",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "hkAq-IIAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Class-E power amplifiers incorporating fingerprint augmentation with combinatorial security primitives for machine-learning-based authentication in 65 nm CMOS",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 69 (5), 1896-1909, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "hkAq-IIAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -108,7 +108,7 @@
         "title": "Empirical dark current modeling for complementary metal oxide semiconductor active pixel sensor",
         "pub_year": "2002",
         "citation": "Optical Engineering 41 (6), 1216-1219, 2002",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "hkAq-IIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -131,6 +131,13 @@
         "citation": "ACM Journal on Emerging Technologies in Computing Systems (JETC) 18 (4), 1-2, 2022",
         "num_citations": 0,
         "author_pub_id": "hkAq-IIAAAAJ:R3hNpaxXUhUC"
+    },
+    {
+        "title": "Guest Editorial: Special Issue on Selected Articles From IEEE BioCAS 2023",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Biomedical Circuits and Systems 18 (4), 718-719, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Guest Editorial: Special Issue on Selected Papers From IEEE BioCAS 2021",
@@ -175,7 +182,7 @@
         "title": "Intelligent electromagnetic sensors for non-invasive trojan detection",
         "pub_year": "2021",
         "citation": "Sensors 21 (24), 8288, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "hkAq-IIAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -217,7 +224,7 @@
         "title": "RF fingerprint classification with combinatorial-randomness-based power amplifiers and convolutional neural networks: Secure analog/RF electronics and electromagnetics",
         "pub_year": "2022",
         "citation": "IEEE Solid-State Circuits Magazine 14 (4), 28-36, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "hkAq-IIAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -243,7 +250,7 @@
         "title": "Single-input broadband hybrid Doherty power amplifiers design relying on a phase sliding-mode of the load modulation scheme",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 71 (4), 1550-1562, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "hkAq-IIAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -257,7 +264,7 @@
         "title": "Wideband two-way hybrid Doherty outphasing power amplifier",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (2), 1415-1428, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "hkAq-IIAAAAJ:dhFuZR0502QC"
     },
     {
@@ -271,7 +278,7 @@
         "title": "Wireless actuation for soft electronics-free robots",
         "pub_year": "2023",
         "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hkAq-IIAAAAJ:bEWYMUwI8FkC"
     }
 ]

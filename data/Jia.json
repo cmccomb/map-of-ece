@@ -6,6 +6,12 @@
         "author_pub_id": "yjJPtE4AAAAJ:SeFeTyx0c_EC"
     },
     {
+        "title": "2024 IEEE 9th European Symposium on Security and Privacy (EuroS&amp; P)| 979-8-3503-5425-6/24/$31.00© 2024 IEEE| DOI: 10.1109/EUROSP60621. 2024.00054",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "yjJPtE4AAAAJ:eMMeJKvmdy0C"
+    },
+    {
         "title": "3rd International Workshop on Rigorous Protocol Engineering (WRiPE 2013) Message from the WRiPE Chairs",
         "citation": "",
         "num_citations": 0,
@@ -89,7 +95,7 @@
         "title": "An I/O separation model for formal verification of kernel implementations",
         "pub_year": "2021",
         "citation": "2021 IEEE Symposium on Security and Privacy (SP), 572-589, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "yjJPtE4AAAAJ:738O_yMBCRsC"
     },
     {
@@ -179,7 +185,7 @@
         "title": "Automating Compositional Analysis of Authentication Protocols.",
         "pub_year": "2020",
         "citation": "FMCAD, 113-118, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "yjJPtE4AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -233,7 +239,7 @@
         "title": "Containing malicious package updates in npm with a lightweight permission system",
         "pub_year": "2021",
         "citation": "2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE …, 2021",
-        "num_citations": 51,
+        "num_citations": 54,
         "author_pub_id": "yjJPtE4AAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -302,7 +308,7 @@
         "title": "Detecting suspicious package updates",
         "pub_year": "2019",
         "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering: New …, 2019",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "yjJPtE4AAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -322,7 +328,7 @@
         "title": "Efficient Static Vulnerability Analysis for JavaScript with Multiversion Dependency Graphs",
         "pub_year": "2024",
         "citation": "Proceedings of the ACM on Programming Languages 8 (PLDI), 417-441, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "yjJPtE4AAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -399,7 +405,7 @@
         "title": "FSR: Formal analysis and implementation toolkit for safe interdomain routing",
         "pub_year": "2012",
         "citation": "IEEE/ACM Transactions on Networking 20 (6), 1814-1827, 2012",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "yjJPtE4AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -515,14 +521,14 @@
         "title": "Learning Assumptions for Verifying Cryptographic Protocols Compositionally",
         "pub_year": "2021",
         "citation": "Formal Aspects of Component Software: 17th International Conference, FACS …, 2021",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "yjJPtE4AAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Lightweight source authentication and path validation",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM Conference on SIGCOMM, 271-282, 2014",
-        "num_citations": 179,
+        "num_citations": 182,
         "author_pub_id": "yjJPtE4AAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -649,7 +655,7 @@
         "title": "Omnicrawl: Comprehensive measurement of web tracking with real desktop and mobile browsers",
         "pub_year": "2022",
         "citation": "Proceedings on Privacy Enhancing Technologies, 2022",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "yjJPtE4AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -743,7 +749,7 @@
         "title": "Privacy promises that can be kept: a policy analysis method with application to the HIPAA privacy rule",
         "pub_year": "2013",
         "citation": "Proceedings of the 18th ACM symposium on Access control models and …, 2013",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "yjJPtE4AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -752,6 +758,13 @@
         "citation": "Proceedings of the 4th ACM conference on Data and application security and …, 2014",
         "num_citations": 6,
         "author_pub_id": "yjJPtE4AAAAJ:HoB7MX3m0LUC"
+    },
+    {
+        "title": "ProInspector: Uncovering Logical Bugs in Protocol Implementations",
+        "pub_year": "2024",
+        "citation": "2024 IEEE 9th European Symposium on Security and Privacy (EuroS&P), 617-632, 2024",
+        "num_citations": 0,
+        "author_pub_id": "yjJPtE4AAAAJ:Y5dfb0dijaUC"
     },
     {
         "title": "Proof-based verification of software defined networks",
@@ -804,7 +817,7 @@
         "title": "Riding out domsday: Towards detecting and preventing dom cross-site scripting",
         "pub_year": "2018",
         "citation": "2018 Network and Distributed System Security Symposium (NDSS), 2018",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "yjJPtE4AAAAJ:D03iK_w7-QYC"
     },
     {
@@ -871,7 +884,7 @@
         "title": "Session logical relations for noninterference",
         "pub_year": "2021",
         "citation": "2021 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), 1-14, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "yjJPtE4AAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -898,7 +911,7 @@
         "title": "Some recipes can do more than spoil your appetite: Analyzing the security and privacy risks of IFTTT recipes",
         "pub_year": "2017",
         "citation": "Proceedings of the 26th International Conference on World Wide Web, 1501-1510, 2017",
-        "num_citations": 185,
+        "num_citations": 189,
         "author_pub_id": "yjJPtE4AAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -918,7 +931,7 @@
         "title": "Syrust: automatic testing of rust libraries with semantic-aware program synthesis",
         "pub_year": "2021",
         "citation": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …, 2021",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "yjJPtE4AAAAJ:UxriW0iASnsC"
     },
     {
@@ -1089,7 +1102,7 @@
         "title": "{NetSMC}: A Custom Symbolic Model Checker for Stateful Network Verification",
         "pub_year": "2020",
         "citation": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2020",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "yjJPtE4AAAAJ:isC4tDSrTZIC"
     },
     {

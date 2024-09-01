@@ -94,8 +94,15 @@
         "title": "An Agent-Based Model of Reddit Interactions and Moderation",
         "pub_year": "2023",
         "citation": "Proceedings of the International Conference on Advances in Social Networks …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "XtTBo1AAAAAJ:0KyAp5RtaNEC"
+    },
+    {
+        "title": "An agent-based model of cross-platform information diffusion and moderation",
+        "pub_year": "2024",
+        "citation": "Social Network Analysis and Mining 14 (1), 1-23, 2024",
+        "num_citations": 0,
+        "author_pub_id": "XtTBo1AAAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "Analysis of complex contagions in random multiplex networks",
@@ -136,7 +143,7 @@
         "title": "Bandit-based communication-efficient client selection strategies for federated learning",
         "pub_year": "2020",
         "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 1066-1069, 2020",
-        "num_citations": 61,
+        "num_citations": 64,
         "author_pub_id": "XtTBo1AAAAAJ:5awf1xo2G04C"
     },
     {
@@ -156,7 +163,7 @@
         "title": "Cascading failures in interdependent systems under a flow redistribution model",
         "pub_year": "2018",
         "citation": "Physical Review E 97 (2), 022307, 2018",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "XtTBo1AAAAAJ:f2IySw72cVMC"
     },
     {
@@ -177,7 +184,7 @@
         "title": "Conjoining speeds up information diffusion in overlaying social-physical networks",
         "pub_year": "2013",
         "citation": "IEEE Journal on Selected Areas in Communications 31 (6), 1038-1048, 2013",
-        "num_citations": 173,
+        "num_citations": 174,
         "author_pub_id": "XtTBo1AAAAAJ:geHnlv5EZngC"
     },
     {
@@ -267,7 +274,7 @@
         "title": "Data-driven I/O structure learning with contemporaneous causality",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Control of Network Systems 7 (4), 1929-1939, 2020",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "XtTBo1AAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -315,7 +322,7 @@
         "title": "Dynamic coupling strategy for interdependent network systems against cascading failures",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Network Science and Engineering 10 (4), 2265-2282, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "XtTBo1AAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -328,7 +335,7 @@
         "title": "Empowering low-power wide area networks in urban settings",
         "pub_year": "2017",
         "citation": "Proceedings of the Conference of the ACM Special Interest Group on Data …, 2017",
-        "num_citations": 223,
+        "num_citations": 228,
         "author_pub_id": "XtTBo1AAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -404,7 +411,7 @@
         "title": "IRS-assisted millimeter wave communications: Joint power allocation and beamforming design",
         "pub_year": "2021",
         "citation": "2021 IEEE Wireless Communications and Networking Conference Workshops (WCNCW …, 2021",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "XtTBo1AAAAAJ:olpn-zPbct0C"
     },
     {
@@ -501,7 +508,7 @@
         "title": "Modeling the pairwise key predistribution scheme in the presence of unreliable links",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Information Theory 59 (3), 1740-1760, 2012",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "XtTBo1AAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -521,7 +528,7 @@
         "title": "Multi-Platform Analysis of 2020 US Election Fraud and Protest Related Posts",
         "pub_year": "2021",
         "citation": "Technical Report, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "XtTBo1AAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -534,7 +541,7 @@
         "title": "Multi-armed bandits with correlated arms",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "XtTBo1AAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -575,7 +582,7 @@
         "title": "On k-Connectivity and Minimum Vertex Degree in Random s-Intersection Graphs",
         "pub_year": "2014",
         "citation": "2015 Proceedings of the Twelfth Workshop on Analytic Algorithmics and …, 2014",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "XtTBo1AAAAAJ:mB3voiENLucC"
     },
     {
@@ -734,7 +741,7 @@
         "title": "Optimal allocation of interconnecting links in cyber-physical systems: Interdependence, cascading failures, and robustness",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Parallel and Distributed Systems 23 (9), 1708-1720, 2012",
-        "num_citations": 231,
+        "num_citations": 232,
         "author_pub_id": "XtTBo1AAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -748,7 +755,7 @@
         "title": "Optimizing the robustness of electrical power systems against cascading failures",
         "pub_year": "2016",
         "citation": "Scientific reports 6 (1), 27625, 2016",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "XtTBo1AAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -837,7 +844,7 @@
         "title": "Robustness of interdependent cyber-physical systems against cascading failures",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Automatic Control 65 (2), 711-726, 2019",
-        "num_citations": 72,
+        "num_citations": 76,
         "author_pub_id": "XtTBo1AAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -858,7 +865,7 @@
         "title": "Role of masks in mitigating viral spread on networks",
         "pub_year": "2023",
         "citation": "Physical Review E 108 (1), 014306, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "XtTBo1AAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -928,7 +935,7 @@
         "title": "Spreading processes with population heterogeneity over multi-layer networks",
         "pub_year": "2023",
         "citation": "GLOBECOM 2023-2023 IEEE Global Communications Conference, 3209-3214, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "XtTBo1AAAAAJ:evX43VCCuoAC"
     },
     {
@@ -948,7 +955,7 @@
         "title": "The effects of evolutionary adaptations on spreading processes in complex networks",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (11), 5664-5670, 2020",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "XtTBo1AAAAAJ:HE397vMXCloC"
     },
     {
@@ -976,7 +983,7 @@
         "title": "Toward-Connectivity of the Random Graph Induced by a Pairwise Key Predistribution Scheme With Unreliable Links",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Information Theory 61 (11), 6251-6271, 2015",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "XtTBo1AAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -990,14 +997,14 @@
         "title": "Uniform redundancy allocation maximizes the robustness of flow networks against cascading failures",
         "pub_year": "2018",
         "citation": "Physical Review E 98 (4), 042306, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "XtTBo1AAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Wireless sensor networks under the random pairwise key predistribution scheme: Can resiliency be achieved with small key rings?",
         "pub_year": "2016",
         "citation": "IEEE/ACM Transactions on Networking 24 (6), 3383-3396, 2016",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "XtTBo1AAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -1011,7 +1018,7 @@
         "title": "Zero–one laws for connectivity in random key graphs",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Information Theory 58 (5), 2983-2999, 2012",
-        "num_citations": 135,
+        "num_citations": 136,
         "author_pub_id": "XtTBo1AAAAAJ:u-x6o8ySG0sC"
     },
     {

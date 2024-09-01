@@ -64,7 +64,7 @@
         "title": "A theory of specification-based testing for object-oriented software",
         "pub_year": "1996",
         "citation": "Dependable Computing—EDCC-2: Second European Dependable Computing …, 1996",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "F8Tqw_kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -99,7 +99,7 @@
         "title": "Dual-Track Development.",
         "pub_year": "2020",
         "citation": "IEEE Softw. 37 (6), 58-64, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "F8Tqw_kAAAAJ:k_IJM867U9cC"
     },
     {
@@ -206,13 +206,6 @@
     },
     {
         "title": "Issues and theory for unit testing of object-oriented software",
-        "pub_year": "1998",
-        "citation": "Tagungsband\" Qualitätsmanagement Der Objektorientierten Software-Entwicklung …, 1998",
-        "num_citations": 9,
-        "author_pub_id": "F8Tqw_kAAAAJ:4DMP91E08xMC"
-    },
-    {
-        "title": "Issues and theory for unit testing of object-oriented software",
         "pub_year": "1996",
         "citation": "Swiss Federal Institute of Technology, 1996",
         "num_citations": 0,
@@ -281,10 +274,17 @@
         "author_pub_id": "F8Tqw_kAAAAJ:TQgYirikUcIC"
     },
     {
+        "title": "Overview and theory for unit testing of object-oriented software",
+        "pub_year": "1996",
+        "citation": "Tagungsband\" Qualitätsmanagement der objektorientierten Software-Entwicklung …, 1996",
+        "num_citations": 9,
+        "author_pub_id": "F8Tqw_kAAAAJ:4DMP91E08xMC"
+    },
+    {
         "title": "Practice and perception of team code ownership",
         "pub_year": "2016",
         "citation": "Proceedings of the 20th international conference on evaluation and …, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "F8Tqw_kAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -351,7 +351,7 @@
         "title": "Software development waste. In 2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE)",
         "pub_year": "2017",
         "citation": "IEEE. https://doi. org/10.1109/icse, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "F8Tqw_kAAAAJ:maZDTaKrznsC"
     },
     {
@@ -379,7 +379,7 @@
         "title": "Test selection for object-oriented software based on formal specifications",
         "pub_year": "1998",
         "citation": "Programming Concepts and Methods PROCOMET’98: IFIP TC2/WG2. 2, 2.3 …, 1998",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "F8Tqw_kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -435,7 +435,7 @@
         "title": "The product backlog",
         "pub_year": "2019",
         "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE …, 2019",
-        "num_citations": 124,
+        "num_citations": 126,
         "author_pub_id": "F8Tqw_kAAAAJ:R3hNpaxXUhUC"
     },
     {

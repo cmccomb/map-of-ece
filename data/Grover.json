@@ -84,7 +84,7 @@
         "title": "A unified coded deep neural network training strategy based on generalized polydot codes",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018",
-        "num_citations": 115,
+        "num_citations": 120,
         "author_pub_id": "hklOXvkAAAAJ:s2G-WRnXBicC"
     },
     {
@@ -132,7 +132,7 @@
         "title": "Addressing unreliability in emerging devices and non-von neumann architectures using coded computing",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 108 (8), 1219-1234, 2020",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "hklOXvkAAAAJ:yKzB5RS27GgC"
     },
     {
@@ -181,7 +181,7 @@
         "title": "An information-theoretic quantification of discrimination with exempt features",
         "pub_year": "2020",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (04), 3825-3833, 2020",
-        "num_citations": 35,
+        "num_citations": 37,
         "author_pub_id": "hklOXvkAAAAJ:koF6b02d8EEC"
     },
     {
@@ -230,7 +230,7 @@
         "title": "Building a culture of responsible neurotech: Neuroethics as socio-technical challenges",
         "pub_year": "2022",
         "citation": "Neuron 110 (13), 2057-2062, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "hklOXvkAAAAJ:JqN3CTdJtl0C"
     },
     {
@@ -257,7 +257,7 @@
         "title": "Cell-specific effects of temporal interference stimulation on cortical function",
         "pub_year": "2023",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "hklOXvkAAAAJ:tSVUDDkujAIC"
     },
     {
@@ -320,14 +320,14 @@
         "title": "Coded convolution for parallel and distributed computing within a deadline",
         "pub_year": "2017",
         "citation": "2017 IEEE International Symposium on Information Theory (ISIT), 2403-2407, 2017",
-        "num_citations": 152,
+        "num_citations": 154,
         "author_pub_id": "hklOXvkAAAAJ:BCdnXsLIVDwC"
     },
     {
         "title": "Coded distributed computing for inverse problems",
         "pub_year": "2017",
         "citation": "Advances in Neural Information Processing Systems 30, 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "hklOXvkAAAAJ:bCjgOgSFrM0C"
     },
     {
@@ -383,7 +383,7 @@
         "title": "Computing Unique Information for Poisson and Multinomial Systems",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2305.07013, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "hklOXvkAAAAJ:Zbx7W2Xs4QsC"
     },
     {
@@ -439,7 +439,7 @@
         "title": "Demystifying the Witsenhausen counterexample",
         "pub_year": "2010",
         "citation": "IEEE Control Systems Magazine 1066, 2010",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "hklOXvkAAAAJ:mB3voiENLucC"
     },
     {
@@ -548,7 +548,7 @@
         "title": "Energy Harvesting Wireless Communications: A Review of Recent Advances",
         "pub_year": "2015",
         "citation": "IEEE Journal on Selected Areas in Communications 33 (3), 360-381, 2015",
-        "num_citations": 982,
+        "num_citations": 984,
         "author_pub_id": "hklOXvkAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -914,7 +914,7 @@
         "title": "Information flow in computational systems",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Information Theory 66 (9), 5456-5491, 2020",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "hklOXvkAAAAJ:oH8HCDhqVGsC"
     },
     {
@@ -1038,15 +1038,22 @@
         "title": "Masterless coded computing: A fully-distributed coded FFT algorithm",
         "pub_year": "2018",
         "citation": "2018 56th Annual Allerton Conference on Communication, Control, and …, 2018",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "hklOXvkAAAAJ:ynsZFq2pu0MC"
     },
     {
         "title": "Message-Relevant Dimension Reduction of Neural Populations",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2407.02450, 2024",
+        "citation": "2024 IEEE International Symposium on Information Theory (ISIT), 262-267, 2024",
         "num_citations": 0,
         "author_pub_id": "hklOXvkAAAAJ:kQqwFFzsCTwC"
+    },
+    {
+        "title": "Method for Focused Transcranial Electrical Current Stimulation",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/021,257, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hklOXvkAAAAJ:qhW0HyKmSusC"
     },
     {
         "title": "Method for detecting and localizing brain silences in EEG signals using correlation of sources in a low-resolution grid to localize silences in a high-resolution grid of EEG …",
@@ -1054,6 +1061,13 @@
         "citation": "US Patent 11,925,470, 2024",
         "num_citations": 0,
         "author_pub_id": "hklOXvkAAAAJ:Lo8V22OuN40C"
+    },
+    {
+        "title": "Method for detecting and localizing brain silences using eeg",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/410,446, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hklOXvkAAAAJ:xlVdBZVQT58C"
     },
     {
         "title": "Near vs far field: interference aggregation in TV whitespaces Extended Edition",
@@ -1114,7 +1128,7 @@
         "title": "Novel electrodes for reliable EEG recordings on coarse and curly hair",
         "pub_year": "2020",
         "citation": "2020 42nd annual international conference of the IEEE engineering in …, 2020",
-        "num_citations": 81,
+        "num_citations": 86,
         "author_pub_id": "hklOXvkAAAAJ:5bfplxN71z4C"
     },
     {
@@ -1148,7 +1162,7 @@
         "title": "On the optimal recovery threshold of coded matrix multiplication",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Information Theory 66 (1), 278-301, 2019",
-        "num_citations": 274,
+        "num_citations": 278,
         "author_pub_id": "hklOXvkAAAAJ:RJNGbXJAtMsC"
     },
     {
@@ -1190,7 +1204,7 @@
         "title": "Projections and the potential societal impact of the future of neurotechnologies",
         "pub_year": "2021",
         "citation": "Frontiers in neuroscience 15, 658930, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "hklOXvkAAAAJ:1Aeql8wG3wEC"
     },
     {
@@ -1281,14 +1295,14 @@
         "title": "Shannon meets Tesla: Wireless information and power transfer.",
         "pub_year": "2010",
         "citation": "IEEE International Symposium on Information Theory (ISIT), 2363-2367, 2010",
-        "num_citations": 1204,
+        "num_citations": 1212,
         "author_pub_id": "hklOXvkAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Short-dot: Computing large linear transforms distributedly using coded short dot products",
         "pub_year": "2016",
         "citation": "Advances In Neural Information Processing Systems 29, 2016",
-        "num_citations": 413,
+        "num_citations": 417,
         "author_pub_id": "hklOXvkAAAAJ:rzmi0EmCOGEC"
     },
     {
@@ -1309,7 +1323,7 @@
         "title": "Stimulus: Noninvasive dynamic patterns of neurostimulation using spatio-temporal interference",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Biomedical Engineering 67 (3), 726-737, 2019",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "hklOXvkAAAAJ:j7XjBeKFbTsC"
     },
     {
@@ -1576,7 +1590,7 @@
         "title": "Witsenhausen's counterexample as Assisted Interference Suppression",
         "pub_year": "2010",
         "citation": "International Journal of Systems, Control and Communications 2 (1), 197-237, 2010",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "hklOXvkAAAAJ:LkGwnXOMwfcC"
     },
     {
