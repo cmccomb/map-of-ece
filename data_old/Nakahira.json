@@ -17,7 +17,7 @@
         "title": "A generalizable physics-informed learning framework for risk probability estimation",
         "pub_year": "2023",
         "citation": "Learning for Dynamics and Control Conference, 358-370, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "jnmyOEYAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "An Analytic Solution to Covariance Propagation in Neural Networks",
         "pub_year": "2024",
         "citation": "International Conference on Artificial Intelligence and Statistics, 4087-4095, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
         "pub_year": "2024",
         "citation": "Building and Environment 247, 111053, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jnmyOEYAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Context-aware LLM-based Safe Control Against Latent Risks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.11863, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences, 2021",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "jnmyOEYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Fundamental limits and achievable performance in biomolecular control",
         "pub_year": "2018",
         "citation": "2018 Annual American Control Conference (ACC), 2707-2714, 2018",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "jnmyOEYAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -247,7 +247,7 @@
         "title": "Myopically Verifiable Probabilistic Certificate for Long-term Safety",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2110.13380, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "jnmyOEYAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "Physics-informed RL for Maximal Safety Probability Estimation",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.16391, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -309,7 +309,7 @@
         "title": "Safe Control in the Presence of Stochastic Uncertainties",
         "pub_year": "2021",
         "citation": "60th IEEE Conference on Decision and Control (CDC), 6640-6645, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "jnmyOEYAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -330,7 +330,7 @@
         "title": "Smoothed least-laxity-first algorithm for EV charging",
         "pub_year": "2017",
         "citation": "Proceedings of the Eighth International Conference on Future Energy Systems …, 2017",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "jnmyOEYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -344,7 +344,7 @@
         "title": "Smoothed least-laxity-first algorithm for electric vehicle charging: Online decision and performance analysis with resource augmentation",
         "pub_year": "2021",
         "citation": "IEEE transactions on smart grid 13 (3), 2209-2217, 2021",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "jnmyOEYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -362,10 +362,10 @@
         "author_pub_id": "jnmyOEYAAAAJ:_kc_bZDykSQC"
     },
     {
-        "title": "Towards Proactive Safe Human-Robot Collaborations via Data-Efficient Conditional Behavior Prediction",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2311.11893, 2023",
-        "num_citations": 1,
+        "title": "Towards proactive safe human-robot collaborations via data-efficient conditional behavior prediction",
+        "pub_year": "2024",
+        "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 12956 …, 2024",
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:YFjsv_pBGBYC"
     },
     {

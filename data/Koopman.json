@@ -14,6 +14,12 @@
         "author_pub_id": "DFtapYEAAAAJ:P5F9QuxV20EC"
     },
     {
+        "title": "2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks-Supplemental Volume (DSN-S)| 979-8-3503-9570-9/24/$31.00© 2024 IEEE| DOI: 10.1109/DSN …",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "DFtapYEAAAAJ:U_HPUtbDl20C"
+    },
+    {
         "title": "32 bit RTX chip prototype",
         "pub_year": "1988",
         "citation": "Carnegie Mellon University, 1988",
@@ -31,7 +37,7 @@
         "title": "32-bit cyclic redundancy codes for internet applications",
         "pub_year": "2002",
         "citation": "Proceedings International Conference on Dependable Systems and Networks, 459-468, 2002",
-        "num_citations": 344,
+        "num_citations": 345,
         "author_pub_id": "DFtapYEAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -78,7 +84,7 @@
         "title": "A case study on runtime monitoring of an autonomous research vehicle (ARV) system",
         "pub_year": "2015",
         "citation": "Runtime Verification: 6th International Conference, RV 2015, Vienna, Austria …, 2015",
-        "num_citations": 91,
+        "num_citations": 93,
         "author_pub_id": "DFtapYEAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -127,14 +133,14 @@
         "title": "A philosophy for developing trust in self-driving cars",
         "pub_year": "2015",
         "citation": "Road Vehicle Automation 2, 163-171, 2015",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "DFtapYEAAAAJ:0KyAp5RtaNEC"
     },
     {
         "title": "A preliminary exploration of optimized stack code generation",
         "pub_year": "1992",
         "citation": "Carnegie Mellon University, 1992",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "DFtapYEAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -155,7 +161,7 @@
         "title": "A safety standard approach for fully autonomous vehicles",
         "pub_year": "2019",
         "citation": "Computer Safety, Reliability, and Security: SAFECOMP 2019 Workshops, ASSURE …, 2019",
-        "num_citations": 123,
+        "num_citations": 126,
         "author_pub_id": "DFtapYEAAAAJ:KbBQZpvPDL4C"
     },
     {
@@ -188,7 +194,8 @@
     },
     {
         "title": "Active Learning Omnivariate Decision Trees for Fault Diagnosis in Robotic Systems",
-        "citation": "contract 900 (16-C), 0006, 0",
+        "pub_year": "2024",
+        "citation": "2024 54th Annual IEEE/IFIP International Conference on Dependable Systems …, 2024",
         "num_citations": 0,
         "author_pub_id": "DFtapYEAAAAJ:NDuN12AVoxsC"
     },
@@ -247,9 +254,9 @@
         "author_pub_id": "DFtapYEAAAAJ:RYcK_YlVTxYC"
     },
     {
-        "title": "Anatomy of a Robotaxi Crash: Lessons from the Cruise Pedestrian Dragging Mishap",
+        "title": "Anatomy of a robotaxi crash: Lessons from the Cruise pedestrian dragging mishap",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2402.06046, 2024",
+        "citation": "International Conference on Computer Safety, Reliability, and Security, 119-133, 2024",
         "num_citations": 2,
         "author_pub_id": "DFtapYEAAAAJ:jE2MZjpN3IcC"
     },
@@ -311,14 +318,14 @@
         "title": "Autonomous vehicle regulation & trust: The impact of failures to comply with standards",
         "pub_year": "2022",
         "citation": "UCLA JL & Tech. 27, 169, 2022",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "DFtapYEAAAAJ:wMgC3FpKEyYC"
     },
     {
         "title": "Autonomous vehicle safety: An interdisciplinary challenge",
         "pub_year": "2017",
         "citation": "IEEE Intelligent Transportation Systems Magazine 9 (1), 90-96, 2017",
-        "num_citations": 688,
+        "num_citations": 702,
         "author_pub_id": "DFtapYEAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -444,7 +451,7 @@
         "title": "Challenges in autonomous vehicle testing and validation",
         "pub_year": "2016",
         "citation": "SAE International Journal of Transportation Safety 4 (1), 15-24, 2016",
-        "num_citations": 750,
+        "num_citations": 761,
         "author_pub_id": "DFtapYEAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -486,7 +493,7 @@
         "title": "Comparing operating systems using robustness benchmarks",
         "pub_year": "1997",
         "citation": "Proceedings of SRDS'97: 16th IEEE Symposium on Reliable Distributed Systems …, 1997",
-        "num_citations": 252,
+        "num_citations": 253,
         "author_pub_id": "DFtapYEAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -519,14 +526,14 @@
         "title": "Continuous learning approach to safety engineering",
         "pub_year": "2022",
         "citation": "CARS-Critical Automotive applications: Robustness & Safety, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "DFtapYEAAAAJ:XUvXOeBm_78C"
     },
     {
         "title": "Coverage and the use of cyclic redundancy codes in ultra-dependable systems",
         "pub_year": "2005",
         "citation": "2005 International Conference on Dependable Systems and Networks (DSN'05 …, 2005",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "DFtapYEAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -567,7 +574,7 @@
         "title": "Cryptographic authentication of transmitted messages using pseudorandom numbers",
         "pub_year": "1994",
         "citation": "US Patent 5,377,270, 1994",
-        "num_citations": 220,
+        "num_citations": 228,
         "author_pub_id": "DFtapYEAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -595,7 +602,7 @@
         "title": "Cyclic redundancy code (CRC) polynomial selection for embedded networks",
         "pub_year": "2004",
         "citation": "International Conference on Dependable Systems and Networks, 2004, 145-154, 2004",
-        "num_citations": 554,
+        "num_citations": 555,
         "author_pub_id": "DFtapYEAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -802,7 +809,7 @@
         "title": "Elevator level control system using elevator/landing gap as a reflection duct",
         "pub_year": "1997",
         "citation": "US Patent 5,659,159, 1997",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "DFtapYEAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -1035,7 +1042,7 @@
         "title": "How many operational design domains, objects, and events?",
         "pub_year": "2019",
         "citation": "Safeai@ aaai 4, 2019",
-        "num_citations": 146,
+        "num_citations": 149,
         "author_pub_id": "DFtapYEAAAAJ:OTTXONDVkokC"
     },
     {
@@ -1049,7 +1056,7 @@
         "title": "How to write an abstract",
         "pub_year": "1997",
         "citation": "",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "DFtapYEAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1194,7 +1201,7 @@
         "title": "Liability Rules for Automated Vehicle: Definitions and Details",
         "pub_year": "2024",
         "citation": "SMU Sci. & Tech. L. Rev. 27, 77, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "DFtapYEAAAAJ:PyEswDtIyv0C"
     },
     {
@@ -1271,7 +1278,7 @@
         "title": "Method and system for analyzing advertisements delivered to a mobile unit",
         "pub_year": "2003",
         "citation": "US Patent 6,647,269, 2003",
-        "num_citations": 954,
+        "num_citations": 955,
         "author_pub_id": "DFtapYEAAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -1292,7 +1299,7 @@
         "title": "Method and system for connecting proximately located mobile users based on compatible attributes",
         "pub_year": "2003",
         "citation": "US Patent 6,542,749, 2003",
-        "num_citations": 523,
+        "num_citations": 529,
         "author_pub_id": "DFtapYEAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -1491,14 +1498,14 @@
         "title": "Pseudorandom number generation and cryptographic authentication",
         "pub_year": "1994",
         "citation": "US Patent 5,363,448, 1994",
-        "num_citations": 363,
+        "num_citations": 372,
         "author_pub_id": "DFtapYEAAAAJ:9pM33mqn1YgC"
     },
     {
         "title": "Pseudorandom number generation and cryptographic authentication",
         "pub_year": "1994",
         "citation": "US Patent 5,363,448, 1994",
-        "num_citations": 363,
+        "num_citations": 372,
         "author_pub_id": "DFtapYEAAAAJ:_B80troHkn4C"
     },
     {
@@ -1525,7 +1532,7 @@
         "title": "Putting image manipulations in context: robustness testing for safe perception",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Safety, Security, and Rescue Robotics …, 2018",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "DFtapYEAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -1565,7 +1572,7 @@
     {
         "title": "Redefining Safety for Autonomous Vehicles",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.16768, 2024",
+        "citation": "International Conference on Computer Safety, Reliability, and Security, 300-314, 2024",
         "num_citations": 1,
         "author_pub_id": "DFtapYEAAAAJ:MAUkC_7iAq8C"
     },
@@ -1614,7 +1621,7 @@
         "title": "Representing user workarounds as a component of system dependability",
         "pub_year": "2004",
         "citation": "10th IEEE Pacific Rim International Symposium on Dependable Computing, 2004 …, 2004",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "DFtapYEAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -1724,7 +1731,7 @@
         "title": "Safety Ethics for Design and Test of Automated Driving Features",
         "pub_year": "2023",
         "citation": "IEEE Design & Test 41 (1), 17-24, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DFtapYEAAAAJ:3NQIlFlcGxIC"
     },
     {
@@ -1759,7 +1766,7 @@
         "title": "Semantic anomaly detection in online data sources",
         "pub_year": "2002",
         "citation": "proceedings of the 24th International Conference on Software Engineering …, 2002",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "DFtapYEAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1780,7 +1787,7 @@
         "title": "Software testing",
         "pub_year": "1999",
         "citation": "Dependable Embedded Systems 5 (2006), 1, 1999",
-        "num_citations": 184,
+        "num_citations": 187,
         "author_pub_id": "DFtapYEAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -1836,7 +1843,7 @@
         "title": "Systems and Methods for Evaluating Perception System Quality",
         "pub_year": "2022",
         "citation": "US Patent App. 17/291,493, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "DFtapYEAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -1883,7 +1890,7 @@
         "title": "The Heavy Tail Safety Ceiling",
         "pub_year": "2018",
         "citation": "Automated and Connected Vehicle Systems Testing Symposium, 2018",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "DFtapYEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -1981,7 +1988,7 @@
         "title": "Toward a framework for highly automated vehicle safety validation",
         "pub_year": "2018",
         "citation": "SAE Technical Paper, 2018",
-        "num_citations": 150,
+        "num_citations": 151,
         "author_pub_id": "DFtapYEAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -2030,7 +2037,7 @@
         "title": "Ul 4600: what to include in an autonomous vehicle safety case",
         "pub_year": "2023",
         "citation": "Computer 56 (05), 101-104, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "DFtapYEAAAAJ:WC9gN4BGCRcC"
     },
     {
@@ -2100,7 +2107,7 @@
         "title": "Winning the imitation game: Setting safety expectations for automated vehicles",
         "pub_year": "2023",
         "citation": "Minn. JL Sci. & Tech. 25, 113, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "DFtapYEAAAAJ:SjuI4pbJlxcC"
     },
     {
@@ -2114,7 +2121,7 @@
         "title": "Work-arounds, make-work, and kludges",
         "pub_year": "2003",
         "citation": "IEEE Intelligent Systems 18 (6), 70-75, 2003",
-        "num_citations": 216,
+        "num_citations": 218,
         "author_pub_id": "DFtapYEAAAAJ:Y0pCki6q_DkC"
     },
     {

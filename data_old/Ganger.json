@@ -9,7 +9,7 @@
         "title": "//Trace: parallel trace replay with approximate causal events",
         "pub_year": "2007",
         "citation": "Carnegie Mellon University, 2007",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "l6oz33MAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Accelerating deep learning by focusing on the biggest losers",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1910.00762, 2019",
-        "num_citations": 107,
+        "num_citations": 109,
         "author_pub_id": "l6oz33MAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Access control for home data sharing: Attitudes, needs and practices",
         "pub_year": "2010",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2010",
-        "num_citations": 183,
+        "num_citations": 185,
         "author_pub_id": "l6oz33MAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Addressing the straggler problem for iterative convergent parallel ML",
         "pub_year": "2016",
         "citation": "Proceedings of the seventh ACM symposium on cloud computing, 98-111, 2016",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "l6oz33MAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -741,7 +741,7 @@
         "title": "Disk arrays: high-performance, high-reliability storage subsystems",
         "pub_year": "1994",
         "citation": "Computer 27 (3), 30-36, 1994",
-        "num_citations": 184,
+        "num_citations": 185,
         "author_pub_id": "l6oz33MAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -783,7 +783,7 @@
         "title": "Dynamic Function Placement for {Data-Intensive} Cluster Computing",
         "pub_year": "2000",
         "citation": "2000 USENIX Annual Technical Conference (USENIX ATC 00), 2000",
-        "num_citations": 172,
+        "num_citations": 173,
         "author_pub_id": "l6oz33MAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -801,7 +801,8 @@
     },
     {
         "title": "Dynamic Stem-Sharing for Multi-Tenant Video Processing",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "Proc. MLSys, 1-3, 2024",
         "num_citations": 0,
         "author_pub_id": "l6oz33MAAAAJ:F1b5ZUV5XREC"
     },
@@ -837,7 +838,7 @@
         "title": "Efficient Byzantine-tolerant erasure-coded storage",
         "pub_year": "2004",
         "citation": "International Conference on Dependable Systems and Networks, 2004, 135-144, 2004",
-        "num_citations": 272,
+        "num_citations": 274,
         "author_pub_id": "l6oz33MAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -898,7 +899,7 @@
         "title": "Enabling autonomic behavior in systems software with hot swapping",
         "pub_year": "2003",
         "citation": "IBM systems journal 42 (1), 60-76, 2003",
-        "num_citations": 178,
+        "num_citations": 179,
         "author_pub_id": "l6oz33MAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -994,7 +995,7 @@
         "title": "Fault-scalable Byzantine fault-tolerant services",
         "pub_year": "2005",
         "citation": "ACM SIGOPS Operating Systems Review 39 (5), 59-74, 2005",
-        "num_citations": 563,
+        "num_citations": 568,
         "author_pub_id": "l6oz33MAAAAJ:j8SEvjWlNXcC"
     },
     {
@@ -1060,7 +1061,7 @@
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "l6oz33MAAAAJ:3NQIlFlcGxIC"
     },
     {
@@ -1114,14 +1115,14 @@
         "title": "Gaia:{Geo-Distributed} machine learning approaching {LAN} speeds",
         "pub_year": "2017",
         "citation": "14th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2017",
-        "num_citations": 510,
+        "num_citations": 515,
         "author_pub_id": "l6oz33MAAAAJ:eJXPG6dFmWUC"
     },
     {
         "title": "Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server",
         "pub_year": "2016",
         "citation": "Proceedings of the eleventh european conference on computer systems, 1-16, 2016",
-        "num_citations": 399,
+        "num_citations": 402,
         "author_pub_id": "l6oz33MAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1139,17 +1140,17 @@
         "author_pub_id": "l6oz33MAAAAJ:jL-93Qbq4QoC"
     },
     {
-        "title": "GraphPipe: Improving Performance and Scalability of DNN Training with Graph Pipeline Parallelism",
+        "title": "Graphpipe: Improving performance and scalability of dnn training with graph pipeline parallelism",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.17145, 2024",
-        "num_citations": 0,
+        "num_citations": 3,
         "author_pub_id": "l6oz33MAAAAJ:m4fbC6XIj1kC"
     },
     {
         "title": "Heterogeneity and dynamicity of clouds at scale: Google trace analysis",
         "pub_year": "2012",
         "citation": "Proceedings of the third ACM symposium on cloud computing, 1-13, 2012",
-        "num_citations": 1337,
+        "num_citations": 1345,
         "author_pub_id": "l6oz33MAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -1177,7 +1178,7 @@
         "title": "IODA: A host/device co-design for strong predictability contract on modern flash storage",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles …, 2021",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "l6oz33MAAAAJ:TlpoogIpr_IC"
     },
     {
@@ -1354,7 +1355,7 @@
         "title": "Lazy verification in fault-tolerant distributed storage systems",
         "pub_year": "2005",
         "citation": "24th IEEE Symposium on Reliable Distributed Systems (SRDS'05), 179-190, 2005",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "l6oz33MAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -1435,7 +1436,7 @@
         "title": "Mainstream: Dynamic {Stem-Sharing} for {Multi-Tenant} Video Processing",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 29-42, 2018",
-        "num_citations": 113,
+        "num_citations": 118,
         "author_pub_id": "l6oz33MAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -1462,7 +1463,7 @@
         "title": "Measurement and analysis of TCP throughput collapse in cluster-based storage systems.",
         "pub_year": "2008",
         "citation": "FAST 8, 1-14, 2008",
-        "num_citations": 370,
+        "num_citations": 372,
         "author_pub_id": "l6oz33MAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -1488,7 +1489,7 @@
         "title": "Mimir: Finding Cost-efficient Storage Configurations in the Public Cloud",
         "pub_year": "2023",
         "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "l6oz33MAAAAJ:37UQlXuwjP4C"
     },
     {
@@ -1509,7 +1510,7 @@
         "title": "Mochi: Composing data services for high-performance computing environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35, 121-144, 2020",
-        "num_citations": 71,
+        "num_citations": 76,
         "author_pub_id": "l6oz33MAAAAJ:HGTzPopzzJcC"
     },
     {
@@ -1585,7 +1586,7 @@
         "title": "More effective distributed ml via a stale synchronous parallel parameter server",
         "pub_year": "2013",
         "citation": "Advances in neural information processing systems 26, 2013",
-        "num_citations": 933,
+        "num_citations": 941,
         "author_pub_id": "l6oz33MAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1632,7 +1633,7 @@
         "title": "Object-based storage",
         "pub_year": "2003",
         "citation": "IEEE Communications Magazine 41 (8), 84-90, 2003",
-        "num_citations": 764,
+        "num_citations": 765,
         "author_pub_id": "l6oz33MAAAAJ:hCrLmN-GePgC"
     },
     {
@@ -1673,7 +1674,7 @@
         "title": "On application-level approaches to avoiding TCP throughput collapse in cluster-based storage systems",
         "pub_year": "2007",
         "citation": "Proceedings of the 2nd international workshop on Petascale data storage …, 2007",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "l6oz33MAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -1708,7 +1709,7 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 146,
+        "num_citations": 152,
         "author_pub_id": "l6oz33MAAAAJ:QD3KBmkZPeQC"
     },
     {
@@ -1843,7 +1844,7 @@
         "title": "PipeDream: Generalized pipeline parallelism for DNN training",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM symposium on operating systems principles, 1-15, 2019",
-        "num_citations": 781,
+        "num_citations": 815,
         "author_pub_id": "l6oz33MAAAAJ:1yWc8FF-_SYC"
     },
     {
@@ -1857,14 +1858,14 @@
         "title": "Pipedream: Fast and efficient pipeline parallel dnn training",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1806.03377, 2018",
-        "num_citations": 257,
+        "num_citations": 263,
         "author_pub_id": "l6oz33MAAAAJ:uDGL6kOW6j0C"
     },
     {
         "title": "Pollux: Co-adaptive cluster scheduling for goodput-optimized deep learning",
         "pub_year": "2021",
         "citation": "15th {USENIX} Symposium on Operating Systems Design and Implementation …, 2021",
-        "num_citations": 145,
+        "num_citations": 153,
         "author_pub_id": "l6oz33MAAAAJ:ce2CqMG-AY4C"
     },
     {
@@ -1885,14 +1886,14 @@
         "title": "Principled workflow-centric tracing of distributed systems",
         "pub_year": "2016",
         "citation": "Proceedings of the Seventh ACM Symposium on Cloud Computing, 401-414, 2016",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "l6oz33MAAAAJ:mB3voiENLucC"
     },
     {
         "title": "Principles of operation for shingled disk devices",
         "pub_year": "2011",
         "citation": "Canregie Mellon Parallel Data Laboratory, CMU-PDL-11-107, 2011",
-        "num_citations": 142,
+        "num_citations": 144,
         "author_pub_id": "l6oz33MAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1906,7 +1907,7 @@
         "title": "Prioritymeister: Tail latency qos for shared networked storage",
         "pub_year": "2014",
         "citation": "Proceedings of the ACM Symposium on Cloud Computing, 1-14, 2014",
-        "num_citations": 130,
+        "num_citations": 133,
         "author_pub_id": "l6oz33MAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -1954,7 +1955,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "l6oz33MAAAAJ:BJrgspguQaEC"
     },
     {
@@ -1968,7 +1969,7 @@
         "title": "Reconciling LSM-Trees with Modern Hard Drives using BlueFS",
         "pub_year": "2019",
         "citation": "Technical Report CMU-PDL--, CMU Parallel Data Laboratory, April. URL http …, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "l6oz33MAAAAJ:XUvXOeBm_78C"
     },
     {
@@ -2016,7 +2017,7 @@
         "title": "Safe and effective fine-grained TCP retransmissions for datacenter communication",
         "pub_year": "2009",
         "citation": "ACM SIGCOMM computer communication review 39 (4), 303-314, 2009",
-        "num_citations": 584,
+        "num_citations": 587,
         "author_pub_id": "l6oz33MAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -2140,7 +2141,7 @@
         "title": "Self-Securing Storage: Protecting Data in Compromised Systems.",
         "pub_year": "2000",
         "citation": "OSDI, 165-180, 2000",
-        "num_citations": 420,
+        "num_citations": 424,
         "author_pub_id": "l6oz33MAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -2173,14 +2174,14 @@
         "title": "Shingled magnetic recording for big data applications",
         "pub_year": "2012",
         "citation": "Carnegie Mellon University Parallel Data Lab Technical Report CMU-PD L-12–105, 2012",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "l6oz33MAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Sia: Heterogeneity-aware, goodput-optimized ML-cluster scheduling",
         "pub_year": "2023",
         "citation": "Proceedings of the 29th Symposium on Operating Systems Principles, 642-657, 2023",
-        "num_citations": 16,
+        "num_citations": 22,
         "author_pub_id": "l6oz33MAAAAJ:ijdKiLOsEJMC"
     },
     {
@@ -2243,7 +2244,7 @@
         "title": "Solving the straggler problem with bounded staleness",
         "pub_year": "2013",
         "citation": "14th Workshop on Hot Topics in Operating Systems (HotOS XIV), 2013",
-        "num_citations": 171,
+        "num_citations": 172,
         "author_pub_id": "l6oz33MAAAAJ:SP6oXDckpogC"
     },
     {
@@ -2305,14 +2306,14 @@
         "title": "Storage-based intrusion detection: Watching storage activity for suspicious behavior",
         "pub_year": "2003",
         "citation": "12th USENIX Security Symposium (USENIX Security 03), 2003",
-        "num_citations": 197,
+        "num_citations": 198,
         "author_pub_id": "l6oz33MAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "Stratus: Cost-aware container scheduling in the public cloud",
         "pub_year": "2018",
         "citation": "Proceedings of the ACM symposium on cloud computing, 121-134, 2018",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "l6oz33MAAAAJ:kVjdVfd2voEC"
     },
     {
@@ -2333,7 +2334,7 @@
         "title": "Survivable information storage systems",
         "pub_year": "2000",
         "citation": "Computer 33 (8), 61-68, 2000",
-        "num_citations": 361,
+        "num_citations": 362,
         "author_pub_id": "l6oz33MAAAAJ:bKqednn6t2AC"
     },
     {
@@ -2395,7 +2396,7 @@
         "title": "TetriSched: global rescheduling with adaptive plan-ahead in dynamic heterogeneous clusters",
         "pub_year": "2016",
         "citation": "Proceedings of the Eleventh European Conference on Computer Systems, 1-16, 2016",
-        "num_citations": 235,
+        "num_citations": 240,
         "author_pub_id": "l6oz33MAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -2737,7 +2738,7 @@
         "title": "Verifying distributed erasure-coded data",
         "pub_year": "2007",
         "citation": "Proceedings of the twenty-sixth annual ACM symposium on Principles of …, 2007",
-        "num_citations": 148,
+        "num_citations": 152,
         "author_pub_id": "l6oz33MAAAAJ:bnK-pcrLprsC"
     },
     {
@@ -2758,7 +2759,7 @@
         "title": "Viyojit: Decoupling battery and DRAM capacities for battery-backed DRAM",
         "pub_year": "2017",
         "citation": "ACM SIGARCH Computer Architecture News 45 (2), 613-626, 2017",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "l6oz33MAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -2778,7 +2779,7 @@
         "title": "WineFS: a hugepage-aware file system for persistent memory that ages gracefully",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM SIGOPS 28th Symposium on Operating Systems Principles …, 2021",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "l6oz33MAAAAJ:HJSXoJQnj-YC"
     },
     {
@@ -2854,7 +2855,7 @@
         "title": "{ZNS}: Avoiding the block interface tax for flash-based {SSDs}",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 131,
+        "num_citations": 139,
         "author_pub_id": "l6oz33MAAAAJ:mWEH9CqjF64C"
     },
     {

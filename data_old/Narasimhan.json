@@ -65,14 +65,14 @@
         "title": "A survey of faults and fault-injection techniques in edge computing systems",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Edge Computing and Communications …, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "qyPWUBcAAAAJ:WC9gN4BGCRcC"
     },
     {
         "title": "A survey of security vulnerabilities in bluetooth low energy beacons",
         "pub_year": "2016",
         "citation": "Carnegie Mellon University Parallel Data Lab Technical Report CMU-PDL-16-109, 2016",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "qyPWUBcAAAAJ:mlAyqtXpCwEC"
     },
     {
@@ -159,14 +159,14 @@
         "title": "An Empirical Study of Resource-Stressing Faults in Edge-Computing Applications",
         "pub_year": "2023",
         "citation": "Proceedings of the 6th International Workshop on Edge Systems, Analytics and …, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "qyPWUBcAAAAJ:hsZV8lGYWTMC"
     },
     {
         "title": "An analysis of traces from a production MapReduce cluster",
         "pub_year": "2010",
         "citation": "Cluster, Cloud and Grid Computing (CCGrid), 2010 10th IEEE/ACM International …, 2010",
-        "num_citations": 445,
+        "num_citations": 447,
         "author_pub_id": "qyPWUBcAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Cachier: Edge-caching for recognition applications",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017",
-        "num_citations": 204,
+        "num_citations": 205,
         "author_pub_id": "qyPWUBcAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -533,7 +533,7 @@
         "title": "Failure diagnosis of complex systems",
         "pub_year": "2012",
         "citation": "Resilience Assessment and Evaluation, 2012",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "qyPWUBcAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -617,14 +617,14 @@
         "title": "Ganesha: black-box fault diagnosis for MapReduce systems",
         "pub_year": "2008",
         "citation": "Hot Metrics, 2008",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "qyPWUBcAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Ganesha: blackBox diagnosis of MapReduce systems",
         "pub_year": "2010",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 37 (3), 8-13, 2010",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "qyPWUBcAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -712,7 +712,7 @@
         "title": "Hyrax: Cloud computing on mobile devices using MapReduce",
         "pub_year": "2009",
         "citation": "Master's Thesis, Carnegie Mellon University, 2009",
-        "num_citations": 638,
+        "num_citations": 642,
         "author_pub_id": "qyPWUBcAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -747,7 +747,7 @@
         "title": "Krowd: A key-value store for crowded venues",
         "pub_year": "2015",
         "citation": "Proceedings of the 10th International Workshop on Mobility in the Evolving …, 2015",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "qyPWUBcAAAAJ:FAceZFleit8C"
     },
     {
@@ -994,7 +994,7 @@
         "title": "Performance troubleshooting in data centers: an annotated bibliography?",
         "pub_year": "2013",
         "citation": "ACM SIGOPS Operating Systems Review 47 (3), 50-62, 2013",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qyPWUBcAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -1050,7 +1050,7 @@
         "title": "Precog: prefetching for image recognition applications at the edge",
         "pub_year": "2017",
         "citation": "Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 1-13, 2017",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "qyPWUBcAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -1263,7 +1263,7 @@
         "title": "Sluice: Secure dissemination of code updates in sensor networks",
         "pub_year": "2006",
         "citation": "26th IEEE international conference on Distributed Computing Systems (ICDCS …, 2006",
-        "num_citations": 178,
+        "num_citations": 180,
         "author_pub_id": "qyPWUBcAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -1386,7 +1386,7 @@
         "title": "The Eternal system: An architecture for enterprise applications",
         "pub_year": "1999",
         "citation": "Proceedings Third International Enterprise Distributed Object Computing …, 1999",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "qyPWUBcAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -1484,7 +1484,7 @@
         "title": "To upgrade or not to upgrade: impact of online upgrades across multiple administrative domains",
         "pub_year": "2010",
         "citation": "ACM SIGPLAN Notices 45 (10), 865-876, 2010",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "qyPWUBcAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -1691,7 +1691,7 @@
         "title": "Why do upgrades fail and what can we do about it?: toward dependable, online upgrades in enterprise system",
         "pub_year": "2009",
         "citation": "ACM/IFIP/USENIX International conference on Middleware, 349-372, 2009",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "qyPWUBcAAAAJ:KxtntwgDAa4C"
     },
     {

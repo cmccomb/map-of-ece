@@ -52,7 +52,7 @@
         "title": "An ultra-low voltage chaos-based true random number generator for IoT applications",
         "pub_year": "2019",
         "citation": "Microelectronics journal 87, 55-64, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "hkAq-IIAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Bayesian neural networks for identification and classification of radio frequency transmitters using power amplifiers’ nonlinearity signatures",
         "pub_year": "2021",
         "citation": "IEEE Open Journal of Circuits and Systems 2, 457-471, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "hkAq-IIAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -87,14 +87,14 @@
         "title": "Class-E power amplifiers incorporating fingerprint augmentation with combinatorial security primitives for machine-learning-based authentication in 65 nm CMOS",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 69 (5), 1896-1909, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "hkAq-IIAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Deep Reinforcement Learning on FPGA for Self-Healing Cryogenic Power Amplifier Control",
         "pub_year": "2023",
         "citation": "IEEE Open Journal of Circuits and Systems 4, 176-187, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "hkAq-IIAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -117,6 +117,13 @@
         "citation": "2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2021",
         "num_citations": 2,
         "author_pub_id": "hkAq-IIAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+        "title": "Enhancing RF Fingerprint Generation in Power Amplifiers: Unequally Spaced Multi-Tone Design Approaches and Considerations",
+        "pub_year": "2024",
+        "citation": "IEEE Open Journal of the Solid-State Circuits Society, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Guest Editorial Special Issue on Selected Papers from IEEE BioCAS 2022",
@@ -182,7 +189,7 @@
         "title": "Intelligent electromagnetic sensors for non-invasive trojan detection",
         "pub_year": "2021",
         "citation": "Sensors 21 (24), 8288, 2021",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "hkAq-IIAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -217,14 +224,14 @@
         "title": "RF Analog Hardware Trojan Detection Through Electromagnetic Side-Channel",
         "pub_year": "2022",
         "citation": "IEEE Open Journal of Circuits and Systems 3, 237-251, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "hkAq-IIAAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "RF fingerprint classification with combinatorial-randomness-based power amplifiers and convolutional neural networks: Secure analog/RF electronics and electromagnetics",
         "pub_year": "2022",
         "citation": "IEEE Solid-State Circuits Magazine 14 (4), 28-36, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hkAq-IIAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -264,21 +271,21 @@
         "title": "Wideband two-way hybrid Doherty outphasing power amplifier",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 69 (2), 1415-1428, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "hkAq-IIAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Wireless Bayesian neural networks with self-assembly DNA memory and spin-torque oscillators",
         "pub_year": "2020",
         "citation": "2020 IEEE 63rd International Midwest Symposium on Circuits and Systems …, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "hkAq-IIAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Wireless actuation for soft electronics-free robots",
         "pub_year": "2023",
         "citation": "Proceedings of the 29th Annual International Conference on Mobile Computing …, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "hkAq-IIAAAAJ:bEWYMUwI8FkC"
     }
 ]

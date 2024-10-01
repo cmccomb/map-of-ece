@@ -31,7 +31,7 @@
         "title": "A 3D-stacked logic-in-memory accelerator for application-specific data intensive computing",
         "pub_year": "2013",
         "citation": "2013 IEEE international 3D systems integration conference (3DIC), 1-7, 2013",
-        "num_citations": 149,
+        "num_citations": 150,
         "author_pub_id": "ZnRhcFUAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A complexity-effective architecture for accelerating full-system multiprocessor simulations using FPGAs",
         "pub_year": "2008",
         "citation": "Proceedings of the 16th international ACM/SIGDA symposium on Field …, 2008",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "ZnRhcFUAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Achieving 100gbps intrusion prevention on a single server",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020",
-        "num_citations": 101,
+        "num_citations": 108,
         "author_pub_id": "ZnRhcFUAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -136,7 +136,7 @@
         "title": "Automatic generation of customized discrete Fourier transform IPs",
         "pub_year": "2005",
         "citation": "Proceedings of the 42nd annual Design Automation Conference, 471-474, 2005",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "ZnRhcFUAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Beyond Peak Performance: Comparing the Real Performance of AI-Optimized FPGAs and GPUs",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "ZnRhcFUAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -178,7 +178,7 @@
         "title": "CONNECT: re-examining conventional wisdom for designing nocs in the context of FPGAs",
         "pub_year": "2012",
         "citation": "Proceedings of the ACM/SIGDA international symposium on Field Programmable …, 2012",
-        "num_citations": 250,
+        "num_citations": 251,
         "author_pub_id": "ZnRhcFUAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -199,21 +199,21 @@
         "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
         "pub_year": "2011",
         "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011",
-        "num_citations": 207,
+        "num_citations": 208,
         "author_pub_id": "ZnRhcFUAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Commercial antivirus software effectiveness: an empirical study",
         "pub_year": "2011",
         "citation": "Computer 3 (44), 63-70, 2011",
-        "num_citations": 128,
+        "num_citations": 129,
         "author_pub_id": "ZnRhcFUAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Computer generation of hardware for linear digital signal processing transforms",
         "pub_year": "2012",
         "citation": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 17 (2 …, 2012",
-        "num_citations": 156,
+        "num_citations": 157,
         "author_pub_id": "ZnRhcFUAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -248,7 +248,7 @@
         "title": "Data reorganization in memory using 3D-stacked DRAM",
         "pub_year": "2015",
         "citation": "Proc. ACM/IEEE International Symposium on Computer Architecture (ISCA), 131-143, 2015",
-        "num_citations": 248,
+        "num_citations": 249,
         "author_pub_id": "ZnRhcFUAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -324,7 +324,7 @@
         "title": "Dual use of superscalar datapath for transient-fault detection and recovery",
         "pub_year": "2001",
         "citation": "Proceedings. 34th ACM/IEEE International Symposium on Microarchitecture …, 2001",
-        "num_citations": 290,
+        "num_citations": 291,
         "author_pub_id": "ZnRhcFUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "ZnRhcFUAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -366,7 +366,7 @@
         "title": "FFT Compiler: from math to efficient hardware HLDVT invited short paper",
         "pub_year": "2007",
         "citation": "2007 IEEE International High Level Design Validation and Test Workshop, 137-139, 2007",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "ZnRhcFUAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -380,7 +380,7 @@
         "title": "FFTs with near-optimal memory access through block data layouts",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ZnRhcFUAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -435,7 +435,7 @@
         "title": "Fingerprinting: Bounding soft-error detection latency and bandwidth",
         "pub_year": "2004",
         "citation": "ACM SIGOPS Operating Systems Review 38 (5), 224-234, 2004",
-        "num_citations": 246,
+        "num_citations": 247,
         "author_pub_id": "ZnRhcFUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -498,7 +498,7 @@
         "title": "GraphGen: An FPGA framework for vertex-centric graph computation",
         "pub_year": "2014",
         "citation": "2014 IEEE 22nd Annual International Symposium on Field-Programmable Custom …, 2014",
-        "num_citations": 162,
+        "num_citations": 163,
         "author_pub_id": "ZnRhcFUAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Hamlet architecture for parallel data reorganization in memory",
         "pub_year": "2015",
         "citation": "IEEE Micro 36 (1), 14-23, 2015",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ZnRhcFUAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -651,21 +651,21 @@
         "title": "MPI-StarT: Delivering network performance to numerical applications",
         "pub_year": "1998",
         "citation": "SC'98: Proceedings of the 1998 ACM/IEEE Conference on Supercomputing, 17-17, 1998",
-        "num_citations": 112,
+        "num_citations": 113,
         "author_pub_id": "ZnRhcFUAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Memory bandwidth efficient two-dimensional fast Fourier transform algorithm and implementation for large problem sizes",
         "pub_year": "2012",
         "citation": "2012 IEEE 20th International Symposium on Field-Programmable Custom …, 2012",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "ZnRhcFUAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Multi-bit error tolerant caches using two-dimensional error coding",
         "pub_year": "2007",
         "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007",
-        "num_citations": 372,
+        "num_citations": 373,
         "author_pub_id": "ZnRhcFUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -707,7 +707,7 @@
         "title": "Operation-centric hardware description and synthesis",
         "pub_year": "2000",
         "citation": "Massachusetts Institute of Technology, 2000",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "ZnRhcFUAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -742,7 +742,7 @@
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "ZnRhcFUAAAAJ:EkHepimYqZsC"
     },
     {
@@ -826,7 +826,7 @@
         "title": "Quantifying the benefits of dynamic partial reconfiguration for embedded vision applications",
         "pub_year": "2019",
         "citation": "2019 29th International Conference on Field Programmable Logic and …, 2019",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ZnRhcFUAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -882,7 +882,7 @@
         "title": "Reunion: Complexity-effective multicore redundancy",
         "pub_year": "2006",
         "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006",
-        "num_citations": 205,
+        "num_citations": 206,
         "author_pub_id": "ZnRhcFUAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -896,7 +896,7 @@
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 121,
+        "num_citations": 124,
         "author_pub_id": "ZnRhcFUAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -1057,7 +1057,7 @@
         "title": "The future of architectural simulation",
         "pub_year": "2010",
         "citation": "IEEE Micro 30 (3), 8-18, 2010",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ZnRhcFUAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -1078,7 +1078,7 @@
         "title": "Time-shared execution of realtime computer vision pipelines by dynamic partial reconfiguration",
         "pub_year": "2018",
         "citation": "2018 28th International Conference on Field Programmable Logic and …, 2018",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ZnRhcFUAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1099,7 +1099,7 @@
         "title": "Understanding the design space of dram-optimized hardware FFT accelerators",
         "pub_year": "2014",
         "citation": "2014 IEEE 25th International Conference on Application-Specific Systems …, 2014",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "ZnRhcFUAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -1141,7 +1141,7 @@
         "title": "{Ensō}: A Streaming Interface for {NIC-Application} Communication",
         "pub_year": "2023",
         "citation": "17th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2023",
-        "num_citations": 5,
+        "num_citations": 8,
         "author_pub_id": "ZnRhcFUAAAAJ:_5tno0g5mFcC"
     }
 ]

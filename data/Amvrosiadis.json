@@ -64,7 +64,7 @@
         "title": "Data storage research vision 2025 report",
         "pub_year": "2019",
         "citation": "Technical Report, 2019",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "ygiY7C8AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -99,7 +99,7 @@
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -187,14 +187,14 @@
         "title": "Mimir: Finding Cost-efficient Storage Configurations in the Public Cloud",
         "pub_year": "2023",
         "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ygiY7C8AAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -208,7 +208,7 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 152,
+        "num_citations": 153,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -222,7 +222,7 @@
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -250,7 +250,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -299,7 +299,7 @@
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
-        "num_citations": 318,
+        "num_citations": 320,
         "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -348,7 +348,7 @@
         "title": "Unleashing in-network computing on scientific workloads",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2009.02457, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "ygiY7C8AAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -362,21 +362,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 18,
+        "num_citations": 21,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 139,
+        "num_citations": 148,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

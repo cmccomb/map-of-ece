@@ -70,7 +70,7 @@
         "title": "A minimal intervention definition of reverse engineering a neural circuit",
         "pub_year": "2024",
         "citation": "2024 IEEE International Symposium on Information Theory Workshops (ISIT-W), 1-9, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:e9bUPLv0EjcC"
     },
     {
@@ -84,7 +84,7 @@
         "title": "A unified coded deep neural network training strategy based on generalized polydot codes",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "hklOXvkAAAAJ:s2G-WRnXBicC"
     },
     {
@@ -105,7 +105,7 @@
         "title": "Abnormalities in cortical pattern of coherence in migraine detected using ultra high-density EEG",
         "pub_year": "2021",
         "citation": "Brain Communications 3 (2), fcab061, 2021",
-        "num_citations": 19,
+        "num_citations": 22,
         "author_pub_id": "hklOXvkAAAAJ:8JTMrWI6FdcC"
     },
     {
@@ -153,7 +153,7 @@
         "title": "An Information-Theoretic View of EEG Sensing",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE 105 (2), 367-384, 2017",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "hklOXvkAAAAJ:L7vk9XBBNxgC"
     },
     {
@@ -209,7 +209,7 @@
         "title": "Automated Electrical Waveform Design for Cell-Type Selective Stimulation",
         "pub_year": "2023",
         "citation": "2023 11th International IEEE/EMBS Conference on Neural Engineering (NER), 1-6, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "hklOXvkAAAAJ:RJujIP1NYNUC"
     },
     {
@@ -230,7 +230,7 @@
         "title": "Building a culture of responsible neurotech: Neuroethics as socio-technical challenges",
         "pub_year": "2022",
         "citation": "Neuron 110 (13), 2057-2062, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "hklOXvkAAAAJ:JqN3CTdJtl0C"
     },
     {
@@ -259,6 +259,13 @@
         "citation": "",
         "num_citations": 2,
         "author_pub_id": "hklOXvkAAAAJ:tSVUDDkujAIC"
+    },
+    {
+        "title": "Cell-specific effects of temporal interference stimulation on cortical function",
+        "pub_year": "2024",
+        "citation": "Communications Biology 7 (1), 1076, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hklOXvkAAAAJ:qYOp8iumCsAC"
     },
     {
         "title": "Cell-type selective stimulation of neurons based on single neuron models",
@@ -320,14 +327,14 @@
         "title": "Coded convolution for parallel and distributed computing within a deadline",
         "pub_year": "2017",
         "citation": "2017 IEEE International Symposium on Information Theory (ISIT), 2403-2407, 2017",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "hklOXvkAAAAJ:BCdnXsLIVDwC"
     },
     {
         "title": "Coded distributed computing for inverse problems",
         "pub_year": "2017",
         "citation": "Advances in Neural Information Processing Systems 30, 2017",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "hklOXvkAAAAJ:bCjgOgSFrM0C"
     },
     {
@@ -418,7 +425,7 @@
         "title": "Cortical hyper‐excitability in migraine in response to chromatic patterns",
         "pub_year": "2019",
         "citation": "Headache: The Journal of Head and Face Pain 59 (10), 1773-1787, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "hklOXvkAAAAJ:oFn-K-OQSCAC"
     },
     {
@@ -432,14 +439,14 @@
         "title": "Current conceptual understanding of the epileptogenic network from stereoelectroencephalography-based connectivity inferences",
         "pub_year": "2020",
         "citation": "Frontiers in Neurology 11, 569699, 2020",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "hklOXvkAAAAJ:gkldIfsazJcC"
     },
     {
         "title": "Demystifying the Witsenhausen counterexample",
         "pub_year": "2010",
         "citation": "IEEE Control Systems Magazine 1066, 2010",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "hklOXvkAAAAJ:mB3voiENLucC"
     },
     {
@@ -473,7 +480,7 @@
         "title": "Do single neuron models exhibit temporal interference stimulation?",
         "pub_year": "2018",
         "citation": "2018 IEEE Biomedical Circuits and Systems Conference (BioCAS), 1-4, 2018",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "hklOXvkAAAAJ:YGhAHpnIhDoC"
     },
     {
@@ -534,7 +541,7 @@
         "title": "Effect of skull thickness and conductivity on current propagation for noninvasively injected currents",
         "pub_year": "2021",
         "citation": "Journal of Neural Engineering 18 (4), 046042, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "hklOXvkAAAAJ:mgoTDWlsYNUC"
     },
     {
@@ -548,7 +555,7 @@
         "title": "Energy Harvesting Wireless Communications: A Review of Recent Advances",
         "pub_year": "2015",
         "citation": "IEEE Journal on Selected Areas in Communications 33 (3), 360-381, 2015",
-        "num_citations": 984,
+        "num_citations": 985,
         "author_pub_id": "hklOXvkAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -617,7 +624,7 @@
         "title": "Enhanced spatiotemporal resolution imaging of neuronal activity using joint electroencephalography and diffuse optical tomography",
         "pub_year": "2021",
         "citation": "Neurophotonics 8 (1), 015002-015002, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "hklOXvkAAAAJ:wlzmIqt2EaEC"
     },
     {
@@ -633,6 +640,13 @@
         "citation": "",
         "num_citations": 7,
         "author_pub_id": "hklOXvkAAAAJ:blknAaTinKkC"
+    },
+    {
+        "title": "Exploring the impact and influence of melanin on frequency-domain near-infrared spectroscopy measurements",
+        "pub_year": "2024",
+        "citation": "Journal of biomedical optics 29 (Suppl 3), S33310, 2024",
+        "num_citations": 0,
+        "author_pub_id": "hklOXvkAAAAJ:T_0gP6tLVL0C"
     },
     {
         "title": "Extracting unique information through markov relations",
@@ -805,7 +819,7 @@
         "title": "HingePlace: Focused transcranial electrical current stimulation that allows subthreshold fields outside the stimulation target",
         "pub_year": "2021",
         "citation": "2021 43rd Annual International Conference of the IEEE Engineering in …, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:uWy0R8PweswC"
     },
     {
@@ -1086,7 +1100,7 @@
         "title": "Neural silences can be localized rapidly using noninvasive scalp EEG",
         "pub_year": "2021",
         "citation": "Communications biology 4 (1), 429, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "hklOXvkAAAAJ:qSd0DAb9jMoC"
     },
     {
@@ -1114,7 +1128,7 @@
         "title": "Noninvasive and reliable automated detection of spreading depolarization in severe traumatic brain injury using scalp EEG",
         "pub_year": "2023",
         "citation": "Communications Medicine 3 (1), 113, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "hklOXvkAAAAJ:lPDSu1ZU3VAC"
     },
     {
@@ -1128,7 +1142,7 @@
         "title": "Novel electrodes for reliable EEG recordings on coarse and curly hair",
         "pub_year": "2020",
         "citation": "2020 42nd annual international conference of the IEEE engineering in …, 2020",
-        "num_citations": 86,
+        "num_citations": 88,
         "author_pub_id": "hklOXvkAAAAJ:5bfplxN71z4C"
     },
     {
@@ -1162,7 +1176,7 @@
         "title": "On the optimal recovery threshold of coded matrix multiplication",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Information Theory 66 (1), 278-301, 2019",
-        "num_citations": 278,
+        "num_citations": 281,
         "author_pub_id": "hklOXvkAAAAJ:RJNGbXJAtMsC"
     },
     {
@@ -1197,7 +1211,7 @@
         "title": "PATHFINDER: Designing Stimulus for Neuromodulation Through Data-Driven Inverse Estimation of Non-Linear Functions",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 70 (12), 3300-3311, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "hklOXvkAAAAJ:Pqt4MY__2vwC"
     },
     {
@@ -1295,14 +1309,14 @@
         "title": "Shannon meets Tesla: Wireless information and power transfer.",
         "pub_year": "2010",
         "citation": "IEEE International Symposium on Information Theory (ISIT), 2363-2367, 2010",
-        "num_citations": 1212,
+        "num_citations": 1214,
         "author_pub_id": "hklOXvkAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Short-dot: Computing large linear transforms distributedly using coded short dot products",
         "pub_year": "2016",
         "citation": "Advances In Neural Information Processing Systems 29, 2016",
-        "num_citations": 417,
+        "num_citations": 420,
         "author_pub_id": "hklOXvkAAAAJ:rzmi0EmCOGEC"
     },
     {
@@ -1323,7 +1337,7 @@
         "title": "Stimulus: Noninvasive dynamic patterns of neurostimulation using spatio-temporal interference",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Biomedical Engineering 67 (3), 726-737, 2019",
-        "num_citations": 57,
+        "num_citations": 61,
         "author_pub_id": "hklOXvkAAAAJ:j7XjBeKFbTsC"
     },
     {
@@ -1398,7 +1412,7 @@
         "title": "The mechanics of temporal interference stimulation",
         "pub_year": "2020",
         "citation": "BioRxiv, 2020.04. 23.051870, 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "hklOXvkAAAAJ:UarirCmVI0EC"
     },
     {
@@ -1555,7 +1569,7 @@
         "title": "Very high density EEG elucidates spatiotemporal aspects of early visual processing",
         "pub_year": "2017",
         "citation": "Scientific reports 7 (1), 16248, 2017",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "hklOXvkAAAAJ:IyxfXMz2bNAC"
     },
     {

@@ -3,7 +3,7 @@
         "title": "A Learning and Control Perspective for Microfinance",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2207.12631, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jnmyOEYAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -31,7 +31,7 @@
         "title": "Adaptive safe control for driving in uncertain environments",
         "pub_year": "2022",
         "citation": "2022 IEEE Intelligent Vehicles Symposium (IV), 1662-1668, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "jnmyOEYAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -77,6 +77,13 @@
         "author_pub_id": "jnmyOEYAAAAJ:hFOr9nPyWt4C"
     },
     {
+        "title": "Autonomous Drifting Based on Maximal Safety Probability Learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.03160, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:ldfaerwXgEUC"
+    },
+    {
         "title": "Axon Arbor Trade-off Between Wiring Cost, Delay, and Synchronization in Neuronal Networks",
         "pub_year": "2021",
         "citation": "2021 55th Annual Conference on Information Sciences and Systems (CISS), 1-6, 2021",
@@ -101,7 +108,7 @@
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
         "pub_year": "2024",
         "citation": "Building and Environment 247, 111053, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "jnmyOEYAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -136,7 +143,7 @@
         "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences, 2021",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "jnmyOEYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -170,7 +177,7 @@
     {
         "title": "Fast Bandit-Based Policy Adaptation in Diverse Environments",
         "citation": "Available at SSRN 4773505, 0",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -254,7 +261,7 @@
         "title": "Myopically Verifiable Probabilistic Certificates for Safe Control and Learning",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.16883, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -274,7 +281,7 @@
         "title": "Physics-informed RL for Maximal Safety Probability Estimation",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.16391, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:lSLTfruPkqcC"
     },
     {
@@ -283,6 +290,13 @@
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (19), 21699 …, 2024",
         "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:GnPB-g6toBAC"
+    },
+    {
+        "title": "Predictive Control and Regret Analysis of Non-Stationary MDP with Look-ahead Information",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.08434, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Probabilistic safety certificate for multi-agent systems",
@@ -309,7 +323,7 @@
         "title": "Safe Control in the Presence of Stochastic Uncertainties",
         "pub_year": "2021",
         "citation": "60th IEEE Conference on Decision and Control (CDC), 6640-6645, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "jnmyOEYAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -330,7 +344,7 @@
         "title": "Smoothed least-laxity-first algorithm for EV charging",
         "pub_year": "2017",
         "citation": "Proceedings of the Eighth International Conference on Future Energy Systems …, 2017",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "jnmyOEYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -344,7 +358,7 @@
         "title": "Smoothed least-laxity-first algorithm for electric vehicle charging: Online decision and performance analysis with resource augmentation",
         "pub_year": "2021",
         "citation": "IEEE transactions on smart grid 13 (3), 2209-2217, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jnmyOEYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -365,7 +379,7 @@
         "title": "Towards proactive safe human-robot collaborations via data-efficient conditional behavior prediction",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 12956 …, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "jnmyOEYAAAAJ:YFjsv_pBGBYC"
     },
     {

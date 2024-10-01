@@ -9,21 +9,21 @@
         "title": "A Dynamic Reweighting Strategy For Fair Federated Learning",
         "pub_year": "2022",
         "citation": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "yqIoH34AAAAJ:xtoqd-5pKcoC"
     },
     {
         "title": "A Field Guide to Federated Optimization",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2107.06917, 2021",
-        "num_citations": 348,
+        "num_citations": 361,
         "author_pub_id": "yqIoH34AAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "A Novel Framework for the Analysis and Design of Heterogeneous Federated Learning",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Signal Processing 69, 5234-5249, 2021",
-        "num_citations": 74,
+        "num_citations": 77,
         "author_pub_id": "yqIoH34AAAAJ:LI9QrySNdTsC"
     },
     {
@@ -51,7 +51,7 @@
         "title": "Accelerating Deep Learning by Focusing on the Biggest Losers",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1910.00762, 2019",
-        "num_citations": 109,
+        "num_citations": 114,
         "author_pub_id": "yqIoH34AAAAJ:uLbwQdceFCQC"
     },
     {
@@ -65,7 +65,7 @@
         "title": "Adaptive communication strategies to achieve the best error-runtime trade-off in local-update SGD",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1810.08313, 2018",
-        "num_citations": 252,
+        "num_citations": 259,
         "author_pub_id": "yqIoH34AAAAJ:W5xh706n7nkC"
     },
     {
@@ -79,14 +79,14 @@
         "title": "Adaptive quantization of model updates for communication-efficient federated learning",
         "pub_year": "2021",
         "citation": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
-        "num_citations": 103,
+        "num_citations": 111,
         "author_pub_id": "yqIoH34AAAAJ:AvfA0Oy_GE0C"
     },
     {
         "title": "Advances and open problems in federated learning",
         "pub_year": "2021",
         "citation": "Foundations and Trends® in Machine Learning 14 (1–2), 1-210, 2021",
-        "num_citations": 5850,
+        "num_citations": 6044,
         "author_pub_id": "yqIoH34AAAAJ:EkHepimYqZsC"
     },
     {
@@ -107,7 +107,7 @@
         "title": "Advances and open problems in federated learning. arXiv 2019",
         "pub_year": "1912",
         "citation": "arXiv preprint arXiv:1912.04977, 1912",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "yqIoH34AAAAJ:HtEfBTGE9r8C"
     },
     {
@@ -121,7 +121,7 @@
         "title": "Bandit-based Communication-Efficient Client Selection Strategies for Federated Learning",
         "pub_year": "2020",
         "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 1066-1069, 2020",
-        "num_citations": 68,
+        "num_citations": 75,
         "author_pub_id": "yqIoH34AAAAJ:Z5m8FVwuT1cC"
     },
     {
@@ -149,7 +149,7 @@
         "title": "Client selection in federated learning: Convergence analysis and power-of-choice selection strategies",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2010.01243, 2020",
-        "num_citations": 412,
+        "num_citations": 431,
         "author_pub_id": "yqIoH34AAAAJ:IUKN3-7HHlwC"
     },
     {
@@ -170,7 +170,7 @@
         "title": "Communication-Efficient and Model-Heterogeneous Personalized Federated Learning via Clustered Knowledge Transfer",
         "pub_year": "2023",
         "citation": "IEEE Journal of Selected Topics in Signal Processing 17 (1), 234-247, 2023",
-        "num_citations": 36,
+        "num_citations": 40,
         "author_pub_id": "yqIoH34AAAAJ:0izLItjtcgwC"
     },
     {
@@ -191,21 +191,21 @@
         "title": "Cooperative SGD: A unified framework for the design and analysis of communication-efficient SGD algorithms",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1808.07576, 2018",
-        "num_citations": 324,
+        "num_citations": 329,
         "author_pub_id": "yqIoH34AAAAJ:OcBU2YAGkTUC"
     },
     {
         "title": "Cooperative SGD: A unified framework for the design and analysis of local-update SGD algorithms",
         "pub_year": "2021",
         "citation": "Journal of Machine Learning Research 22 (213), 1-50, 2021",
-        "num_citations": 276,
+        "num_citations": 287,
         "author_pub_id": "yqIoH34AAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Correlated combinatorial bandits for online resource allocation",
         "pub_year": "2022",
         "citation": "Proceedings of the Twenty-Third International Symposium on Theory …, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "yqIoH34AAAAJ:XoXfffV-tXoC"
     },
     {
@@ -282,21 +282,21 @@
         "title": "Efficient Straggler Replication in Large-Scale Parallel Computing",
         "pub_year": "2019",
         "citation": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems …, 2019",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "yqIoH34AAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Efficient Straggler Replication in Large-scale Parallel Computing",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1503.03128, 2015",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "yqIoH34AAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Efficient redundancy techniques for latency reduction in cloud systems",
         "pub_year": "2017",
         "citation": "ACM Transactions on Modeling and Performance Evaluation of Computing Systems …, 2017",
-        "num_citations": 154,
+        "num_citations": 159,
         "author_pub_id": "yqIoH34AAAAJ:eflP2zaiRacC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Efficient task replication for fast response times in parallel computation",
         "pub_year": "2014",
         "citation": "The 2014 ACM international conference on Measurement and modeling of …, 2014",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "yqIoH34AAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -351,7 +351,7 @@
         "title": "FedExP: Speeding up Federated Averaging Via Extrapolation",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2301.09604, 2023",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "yqIoH34AAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -365,7 +365,7 @@
         "title": "FedLite: A Scalable Approach for Federated Learning on Resource-constrained Clients",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2201.11865, 2022",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "yqIoH34AAAAJ:e_rmSamDkqQC"
     },
     {
@@ -393,21 +393,21 @@
         "title": "Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2402.05876, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "yqIoH34AAAAJ:cWzG1nlazyYC"
     },
     {
         "title": "Federated Reinforcement Learning: Linear Speedup Under Markovian Sampling",
         "pub_year": "2022",
         "citation": "International Conference on Machine Learning, 10997-11057, 2022",
-        "num_citations": 57,
+        "num_citations": 62,
         "author_pub_id": "yqIoH34AAAAJ:0N-VGjzr574C"
     },
     {
         "title": "Federated learning under distributed concept drift",
         "pub_year": "2023",
         "citation": "International Conference on Artificial Intelligence and Statistics, 5834-5853, 2023",
-        "num_citations": 42,
+        "num_citations": 44,
         "author_pub_id": "yqIoH34AAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -421,7 +421,7 @@
         "title": "Fedvarp: Tackling the variance due to partial client participation in federated learning",
         "pub_year": "2022",
         "citation": "Uncertainty in Artificial Intelligence, 906-916, 2022",
-        "num_citations": 43,
+        "num_citations": 47,
         "author_pub_id": "yqIoH34AAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -435,21 +435,14 @@
         "title": "Heterogeneous Ensemble Knowledge Transfer for Training Large Models in Federated Learning",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2204.12703, 2022",
-        "num_citations": 96,
+        "num_citations": 106,
         "author_pub_id": "yqIoH34AAAAJ:Dip1O2bNi0gC"
-    },
-    {
-        "title": "Heterogeneous LoRA for Federated Fine-tuning of On-device Foundation Models",
-        "pub_year": "2023",
-        "citation": "International Workshop on Federated Learning in the Age of Foundation Models …, 2023",
-        "num_citations": 9,
-        "author_pub_id": "yqIoH34AAAAJ:dBIO0h50nwkC"
     },
     {
         "title": "Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2401.06432, 2024",
-        "num_citations": 2,
+        "num_citations": 16,
         "author_pub_id": "yqIoH34AAAAJ:4vMrXwiscB8C"
     },
     {
@@ -477,7 +470,7 @@
         "title": "Job dispatching policies for queueing systems with unknown service rates",
         "pub_year": "2021",
         "citation": "Proceedings of the Twenty-second International Symposium on Theory …, 2021",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "yqIoH34AAAAJ:TIZ-Mc8IlK0C"
     },
     {
@@ -505,7 +498,7 @@
         "title": "Local or Global: Selective Knowledge Assimilation for Federated Learning with Limited Labels",
         "pub_year": "2023",
         "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "yqIoH34AAAAJ:WJVC3Jt7v1AC"
     },
     {
@@ -519,14 +512,14 @@
         "title": "MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1905.09435, 2019",
-        "num_citations": 181,
+        "num_citations": 185,
         "author_pub_id": "yqIoH34AAAAJ:ZuybSZzF8UAC"
     },
     {
         "title": "MLSys: The New Frontier of Machine Learning Systems",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1904.03257, 2019",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "yqIoH34AAAAJ:fEOibwPWpKIC"
     },
     {
@@ -547,14 +540,14 @@
         "title": "Machine learning on volatile instances",
         "pub_year": "2020",
         "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 139-148, 2020",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "yqIoH34AAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Mariana Raykova, Dawn Song, Weikang Song, Sebastian U",
         "pub_year": "2021",
         "citation": "Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth …, 2021",
-        "num_citations": 181,
+        "num_citations": 189,
         "author_pub_id": "yqIoH34AAAAJ:Ri6SYOTghG4C"
     },
     {
@@ -568,14 +561,14 @@
         "title": "Matcha: A Matching-Based Link Scheduling Strategy to Speed up Distributed Optimization",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Signal Processing 70, 5208-5221, 2022",
-        "num_citations": 12,
+        "num_citations": 15,
         "author_pub_id": "yqIoH34AAAAJ:YohjEiUPhakC"
     },
     {
         "title": "Matchmaker: Data Drift Mitigation in Machine Learning for Large-Scale Systems",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 77-94, 2022",
-        "num_citations": 61,
+        "num_citations": 68,
         "author_pub_id": "yqIoH34AAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -589,14 +582,14 @@
         "title": "Multi-Model Federated Learning with Provable Guarantees",
         "pub_year": "2023",
         "citation": "Performance Evaluation Methodologies and Tools: 15th EAI International …, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "yqIoH34AAAAJ:PVjk1bu6vJQC"
     },
     {
         "title": "Multi-armed bandits with correlated arms",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021",
-        "num_citations": 58,
+        "num_citations": 60,
         "author_pub_id": "yqIoH34AAAAJ:IRz6iEL74y4C"
     },
     {
@@ -638,14 +631,14 @@
         "title": "On the Unreasonable Effectiveness of Federated Averaging with Heterogeneous Data",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2206.04723, 2022",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "yqIoH34AAAAJ:edDO8Oi4QzsC"
     },
     {
         "title": "On the convergence of federated averaging with cyclic client participation",
         "pub_year": "2023",
         "citation": "International Conference on Machine Learning, 5677-5721, 2023",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "yqIoH34AAAAJ:4hFrxpcac9AC"
     },
     {
@@ -707,7 +700,7 @@
         "title": "Overlap local-SGD: An algorithmic approach to hide communication delays in distributed SGD",
         "pub_year": "2020",
         "citation": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "yqIoH34AAAAJ:35r97b3x0nAC"
     },
     {
@@ -727,7 +720,7 @@
         "title": "Personalized Federated Learning for Heterogeneous Clients with Clustered Knowledge Transfer",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2109.08119, 2021",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "yqIoH34AAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -762,7 +755,7 @@
         "title": "Queues with Redundancy: Latency-Cost Analysis.",
         "pub_year": "2015",
         "citation": "SIGMETRICS Performance Evaluation Review 43 (2), 54-56, 2015",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "yqIoH34AAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -776,7 +769,7 @@
         "title": "Rateless Codes for Distributed Non-linear Computations",
         "pub_year": "2021",
         "citation": "2021 11th International Symposium on Topics in Coding (ISTC), 1-5, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yqIoH34AAAAJ:M7yex6snE4oC"
     },
     {
@@ -790,14 +783,14 @@
         "title": "Rateless Sum-Recovery Codes For Distributed Non-Linear Computations",
         "pub_year": "2022",
         "citation": "2022 IEEE Information Theory Workshop (ITW), 160-165, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "yqIoH34AAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Rateless codes for near-perfect load balancing in distributed matrix-vector multiplication",
         "pub_year": "2020",
         "citation": "Abstracts of the 2020 SIGMETRICS/Performance Joint International Conference …, 2020",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "yqIoH34AAAAJ:vbGhcppDl1QC"
     },
     {
@@ -894,7 +887,7 @@
         "title": "Slow and stale gradients can win the race: Error-runtime trade-offs in distributed SGD",
         "pub_year": "2018",
         "citation": "International Conference on Artificial Intelligence and Statistics, 803-812, 2018",
-        "num_citations": 194,
+        "num_citations": 196,
         "author_pub_id": "yqIoH34AAAAJ:Mojj43d5GZwC"
     },
     {
@@ -936,7 +929,7 @@
         "title": "Tackling the objective inconsistency problem in heterogeneous federated optimization",
         "pub_year": "2020",
         "citation": "Advances in neural information processing systems 33, 7611-7623, 2020",
-        "num_citations": 1203,
+        "num_citations": 1267,
         "author_pub_id": "yqIoH34AAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -950,7 +943,7 @@
         "title": "The blessing of heterogeneity in federated q-learning: Linear speedup and beyond",
         "pub_year": "2023",
         "citation": "International Conference on Machine Learning, 37157-37216, 2023",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "yqIoH34AAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -964,7 +957,7 @@
         "title": "To federate or not to federate: Incentivizing client participation in federated learning",
         "pub_year": "2022",
         "citation": "Workshop on Federated Learning: Recent Advances and New Challenges (in …, 2022",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "yqIoH34AAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -978,14 +971,14 @@
         "title": "Towards understanding biased client selection in federated learning",
         "pub_year": "2022",
         "citation": "International Conference on Artificial Intelligence and Statistics, 10351-10375, 2022",
-        "num_citations": 161,
+        "num_citations": 177,
         "author_pub_id": "yqIoH34AAAAJ:OTTXONDVkokC"
     },
     {
         "title": "Using straggler replication to reduce latency in large-scale parallel computing",
         "pub_year": "2015",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 43 (3), 7-11, 2015",
-        "num_citations": 166,
+        "num_citations": 167,
         "author_pub_id": "yqIoH34AAAAJ:t6usbXjVLHcC"
     }
 ]

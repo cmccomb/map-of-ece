@@ -20,6 +20,13 @@
         "author_pub_id": "-syEyyAAAAAJ:fPk4N6BV_jEC"
     },
     {
+        "title": "A 1.19 GHz 9.52 Gsamples/sec Radix-8 FFT Hardware Accelerator in 28nm",
+        "pub_year": "2024",
+        "citation": "2024 IEEE Hot Chips 36 Symposium (HCS), 1-1, 2024",
+        "num_citations": 0,
+        "author_pub_id": "-syEyyAAAAAJ:5ugPr518TE4C"
+    },
+    {
         "title": "A 10.33 μJ/encryption Homomorphic Encryption Engine in 28nm CMOS with 4096-degree 109-bit Polynomials for Resource-Constrained IoT Clients",
         "pub_year": "2023",
         "citation": "ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC …, 2023",
@@ -127,7 +134,7 @@
         "title": "ASIC accelerator in 28 nm for the post-quantum digital signature scheme XMSS",
         "pub_year": "2020",
         "citation": "2020 IEEE 38th International Conference on Computer Design (ICCD), 656-662, 2020",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "-syEyyAAAAAJ:738O_yMBCRsC"
     },
     {
@@ -169,7 +176,7 @@
         "title": "Attack resistant sense amplifier based PUFs (SA-PUF) with deterministic and controllable reliability of PUF responses",
         "pub_year": "2010",
         "citation": "2010 IEEE international symposium on hardware-oriented security and trust …, 2010",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "-syEyyAAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -197,7 +204,7 @@
         "title": "Characterizing, exploiting, and mitigating vulnerabilities in MLC NAND flash memory programming",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1805.03291, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "-syEyyAAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -210,7 +217,7 @@
         "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
         "pub_year": "2011",
         "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011",
-        "num_citations": 208,
+        "num_citations": 209,
         "author_pub_id": "-syEyyAAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -238,7 +245,7 @@
         "title": "Data retention in MLC NAND flash memory: Characterization, optimization, and recovery",
         "pub_year": "2015",
         "citation": "2015 IEEE 21st International Symposium on High Performance Computer …, 2015",
-        "num_citations": 337,
+        "num_citations": 341,
         "author_pub_id": "-syEyyAAAAAJ:blknAaTinKkC"
     },
     {
@@ -273,14 +280,14 @@
         "title": "Digital circuit design challenges and opportunities in the era of nanoscale CMOS",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (2), 343-365, 2008",
-        "num_citations": 269,
+        "num_citations": 271,
         "author_pub_id": "-syEyyAAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "ERROR ANALYSIS AND RETENTION-AWARE ERROR MANAGEMENT FOR NAND FLASH MEMORY.",
         "pub_year": "2013",
         "citation": "Intel Technology Journal 17 (1), 2013",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "-syEyyAAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -294,7 +301,7 @@
         "title": "Error patterns in MLC NAND flash memory: Measurement, characterization, and analysis",
         "pub_year": "2012",
         "citation": "2012 Design, Automation & Test in Europe Conference & Exhibition (DATE), 521-526, 2012",
-        "num_citations": 479,
+        "num_citations": 482,
         "author_pub_id": "-syEyyAAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -349,7 +356,7 @@
         "title": "Flash correct-and-refresh: Retention-aware error management for increased flash memory lifetime",
         "pub_year": "2012",
         "citation": "2012 IEEE 30th International Conference on Computer Design (ICCD), 94-101, 2012",
-        "num_citations": 308,
+        "num_citations": 309,
         "author_pub_id": "-syEyyAAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -363,7 +370,7 @@
         "title": "Hardware redaction via designer-directed fine-grained eFPGA insertion",
         "pub_year": "2021",
         "citation": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2021",
-        "num_citations": 41,
+        "num_citations": 43,
         "author_pub_id": "-syEyyAAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -423,7 +430,7 @@
         "title": "Logic locking-connecting theory and practice",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "-syEyyAAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -437,7 +444,7 @@
         "title": "Low-power SRAM design using half-swing pulse-mode techniques",
         "pub_year": "1998",
         "citation": "IEEE Journal of Solid-State Circuits 33 (11), 1659-1671, 1998",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "-syEyyAAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -470,7 +477,7 @@
         "title": "Mismatch analysis and statistical design at 65 nm and below",
         "pub_year": "2008",
         "citation": "2008 IEEE Custom Integrated Circuits Conference, 9-12, 2008",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "-syEyyAAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -498,7 +505,7 @@
         "title": "Multi-bit error tolerant caches using two-dimensional error coding",
         "pub_year": "2007",
         "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007",
-        "num_citations": 373,
+        "num_citations": 374,
         "author_pub_id": "-syEyyAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -512,7 +519,7 @@
         "title": "Neighbor-cell assisted error correction for MLC NAND flash memories",
         "pub_year": "2014",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 42 (1), 491-504, 2014",
-        "num_citations": 105,
+        "num_citations": 106,
         "author_pub_id": "-syEyyAAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -540,7 +547,7 @@
         "title": "Program interference in MLC NAND flash memory: Characterization, modeling, and mitigation",
         "pub_year": "2013",
         "citation": "2013 IEEE 31st International Conference on Computer Design (ICCD), 123-130, 2013",
-        "num_citations": 262,
+        "num_citations": 263,
         "author_pub_id": "-syEyyAAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -600,14 +607,14 @@
         "title": "Read disturb errors in MLC NAND flash memory: Characterization, mitigation, and recovery",
         "pub_year": "2015",
         "citation": "2015 45th Annual IEEE/IFIP International Conference on Dependable Systems …, 2015",
-        "num_citations": 240,
+        "num_citations": 241,
         "author_pub_id": "-syEyyAAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Reliability enhancement of bi-stable PUFs in 65nm bulk CMOS",
         "pub_year": "2012",
         "citation": "2012 IEEE International Symposium on Hardware-Oriented Security and Trust, 25-30, 2012",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "-syEyyAAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -688,7 +695,7 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 341,
+        "num_citations": 342,
         "author_pub_id": "-syEyyAAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -709,7 +716,7 @@
         "title": "Smart memories: A modular reconfigurable architecture",
         "pub_year": "2000",
         "citation": "Proceedings of the 27th annual international symposium on Computer …, 2000",
-        "num_citations": 615,
+        "num_citations": 616,
         "author_pub_id": "-syEyyAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -736,14 +743,14 @@
         "title": "The future of wires",
         "pub_year": "2001",
         "citation": "Proceedings of the IEEE 89 (4), 490-504, 2001",
-        "num_citations": 1965,
+        "num_citations": 1966,
         "author_pub_id": "-syEyyAAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Threshold voltage distribution in MLC NAND flash memory: Characterization, analysis, and modeling",
         "pub_year": "2013",
         "citation": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2013",
-        "num_citations": 387,
+        "num_citations": 390,
         "author_pub_id": "-syEyyAAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -785,7 +792,7 @@
         "title": "Vulnerabilities in MLC NAND flash memory programming: Experimental analysis, exploits, and mitigation techniques",
         "pub_year": "2017",
         "citation": "2017 IEEE International Symposium on High Performance Computer Architecture …, 2017",
-        "num_citations": 164,
+        "num_citations": 167,
         "author_pub_id": "-syEyyAAAAAJ:a0OBvERweLwC"
     },
     {

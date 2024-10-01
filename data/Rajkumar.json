@@ -92,7 +92,7 @@
         "title": "A cyber–physical future",
         "pub_year": "2012",
         "citation": "Proceedings of the IEEE 100 (Special Centennial Issue), 1309-1312, 2012",
-        "num_citations": 126,
+        "num_citations": 128,
         "author_pub_id": "6JU9KqgAAAAJ:a0OBvERweLwC"
     },
     {
@@ -127,7 +127,7 @@
         "title": "A loadable real-time scheduler suite for multicore platforms",
         "pub_year": "2009",
         "citation": "Tech. Report CMU, 2009",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "6JU9KqgAAAAJ:rO6llkc54NcC"
     },
     {
@@ -162,7 +162,7 @@
         "title": "A multi-sensor fusion system for moving object detection and tracking in urban driving environments",
         "pub_year": "2014",
         "citation": "2014 IEEE international conference on robotics and automation (ICRA), 1836-1843, 2014",
-        "num_citations": 589,
+        "num_citations": 598,
         "author_pub_id": "6JU9KqgAAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -183,7 +183,7 @@
         "title": "A real-time locking protocol",
         "pub_year": "1991",
         "citation": "IEEE Transactions on computers 40 (7), 793-800, 1991",
-        "num_citations": 303,
+        "num_citations": 304,
         "author_pub_id": "6JU9KqgAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -204,7 +204,7 @@
         "title": "A resource allocation model for QoS management",
         "pub_year": "1997",
         "citation": "Proceedings Real-Time Systems Symposium, 298-307, 1997",
-        "num_citations": 684,
+        "num_citations": 686,
         "author_pub_id": "6JU9KqgAAAAJ:5awf1xo2G04C"
     },
     {
@@ -357,7 +357,7 @@
         "title": "An improved genetic algorithm for the flowshop scheduling problem",
         "pub_year": "2009",
         "citation": "International Journal of Production Research 47 (1), 233-249, 2009",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "6JU9KqgAAAAJ:2ywjKiB__4kC"
     },
     {
@@ -426,7 +426,7 @@
         "title": "Analytical enhancements and practical insights for MPCP with self-suspensions",
         "pub_year": "2018",
         "citation": "2018 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS …, 2018",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "6JU9KqgAAAAJ:LdasjJ6CEcoC"
     },
     {
@@ -459,7 +459,7 @@
         "title": "Autonomous driving in urban environments: Boss and the urban challenge",
         "pub_year": "2008",
         "citation": "Journal of field Robotics 25 (8), 425-466, 2008",
-        "num_citations": 2442,
+        "num_citations": 2468,
         "author_pub_id": "6JU9KqgAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -515,7 +515,7 @@
         "title": "Bounding memory interference delay in COTS-based multi-core systems",
         "pub_year": "2014",
         "citation": "2014 IEEE 19th Real-Time and Embedded Technology and Applications Symposium …, 2014",
-        "num_citations": 300,
+        "num_citations": 301,
         "author_pub_id": "6JU9KqgAAAAJ:_Re3VWB3Y0AC"
     },
     {
@@ -543,7 +543,7 @@
         "title": "Characterization of Natural Cellulosic Fiber from Cereus Hildmannianus",
         "pub_year": "2021",
         "citation": "Journal of Natural Fibers 18 (3), 343-354, 2021",
-        "num_citations": 53,
+        "num_citations": 56,
         "author_pub_id": "6JU9KqgAAAAJ:A8cqit5AE6sC"
     },
     {
@@ -564,7 +564,7 @@
         "title": "CoSim: A Co-Simulation Framework for Testing Autonomous Vehicles in Adverse Operating Conditions",
         "pub_year": "2023",
         "citation": "2023 IEEE 26th International Conference on Intelligent Transportation …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "6JU9KqgAAAAJ:8dzOF9BpDQoC"
     },
     {
@@ -616,10 +616,17 @@
         "author_pub_id": "6JU9KqgAAAAJ:hqOjcs7Dif8C"
     },
     {
+        "title": "ContextVLM: Zero-Shot and Few-Shot Context Understanding for Autonomous Driving using Vision Language Models",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.00301, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6JU9KqgAAAAJ:RtRctb2lSbAC"
+    },
+    {
         "title": "ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions",
         "pub_year": "2024",
         "citation": "2024 IEEE Intelligent Vehicles Symposium (IV), 1534-1541, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "6JU9KqgAAAAJ:mel-f30kHHgC"
     },
     {
@@ -654,7 +661,7 @@
         "title": "Coordinated bank and cache coloring for temporal protection of memory accesses",
         "pub_year": "2013",
         "citation": "2013 IEEE 16th International Conference on Computational Science and …, 2013",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "6JU9KqgAAAAJ:tYavs44e6CUC"
     },
     {
@@ -668,7 +675,7 @@
         "title": "Coordinated task scheduling, allocation and synchronization on multiprocessors",
         "pub_year": "2009",
         "citation": "2009 30th IEEE Real-Time Systems Symposium, 469-478, 2009",
-        "num_citations": 216,
+        "num_citations": 218,
         "author_pub_id": "6JU9KqgAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -703,14 +710,14 @@
         "title": "Curbscan: Curb detection and tracking using multi-sensor fusion",
         "pub_year": "2020",
         "citation": "2020 IEEE 23rd International Conference on Intelligent Transportation …, 2020",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "6JU9KqgAAAAJ:YsrPvlHIBpEC"
     },
     {
         "title": "Cyber traffic light: Safe cooperation for autonomous vehicles at dynamic intersections",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 23 (11), 22519-22534, 2022",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "6JU9KqgAAAAJ:k_7cPK9k7w8C"
     },
     {
@@ -730,14 +737,14 @@
         "title": "Cyber-physical systems",
         "pub_year": "2016",
         "citation": "Addison-Wesley Professional, 2016",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "6JU9KqgAAAAJ:ubry08Y2EpUC"
     },
     {
         "title": "Cyber-physical systems: the next computing revolution",
         "pub_year": "2010",
         "citation": "Proceedings of the 47th design automation conference, 731-736, 2010",
-        "num_citations": 2584,
+        "num_citations": 2600,
         "author_pub_id": "6JU9KqgAAAAJ:eq2jaN3J8jMC"
     },
     {
@@ -758,7 +765,7 @@
         "title": "Dealing with suspending periodic tasks",
         "pub_year": "1991",
         "citation": "IBM Thomas J. Watson Research Center, 1991",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "6JU9KqgAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -799,7 +806,7 @@
         "title": "Detection and tracking of boundary of unmarked roads",
         "pub_year": "2014",
         "citation": "17th International Conference on Information Fusion (FUSION), 1-6, 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "6JU9KqgAAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -977,7 +984,7 @@
         "title": "Extended vins-mono: A systematic approach for absolute and relative vehicle localization in large-scale outdoor environments",
         "pub_year": "2021",
         "citation": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "6JU9KqgAAAAJ:wvYxNZNCP7wC"
     },
     {
@@ -1045,7 +1052,7 @@
         "title": "Fractional GPUs: Software-based compute and memory bandwidth reservation for GPUs",
         "pub_year": "2019",
         "citation": "2019 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS …, 2019",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "6JU9KqgAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -1079,7 +1086,7 @@
         "title": "Groovenet: A hybrid simulator for vehicle-to-vehicle networks",
         "pub_year": "2006",
         "citation": "2006 Third Annual International Conference on Mobile and Ubiquitous Systems …, 2006",
-        "num_citations": 202,
+        "num_citations": 204,
         "author_pub_id": "6JU9KqgAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1140,7 +1147,7 @@
         "title": "Human-robot cooperation for autonomous vehicles and human drivers: Challenges and solutions",
         "pub_year": "2021",
         "citation": "IEEE communications magazine 59 (8), 35-41, 2021",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "6JU9KqgAAAAJ:DkZNVXde3BIC"
     },
     {
@@ -1256,7 +1263,7 @@
         "title": "LaneMatch: A Practical Real-Time Localization Method Via Lane-Matching",
         "pub_year": "2022",
         "citation": "IEEE Robotics and Automation Letters 7 (2), 4408-4415, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "6JU9KqgAAAAJ:UuEBAcK4md4C"
     },
     {
@@ -1312,7 +1319,7 @@
         "title": "Many suspensions, many problems: a review of self-suspending tasks in real-time systems",
         "pub_year": "2019",
         "citation": "Real-Time Systems 55 (1), 144-207, 2019",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "6JU9KqgAAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -1387,7 +1394,7 @@
         "title": "Mode change protocols for priority-driven preemptive scheduling",
         "pub_year": "1989",
         "citation": "Real-Time Systems 1, 243-264, 1989",
-        "num_citations": 301,
+        "num_citations": 302,
         "author_pub_id": "6JU9KqgAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -1422,7 +1429,7 @@
         "title": "Multicruise: eco-lane selection strategy with eco-cruise control for connected and automated vehicles",
         "pub_year": "2021",
         "citation": "2021 IEEE Intelligent Vehicles Symposium (IV), 302-308, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "6JU9KqgAAAAJ:69ZgNCALVd0C"
     },
     {
@@ -1505,7 +1512,7 @@
         "title": "On quality of service optimization with discrete QoS options",
         "pub_year": "1999",
         "citation": "Proceedings of the Fifth IEEE Real-Time Technology and Applications …, 1999",
-        "num_citations": 299,
+        "num_citations": 301,
         "author_pub_id": "6JU9KqgAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -1526,7 +1533,7 @@
         "title": "On the scheduling of mixed-criticality real-time task sets",
         "pub_year": "2009",
         "citation": "2009 30th IEEE Real-Time Systems Symposium, 291-300, 2009",
-        "num_citations": 267,
+        "num_citations": 269,
         "author_pub_id": "6JU9KqgAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -1645,7 +1652,7 @@
         "title": "Parallel scheduling for cyber-physical systems: Analysis and case study on a self-driving car",
         "pub_year": "2013",
         "citation": "Proceedings of the ACM/IEEE 4th international conference on cyber-physical …, 2013",
-        "num_citations": 188,
+        "num_citations": 190,
         "author_pub_id": "6JU9KqgAAAAJ:EkHepimYqZsC"
     },
     {
@@ -1680,14 +1687,14 @@
         "title": "Physicochemical properties of alkali-treated new cellulosic fiber from cotton shell",
         "pub_year": "2016",
         "citation": "International Journal of Polymer Analysis and Characterization 21 (4), 359-364, 2016",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "6JU9KqgAAAAJ:z6xuaG2dYH0C"
     },
     {
         "title": "Point-gnn: Graph neural network for 3d object detection in a point cloud",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2020",
-        "num_citations": 874,
+        "num_citations": 902,
         "author_pub_id": "6JU9KqgAAAAJ:-95Q15plzcUC"
     },
     {
@@ -1736,7 +1743,7 @@
         "title": "Practical task allocation for software fault-tolerance and its implementation in embedded automotive systems",
         "pub_year": "2019",
         "citation": "Real-Time Systems 55 (4), 889-924, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "6JU9KqgAAAAJ:F1b5ZUV5XREC"
     },
     {
@@ -1784,7 +1791,7 @@
         "title": "Priority inheritance protocols: An approach to real-time synchronization",
         "pub_year": "1990",
         "citation": "IEEE Transactions on computers 39 (9), 1175-1185, 1990",
-        "num_citations": 3626,
+        "num_citations": 3633,
         "author_pub_id": "6JU9KqgAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -1915,7 +1922,7 @@
         "title": "RGEM: A responsive GPGPU execution model for runtime engines",
         "pub_year": "2011",
         "citation": "2011 IEEE 32nd Real-Time Systems Symposium, 57-66, 2011",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "6JU9KqgAAAAJ:f2IySw72cVMC"
     },
     {
@@ -2036,7 +2043,7 @@
         "title": "Real-time cache management for multi-core virtualization",
         "pub_year": "2016",
         "citation": "Proceedings of the 13th International Conference on Embedded Software, 1-10, 2016",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "6JU9KqgAAAAJ:IUKN3-7HHlwC"
     },
     {
@@ -2099,14 +2106,14 @@
         "title": "Real-time synchronization protocols for multiprocessors",
         "pub_year": "1988",
         "citation": "Proceedings. Real-time systems symposium, 259,260,261,262,263,264,265,266 …, 1988",
-        "num_citations": 587,
+        "num_citations": 588,
         "author_pub_id": "6JU9KqgAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "Real-time synchronization protocols for shared memory multiprocessors",
         "pub_year": "1990",
         "citation": "Proceedings., 10th International Conference on Distributed Computing Systems …, 1990",
-        "num_citations": 332,
+        "num_citations": 333,
         "author_pub_id": "6JU9KqgAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -2140,7 +2147,7 @@
         "title": "Recovery time considerations in real-time systems employing software fault tolerance",
         "pub_year": "2018",
         "citation": "30th Euromicro Conference on Real-Time Systems (ECRTS 2018), 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "6JU9KqgAAAAJ:MpfHP-DdYjUC"
     },
     {
@@ -2168,7 +2175,7 @@
         "title": "Resource kernels: A resource-centric approach to real-time and multimedia systems",
         "pub_year": "1997",
         "citation": "Multimedia Computing and Networking 1998 3310, 150-164, 1997",
-        "num_citations": 520,
+        "num_citations": 521,
         "author_pub_id": "6JU9KqgAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2280,8 +2287,15 @@
         "title": "STIP: Spatio-temporal intersection protocols for autonomous vehicles",
         "pub_year": "2014",
         "citation": "2014 ACM/IEEE international conference on cyber-physical systems (ICCPS), 1-12, 2014",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "6JU9KqgAAAAJ:HbR8gkJAVGIC"
+    },
+    {
+        "title": "SYSTEMS AND METHODS FOR LATENCY-TOLERANT ASSISTANCE OF AUTONOMOUS VEHICLES",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/258,483, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6JU9KqgAAAAJ:SxCCDk4iOpsC"
     },
     {
         "title": "Safe intersection management with cooperative perception for mixed traffic of human-driven and autonomous vehicles",
@@ -2342,7 +2356,7 @@
         "title": "Scheduling parallel real-time tasks on multi-core processors",
         "pub_year": "2010",
         "citation": "2010 31st IEEE Real-Time Systems Symposium, 259-268, 2010",
-        "num_citations": 364,
+        "num_citations": 365,
         "author_pub_id": "6JU9KqgAAAAJ:UHK10RUVsp4C"
     },
     {
@@ -2356,7 +2370,7 @@
         "title": "Scheduling self-suspending real-time tasks with rate-monotonic priorities",
         "pub_year": "2010",
         "citation": "2010 16th IEEE Real-Time and Embedded Technology and Applications Symposium …, 2010",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "6JU9KqgAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -2370,7 +2384,7 @@
         "title": "Segment-fixed priority scheduling for self-suspending real-time tasks",
         "pub_year": "2013",
         "citation": "2013 IEEE 34th Real-Time Systems Symposium, 246-257, 2013",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "6JU9KqgAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -2384,14 +2398,14 @@
         "title": "Self-supervised pretraining for point cloud object detection in autonomous driving",
         "pub_year": "2022",
         "citation": "2022 IEEE 25th International Conference on Intelligent Transportation …, 2022",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "6JU9KqgAAAAJ:X9ykpCP0fEIC"
     },
     {
         "title": "Sensor Andrew: Large-scale campus-wide sensing and actuation",
         "pub_year": "2011",
         "citation": "IBM Journal of Research and Development 55 (1.2), 6: 1-6: 14, 2011",
-        "num_citations": 190,
+        "num_citations": 189,
         "author_pub_id": "6JU9KqgAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -2439,7 +2453,7 @@
         "title": "Solutions for Some Practical Problems in Prioritized Preemptive Scheduling.",
         "pub_year": "1986",
         "citation": "Unknown Host Publication Title, 181-191, 1986",
-        "num_citations": 443,
+        "num_citations": 448,
         "author_pub_id": "6JU9KqgAAAAJ:6bLC7aUMtPcC"
     },
     {
@@ -2473,7 +2487,7 @@
         "title": "Synchronization in real-time systems: a priority inheritance approach",
         "pub_year": "2012",
         "citation": "Springer Science & Business Media, 2012",
-        "num_citations": 495,
+        "num_citations": 497,
         "author_pub_id": "6JU9KqgAAAAJ:4aZ_i-5WJEQC"
     },
     {
@@ -2488,6 +2502,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "6JU9KqgAAAAJ:4xDN1ZYqzskC"
+    },
+    {
+        "title": "Systems and methods for testing, training and instructing autonomous vehicles",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/260,171, 2024",
+        "num_citations": 0,
+        "author_pub_id": "6JU9KqgAAAAJ:YB4bud6kWLwC"
     },
     {
         "title": "Systems software for multimedia computing",
@@ -2553,7 +2574,7 @@
         "title": "The DARPA urban challenge: autonomous vehicles in city traffic",
         "pub_year": "2009",
         "citation": "Springer Science & Business Media, 2009",
-        "num_citations": 1029,
+        "num_citations": 1043,
         "author_pub_id": "6JU9KqgAAAAJ:zdjWy_NXXwUC"
     },
     {
@@ -2656,7 +2677,7 @@
         "title": "Towards a viable autonomous driving research platform",
         "pub_year": "2013",
         "citation": "2013 IEEE Intelligent Vehicles Symposium (IV), 763-770, 2013",
-        "num_citations": 413,
+        "num_citations": 415,
         "author_pub_id": "6JU9KqgAAAAJ:08ZZubdj9fEC"
     },
     {
@@ -2691,7 +2712,7 @@
         "title": "U-connect: a low-latency energy-efficient asynchronous neighbor discovery protocol",
         "pub_year": "2010",
         "citation": "Proceedings of the 9th ACM/IEEE international conference on information …, 2010",
-        "num_citations": 324,
+        "num_citations": 326,
         "author_pub_id": "6JU9KqgAAAAJ:W5xh706n7nkC"
     },
     {
@@ -2719,7 +2740,7 @@
         "title": "Using thermal vision for extended VINS-Mono to localize vehicles in large-scale outdoor road environments",
         "pub_year": "2021",
         "citation": "2021 IEEE Intelligent Vehicles Symposium (IV), 953-960, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "6JU9KqgAAAAJ:SnGPuo6Feq8C"
     },
     {
@@ -2747,14 +2768,14 @@
         "title": "V2v-based synchronous intersection protocols for mixed traffic of human-driven and self-driving vehicles",
         "pub_year": "2019",
         "citation": "2019 IEEE 25th International Conference on Embedded and Real-Time Computing …, 2019",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "6JU9KqgAAAAJ:DBa1UEJaJKAC"
     },
     {
         "title": "V2v-intersection management at roundabouts",
         "pub_year": "2013",
         "citation": "SAE International Journal of Passenger Cars-Mechanical Systems 6 (2013-01 …, 2013",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "6JU9KqgAAAAJ:dshw04ExmUIC"
     },
     {
@@ -2815,21 +2836,21 @@
         "title": "Will distributed computing revolutionize peace? the emergence of battlefield iot",
         "pub_year": "2018",
         "citation": "2018 IEEE 38th International Conference on Distributed Computing Systems …, 2018",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "6JU9KqgAAAAJ:kw52XkFRtyQC"
     },
     {
         "title": "William “Red” Whittaker",
         "pub_year": "2008",
         "citation": "Ziv Wolkowicki, Jason Ziglar, Hong Bae, Thomas Brown, Daniel Demitrish …, 2008",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "6JU9KqgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Work zone detection for autonomous vehicles",
         "pub_year": "2021",
         "citation": "2021 IEEE International Intelligent Transportation Systems Conference (ITSC …, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "6JU9KqgAAAAJ:rTD5ala9j4wC"
     },
     {
@@ -2862,7 +2883,7 @@
         "title": "vMPCP: A synchronization framework for multi-core virtual machines",
         "pub_year": "2014",
         "citation": "2014 IEEE Real-Time Systems Symposium, 86-95, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "6JU9KqgAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -2875,7 +2896,7 @@
         "title": "{TimeGraph}:{GPU} Scheduling for {Real-Time}{Multi-Tasking} Environments",
         "pub_year": "2011",
         "citation": "2011 USENIX Annual Technical Conference (USENIX ATC 11), 2011",
-        "num_citations": 387,
+        "num_citations": 388,
         "author_pub_id": "6JU9KqgAAAAJ:4fKUyHm3Qg0C"
     }
 ]

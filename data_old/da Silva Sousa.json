@@ -16,7 +16,7 @@
         "title": "Agroecological transformation for sustainable food systems: Insight on France-CGIAR research",
         "pub_year": "2021",
         "citation": "Les dossiers d'Agropolis International. Special Partnership Issue, 2021",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Fl1qHEAAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -30,7 +30,7 @@
         "title": "Characterizing and identifying composite refactorings: Concepts, heuristics and patterns",
         "pub_year": "2020",
         "citation": "Proceedings of the 17th International Conference on Mining Software …, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "Fl1qHEAAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -43,7 +43,7 @@
         "title": "Code anomalies flock together: Exploring code anomaly agglomerations for locating design problems",
         "pub_year": "2016",
         "citation": "Proceedings of the 38th International Conference on Software Engineering …, 2016",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "Fl1qHEAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -64,7 +64,7 @@
         "title": "Does refactoring improve software structural quality? a longitudinal study of 25 projects",
         "pub_year": "2016",
         "citation": "Proceedings of the XXX Brazilian Symposium on Software Engineering, 73-82, 2016",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "Fl1qHEAAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -133,7 +133,7 @@
         "title": "How do software developers identify design problems? a qualitative analysis",
         "pub_year": "2017",
         "citation": "Proceedings of the XXXI Brazilian Symposium on Software Engineering, 54-63, 2017",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "Fl1qHEAAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -147,7 +147,7 @@
         "title": "Identifying design problems in the source code: A grounded theory",
         "pub_year": "2018",
         "citation": "Proceedings of the 40th international conference on software engineering …, 2018",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "Fl1qHEAAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -210,14 +210,14 @@
         "title": "Refactoring effect on internal quality attributes: What haven’t they told you yet?",
         "pub_year": "2020",
         "citation": "Information and Software Technology 126, 106347, 2020",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "Fl1qHEAAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Removal of design problems through refactorings: are we looking at the right symptoms?",
         "pub_year": "2019",
         "citation": "2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC …, 2019",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "Fl1qHEAAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -244,7 +244,7 @@
         "title": "Revealing the social aspects of design decay: A retrospective study of pull requests",
         "pub_year": "2020",
         "citation": "Proceedings of the XXXIV Brazilian Symposium on Software Engineering, 364-373, 2020",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "Fl1qHEAAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -342,7 +342,7 @@
         "title": "VazaDengue: An information system for preventing and combating mosquito-borne diseases with social networks",
         "pub_year": "2018",
         "citation": "Information Systems 75, 26-42, 2018",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "Fl1qHEAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -363,7 +363,7 @@
         "title": "When Are Smells Indicators of Architectural Refactoring Opportunities? A Study of 50 Software Projects",
         "pub_year": "2020",
         "citation": "ICPC, 2020",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "Fl1qHEAAAAAJ:IWHjjKOFINEC"
     }
 ]

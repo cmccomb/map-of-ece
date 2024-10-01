@@ -99,7 +99,7 @@
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -112,7 +112,7 @@
     {
         "title": "Filebench github repository, 2016",
         "citation": "",
-        "num_citations": 6,
+        "num_citations": 8,
         "author_pub_id": "ygiY7C8AAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -126,7 +126,7 @@
         "title": "Identifying trends in enterprise data protection systems",
         "pub_year": "2015",
         "citation": "2015 USENIX Annual Technical Conference (USENIX ATC 15), 151-164, 2015",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "ygiY7C8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -187,14 +187,14 @@
         "title": "Mimir: Finding Cost-efficient Storage Configurations in the Public Cloud",
         "pub_year": "2023",
         "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ygiY7C8AAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 71,
+        "num_citations": 76,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -208,7 +208,7 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 146,
+        "num_citations": 152,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -250,14 +250,14 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "Reconciling LSM-Trees with Modern Hard Drives using BlueFS",
         "pub_year": "2019",
         "citation": "Technical Report CMU-PDL--, CMU Parallel Data Laboratory, April. URL http …, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ygiY7C8AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -299,7 +299,7 @@
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
-        "num_citations": 317,
+        "num_citations": 318,
         "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -341,7 +341,7 @@
         "title": "This is why ML-driven cluster scheduling remains widely impractical",
         "pub_year": "2019",
         "citation": "Tech. Rep., 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "ygiY7C8AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -362,21 +362,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 131,
+        "num_citations": 139,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 41,
+        "num_citations": 48,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

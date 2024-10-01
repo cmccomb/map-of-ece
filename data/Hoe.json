@@ -24,7 +24,7 @@
         "title": "3d point cloud reduction using mixed-integer quadratic programming",
         "pub_year": "2013",
         "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2013",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "ZnRhcFUAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "A study of pointer-chasing performance on shared-memory processor-FPGA systems",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM/SIGDA International Symposium on Field …, 2016",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "ZnRhcFUAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Achieving 100gbps intrusion prevention on a single server",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020",
-        "num_citations": 108,
+        "num_citations": 111,
         "author_pub_id": "ZnRhcFUAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -157,14 +157,14 @@
         "title": "Automatic pipelining from transactional datapath specifications",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2011",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ZnRhcFUAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Beyond Peak Performance: Comparing the Real Performance of AI-Optimized FPGAs and GPUs",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 78,
+        "num_citations": 81,
         "author_pub_id": "ZnRhcFUAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -192,14 +192,14 @@
         "title": "CoRAM++: Supporting data-structure-specific memory interfaces for FPGA computing",
         "pub_year": "2015",
         "citation": "2015 25th International conference on field programmable logic and …, 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "ZnRhcFUAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
         "pub_year": "2011",
         "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011",
-        "num_citations": 208,
+        "num_citations": 209,
         "author_pub_id": "ZnRhcFUAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Computer generation of hardware for linear digital signal processing transforms",
         "pub_year": "2012",
         "citation": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 17 (2 …, 2012",
-        "num_citations": 157,
+        "num_citations": 159,
         "author_pub_id": "ZnRhcFUAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -248,7 +248,7 @@
         "title": "Data reorganization in memory using 3D-stacked DRAM",
         "pub_year": "2015",
         "citation": "Proc. ACM/IEEE International Symposium on Computer Architecture (ISCA), 131-143, 2015",
-        "num_citations": 249,
+        "num_citations": 252,
         "author_pub_id": "ZnRhcFUAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "ZnRhcFUAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -449,7 +449,7 @@
         "title": "Flexible hardware accelerator design generation with spiral",
         "pub_year": "2022",
         "citation": "2022 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ZnRhcFUAAAAJ:a9-T7VOCCH8C"
     },
     {
@@ -498,7 +498,7 @@
         "title": "GraphGen: An FPGA framework for vertex-centric graph computation",
         "pub_year": "2014",
         "citation": "2014 IEEE 22nd Annual International Symposium on Field-Programmable Custom …, 2014",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "ZnRhcFUAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Hamlet architecture for parallel data reorganization in memory",
         "pub_year": "2015",
         "citation": "IEEE Micro 36 (1), 14-23, 2015",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "ZnRhcFUAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -547,7 +547,7 @@
         "title": "High performance stereo vision designed for massively data parallel platforms",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Circuits and Systems for Video Technology 20 (11), 1509 …, 2010",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "ZnRhcFUAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -568,7 +568,7 @@
         "title": "High-level modeling and FPGA prototyping of microprocessors",
         "pub_year": "2003",
         "citation": "Proceedings of the 2003 ACM/SIGDA eleventh international symposium on Field …, 2003",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "ZnRhcFUAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -658,14 +658,14 @@
         "title": "Memory bandwidth efficient two-dimensional fast Fourier transform algorithm and implementation for large problem sizes",
         "pub_year": "2012",
         "citation": "2012 IEEE 20th International Symposium on Field-Programmable Custom …, 2012",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "ZnRhcFUAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Multi-bit error tolerant caches using two-dimensional error coding",
         "pub_year": "2007",
         "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007",
-        "num_citations": 373,
+        "num_citations": 374,
         "author_pub_id": "ZnRhcFUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -728,7 +728,7 @@
         "title": "Optimizing FFT resource efficiency on FPGA using high-level synthesis",
         "pub_year": "2017",
         "citation": "Proc. IEEE HPEC, 2017",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "ZnRhcFUAAAAJ:evX43VCCuoAC"
     },
     {
@@ -742,7 +742,7 @@
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ZnRhcFUAAAAJ:EkHepimYqZsC"
     },
     {
@@ -826,7 +826,7 @@
         "title": "Quantifying the benefits of dynamic partial reconfiguration for embedded vision applications",
         "pub_year": "2019",
         "citation": "2019 29th International Conference on Field Programmable Logic and …, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "ZnRhcFUAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -868,7 +868,7 @@
         "title": "Real-time digital signal processing for the generation of optical orthogonal frequency-division-multiplexed signals",
         "pub_year": "2010",
         "citation": "IEEE Journal of Selected Topics in Quantum Electronics 16 (5), 1235-1244, 2010",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "ZnRhcFUAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -889,14 +889,14 @@
         "title": "SMARTS: Accelerating microarchitecture simulation via rigorous statistical sampling",
         "pub_year": "2003",
         "citation": "Proceedings of the 30th annual international symposium on Computer …, 2003",
-        "num_citations": 794,
+        "num_citations": 796,
         "author_pub_id": "ZnRhcFUAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 124,
+        "num_citations": 125,
         "author_pub_id": "ZnRhcFUAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -931,7 +931,7 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 341,
+        "num_citations": 342,
         "author_pub_id": "ZnRhcFUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1127,7 +1127,7 @@
         "title": "We need kernel interposition over the network dataplane",
         "pub_year": "2021",
         "citation": "Proceedings of the Workshop on Hot Topics in Operating Systems, 152-158, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "ZnRhcFUAAAAJ:Dip1O2bNi0gC"
     },
     {

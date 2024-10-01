@@ -17,7 +17,7 @@
         "title": "A 3 d-stacked memory manycore stencil accelerator system",
         "pub_year": "2015",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hlh0cocAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -59,7 +59,7 @@
         "title": "A unified coded deep neural network training strategy based on generalized polydot codes",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "hlh0cocAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Analytical modeling is enough for high-performance BLIS",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 43 (2), 1-18, 2016",
-        "num_citations": 182,
+        "num_citations": 184,
         "author_pub_id": "hlh0cocAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -136,14 +136,14 @@
         "title": "Delayed asynchronous iterative graph algorithms",
         "pub_year": "2021",
         "citation": "2021 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "hlh0cocAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Delta-stepping SSSP: From vertices and edges to GraphBLAS implementations",
         "pub_year": "2019",
         "citation": "2019 IEEE International Parallel and Distributed Processing Symposium …, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "hlh0cocAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "hlh0cocAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Evaluation of graph analytics frameworks using the gap benchmark suite",
         "pub_year": "2020",
         "citation": "2020 IEEE International Symposium on Workload Characterization (IISWC), 216-227, 2020",
-        "num_citations": 34,
+        "num_citations": 37,
         "author_pub_id": "hlh0cocAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "Exploration of fine-grained parallelism for load balancing eager k-truss on gpu and cpu",
         "pub_year": "2019",
         "citation": "2019 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "hlh0cocAAAAJ:maZDTaKrznsC"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Optimizing FFT resource efficiency on FPGA using high-level synthesis",
         "pub_year": "2017",
         "citation": "Proc. IEEE HPEC, 2017",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "hlh0cocAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -380,7 +380,7 @@
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "hlh0cocAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -415,7 +415,7 @@
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 124,
+        "num_citations": 125,
         "author_pub_id": "hlh0cocAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -457,7 +457,7 @@
         "title": "The BLIS framework: Experiments in portability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 42 (2), 1-19, 2016",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "hlh0cocAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -512,7 +512,7 @@
         "title": "quickLD: An efficient software for linkage disequilibrium analyses",
         "pub_year": "2021",
         "citation": "Molecular Ecology Resources 21 (7), 2580-2587, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "hlh0cocAAAAJ:vV6vV6tmYwMC"
     }
 ]

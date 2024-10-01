@@ -66,7 +66,7 @@
         "title": "A Simultaneous Low Resolution and Off-pose Angle Face Matching Algorithm as an Investigative Lead Generative Tool for Law Enforcement",
         "pub_year": "2018",
         "citation": "Carnegie Mellon University, 2018",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mWpu_ooAAAAJ:5icHVeHT4IsC"
     },
     {
@@ -80,14 +80,14 @@
         "title": "A deep matrix factorization method for learning attribute representations",
         "pub_year": "2017",
         "citation": "",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "mWpu_ooAAAAJ:bz8QjSJIRt4C"
     },
     {
         "title": "A face-off of MRI research sequences by their need for de-facing",
         "pub_year": "2023",
         "citation": "Neuroimage 276, 120199, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "mWpu_ooAAAAJ:aIdbFUkbNIkC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "A multi-task contextual atrous residual network for brain tumor detection & segmentation",
         "pub_year": "2021",
         "citation": "2020 25th International Conference on Pattern Recognition (ICPR), 5943-5950, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "mWpu_ooAAAAJ:Dem6FJhTUoYC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Active contour model in deep learning era: A revise and review",
         "pub_year": "2020",
         "citation": "Applications of hybrid metaheuristic algorithms for image processing, 231-260, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "mWpu_ooAAAAJ:hsZV8lGYWTMC"
     },
     {
@@ -226,7 +226,7 @@
         "title": "An automatic iris occlusion estimation method based on high-dimensional density estimation",
         "pub_year": "2012",
         "citation": "IEEE transactions on pattern analysis and machine intelligence 35 (4), 784-796, 2012",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "mWpu_ooAAAAJ:PELIpwtuRlgC"
     },
     {
@@ -282,7 +282,7 @@
         "title": "Analyzing asymmetry biometric in the frequency domain for face recognition",
         "pub_year": "2005",
         "citation": "Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech …, 2005",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "mWpu_ooAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -323,7 +323,7 @@
         "title": "Attentive cutmix: An enhanced data augmentation approach for deep learning based image classification",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2003.13048, 2020",
-        "num_citations": 126,
+        "num_citations": 132,
         "author_pub_id": "mWpu_ooAAAAJ:1yWc8FF-_SYC"
     },
     {
@@ -372,7 +372,7 @@
         "title": "Automatic seizure detection via an optimized image-based deep feature learning",
         "pub_year": "2018",
         "citation": "2018 17th IEEE International Conference on Machine Learning and Applications …, 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "mWpu_ooAAAAJ:tH6gc1N1XXoC"
     },
     {
@@ -412,7 +412,7 @@
         "title": "Binarizing mobilenet via evolution-based searching",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2020",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "mWpu_ooAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -439,7 +439,7 @@
         "title": "Biometric authentication on iphone and android: Usability, perceptions, and influences on adoption",
         "pub_year": "2015",
         "citation": "Internet Society, 2015",
-        "num_citations": 168,
+        "num_citations": 169,
         "author_pub_id": "mWpu_ooAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -488,7 +488,7 @@
         "title": "Bounding box regression with uncertainty for accurate object detection",
         "pub_year": "2019",
         "citation": "Proceedings of the ieee/cvf conference on computer vision and pattern …, 2019",
-        "num_citations": 578,
+        "num_citations": 587,
         "author_pub_id": "mWpu_ooAAAAJ:1lhNe0rCu4AC"
     },
     {
@@ -502,7 +502,7 @@
         "title": "CDTD: A large-scale cross-domain benchmark for instance-level image-to-image translation and domain adaptive object detection",
         "pub_year": "2021",
         "citation": "International Journal of Computer Vision 129, 761-780, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "mWpu_ooAAAAJ:jE2MZjpN3IcC"
     },
     {
@@ -571,7 +571,7 @@
         "title": "Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection",
         "pub_year": "2017",
         "citation": "Deep learning for biometrics, 57-79, 2017",
-        "num_citations": 310,
+        "num_citations": 311,
         "author_pub_id": "mWpu_ooAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -627,21 +627,21 @@
         "title": "Contourlet appearance model for facial age estimation",
         "pub_year": "2011",
         "citation": "2011 international joint conference on biometrics (IJCB), 1-8, 2011",
-        "num_citations": 94,
+        "num_citations": 96,
         "author_pub_id": "mWpu_ooAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Contrast and order representations for video self-supervised learning",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2021",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "mWpu_ooAAAAJ:HhcuHIWmDEUC"
     },
     {
         "title": "Conv-adapter: Exploring parameter efficient transfer learning for convnets",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "mWpu_ooAAAAJ:wvYxNZNCP7wC"
     },
     {
@@ -690,7 +690,7 @@
         "title": "Correlation pattern recognition for face recognition",
         "pub_year": "2006",
         "citation": "Proceedings of the IEEE 94 (11), 1963-1976, 2006",
-        "num_citations": 187,
+        "num_citations": 188,
         "author_pub_id": "mWpu_ooAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -724,7 +724,7 @@
         "title": "Deep contextual recurrent residual networks for scene labeling",
         "pub_year": "2018",
         "citation": "Pattern Recognition 80, 32-41, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mWpu_ooAAAAJ:8d8msizDQcsC"
     },
     {
@@ -738,7 +738,7 @@
         "title": "Deep reinforcement learning in computer vision: a comprehensive survey",
         "pub_year": "2022",
         "citation": "Artificial Intelligence Review, 1-87, 2022",
-        "num_citations": 163,
+        "num_citations": 169,
         "author_pub_id": "mWpu_ooAAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -821,7 +821,7 @@
         "title": "Driver cell phone usage detection on strategic highway research program (SHRP2) face view videos",
         "pub_year": "2015",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2015",
-        "num_citations": 151,
+        "num_citations": 152,
         "author_pub_id": "mWpu_ooAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -830,6 +830,13 @@
         "citation": "2009 IEEE 3rd International Conference on Biometrics: Theory, Applications …, 2009",
         "num_citations": 4,
         "author_pub_id": "mWpu_ooAAAAJ:KxtntwgDAa4C"
+    },
+    {
+        "title": "Efficient Autoregressive Audio Modeling via Next-Scale Prediction",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2408.09027, 2024",
+        "num_citations": 0,
+        "author_pub_id": "mWpu_ooAAAAJ:Wq2b2clWBLsC"
     },
     {
         "title": "Efficient boosting for synthesizing a minimally compact reduced complexity correlation filter bank for biometric identification",
@@ -863,7 +870,7 @@
         "title": "Eigenphases vs eigenfaces",
         "pub_year": "2004",
         "citation": "Proceedings of the 17th International Conference on Pattern Recognition …, 2004",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "mWpu_ooAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -905,7 +912,7 @@
         "title": "Enhanced training of query-based object detection via selective query recollection",
         "pub_year": "2023",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2023",
-        "num_citations": 30,
+        "num_citations": 34,
         "author_pub_id": "mWpu_ooAAAAJ:65Yg0jNCQDAC"
     },
     {
@@ -953,7 +960,7 @@
         "title": "Face identification using novel frequency-domain representation of facial asymmetry",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Information Forensics and Security 1 (3), 350-359, 2006",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mWpu_ooAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -981,7 +988,7 @@
         "title": "Face recognition from research brain PET: an unexpected PET problem",
         "pub_year": "2022",
         "citation": "Neuroimage 258, 119357, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "mWpu_ooAAAAJ:eO3_k5sD8BwC"
     },
     {
@@ -1044,7 +1051,7 @@
         "title": "Fairness in visual clustering: A novel transformer clustering approach",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2304.07408, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "mWpu_ooAAAAJ:LXmCCkuhhTsC"
     },
     {
@@ -1065,7 +1072,7 @@
         "title": "Faster than real-time facial alignment: A 3d spatial transformer network approach in unconstrained poses",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE International Conference on Computer Vision, 3980-3989, 2017",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "mWpu_ooAAAAJ:DUooU5lO8OsC"
     },
     {
@@ -1086,7 +1093,7 @@
         "title": "Feature selective anchor-free module for single-shot object detection",
         "pub_year": "2019",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2019",
-        "num_citations": 1024,
+        "num_citations": 1036,
         "author_pub_id": "mWpu_ooAAAAJ:otzGkya1bYkC"
     },
     {
@@ -1120,7 +1127,7 @@
         "title": "Freematch: Self-adaptive thresholding for semi-supervised learning",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2205.07246, 2022",
-        "num_citations": 210,
+        "num_citations": 237,
         "author_pub_id": "mWpu_ooAAAAJ:DkZNVXde3BIC"
     },
     {
@@ -1211,7 +1218,7 @@
         "title": "Hallucinating the full face from the periocular region via dimensionally weighted K-SVD",
         "pub_year": "2014",
         "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2014",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "mWpu_ooAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -1239,7 +1246,7 @@
         "title": "How to generate spoofed irises from an iris code template",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Information Forensics and Security 6 (2), 385-395, 2011",
-        "num_citations": 156,
+        "num_citations": 158,
         "author_pub_id": "mWpu_ooAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1266,7 +1273,7 @@
         "title": "Illumination tolerant face recognition using a novel face from sketch synthesis approach and advanced correlation filters",
         "pub_year": "2006",
         "citation": "2006 IEEE International Conference on Acoustics Speech and Signal Processing …, 2006",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "mWpu_ooAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -1479,14 +1486,14 @@
         "title": "Is label smoothing truly incompatible with knowledge distillation: An empirical study",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2104.00676, 2021",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "mWpu_ooAAAAJ:1DsIQWDZLl8C"
     },
     {
         "title": "Is pose really solved? a frontalization study on off-angle face matching",
         "pub_year": "2019",
         "citation": "2019 IEEE Winter Conference on Applications of Computer Vision (WACV), 2058-2067, 2019",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "mWpu_ooAAAAJ:48xauSegjOkC"
     },
     {
@@ -1549,7 +1556,7 @@
         "title": "Local binary convolutional neural networks",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2017",
-        "num_citations": 322,
+        "num_citations": 326,
         "author_pub_id": "mWpu_ooAAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -1563,7 +1570,7 @@
         "title": "Long range iris acquisition system for stationary and mobile subjects",
         "pub_year": "2011",
         "citation": "2011 international joint conference on biometrics (IJCB), 1-8, 2011",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "mWpu_ooAAAAJ:geHnlv5EZngC"
     },
     {
@@ -1583,7 +1590,7 @@
         "title": "Meal v2: Boosting vanilla resnet-50 to 80%+ top-1 accuracy on imagenet without tricks",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2009.08453, 2020",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "mWpu_ooAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -1646,7 +1653,7 @@
         "title": "Methods and software for detecting objects in images using a multiscale fast region-based convolutional neural network",
         "pub_year": "2019",
         "citation": "US Patent 10,354,362, 2019",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "mWpu_ooAAAAJ:OR75R8vi5nAC"
     },
     {
@@ -1688,7 +1695,7 @@
         "title": "Mobinet: A mobile binary network for image classification",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE/CVF winter conference on applications of computer …, 2020",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "mWpu_ooAAAAJ:v1_lew4L6wgC"
     },
     {
@@ -1744,7 +1751,7 @@
         "title": "Multiple scale faster-rcnn approach to driver's cell-phone usage and hands on steering wheel detection",
         "pub_year": "2016",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2016",
-        "num_citations": 214,
+        "num_citations": 218,
         "author_pub_id": "mWpu_ooAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -1793,7 +1800,7 @@
         "title": "Online ensemble model compression using knowledge distillation",
         "pub_year": "2020",
         "citation": "Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23 …, 2020",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "mWpu_ooAAAAJ:q-HalDI95KYC"
     },
     {
@@ -1814,7 +1821,7 @@
         "title": "Palmprint classification using multiple advanced correlation filters and palm-specific segmentation",
         "pub_year": "2007",
         "citation": "IEEE Transactions on Information Forensics and Security 2 (3), 613-622, 2007",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "mWpu_ooAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1842,7 +1849,7 @@
         "title": "Partial is better than all: Revisiting fine-tuning strategy for few-shot learning",
         "pub_year": "2021",
         "citation": "Proceedings of the AAAI conference on artificial intelligence 35 (11), 9594-9602, 2021",
-        "num_citations": 147,
+        "num_citations": 152,
         "author_pub_id": "mWpu_ooAAAAJ:NDuN12AVoxsC"
     },
     {
@@ -1931,7 +1938,7 @@
         "title": "Powering finetuning in few-shot learning: Domain-agnostic bias reduction with selected sampling",
         "pub_year": "2022",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (8), 8467-8475, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "mWpu_ooAAAAJ:5bg8sr1QxYwC"
     },
     {
@@ -1965,7 +1972,7 @@
         "title": "Proximal splitting networks for image restoration",
         "pub_year": "2019",
         "citation": "Image Analysis and Recognition: 16th International Conference, ICIAR 2019 …, 2019",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "mWpu_ooAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -1992,7 +1999,7 @@
         "title": "RTGen: Generating Region-Text Pairs for Open-Vocabulary Object Detection",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2405.19854, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mWpu_ooAAAAJ:RJOyoaXV5v8C"
     },
     {
@@ -2041,7 +2048,7 @@
         "title": "Reactnet: Towards precise binary neural network with generalized activation functions",
         "pub_year": "2020",
         "citation": "Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23 …, 2020",
-        "num_citations": 366,
+        "num_citations": 372,
         "author_pub_id": "mWpu_ooAAAAJ:prdVHNxh-e8C"
     },
     {
@@ -2062,7 +2069,7 @@
         "title": "Real-time video analysis for security surveillance",
         "pub_year": "2018",
         "citation": "US Patent 9,928,708, 2018",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "mWpu_ooAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -2110,14 +2117,14 @@
         "title": "Reformulating level sets as deep recurrent neural network approach to semantic segmentation",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Image Processing 27 (5), 2393-2407, 2018",
-        "num_citations": 84,
+        "num_citations": 88,
         "author_pub_id": "mWpu_ooAAAAJ:LO7wyVUgiFcC"
     },
     {
         "title": "Ring loss: Convex feature normalization for face recognition",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2018",
-        "num_citations": 247,
+        "num_citations": 250,
         "author_pub_id": "mWpu_ooAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -2138,7 +2145,7 @@
         "title": "Robust hand detection and classification in vehicles and in the wild",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2017",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "mWpu_ooAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -2159,7 +2166,7 @@
         "title": "Robust local binary pattern feature sets for periocular biometric identification",
         "pub_year": "2010",
         "citation": "2010 Fourth IEEE International Conference on Biometrics: Theory …, 2010",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "mWpu_ooAAAAJ:4DMP91E08xMC"
     },
     {
@@ -2208,7 +2215,7 @@
         "title": "S2-bnn: Bridging the gap between self-supervised real and 1-bit neural networks via guided distribution calibration",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "mWpu_ooAAAAJ:RoXSNcbkSzsC"
     },
     {
@@ -2229,7 +2236,7 @@
         "title": "Scl: Towards accurate domain adaptive object detection via gradient detach based stacked complementary losses",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1911.02559, 2019",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "mWpu_ooAAAAJ:nRpfm8aw39MC"
     },
     {
@@ -2243,14 +2250,14 @@
         "title": "Seeing small faces from robust anchor's perspective",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2018",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "mWpu_ooAAAAJ:cWzG1nlazyYC"
     },
     {
         "title": "Semantic relation reasoning for shot-stable few-shot object detection",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2021",
-        "num_citations": 192,
+        "num_citations": 195,
         "author_pub_id": "mWpu_ooAAAAJ:ce2CqMG-AY4C"
     },
     {
@@ -2298,28 +2305,28 @@
         "title": "Soft anchor-point object detection",
         "pub_year": "2020",
         "citation": "Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23 …, 2020",
-        "num_citations": 185,
+        "num_citations": 189,
         "author_pub_id": "mWpu_ooAAAAJ:1taIhTC69MYC"
     },
     {
         "title": "Softer-nms: Rethinking bounding box regression for accurate object detection",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1809.08545 2 (3), 69-80, 2018",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "mWpu_ooAAAAJ:fbc8zXXH2BUC"
     },
     {
         "title": "Softmatch: Addressing the quantity-quality trade-off in semi-supervised learning",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2301.10921, 2023",
-        "num_citations": 119,
+        "num_citations": 134,
         "author_pub_id": "mWpu_ooAAAAJ:Hck25ST_3aIC"
     },
     {
         "title": "Solving missing-annotation object detection with background recalibration loss",
         "pub_year": "2020",
         "citation": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …, 2020",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "mWpu_ooAAAAJ:jU7OWUQzBzMC"
     },
     {
@@ -2367,7 +2374,7 @@
         "title": "Statistical performance evaluation of biometric authentication systems using random effects models",
         "pub_year": "2007",
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence 29 (4), 517-530, 2007",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "mWpu_ooAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -2465,7 +2472,7 @@
         "title": "System and method for identifying products in a shelf management system",
         "pub_year": "2022",
         "citation": "US Patent App. 17/506,115, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "mWpu_ooAAAAJ:YsrPvlHIBpEC"
     },
     {
@@ -2639,7 +2646,7 @@
         "title": "Un-mix: Rethinking image mixtures for unsupervised visual representation learning",
         "pub_year": "2022",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (2), 2216-2224, 2022",
-        "num_citations": 115,
+        "num_citations": 119,
         "author_pub_id": "mWpu_ooAAAAJ:-mN3Mh-tlDkC"
     },
     {
@@ -2702,7 +2709,7 @@
         "title": "Usb: A unified semi-supervised learning benchmark for classification",
         "pub_year": "2022",
         "citation": "Advances in Neural Information Processing Systems 35, 3938-3961, 2022",
-        "num_citations": 101,
+        "num_citations": 107,
         "author_pub_id": "mWpu_ooAAAAJ:pS0ncopqnHgC"
     },
     {
