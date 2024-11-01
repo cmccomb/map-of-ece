@@ -17,28 +17,28 @@
         "title": "Accelerated distributed Nesterov gradient descent",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Automatic Control 65 (6), 2566-2581, 2019",
-        "num_citations": 290,
+        "num_citations": 292,
         "author_pub_id": "oFIXoy8AAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Bounded-regret mpc via perturbation analysis: Prediction error, constraints, and nonlinearity",
         "pub_year": "2022",
         "citation": "Advances in Neural Information Processing Systems 35, 36174-36187, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "oFIXoy8AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "Certifying black-box policies with stability for nonlinear control",
         "pub_year": "2023",
         "citation": "IEEE Open Journal of Control Systems 2, 49-62, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "oFIXoy8AAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "CoVO-MPC: Theoretical Analysis of Sampling-based MPC and Optimal Covariance Design",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2401.07369, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "oFIXoy8AAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -66,21 +66,21 @@
         "title": "Decentralized graph-based multi-agent reinforcement learning using reward machines",
         "pub_year": "2024",
         "citation": "Neurocomputing 564, 126974, 2024",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "oFIXoy8AAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Decentralized online convex optimization in networked systems",
         "pub_year": "2022",
         "citation": "International Conference on Machine Learning, 13356-13393, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "oFIXoy8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "Deep reinforcement learning-based spatiotemporal decision of utility-scale highway portable energy storage systems",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Industry Applications 60 (1), 966-975, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "oFIXoy8AAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Distributed greedy algorithm for multi-agent task assignment problem with submodular utility functions",
         "pub_year": "2019",
         "citation": "Automatica 105, 206-215, 2019",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "oFIXoy8AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -115,14 +115,14 @@
         "title": "Distributed optimal voltage control with asynchronous and delayed communication",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Smart Grid 11 (4), 3469-3482, 2020",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "oFIXoy8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Distributed voltage control for three-phase unbalanced distribution systems with ders and practical constraints",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Industry Applications 57 (6), 6622-6633, 2021",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "oFIXoy8AAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -156,28 +156,28 @@
         "title": "Finite-Time Analysis of Asynchronous Stochastic Approximation and -Learning",
         "pub_year": "2020",
         "citation": "Conference on Learning Theory, 3185-3205, 2020",
-        "num_citations": 124,
+        "num_citations": 125,
         "author_pub_id": "oFIXoy8AAAAJ:5nxA0vEk-isC"
     },
     {
-        "title": "Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing",
+        "title": "Full-order sampling-based mpc for torque-level locomotion control via diffusion-style annealing",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2409.15610, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "oFIXoy8AAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "Global convergence of localized policy iteration in networked multi-agent reinforcement learning",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (1 …, 2023",
-        "num_citations": 24,
+        "num_citations": 28,
         "author_pub_id": "oFIXoy8AAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Harnessing smoothness to accelerate distributed optimization",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Control of Network Systems 5 (3), 1245-1260, 2017",
-        "num_citations": 739,
+        "num_citations": 749,
         "author_pub_id": "oFIXoy8AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Learning optimal power flow: Worst-case guarantees for neural networks",
         "pub_year": "2020",
         "citation": "2020 IEEE International Conference on Communications, Control, and Computing …, 2020",
-        "num_citations": 78,
+        "num_citations": 80,
         "author_pub_id": "oFIXoy8AAAAJ:UebtZRa9Y70C"
     },
     {
@@ -205,21 +205,21 @@
         "title": "Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2406.06823, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "oFIXoy8AAAAJ:cFHS6HbyZ2cC"
     },
     {
-        "title": "Model-Based Diffusion for Trajectory Optimization",
+        "title": "Model-based diffusion for trajectory optimization",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.01573, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "oFIXoy8AAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Multi-agent reinforcement learning in stochastic networked systems",
         "pub_year": "2021",
         "citation": "Advances in neural information processing systems 34, 7825-7837, 2021",
-        "num_citations": 59,
+        "num_citations": 62,
         "author_pub_id": "oFIXoy8AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "On the exponential stability of primal-dual gradient dynamics",
         "pub_year": "2018",
         "citation": "IEEE Control Systems Letters 3 (1), 43-48, 2018",
-        "num_citations": 151,
+        "num_citations": 153,
         "author_pub_id": "oFIXoy8AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -268,28 +268,28 @@
         "title": "Online optimization with predictions and switching costs: Fast algorithms and the fundamental limit",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Automatic Control 66 (10), 4761-4768, 2020",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "oFIXoy8AAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Optimal distributed feedback voltage control under limited reactive power",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Power Systems 35 (1), 315-331, 2019",
-        "num_citations": 144,
+        "num_citations": 147,
         "author_pub_id": "oFIXoy8AAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Optimal scheduling of battery charging station serving electric vehicles based on battery swapping",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Smart Grid 10 (2), 1372-1384, 2017",
-        "num_citations": 165,
+        "num_citations": 167,
         "author_pub_id": "oFIXoy8AAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "Perturbation-based regret analysis of predictive control in linear time varying systems",
         "pub_year": "2021",
         "citation": "Advances in Neural Information Processing Systems 34, 5174-5185, 2021",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "oFIXoy8AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -310,42 +310,42 @@
         "title": "Real-time decentralized voltage control in distribution networks",
         "pub_year": "2014",
         "citation": "2014 52nd Annual Allerton Conference on Communication, Control, and …, 2014",
-        "num_citations": 142,
+        "num_citations": 144,
         "author_pub_id": "oFIXoy8AAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Reinforcement Learning for Decision-Making and Control in Power Systems",
         "pub_year": "2023",
         "citation": "Women in Power: Research and Development Advances in Electric Power Systems …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "oFIXoy8AAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Reinforcement learning for selective key applications in power systems: Recent advances and future challenges",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Smart Grid 13 (4), 2935-2958, 2022",
-        "num_citations": 280,
+        "num_citations": 306,
         "author_pub_id": "oFIXoy8AAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Robustness and consistency in linear quadratic control with untrusted predictions",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 6 (1 …, 2022",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "oFIXoy8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Scalable multi-agent reinforcement learning for networked systems with average reward",
         "pub_year": "2020",
         "citation": "Advances in Neural Information Processing Systems 33, 2074-2086, 2020",
-        "num_citations": 71,
+        "num_citations": 76,
         "author_pub_id": "oFIXoy8AAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Scalable reinforcement learning for multiagent networked systems",
         "pub_year": "2022",
         "citation": "Operations Research 70 (6), 3601-3628, 2022",
-        "num_citations": 120,
+        "num_citations": 125,
         "author_pub_id": "oFIXoy8AAAAJ:hMod-77fHWUC"
     },
     {
@@ -359,7 +359,7 @@
         "title": "Semi-global exponential stability of augmented primal–dual gradient dynamics for constrained convex optimization",
         "pub_year": "2020",
         "citation": "Systems & Control Letters 144, 104754, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "oFIXoy8AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -380,21 +380,21 @@
         "title": "Stability constrained reinforcement learning for decentralized real-time voltage control",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Control of Network Systems, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "oFIXoy8AAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Stability constrained reinforcement learning for real-time voltage control",
         "pub_year": "2022",
         "citation": "2022 American Control Conference (ACC), 2715-2721, 2022",
-        "num_citations": 42,
+        "num_citations": 45,
         "author_pub_id": "oFIXoy8AAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Stable online control of linear time-varying systems",
         "pub_year": "2021",
         "citation": "Learning for Dynamics and Control, 742-753, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "oFIXoy8AAAAJ:4DMP91E08xMC"
     },
     {

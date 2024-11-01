@@ -127,7 +127,7 @@
         "title": "A split-pole-gapped NFT write head design for transition curvature reduction in heat-assisted magnetic recording",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Magnetics 54 (11), 1-4, 2018",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "Ktm9tWwAAAAJ:zdjWy_NXXwUC"
     },
     {
@@ -190,7 +190,7 @@
         "title": "Acousto-optical modulation of thin film lithium niobate waveguide devices",
         "pub_year": "2019",
         "citation": "Photonics Research 7 (9), 1003-1013, 2019",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "Ktm9tWwAAAAJ:unp9ATQDT5gC"
     },
     {
@@ -342,7 +342,7 @@
         "title": "C. et al. Compositionally matched nitrogen-doped Ge2Sb2Te5/Ge2Sb2Te5 superlattice-like structures for phase change random access memory",
         "pub_year": "2013",
         "citation": "Appl. Phys. Lett 103, 133507, 2013",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "Ktm9tWwAAAAJ:hQUaER0FWQ4C"
     },
     {
@@ -440,7 +440,7 @@
         "title": "Compositionally matched nitrogen-doped Ge2Sb2Te5/Ge2Sb2Te5 superlattice-like structures for phase change random access memory",
         "pub_year": "2013",
         "citation": "Applied Physics Letters 103 (13), 2013",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Ktm9tWwAAAAJ:rbm3iO8VlycC"
     },
     {
@@ -489,14 +489,14 @@
         "title": "Coupled Plasmonic Waveguides and Associated Apparatuses and Methods",
         "pub_year": "2014",
         "citation": "US Patent App. 14/103,326, 2014",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "Ktm9tWwAAAAJ:mlAyqtXpCwEC"
     },
     {
         "title": "Coupled plasmonic waveguides and associated apparatuses and methods",
         "pub_year": "2011",
         "citation": "US Patent App. 12/780,207, 2011",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "Ktm9tWwAAAAJ:hkOj_22Ku90C"
     },
     {
@@ -629,7 +629,7 @@
         "title": "Dynamics of electroforming in binary metal oxide-based resistive switching memory",
         "pub_year": "2015",
         "citation": "Journal of Applied Physics 118 (11), 2015",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "Ktm9tWwAAAAJ:AXkvAH5U_nMC"
     },
     {
@@ -741,7 +741,7 @@
         "title": "Electro-Thermal Model of Threshold Switching in TaOx-Based Devices",
         "pub_year": "2017",
         "citation": "ACS applied materials & interfaces 9 (13), 11704-11710, 2017",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "Ktm9tWwAAAAJ:FiDNX6EVdGUC"
     },
     {
@@ -790,7 +790,7 @@
         "title": "Enhancement of thermal conductance at metal-dielectric interfaces using subnanometer metal adhesion layers",
         "pub_year": "2016",
         "citation": "Physical Review Applied 5 (1), 014009, 2016",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "Ktm9tWwAAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -829,6 +829,13 @@
         "author_pub_id": "Ktm9tWwAAAAJ:mel-f30kHHgC"
     },
     {
+        "title": "Experimental Demonstration of a Low Optical Loss AlN Heatsink for HAMR NFT Temperature Rise Reduction",
+        "pub_year": "2024",
+        "citation": "2024 IEEE 35th Magnetic Recording Conference (TMRC), 1-2, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Ktm9tWwAAAAJ:c59VksA5Vz4C"
+    },
+    {
         "title": "Experimental demonstration of AlN heat spreaders for the monolithic integration of inline phase-change switches",
         "pub_year": "2018",
         "citation": "IEEE Electron Device Letters 39 (4), 610-613, 2018",
@@ -846,7 +853,7 @@
         "title": "Experimental estimates of in-plane thermal conductivity in FePt-C granular thin film heat assisted magnetic recording media using a model layered system",
         "pub_year": "2013",
         "citation": "Applied Physics Letters 103 (13), 2013",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "Ktm9tWwAAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -923,7 +930,7 @@
         "title": "Formation of the Conducting Filament in TaOx-Resistive Switching Devices by Thermal-Gradient-Induced Cation Accumulation",
         "pub_year": "2018",
         "citation": "ACS applied materials & interfaces 10 (27), 23187-23197, 2018",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "Ktm9tWwAAAAJ:CYCckWUYoCcC"
     },
     {
@@ -1007,7 +1014,7 @@
         "title": "High frequency initial permeability of NiFe and FeAlN",
         "pub_year": "1998",
         "citation": "IEEE transactions on magnetics 34 (4), 1438-1440, 1998",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "Ktm9tWwAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1021,7 +1028,7 @@
         "title": "High performance, integrated 1T1R oxide-based oscillator: Stack engineering for low-power operation in neural network applications",
         "pub_year": "2015",
         "citation": "2015 Symposium on VLSI Technology (VLSI Technology), T186-T187, 2015",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "Ktm9tWwAAAAJ:DBa1UEJaJKAC"
     },
     {
@@ -1034,7 +1041,7 @@
         "title": "High-Frequency TaOx-Based Compact Oscillators",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Electron Devices 62 (11), 3857-3862, 2015",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "Ktm9tWwAAAAJ:6_hjMsCP8ZoC"
     },
     {
@@ -1247,7 +1254,7 @@
         "title": "Joule Heating-Induced Metal–Insulator Transition in Epitaxial VO2/TiO2 Devices",
         "pub_year": "2016",
         "citation": "ACS applied materials & interfaces 8 (20), 12908-12914, 2016",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "Ktm9tWwAAAAJ:ce2CqMG-AY4C"
     },
     {
@@ -1477,7 +1484,7 @@
         "title": "Measured optical losses of Sc doped AlN waveguides",
         "pub_year": "2024",
         "citation": "Optics Express 32 (4), 5252-5260, 2024",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "Ktm9tWwAAAAJ:Ic1VZgkJnDsC"
     },
     {
@@ -1505,7 +1512,7 @@
         "title": "Method of enhancing the c-axis perpendicular orientation of barium hexaferrite thin films and barium hexaferrite thin film recording media produced thereby",
         "pub_year": "1999",
         "citation": "US Patent 5,863,661, 1999",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Ktm9tWwAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -1561,7 +1568,7 @@
         "title": "Mobility of oxygen vacancy in SrTiO3 and its implications for oxygen-migration-based resistance switching",
         "pub_year": "2011",
         "citation": "Journal of Applied Physics 110 (3), 2011",
-        "num_citations": 139,
+        "num_citations": 141,
         "author_pub_id": "Ktm9tWwAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -1610,7 +1617,7 @@
         "title": "Nanoscale thermal transport aspects of heat-assisted magnetic recording devices and materials",
         "pub_year": "2018",
         "citation": "MRS Bulletin 43 (2), 112-118, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "Ktm9tWwAAAAJ:IsPWOBWtZBwC"
     },
     {
@@ -1659,7 +1666,7 @@
         "title": "Novel on chip rotation detection based on the acousto-optic effect in surface acoustic wave gyroscopes",
         "pub_year": "2018",
         "citation": "Optics express 26 (19), 25060-25075, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "Ktm9tWwAAAAJ:v6i8RKmR8ToC"
     },
     {
@@ -1714,7 +1721,7 @@
         "title": "Oscillatory neural networks based on TMO nano-oscillators and multi-level RRAM cells",
         "pub_year": "2015",
         "citation": "IEEE journal on Emerging and Selected Topics in Circuits and Systems 5 (2 …, 2015",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "Ktm9tWwAAAAJ:CdxZDUztZiMC"
     },
     {
@@ -1763,7 +1770,7 @@
         "title": "Phase based boolean computation using GeTe6 oscillators",
         "pub_year": "2017",
         "citation": "2017 IEEE 17th International Conference on Nanotechnology (IEEE-NANO), 850-854, 2017",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Ktm9tWwAAAAJ:jSAVyFp_754C"
     },
     {
@@ -1777,7 +1784,7 @@
         "title": "Phase coupling and control of oxide-based oscillators for neuromorphic computing",
         "pub_year": "2015",
         "citation": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits 1 …, 2015",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "Ktm9tWwAAAAJ:WC9gN4BGCRcC"
     },
     {
@@ -1831,7 +1838,7 @@
         "title": "RACER: Bit-pipelined processing using resistive memory",
         "pub_year": "2021",
         "citation": "MICRO-54: 54th Annual IEEE/ACM International Symposium on Microarchitecture …, 2021",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "Ktm9tWwAAAAJ:BJrgspguQaEC"
     },
     {
@@ -2001,7 +2008,7 @@
         "title": "Simulation of a Thermally Efficient HAMR Ridge Waveguide NFT on an AIN Heat Sink",
         "pub_year": "2021",
         "citation": "2021 IEEE 32nd Magnetic Recording Conference (TMRC), 1-2, 2021",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Ktm9tWwAAAAJ:hGdtkIFZdKAC"
     },
     {
@@ -2057,7 +2064,7 @@
         "title": "Spontaneous current constriction in threshold switching devices",
         "pub_year": "2019",
         "citation": "Nature communications 10 (1), 1628, 2019",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "Ktm9tWwAAAAJ:qE4H1tSSYIIC"
     },
     {
@@ -2085,7 +2092,7 @@
         "title": "Stress determination in textured thin films using X-ray diffraction",
         "pub_year": "1992",
         "citation": "MRS bulletin 17 (7), 46-51, 1992",
-        "num_citations": 194,
+        "num_citations": 195,
         "author_pub_id": "Ktm9tWwAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -2350,7 +2357,7 @@
         "title": "Thermometry of filamentary RRAM devices",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Electron Devices 62 (9), 2972-2977, 2015",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "Ktm9tWwAAAAJ:SjuI4pbJlxcC"
     },
     {
@@ -2406,7 +2413,7 @@
         "title": "Transient thermometry and high-resolution transmission electron microscopy analysis of filamentary resistive switches",
         "pub_year": "2016",
         "citation": "ACS Applied Materials & Interfaces 8 (31), 20176-20184, 2016",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "Ktm9tWwAAAAJ:1DsIQWDZLl8C"
     },
     {

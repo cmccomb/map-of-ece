@@ -166,7 +166,7 @@
         "title": "An analysis of traces from a production MapReduce cluster",
         "pub_year": "2010",
         "citation": "Cluster, Cloud and Grid Computing (CCGrid), 2010 10th IEEE/ACM International …, 2010",
-        "num_citations": 447,
+        "num_citations": 450,
         "author_pub_id": "qyPWUBcAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -236,7 +236,7 @@
         "title": "Binary function clustering using semantic hashes",
         "pub_year": "2012",
         "citation": "2012 11th International Conference on Machine Learning and Applications 1 …, 2012",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "qyPWUBcAAAAJ:tYavs44e6CUC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Cachier: Edge-caching for recognition applications",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017",
-        "num_citations": 205,
+        "num_citations": 207,
         "author_pub_id": "qyPWUBcAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "Causes of failure in web applications",
         "pub_year": "2005",
         "citation": "Parallel Data Laboratory, Carnegie Mellon University, CMU-PDL-05-109, 2005",
-        "num_citations": 259,
+        "num_citations": 260,
         "author_pub_id": "qyPWUBcAAAAJ:bFI3QPDXJZMC"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Draco: Statistical diagnosis of chronic problems in large distributed systems",
         "pub_year": "2012",
         "citation": "DSN 2012, 42nd IEEE/IFIP International Conference on Dependable Systems and …, 2012",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "qyPWUBcAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -533,7 +533,7 @@
         "title": "Failure diagnosis of complex systems",
         "pub_year": "2012",
         "citation": "Resilience Assessment and Evaluation, 2012",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qyPWUBcAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -596,7 +596,7 @@
         "title": "Fingerpointing correlated failures in replicated systems",
         "pub_year": "2007",
         "citation": "Proceedings of the 2nd USENIX workshop on Tackling computer systems problems …, 2007",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "qyPWUBcAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -652,7 +652,7 @@
         "title": "Group communication: Helping or obscuring failure diagnosis",
         "pub_year": "2006",
         "citation": "Group Communication: Helping Or Obscuring Failure Diagnosis, 2006",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "qyPWUBcAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -712,7 +712,7 @@
         "title": "Hyrax: Cloud computing on mobile devices using MapReduce",
         "pub_year": "2009",
         "citation": "Master's Thesis, Carnegie Mellon University, 2009",
-        "num_citations": 642,
+        "num_citations": 643,
         "author_pub_id": "qyPWUBcAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -912,7 +912,7 @@
         "title": "Myron: Smart footballs for automated coaching",
         "pub_year": "2009",
         "citation": "The Impact of Technology on Sport, III, 593-7, 2009",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "qyPWUBcAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -1050,7 +1050,7 @@
         "title": "Precog: prefetching for image recognition applications at the edge",
         "pub_year": "2017",
         "citation": "Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 1-13, 2017",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "qyPWUBcAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -1132,7 +1132,7 @@
         "title": "Real-time tracking of game assets in American football for automated camera selection and motion capture",
         "pub_year": "2010",
         "citation": "Procedia Engineering 2 (2), 2667-2673, 2010",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "qyPWUBcAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -1166,7 +1166,7 @@
         "title": "Recovering C++ objects from binaries using inter-procedural data-flow analysis",
         "pub_year": "2014",
         "citation": "Proceedings of ACM SIGPLAN on Program Protection and Reverse Engineering …, 2014",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "qyPWUBcAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -1200,7 +1200,7 @@
         "title": "SALSA: analyzing logs as state machines",
         "pub_year": "2008",
         "citation": "Proceedings of the First USENIX conference on Analysis of system logs, 6-6, 2008",
-        "num_citations": 167,
+        "num_citations": 168,
         "author_pub_id": "qyPWUBcAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1345,7 +1345,7 @@
         "title": "Systems and methods for providing interactive video services",
         "pub_year": "2015",
         "citation": "US Patent 9,137,495, 2015",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "qyPWUBcAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1456,21 +1456,21 @@
         "title": "Thema: Byzantine-fault-tolerant middleware for web-service applications",
         "pub_year": "2005",
         "citation": "Reliable Distributed Systems, 2005. SRDS 2005. 24th IEEE Symposium on, 131-140, 2005",
-        "num_citations": 166,
+        "num_citations": 167,
         "author_pub_id": "qyPWUBcAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Tiresias: Black-box failure prediction in distributed systems",
         "pub_year": "2007",
         "citation": "2007 IEEE international parallel and distributed processing symposium, 1-8, 2007",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "qyPWUBcAAAAJ:b0M2c_1WBrUC"
     },
     {
         "title": "To Auto Scale or not to Auto Scale",
         "pub_year": "2013",
         "citation": "USENIX International Conference on Autonomic Computing (ICAC), 2013",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "qyPWUBcAAAAJ:SpbeaW3--B0C"
     },
     {

@@ -81,7 +81,7 @@
         "title": "A type system for safe intermittent computing",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Programming Languages 7 (PLDI), 736-760, 2023",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "yjJPtE4AAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -95,7 +95,7 @@
         "title": "An I/O separation model for formal verification of kernel implementations",
         "pub_year": "2021",
         "citation": "2021 IEEE Symposium on Security and Privacy (SP), 572-589, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "yjJPtE4AAAAJ:738O_yMBCRsC"
     },
     {
@@ -137,7 +137,7 @@
         "title": "Android taint flow analysis for app sets",
         "pub_year": "2014",
         "citation": "Proceedings of the 3rd ACM SIGPLAN International Workshop on the State of …, 2014",
-        "num_citations": 295,
+        "num_citations": 298,
         "author_pub_id": "yjJPtE4AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "Automatically enforcing fresh and consistent inputs in intermittent systems",
         "pub_year": "2021",
         "citation": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …, 2021",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "yjJPtE4AAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -239,7 +239,7 @@
         "title": "Containing malicious package updates in npm with a lightweight permission system",
         "pub_year": "2021",
         "citation": "2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE …, 2021",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "yjJPtE4AAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -301,14 +301,14 @@
         "title": "Design, implementation and verification of an extensible and modular hypervisor framework",
         "pub_year": "2013",
         "citation": "2013 IEEE Symposium on Security and Privacy, 430-444, 2013",
-        "num_citations": 179,
+        "num_citations": 180,
         "author_pub_id": "yjJPtE4AAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "Detecting suspicious package updates",
         "pub_year": "2019",
         "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering: New …, 2019",
-        "num_citations": 41,
+        "num_citations": 46,
         "author_pub_id": "yjJPtE4AAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -377,7 +377,7 @@
         "title": "Experiences in the logical specification of the HIPAA and GLBA privacy laws",
         "pub_year": "2010",
         "citation": "Proceedings of the 9th Annual ACM Workshop on Privacy in the Electronic …, 2010",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "yjJPtE4AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -459,7 +459,7 @@
         "title": "How Risky Are Real Users'{IFTTT} Applets?",
         "pub_year": "2020",
         "citation": "Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020), 505-529, 2020",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "yjJPtE4AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -554,7 +554,7 @@
         "title": "Maintaining distributed logic programs incrementally",
         "pub_year": "2011",
         "citation": "Proceedings of the 13th international ACM SIGPLAN symposium on Principles …, 2011",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "yjJPtE4AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -609,7 +609,7 @@
         "title": "Modeling and enhancing android’s permission system",
         "pub_year": "2012",
         "citation": "Computer Security–ESORICS 2012: 17th European Symposium on Research in …, 2012",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "yjJPtE4AAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -648,14 +648,14 @@
         "title": "Nodemedic: End-to-end analysis of node. js vulnerabilities with provenance graphs",
         "pub_year": "2023",
         "citation": "2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P), 1101-1127, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "yjJPtE4AAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "Omnicrawl: Comprehensive measurement of web tracking with real desktop and mobile browsers",
         "pub_year": "2022",
         "citation": "Proceedings on Privacy Enhancing Technologies, 2022",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "yjJPtE4AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -784,7 +784,7 @@
         "title": "Reasoning about hierarchical storage",
         "pub_year": "2003",
         "citation": "18th Annual IEEE Symposium of Logic in Computer Science, 2003. Proceedings …, 2003",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "yjJPtE4AAAAJ:dshw04ExmUIC"
     },
     {
@@ -831,7 +831,7 @@
         "title": "Run-time Monitoring and Formal Analysis of Information Flows in Chromium.",
         "pub_year": "2015",
         "citation": "NDSS, 2015",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "yjJPtE4AAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -884,14 +884,14 @@
         "title": "Session logical relations for noninterference",
         "pub_year": "2021",
         "citation": "2021 36th Annual ACM/IEEE Symposium on Logic in Computer Science (LICS), 1-14, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "yjJPtE4AAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Session-typed concurrent contracts",
         "pub_year": "2022",
         "citation": "Journal of Logical and Algebraic Methods in Programming 124, 100731, 2022",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "yjJPtE4AAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -911,7 +911,7 @@
         "title": "Some recipes can do more than spoil your appetite: Analyzing the security and privacy risks of IFTTT recipes",
         "pub_year": "2017",
         "citation": "Proceedings of the 26th International Conference on World Wide Web, 1501-1510, 2017",
-        "num_citations": 189,
+        "num_citations": 191,
         "author_pub_id": "yjJPtE4AAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -931,7 +931,7 @@
         "title": "Syrust: automatic testing of rust libraries with semantic-aware program synthesis",
         "pub_year": "2021",
         "citation": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …, 2021",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "yjJPtE4AAAAJ:UxriW0iASnsC"
     },
     {
@@ -1027,7 +1027,7 @@
         "title": "Towards a formal foundation of intermittent computing",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM on Programming Languages 4 (OOPSLA), 1-31, 2020",
-        "num_citations": 40,
+        "num_citations": 42,
         "author_pub_id": "yjJPtE4AAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -1102,14 +1102,14 @@
         "title": "{NetSMC}: A Custom Symbolic Model Checker for Stateful Network Verification",
         "pub_year": "2020",
         "citation": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2020",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "yjJPtE4AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "{überSpark}: Enforcing Verifiable Object Abstractions for Automated Compositional Security Analysis of a Hypervisor",
         "pub_year": "2016",
         "citation": "25th USENIX Security Symposium (USENIX Security 16), 87-104, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "yjJPtE4AAAAJ:cFHS6HbyZ2cC"
     },
     {

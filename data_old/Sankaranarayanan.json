@@ -17,14 +17,14 @@
         "title": "A Theory of Joint Light and Heat Transport for Lambertian Scenes",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "UtIervAAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "A dictionary-based approach for estimating shape and spatially-varying reflectance",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Computational Photography (ICCP), 1-9, 2015",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "UtIervAAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "A theory of fermat paths for non-line-of-sight shape reconstruction",
         "pub_year": "2019",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2019",
-        "num_citations": 186,
+        "num_citations": 190,
         "author_pub_id": "UtIervAAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -80,21 +80,21 @@
         "title": "Analyzing phase masks for wide étendue holographic displays",
         "pub_year": "2022",
         "citation": "2022 IEEE International Conference on Computational Photography (ICCP), 1-12, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "UtIervAAAAAJ:MLfJN-KU85MC"
     },
     {
         "title": "Angle Sensitive Pixels for Lensless Imaging on Spherical Sensors",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2306.15953, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "UtIervAAAAAJ:WZBGuue-350C"
     },
     {
         "title": "Beyond Volumetric Albedo--A Surface Optimization Framework for Non-Line-Of-Sight Imaging",
         "pub_year": "2019",
         "citation": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2019",
-        "num_citations": 95,
+        "num_citations": 97,
         "author_pub_id": "UtIervAAAAAJ:_B80troHkn4C"
     },
     {
@@ -168,8 +168,8 @@
     },
     {
         "title": "Compressive sensing",
-        "pub_year": "2020",
-        "citation": "Computer vision: a reference Guide, 1-5, 2020",
+        "pub_year": "2021",
+        "citation": "Computer vision: a reference Guide, 194-198, 2021",
         "num_citations": 3,
         "author_pub_id": "UtIervAAAAAJ:RGFaLdJalmkC"
     },
@@ -191,7 +191,7 @@
         "title": "Compressive video sensing: Algorithms, architectures, and applications",
         "pub_year": "2017",
         "citation": "IEEE Signal Processing Magazine 34 (1), 52-66, 2017",
-        "num_citations": 132,
+        "num_citations": 133,
         "author_pub_id": "UtIervAAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -206,6 +206,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "UtIervAAAAAJ:xtoqd-5pKcoC"
+    },
+    {
+        "title": "Computational Imaging for Long-Term Prediction of Solar Irradiance",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2409.12016, 2024",
+        "num_citations": 0,
+        "author_pub_id": "UtIervAAAAAJ:_axFR9aDTf0C"
     },
     {
         "title": "Computational imaging using ultrasonically-sculpted virtual lenses",
@@ -231,7 +238,7 @@
         "title": "Convolutional approximations to the general non-line-of-sight imaging operator",
         "pub_year": "2019",
         "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2019",
-        "num_citations": 72,
+        "num_citations": 75,
         "author_pub_id": "UtIervAAAAAJ:dTyEYWd-f8wC"
     },
     {
@@ -306,7 +313,7 @@
         "title": "Dual structured light 3d using a 1d sensor",
         "pub_year": "2016",
         "citation": "Computer Vision–ECCV 2016: 14th European Conference, Amsterdam, The …, 2016",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "UtIervAAAAAJ:dshw04ExmUIC"
     },
     {
@@ -354,7 +361,7 @@
         "title": "Exploring mmWave Radar and Camera Fusion for High-Resolution and Long-Range Depth Imaging",
         "pub_year": "2022",
         "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "UtIervAAAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -368,14 +375,14 @@
         "title": "Exponentially-wide étendue displays using a tilting cascade",
         "pub_year": "2022",
         "citation": "2022 IEEE International Conference on Computational Photography (ICCP), 1-12, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "UtIervAAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "FPA-CS: Focal plane array-based compressive imaging in short-wave infrared",
         "pub_year": "2015",
         "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "UtIervAAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -424,14 +431,14 @@
         "title": "Flatcam: Thin, lensless cameras using coded aperture and computation",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Computational Imaging 3 (3), 384-397, 2016",
-        "num_citations": 314,
+        "num_citations": 321,
         "author_pub_id": "UtIervAAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Flutter shutter video camera for compressive sensing of videos",
         "pub_year": "2012",
         "citation": "2012 IEEE International Conference on Computational Photography (ICCP), 1-9, 2012",
-        "num_citations": 107,
+        "num_citations": 109,
         "author_pub_id": "UtIervAAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -546,7 +553,7 @@
         "title": "Kaleidoscopic structured light",
         "pub_year": "2021",
         "citation": "ACM Transactions on Graphics (TOG) 40 (6), 1-15, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "UtIervAAAAAJ:4MWp96NkSFoC"
     },
     {
@@ -627,7 +634,7 @@
         "title": "Lisens-a scalable architecture for video compressive sensing",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Computational Photography (ICCP), 1-9, 2015",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "UtIervAAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -752,7 +759,7 @@
         "title": "One Network to Solve Them All--Solving Linear Inverse Problems Using Deep Projection Models",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE Conference on Computer Vision, 2017",
-        "num_citations": 383,
+        "num_citations": 390,
         "author_pub_id": "UtIervAAAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -804,24 +811,24 @@
         "author_pub_id": "UtIervAAAAAJ:evX43VCCuoAC"
     },
     {
+        "title": "Passive and single-viewpoint 3D imaging system",
+        "pub_year": "2024",
+        "citation": "US Patent 12,073,578, 2024",
+        "num_citations": 0,
+        "author_pub_id": "UtIervAAAAAJ:foquWX3nUaYC"
+    },
+    {
         "title": "Passive and single-viewpoint 3d imaging system",
-        "pub_year": "2023",
+        "pub_year": "2024",
         "citation": "",
         "num_citations": 1,
         "author_pub_id": "UtIervAAAAAJ:HbR8gkJAVGIC"
     },
     {
-        "title": "Passive and single-viewpoint 3d imaging system",
-        "pub_year": "2023",
-        "citation": "US Patent App. 18/307,387, 2023",
-        "num_citations": 0,
-        "author_pub_id": "UtIervAAAAAJ:foquWX3nUaYC"
-    },
-    {
         "title": "Phasecam3d—learning phase masks for passive single view depth estimation",
         "pub_year": "2019",
         "citation": "2019 IEEE International Conference on Computational Photography (ICCP), 1-12, 2019",
-        "num_citations": 171,
+        "num_citations": 175,
         "author_pub_id": "UtIervAAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -855,7 +862,7 @@
         "title": "Precise forecasting of sky images using spatial warping",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF international conference on computer vision …, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "UtIervAAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -903,7 +910,7 @@
         "title": "Projecting Trackable Thermal Patterns for Dynamic Computer Vision",
         "pub_year": "2024",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "UtIervAAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -964,7 +971,7 @@
         "title": "Reflectance capture using univariate sampling of brdfs",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE International Conference on Computer Vision, 5362-5370, 2017",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "UtIervAAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -978,7 +985,7 @@
         "title": "Robust face recognition from multi-view videos",
         "pub_year": "2014",
         "citation": "IEEE transactions on image processing 23 (3), 1105-1117, 2014",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "UtIervAAAAAJ:k_IJM867U9cC"
     },
     {
@@ -996,6 +1003,13 @@
         "author_pub_id": "UtIervAAAAAJ:j8SEvjWlNXcC"
     },
     {
+        "title": "Scanning Iridescent Reflectance",
+        "pub_year": "2024",
+        "citation": "2024 IEEE International Conference on Computational Photography (ICCP), 1-12, 2024",
+        "num_citations": 0,
+        "author_pub_id": "UtIervAAAAAJ:hCrLmN-GePgC"
+    },
+    {
         "title": "Shape and Reflectance from Two-Bounce Light Transients",
         "pub_year": "2016",
         "citation": "IEEE International Conference on Computational Photography, 2016",
@@ -1006,14 +1020,20 @@
         "title": "Shape and spatially-varying reflectance estimation from virtual exemplars",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence 39 (10), 2060 …, 2017",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "UtIervAAAAAJ:yD5IFk8b50cC"
+    },
+    {
+        "title": "Shape from Heat Conduction",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "UtIervAAAAAJ:86PQX7AUzd4C"
     },
     {
         "title": "Signal processing based pile-up compensation for gated single-photon avalanche diodes",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1806.07437, 2018",
-        "num_citations": 55,
+        "num_citations": 57,
         "author_pub_id": "UtIervAAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1027,42 +1047,42 @@
         "title": "Single-photon structured light",
         "pub_year": "2022",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2022",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "UtIervAAAAAJ:EYYDruWGBe4C"
     },
     {
         "title": "SliceNets--A Scalable approach for object detection in 3D CT scans",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2021",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "UtIervAAAAAJ:-_dYPAW6P2MC"
     },
     {
         "title": "Soft cross entropy loss and bottleneck tri-cost volume for efficient stereo depth prediction",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "UtIervAAAAAJ:9Nmd_mFXekcC"
     },
     {
         "title": "SpaRCS: Recovering low-rank and sparse matrices from compressive measurements",
         "pub_year": "2011",
         "citation": "Advances in neural information processing systems 24, 2011",
-        "num_citations": 255,
+        "num_citations": 256,
         "author_pub_id": "UtIervAAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Spatial and axial resolution limits for mask-based lensless cameras",
         "pub_year": "2023",
         "citation": "Optics Express 31 (2), 2538-2551, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "UtIervAAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "Specular surface reconstruction from sparse reflection correspondences",
         "pub_year": "2010",
         "citation": "2010 IEEE Computer Society Conference on Computer Vision and Pattern …, 2010",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "UtIervAAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1121,7 +1141,7 @@
         "title": "Sweepcam—depth-aware lensless imaging using programmable masks",
         "pub_year": "2020",
         "citation": "IEEE transactions on pattern analysis and machine intelligence 42 (7), 1606-1617, 2020",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "UtIervAAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -1162,14 +1182,14 @@
         "title": "Towards multifocal displays with dense focal stacks",
         "pub_year": "2018",
         "citation": "ACM Transactions on Graphics (TOG) 37 (6), 1-13, 2018",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "UtIervAAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "Towards occlusion-aware multifocal displays",
         "pub_year": "2020",
         "citation": "ACM Transactions on Graphics (TOG) 39 (4), 68: 1-68: 15, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "UtIervAAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -1218,7 +1238,7 @@
         "title": "Wide-baseline light fields using ellipsoidal mirrors",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "UtIervAAAAAJ:gsN89kCJA0AC"
     }
 ]

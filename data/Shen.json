@@ -80,14 +80,14 @@
         "title": "A roving monitoring processor for detection of control flow errors in multiple processor systems",
         "pub_year": "1987",
         "citation": "Microprocessing and Microprogramming 20 (4-5), 249-269, 1987",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "pARKzQsAAAAJ:_B80troHkn4C"
     },
     {
         "title": "A roving monitoring processor for detection of control flow errors in multiple processor systems",
         "pub_year": "1985",
         "citation": "Proc. IEEE Int. Conf. Comput. Design: VLSI Comput., 531-539, 1985",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "pARKzQsAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -122,7 +122,7 @@
         "title": "An instruction-level performance analysis of the Multiflow TRACE 14/300",
         "pub_year": "1991",
         "citation": "Proceedings of the 24th annual international symposium on Microarchitecture …, 1991",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "pARKzQsAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -269,7 +269,7 @@
         "title": "Building inter-block streams from a dynamic execution trace for a program",
         "pub_year": "2007",
         "citation": "US Patent 7,228,528, 2007",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "pARKzQsAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "Caching DAG traces",
         "pub_year": "2002",
         "citation": "US Patent App. 09/823,235, 2002",
-        "num_citations": 116,
+        "num_citations": 115,
         "author_pub_id": "pARKzQsAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -386,7 +386,7 @@
         "title": "Concurrent error detection using signature monitoring and encryption",
         "pub_year": "1991",
         "citation": "Dependable Computing for Critical Applications, 365-384, 1991",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "pARKzQsAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Continuous signature monitoring: efficient concurrent-detection of processor control errors",
         "pub_year": "1988",
         "citation": "International Test Conference 1988 Proceeding@ m_New Frontiers in Testing …, 1988",
-        "num_citations": 82,
+        "num_citations": 84,
         "author_pub_id": "pARKzQsAAAAJ:evX43VCCuoAC"
     },
     {
@@ -476,7 +476,7 @@
         "title": "Die stacking (3D) microarchitecture",
         "pub_year": "2006",
         "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006",
-        "num_citations": 800,
+        "num_citations": 803,
         "author_pub_id": "pARKzQsAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -497,7 +497,7 @@
         "title": "Dynamic speculative precomputation",
         "pub_year": "2001",
         "citation": "Proceedings. 34th ACM/IEEE International Symposium on Microarchitecture …, 2001",
-        "num_citations": 299,
+        "num_citations": 300,
         "author_pub_id": "pARKzQsAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -551,7 +551,7 @@
         "title": "Embedded signature monitoring: analysis and technique",
         "pub_year": "1987",
         "citation": "SRC-CMU Research Center for Computer-Aided Design, Department of Electrical …, 1987",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "pARKzQsAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -572,7 +572,7 @@
         "title": "Exceeding the dataflow limit via value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the 29th Annual IEEE/ACM International Symposium on …, 1996",
-        "num_citations": 750,
+        "num_citations": 751,
         "author_pub_id": "pARKzQsAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -600,7 +600,7 @@
         "title": "Experimental evaluation of two concurrent error detection schemes",
         "pub_year": "1986",
         "citation": "Proc. Of the 16th Int’l. Symp. On Fault-Tolerant Computing, Vienna, 138-143, 1986",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "pARKzQsAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -740,7 +740,7 @@
         "title": "Hardware support for prescient instruction prefetch",
         "pub_year": "2004",
         "citation": "10th International Symposium on High Performance Computer Architecture (HPCA …, 2004",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "pARKzQsAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -782,7 +782,7 @@
         "title": "IDIoT: Multimodal framework for ubiquitous identification and assignment of human-carried wearable devices",
         "pub_year": "2023",
         "citation": "ACM Transactions on Internet of Things 4 (2), 1-25, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "pARKzQsAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -821,7 +821,7 @@
         "title": "Inductive fault analysis of MOS integrated circuits",
         "pub_year": "1985",
         "citation": "IEEE Design & Test of Computers 2 (6), 13-26, 1985",
-        "num_citations": 656,
+        "num_citations": 657,
         "author_pub_id": "pARKzQsAAAAJ:z_wVstp3MssC"
     },
     {
@@ -932,7 +932,7 @@
         "title": "Mechanism for instruction set based thread execution on a plurality of instruction sequencers",
         "pub_year": "2014",
         "citation": "US Patent 8,719,819, 2014",
-        "num_citations": 114,
+        "num_citations": 113,
         "author_pub_id": "pARKzQsAAAAJ:rO6llkc54NcC"
     },
     {
@@ -1002,7 +1002,7 @@
         "title": "Memory latency-tolerance approaches for Itanium processors: out-of-order execution vs. speculative precomputation",
         "pub_year": "2002",
         "citation": "Proceedings Eighth International Symposium on High Performance Computer …, 2002",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "pARKzQsAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -1023,7 +1023,7 @@
         "title": "Method and apparatus for affinity-guided speculative helper threads in chip multiprocessors",
         "pub_year": "2011",
         "citation": "US Patent 8,078,831, 2011",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "pARKzQsAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -1037,7 +1037,7 @@
         "title": "Method and apparatus for contextual gesture recognition",
         "pub_year": "2012",
         "citation": "US Patent App. 13/156,557, 2012",
-        "num_citations": 37,
+        "num_citations": 34,
         "author_pub_id": "pARKzQsAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -1086,21 +1086,21 @@
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2013",
         "citation": "US Patent 8,346,760, 2013",
-        "num_citations": 34,
+        "num_citations": 33,
         "author_pub_id": "pARKzQsAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2009",
         "citation": "US Patent 7,580,914, 2009",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "pARKzQsAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "Method and system to provide concurrent user-level, non-privileged shared resource thread creation and execution",
         "pub_year": "2015",
         "citation": "US Patent 9,189,230, 2015",
-        "num_citations": 58,
+        "num_citations": 56,
         "author_pub_id": "pARKzQsAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -1170,14 +1170,14 @@
         "title": "Methods and apparatus for reducing memory latency in a software application",
         "pub_year": "2008",
         "citation": "US Patent 7,328,433, 2008",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "pARKzQsAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Methods and apparatuses for compiler-creating helper threads for multi-threading",
         "pub_year": "2005",
         "citation": "US Patent App. 10/676,889, 2005",
-        "num_citations": 58,
+        "num_citations": 57,
         "author_pub_id": "pARKzQsAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -1239,7 +1239,7 @@
         "title": "Modern processor design: fundamentals of superscalar processors",
         "pub_year": "2013",
         "citation": "Waveland Press, 2013",
-        "num_citations": 626,
+        "num_citations": 629,
         "author_pub_id": "pARKzQsAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1309,7 +1309,7 @@
         "title": "On-line monitoring using signatured instruction streams",
         "pub_year": "1983",
         "citation": "Proc. IEEE International Test Conference, Oct. 1983, 275-282, 1983",
-        "num_citations": 110,
+        "num_citations": 113,
         "author_pub_id": "pARKzQsAAAAJ:D_sINldO8mEC"
     },
     {
@@ -1434,7 +1434,7 @@
         "title": "Primitives to enhance thread-level speculation",
         "pub_year": "2011",
         "citation": "US Patent App. 12/970,040, 2011",
-        "num_citations": 53,
+        "num_citations": 52,
         "author_pub_id": "pARKzQsAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -1462,14 +1462,14 @@
         "title": "Processor control flow monitoring using signatured instruction streams",
         "pub_year": "1987",
         "citation": "IEEE Transactions on Computers 100 (3), 264-276, 1987",
-        "num_citations": 265,
+        "num_citations": 268,
         "author_pub_id": "pARKzQsAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Processor monitoring using asynchronous signatured instruction streams",
         "pub_year": "1995",
         "citation": "Twenty-Fifth International Symposium on Fault-Tolerant Computing, 1995 …, 1995",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "pARKzQsAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -1553,7 +1553,7 @@
         "title": "Realtime Person Identification via Gait Analysis",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.15312, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -1574,7 +1574,7 @@
         "title": "Register renaming and scheduling for dynamic execution of predicated code",
         "pub_year": "2001",
         "citation": "Proceedings HPCA Seventh International Symposium on High-Performance …, 2001",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "pARKzQsAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -1671,7 +1671,7 @@
         "title": "Speculative Precomputation: Exploring the Use of Multithreading for Latency.",
         "pub_year": "2002",
         "citation": "Intel Technology Journal 6 (1), 2002",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "pARKzQsAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1699,14 +1699,14 @@
         "title": "Speculative precomputation on chip multiprocessors",
         "pub_year": "2002",
         "citation": "Proc. of MTEAC 6, 2002",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "pARKzQsAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Speculative precomputation: Long-range prefetching of delinquent loads",
         "pub_year": "2001",
         "citation": "ACM SIGARCH Computer Architecture News 29 (2), 14-25, 2001",
-        "num_citations": 498,
+        "num_citations": 499,
         "author_pub_id": "pARKzQsAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -1727,7 +1727,7 @@
         "title": "Surfacevibe: vibration-based tap & swipe tracking on ubiquitous surfaces",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "pARKzQsAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1755,7 +1755,7 @@
         "title": "Systematic characterization of physical defects for fault analysis of MOS IC cells",
         "pub_year": "1984",
         "citation": "Proceedings of the 1984 international test conference on The three faces of …, 1984",
-        "num_citations": 155,
+        "num_citations": 157,
         "author_pub_id": "pARKzQsAAAAJ:kuK5TVdYjLIC"
     },
     {
@@ -1867,7 +1867,7 @@
         "title": "The white dwarf: A high-performance application-specific processor",
         "pub_year": "1988",
         "citation": "ACM SIGARCH Computer Architecture News 16 (2), 212-222, 1988",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "pARKzQsAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -1923,7 +1923,7 @@
         "title": "Transformation of single-threaded code to speculative precomputation enabled code",
         "pub_year": "2004",
         "citation": "US Patent App. 10/334,868, 2004",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "pARKzQsAAAAJ:HbR8gkJAVGIC"
     },
     {
@@ -1965,7 +1965,7 @@
         "title": "User-programmable low-overhead multithreading",
         "pub_year": "2009",
         "citation": "US Patent 7,631,307, 2009",
-        "num_citations": 96,
+        "num_citations": 95,
         "author_pub_id": "pARKzQsAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -1992,7 +1992,7 @@
         "title": "Value locality and load value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the seventh international conference on Architectural support …, 1996",
-        "num_citations": 967,
+        "num_citations": 968,
         "author_pub_id": "pARKzQsAAAAJ:9vf0nzSNQJEC"
     },
     {

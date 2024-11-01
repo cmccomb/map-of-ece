@@ -38,7 +38,7 @@
         "title": "Capacitance measurements for assessing DNA origami nanostructures",
         "pub_year": "2023",
         "citation": "BioRxiv, 2023.03. 02.530881, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "mjixDB8AAAAJ:OcBU2YAGkTUC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "Delay circuit with dual delay resolution regime",
         "pub_year": "2020",
         "citation": "US Patent 10,594,306, 2020",
-        "num_citations": 28,
+        "num_citations": 23,
         "author_pub_id": "mjixDB8AAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -142,14 +142,14 @@
         "title": "Handheld fluorometers for lab-on-a-chip applications",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Biomedical Circuits and Systems 3 (2), 97-107, 2009",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "mjixDB8AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "High resolution monitoring of chemotherapeutic agent potency in cancer cells using a CMOS capacitance biosensor",
         "pub_year": "2019",
         "citation": "Biosensors and Bioelectronics 142, 111501, 2019",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "mjixDB8AAAAJ:dBIO0h50nwkC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Lab-on-CMOS capacitance sensor array for real-time cell viability measurements with I2C readout",
         "pub_year": "2016",
         "citation": "2016 IEEE International Symposium on Circuits and Systems (ISCAS), 2863-2866, 2016",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "mjixDB8AAAAJ:4hFrxpcac9AC"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Low-noise CMOS fluorescence sensor",
         "pub_year": "2007",
         "citation": "2007 IEEE International Symposium on Circuits and Systems, 2007",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "mjixDB8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -267,7 +267,7 @@
         "title": "Optical filtering technologies for integrated fluorescence sensors",
         "pub_year": "2007",
         "citation": "Lab on a Chip 7 (8), 955-977, 2007",
-        "num_citations": 207,
+        "num_citations": 205,
         "author_pub_id": "mjixDB8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -330,7 +330,7 @@
         "title": "Post-CMOS packaging methods for integrated biosensors",
         "pub_year": "2009",
         "citation": "SENSORS, 2009 IEEE, 795-798, 2009",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "mjixDB8AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -351,7 +351,7 @@
         "title": "Real-time measurements of cell proliferation using a lab-on-CMOS capacitance sensor array",
         "pub_year": "2018",
         "citation": "IEEE transactions on biomedical circuits and systems 12 (3), 510-520, 2018",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "mjixDB8AAAAJ:OTTXONDVkokC"
     },
     {
@@ -383,7 +383,8 @@
     },
     {
         "title": "Single-Photon Avalanche Diodes and Photon Counting Systems: From Phototransduction to Circuit Architecture",
-        "citation": "Springer Nature, 0",
+        "pub_year": "2024",
+        "citation": "Springer Nature, 2024",
         "num_citations": 0,
         "author_pub_id": "mjixDB8AAAAJ:lvd772isFD0C"
     },
@@ -391,7 +392,7 @@
         "title": "Single-photon avalanche diode circuit with variable hold-off time and dual delay regime",
         "pub_year": "2017",
         "citation": "US Patent 9,671,284, 2017",
-        "num_citations": 45,
+        "num_citations": 41,
         "author_pub_id": "mjixDB8AAAAJ:umqufdRvDiIC"
     },
     {
@@ -400,6 +401,12 @@
         "citation": "2023 IEEE 66th International Midwest Symposium on Circuits and Systems …, 2023",
         "num_citations": 1,
         "author_pub_id": "mjixDB8AAAAJ:yqoGN6RLRZoC"
+    },
+    {
+        "title": "Surface-Modified CMOS Biosensors",
+        "citation": "Frontiers in Bioengineering and Biotechnology 12, 1441430, 0",
+        "num_citations": 0,
+        "author_pub_id": "mjixDB8AAAAJ:5icHVeHT4IsC"
     },
     {
         "title": "System and method to measure car-t cell quality",

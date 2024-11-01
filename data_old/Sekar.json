@@ -43,7 +43,7 @@
         "title": "A case for a coordinated internet video control plane",
         "pub_year": "2012",
         "citation": "Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …, 2012",
-        "num_citations": 320,
+        "num_citations": 322,
         "author_pub_id": "5V852JcAAAAJ:k_IJM867U9cC"
     },
     {
@@ -57,7 +57,7 @@
         "title": "A control-theoretic approach for dynamic adaptive video streaming over HTTP",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM Conference on Special Interest Group on Data …, 2015",
-        "num_citations": 1273,
+        "num_citations": 1296,
         "author_pub_id": "5V852JcAAAAJ:wZJMF1LD7PcC"
     },
     {
@@ -71,7 +71,7 @@
         "title": "A first look at third-party service dependencies of web services in Africa",
         "pub_year": "2023",
         "citation": "International Conference on Passive and Active Network Measurement, 595-622, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "5V852JcAAAAJ:HKuYlFsi-qEC"
     },
     {
@@ -99,14 +99,14 @@
         "title": "A multi-resolution approach forworm detection and containment",
         "pub_year": "2006",
         "citation": "International Conference on Dependable Systems and Networks (DSN'06), 189-198, 2006",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "5V852JcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "A quest for an internet video quality-of-experience metric",
         "pub_year": "2012",
         "citation": "Proceedings of the 11th ACM workshop on hot topics in networks, 97-102, 2012",
-        "num_citations": 170,
+        "num_citations": 172,
         "author_pub_id": "5V852JcAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -134,14 +134,14 @@
         "title": "Achieving 100gbps intrusion prevention on a single server",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020",
-        "num_citations": 108,
+        "num_citations": 111,
         "author_pub_id": "5V852JcAAAAJ:fHS53ZCY-AEC"
     },
     {
         "title": "Alembic: Automated model inference for stateful network functions",
         "pub_year": "2019",
         "citation": "16th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2019",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "5V852JcAAAAJ:pxLfhFzThFYC"
     },
     {
@@ -169,7 +169,7 @@
         "title": "Analyzing large DDoS attacks using multiple data sources",
         "pub_year": "2006",
         "citation": "Proceedings of the 2006 SIGCOMM workshop on Large-scale attack defense, 161-168, 2006",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "5V852JcAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -190,7 +190,7 @@
         "title": "Analyzing third party service dependencies in modern web services: Have we learned from the mirai-dyn incident?",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM Internet Measurement Conference, 634-647, 2020",
-        "num_citations": 53,
+        "num_citations": 56,
         "author_pub_id": "5V852JcAAAAJ:o0tJHVzi6PsC"
     },
     {
@@ -232,14 +232,14 @@
         "title": "Bohatei: Flexible and elastic {DDoS} defense",
         "pub_year": "2015",
         "citation": "24th USENIX security symposium (USENIX Security 15), 817-832, 2015",
-        "num_citations": 369,
+        "num_citations": 372,
         "author_pub_id": "5V852JcAAAAJ:TEVcCiyi8yIC"
     },
     {
         "title": "Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality",
         "pub_year": "2022",
         "citation": "Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems …, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "5V852JcAAAAJ:InLRhUNj-rwC"
     },
     {
@@ -253,7 +253,7 @@
         "title": "C3:{internet-scale} control plane for video quality optimization",
         "pub_year": "2015",
         "citation": "12th USENIX symposium on networked systems design and implementation (NSDI …, 2015",
-        "num_citations": 142,
+        "num_citations": 144,
         "author_pub_id": "5V852JcAAAAJ:rKYHOwt5kWwC"
     },
     {
@@ -274,7 +274,7 @@
         "title": "CANE: A Cascade Control Approach for Network-Assisted Video QoE Management",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Control Systems Technology 31 (6), 2543-2554, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "5V852JcAAAAJ:yBJCJstOu-sC"
     },
     {
@@ -309,14 +309,14 @@
         "title": "CS2P: Improving video bitrate selection and adaptation with data-driven throughput prediction",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 272-285, 2016",
-        "num_citations": 477,
+        "num_citations": 483,
         "author_pub_id": "5V852JcAAAAJ:-TLX1-BxFiYC"
     },
     {
         "title": "Cannon: Reliable and stealthy remote shutdown attacks via unaltered automotive microcontrollers",
         "pub_year": "2021",
         "citation": "2021 IEEE Symposium on Security and Privacy (SP), 195-210, 2021",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "5V852JcAAAAJ:Sw8WaQuuSIgC"
     },
     {
@@ -337,7 +337,7 @@
         "title": "Contention-aware performance prediction for virtualized network functions",
         "pub_year": "2020",
         "citation": "Proceedings of the Annual conference of the ACM Special Interest Group on …, 2020",
-        "num_citations": 66,
+        "num_citations": 68,
         "author_pub_id": "5V852JcAAAAJ:5McdzzY_mmwC"
     },
     {
@@ -357,14 +357,14 @@
         "title": "Coordinated sampling sans origin-destination identifiers: algorithms and analysis",
         "pub_year": "2010",
         "citation": "2010 Second International Conference on COMmunication Systems and NETworks …, 2010",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "5V852JcAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Data streaming algorithms for estimating entropy of network traffic",
         "pub_year": "2006",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 34 (1), 145-156, 2006",
-        "num_citations": 274,
+        "num_citations": 275,
         "author_pub_id": "5V852JcAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -392,14 +392,14 @@
         "title": "Design and deployment of a hybrid CDN-P2P system for live video streaming: experiences with LiveSky",
         "pub_year": "2009",
         "citation": "Proceedings of the 17th ACM international conference on Multimedia, 25-34, 2009",
-        "num_citations": 454,
+        "num_citations": 455,
         "author_pub_id": "5V852JcAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Design and implementation of a consolidated middlebox architecture",
         "pub_year": "2012",
         "citation": "9th USENIX Symposium on Networked Systems Design and Implementation (NSDI 12 …, 2012",
-        "num_citations": 752,
+        "num_citations": 754,
         "author_pub_id": "5V852JcAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -413,7 +413,7 @@
         "title": "Developing a predictive model of quality of experience for internet video",
         "pub_year": "2013",
         "citation": "ACM SIGCOMM Computer Communication Review 43 (4), 339-350, 2013",
-        "num_citations": 541,
+        "num_citations": 546,
         "author_pub_id": "5V852JcAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -455,7 +455,7 @@
         "title": "Efficient network reachability analysis using a succinct control plane representation",
         "pub_year": "2016",
         "citation": "12th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2016",
-        "num_citations": 280,
+        "num_citations": 283,
         "author_pub_id": "5V852JcAAAAJ:ZyBjE3zI-i8C"
     },
     {
@@ -544,7 +544,7 @@
         "title": "Evolution of social-attribute networks: measurements, modeling, and implications using google+",
         "pub_year": "2012",
         "citation": "Proceedings of the 2012 internet measurement conference, 131-144, 2012",
-        "num_citations": 269,
+        "num_citations": 270,
         "author_pub_id": "5V852JcAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -572,7 +572,7 @@
         "title": "Firefly: A reconfigurable wireless data center fabric using free-space optics",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM conference on SIGCOMM, 319-330, 2014",
-        "num_citations": 395,
+        "num_citations": 399,
         "author_pub_id": "5V852JcAAAAJ:wUCFpcnEedwC"
     },
     {
@@ -586,14 +586,14 @@
         "title": "Flow reconnaissance via timing attacks on SDN switches",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "5V852JcAAAAJ:XAEgxC7iu0MC"
     },
     {
         "title": "Flowtags: Enforcing network-wide policies in the presence of dynamic middlebox actions",
         "pub_year": "2013",
         "citation": "Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …, 2013",
-        "num_citations": 643,
+        "num_citations": 645,
         "author_pub_id": "5V852JcAAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -621,7 +621,7 @@
         "title": "Freeflow: High performance container networking",
         "pub_year": "2016",
         "citation": "Proceedings of the 15th ACM workshop on hot topics in networks, 43-49, 2016",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "5V852JcAAAAJ:Ltc9rfRcsxEC"
     },
     {
@@ -635,21 +635,21 @@
         "title": "Generating high-fidelity, synthetic time series datasets with doppelganger",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1909.13403, 2019",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "5V852JcAAAAJ:W8gSVh4kTHQC"
     },
     {
         "title": "Gremlin: Systematic resilience testing of microservices",
         "pub_year": "2016",
         "citation": "2016 IEEE 36th International Conference on Distributed Computing Systems …, 2016",
-        "num_citations": 179,
+        "num_citations": 182,
         "author_pub_id": "5V852JcAAAAJ:F0CZgh39Fi0C"
     },
     {
         "title": "Handling a trillion (unfixable) flaws on a billion devices: Rethinking network security for the internet-of-things",
         "pub_year": "2015",
         "citation": "Proceedings of the 14th ACM workshop on hot topics in networks, 1-7, 2015",
-        "num_citations": 482,
+        "num_citations": 485,
         "author_pub_id": "5V852JcAAAAJ:dyiPZ63SVtYC"
     },
     {
@@ -663,7 +663,7 @@
         "title": "How to catch when proxies lie: Verifying the physical locations of network proxies with active geolocation",
         "pub_year": "2018",
         "citation": "Proceedings of the Internet Measurement Conference 2018, 203-217, 2018",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "5V852JcAAAAJ:oMtqKo3K3HAC"
     },
     {
@@ -684,7 +684,7 @@
         "title": "Improving fairness, efficiency, and stability in http-based adaptive video streaming with festive",
         "pub_year": "2012",
         "citation": "Proceedings of the 8th international conference on Emerging networking …, 2012",
-        "num_citations": 1221,
+        "num_citations": 1231,
         "author_pub_id": "5V852JcAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -747,7 +747,7 @@
         "title": "Jaqen: A {High-Performance}{Switch-Native} approach for detecting and mitigating volumetric {DDoS} attacks with programmable switches",
         "pub_year": "2021",
         "citation": "30th USENIX Security Symposium (USENIX Security 21), 3829-3846, 2021",
-        "num_citations": 146,
+        "num_citations": 152,
         "author_pub_id": "5V852JcAAAAJ:8moDcb_GFzgC"
     },
     {
@@ -789,7 +789,7 @@
         "title": "Klotski: Reprioritizing web content to improve user experience on mobile devices",
         "pub_year": "2015",
         "citation": "12th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2015",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "5V852JcAAAAJ:E10ZYwHxBI8C"
     },
     {
@@ -803,7 +803,7 @@
         "title": "Learning context-aware policies from multiple smart homes via federated multi-task learning",
         "pub_year": "2020",
         "citation": "2020 IEEE/ACM Fifth international conference on internet-of-things design …, 2020",
-        "num_citations": 91,
+        "num_citations": 97,
         "author_pub_id": "5V852JcAAAAJ:gPamCmV4epEC"
     },
     {
@@ -824,7 +824,7 @@
         "title": "Lumos: Identifying and localizing diverse hidden {IoT} devices in an unfamiliar environment",
         "pub_year": "2022",
         "citation": "31st USENIX Security Symposium (USENIX Security 22), 1095-1112, 2022",
-        "num_citations": 48,
+        "num_citations": 52,
         "author_pub_id": "5V852JcAAAAJ:-XtG2q47PdUC"
     },
     {
@@ -838,7 +838,7 @@
         "title": "Making middleboxes someone else's problem: Network processing as a cloud service",
         "pub_year": "2012",
         "citation": "ACM SIGCOMM Computer Communication Review 42 (4), 13-24, 2012",
-        "num_citations": 1222,
+        "num_citations": 1224,
         "author_pub_id": "5V852JcAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -852,14 +852,14 @@
         "title": "Measuring user confidence in smartphone security and privacy",
         "pub_year": "2012",
         "citation": "Proceedings of the eighth symposium on usable privacy and security, 1-16, 2012",
-        "num_citations": 508,
+        "num_citations": 509,
         "author_pub_id": "5V852JcAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Method and apparatus for large-scale automated distributed denial of service attack detection",
         "pub_year": "2011",
         "citation": "US Patent 8,001,601, 2011",
-        "num_citations": 63,
+        "num_citations": 67,
         "author_pub_id": "5V852JcAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -914,7 +914,7 @@
         "title": "Nitrosketch: Robust and general sketch-based monitoring in software switches",
         "pub_year": "2019",
         "citation": "Proceedings of the ACM Special Interest Group on Data Communication, 334-350, 2019",
-        "num_citations": 209,
+        "num_citations": 212,
         "author_pub_id": "5V852JcAAAAJ:wyCGhLAOp5UC"
     },
     {
@@ -962,7 +962,7 @@
         "title": "One sketch to rule them all: Rethinking network flow monitoring with univmon",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 101-114, 2016",
-        "num_citations": 610,
+        "num_citations": 620,
         "author_pub_id": "5V852JcAAAAJ:AeM5kdmBKVwC"
     },
     {
@@ -976,7 +976,7 @@
         "title": "Pareto gan: Extending the representational power of gans to heavy-tailed distributions",
         "pub_year": "2021",
         "citation": "International Conference on Machine Learning, 4523-4532, 2021",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "5V852JcAAAAJ:0BSZZHtHo6cC"
     },
     {
@@ -1004,7 +1004,7 @@
         "title": "Practical gan-based synthetic ip header trace generation using netshare",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 458-472, 2022",
-        "num_citations": 51,
+        "num_citations": 56,
         "author_pub_id": "5V852JcAAAAJ:t7izwRedFcYC"
     },
     {
@@ -1018,14 +1018,14 @@
         "title": "Privacy for free: Communication-efficient learning with differential privacy using sketches",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1911.00972, 2019",
-        "num_citations": 58,
+        "num_citations": 62,
         "author_pub_id": "5V852JcAAAAJ:esGtpfCv0y8C"
     },
     {
         "title": "Protecting smart homes from unintended application actions",
         "pub_year": "2022",
         "citation": "2022 ACM/IEEE 13th International Conference on Cyber-Physical Systems (ICCPS …, 2022",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "5V852JcAAAAJ:-cHHJ4ChvFsC"
     },
     {
@@ -1057,6 +1057,13 @@
         "author_pub_id": "5V852JcAAAAJ:UFuRdyijzaAC"
     },
     {
+        "title": "Raising the Level of Abstraction for Sketch-Based Network Telemetry with SketchPlan",
+        "pub_year": "2024",
+        "citation": "ACM IMC, 2024",
+        "num_citations": 0,
+        "author_pub_id": "5V852JcAAAAJ:npT69zEmqdIC"
+    },
+    {
         "title": "Raising the Level of Abstraction for Time-State Analytics With the Timeline Framework.",
         "pub_year": "2023",
         "citation": "CIDR, 2023",
@@ -1067,7 +1074,7 @@
         "title": "Raregan: Generating samples for rare classes",
         "pub_year": "2022",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (7), 7506-7515, 2022",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "5V852JcAAAAJ:vkDViGfkvYEC"
     },
     {
@@ -1081,21 +1088,21 @@
         "title": "Reconfigurable wireless data center network using free-space optics",
         "pub_year": "2018",
         "citation": "US Patent 10,020,880, 2018",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "5V852JcAAAAJ:SgTKrLvt1DcC"
     },
     {
         "title": "Reconfigurable wireless data center network using free-space optics",
         "pub_year": "2021",
         "citation": "US Patent 10,924,183, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "5V852JcAAAAJ:GUJN1xMjMHAC"
     },
     {
         "title": "Redplane: Enabling fault-tolerant stateful in-switch applications",
         "pub_year": "2021",
         "citation": "Proceedings of the 2021 ACM SIGCOMM 2021 Conference, 223-244, 2021",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "5V852JcAAAAJ:YXeC4bxG7-IC"
     },
     {
@@ -1137,7 +1144,7 @@
         "title": "Revisiting the case for a minimalist approach for network flow monitoring",
         "pub_year": "2010",
         "citation": "Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 328-341, 2010",
-        "num_citations": 88,
+        "num_citations": 90,
         "author_pub_id": "5V852JcAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1178,7 +1185,7 @@
         "title": "SPIFFY: Inducing Cost-Detectability Tradeoffs for Persistent Link-Flooding Attacks.",
         "pub_year": "2016",
         "citation": "NDSS 1, 53-55, 2016",
-        "num_citations": 147,
+        "num_citations": 149,
         "author_pub_id": "5V852JcAAAAJ:Vxkav03X4woC"
     },
     {
@@ -1225,7 +1232,7 @@
         "title": "Shedding light on inconsistencies in grid cybersecurity: Disconnects and recommendations",
         "pub_year": "2023",
         "citation": "2023 IEEE Symposium on Security and Privacy (SP), 38-55, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "5V852JcAAAAJ:D_YRMw8gybsC"
     },
     {
@@ -1239,14 +1246,14 @@
         "title": "Shedding light on the structure of internet video quality problems in the wild",
         "pub_year": "2013",
         "citation": "Proceedings of the ninth ACM conference on Emerging networking experiments …, 2013",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "5V852JcAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "Simplifying {Software-Defined} Network Optimization Using {SOL}",
         "pub_year": "2016",
         "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "5V852JcAAAAJ:SoGhKUJvMTQC"
     },
     {
@@ -1267,7 +1274,7 @@
         "title": "SmartRE: an architecture for coordinated network-wide redundancy elimination",
         "pub_year": "2009",
         "citation": "Proceedings of the ACM SIGCOMM 2009 conference on Data communication, 87-98, 2009",
-        "num_citations": 304,
+        "num_citations": 306,
         "author_pub_id": "5V852JcAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1295,7 +1302,7 @@
         "title": "Stratos: A network-aware orchestration layer for virtual middleboxes in clouds",
         "pub_year": "2013",
         "citation": "arXiv preprint arXiv:1305.0209, 2013",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "5V852JcAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -1350,7 +1357,7 @@
         "title": "Tea: Enabling state-intensive network functions on programmable switches",
         "pub_year": "2020",
         "citation": "Proceedings of the Annual conference of the ACM Special Interest Group on …, 2020",
-        "num_citations": 114,
+        "num_citations": 118,
         "author_pub_id": "5V852JcAAAAJ:H8haQKU-3ZsC"
     },
     {
@@ -1420,7 +1427,7 @@
         "title": "Towards an architecture for trusted edge {IoT} security gateways",
         "pub_year": "2020",
         "citation": "3rd USENIX Workshop on Hot Topics in Edge Computing (HotEdge 20), 2020",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "5V852JcAAAAJ:Iq19BMNozs4C"
     },
     {
@@ -1475,21 +1482,21 @@
         "title": "Understanding the impact of video quality on user engagement",
         "pub_year": "2011",
         "citation": "ACM SIGCOMM computer communication review 41 (4), 362-373, 2011",
-        "num_citations": 1157,
+        "num_citations": 1162,
         "author_pub_id": "5V852JcAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Understanding website complexity: measurements, metrics, and implications",
         "pub_year": "2011",
         "citation": "Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement …, 2011",
-        "num_citations": 361,
+        "num_citations": 363,
         "author_pub_id": "5V852JcAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "Unleashing in-network computing on scientific workloads",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2009.02457, 2020",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "5V852JcAAAAJ:vPKCt-r_nWsC"
     },
     {
@@ -1503,7 +1510,7 @@
         "title": "Using gans for sharing networked time series data: Challenges, initial promise, and open questions",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM Internet Measurement Conference, 464-483, 2020",
-        "num_citations": 177,
+        "num_citations": 192,
         "author_pub_id": "5V852JcAAAAJ:IwGqIHSOC8kC"
     },
     {
@@ -1544,14 +1551,14 @@
         "title": "Verifiable resource accounting for cloud computing services",
         "pub_year": "2011",
         "citation": "Proceedings of the 3rd ACM workshop on Cloud computing security workshop, 21-26, 2011",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "5V852JcAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Via: Improving internet telephony call quality using predictive relay selection",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGCOMM Conference, 286-299, 2016",
-        "num_citations": 120,
+        "num_citations": 123,
         "author_pub_id": "5V852JcAAAAJ:FepLwMwnKBMC"
     },
     {
@@ -1586,21 +1593,21 @@
         "title": "Worm origin identification using random moonwalks",
         "pub_year": "2005",
         "citation": "2005 IEEE Symposium on Security and Privacy (S&P'05), 242-256, 2005",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "5V852JcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "cSamp: A system for network-wide flow monitoring",
         "pub_year": "2008",
         "citation": "Carnegie Mellon University, 2008",
-        "num_citations": 226,
+        "num_citations": 228,
         "author_pub_id": "5V852JcAAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "{BUZZ}: Testing {Context-Dependent} Policies in Stateful Networks",
         "pub_year": "2016",
         "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "5V852JcAAAAJ:y7JhAc_VBLgC"
     },
     {
@@ -1614,7 +1621,7 @@
         "title": "{CFA}: A practical prediction system for video {QoE} optimization",
         "pub_year": "2016",
         "citation": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016",
-        "num_citations": 171,
+        "num_citations": 172,
         "author_pub_id": "5V852JcAAAAJ:edV_OwlUe4UC"
     },
     {
@@ -1635,21 +1642,21 @@
         "title": "{FreeFlow}: Software-based Virtual {RDMA} Networking for Containerized Clouds",
         "pub_year": "2019",
         "citation": "16th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2019",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "5V852JcAAAAJ:e0CZ6poB34oC"
     },
     {
         "title": "{NetSMC}: A Custom Symbolic Model Checker for Stateful Network Verification",
         "pub_year": "2020",
         "citation": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2020",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "5V852JcAAAAJ:Jxw8hHINxX0C"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "5V852JcAAAAJ:6MVT8mER-OMC"
     }
 ]

@@ -66,7 +66,7 @@
         "title": "Attack-Resilient H2, H-infinity, and L1 State Estimator",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Automatic Control, 2018",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "jnmyOEYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Context-aware LLM-based Safe Control Against Latent Risks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.11863, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences, 2021",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "jnmyOEYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Generalized Exact Scheduling: A Minimal-Variance Distributed Deadline Scheduler",
         "pub_year": "2022",
         "citation": "Operations Research, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:TQgYirikUcIC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Medical application on internet of things",
         "pub_year": "2011",
         "citation": "IET international conference on communication technology and application …, 2011",
-        "num_citations": 179,
+        "num_citations": 184,
         "author_pub_id": "jnmyOEYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -327,6 +327,13 @@
         "author_pub_id": "jnmyOEYAAAAJ:_Qo2XoVZTnwC"
     },
     {
+        "title": "Safe Decision-Making in Interactive Environments",
+        "pub_year": "2024",
+        "citation": "Carnegie Mellon University. Traffic21 Institute. Safety21 University …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:g5m5HwL7SMYC"
+    },
+    {
         "title": "Sample-Optimal Zero-Violation Safety For Continuous Control",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.06045, 2024",
@@ -358,7 +365,7 @@
         "title": "Smoothed least-laxity-first algorithm for electric vehicle charging: Online decision and performance analysis with resource augmentation",
         "pub_year": "2021",
         "citation": "IEEE transactions on smart grid 13 (3), 2209-2217, 2021",
-        "num_citations": 18,
+        "num_citations": 22,
         "author_pub_id": "jnmyOEYAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -372,7 +379,7 @@
         "title": "Theoretical foundations for layered architectures and speed-accuracy tradeoffs in sensorimotor control",
         "pub_year": "2019",
         "citation": "2019 American Control Conference (ACC), 809-814, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "jnmyOEYAAAAJ:_kc_bZDykSQC"
     },
     {

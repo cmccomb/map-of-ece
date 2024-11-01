@@ -44,14 +44,14 @@
         "title": "All you ever wanted to know about dynamic taint analysis and forward symbolic execution (but might have been afraid to ask)",
         "pub_year": "2010",
         "citation": "2010 IEEE symposium on Security and privacy, 317-331, 2010",
-        "num_citations": 1120,
+        "num_citations": 1127,
         "author_pub_id": "O-29z5AAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "An empirical study of cryptographic misuse in android applications",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
-        "num_citations": 623,
+        "num_citations": 627,
         "author_pub_id": "O-29z5AAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -65,7 +65,7 @@
         "title": "Automated exploit generation",
         "pub_year": "2015",
         "citation": "US Patent 9,135,405, 2015",
-        "num_citations": 42,
+        "num_citations": 39,
         "author_pub_id": "O-29z5AAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -78,14 +78,14 @@
         "title": "Automatic exploit generation",
         "pub_year": "2014",
         "citation": "Communications of the ACM 57 (2), 74-84, 2014",
-        "num_citations": 604,
+        "num_citations": 611,
         "author_pub_id": "O-29z5AAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Automatic patch-based exploit generation is possible: Techniques and implications",
         "pub_year": "2008",
         "citation": "2008 IEEE Symposium on Security and Privacy (sp 2008), 143-157, 2008",
-        "num_citations": 409,
+        "num_citations": 414,
         "author_pub_id": "O-29z5AAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -112,7 +112,7 @@
         "title": "Automatically identifying trigger-based behavior in malware",
         "pub_year": "2008",
         "citation": "Botnet Detection: Countering the Largest Security Threat, 65-88, 2008",
-        "num_citations": 333,
+        "num_citations": 336,
         "author_pub_id": "O-29z5AAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -126,14 +126,14 @@
         "title": "BAP: A binary analysis platform",
         "pub_year": "2011",
         "citation": "Computer Aided Verification: 23rd International Conference, CAV 2011 …, 2011",
-        "num_citations": 665,
+        "num_citations": 671,
         "author_pub_id": "O-29z5AAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "BitBlaze: A new approach to computer security via binary analysis",
         "pub_year": "2008",
         "citation": "Information Systems Security: 4th International Conference, ICISS 2008 …, 2008",
-        "num_citations": 1081,
+        "num_citations": 1082,
         "author_pub_id": "O-29z5AAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -154,7 +154,7 @@
         "title": "Bitshred: Fast, scalable code reuse detection in binary code",
         "pub_year": "2009",
         "citation": "CMU-CyLab-10-006 16, 2009",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "O-29z5AAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -168,7 +168,7 @@
         "title": "Bitshred: feature hashing malware for scalable triage and semantic analysis",
         "pub_year": "2011",
         "citation": "Proceedings of the 18th ACM conference on Computer and communications …, 2011",
-        "num_citations": 391,
+        "num_citations": 393,
         "author_pub_id": "O-29z5AAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -181,7 +181,7 @@
         "title": "Blanket execution: Dynamic similarity testing for program binaries and components",
         "pub_year": "2014",
         "citation": "23rd USENIX Security Symposium (USENIX Security 14), 303-317, 2014",
-        "num_citations": 261,
+        "num_citations": 267,
         "author_pub_id": "O-29z5AAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -223,7 +223,7 @@
         "title": "Cross-regional virtual network peering",
         "pub_year": "2021",
         "citation": "US Patent 11,102,079, 2021",
-        "num_citations": 90,
+        "num_citations": 85,
         "author_pub_id": "O-29z5AAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -243,7 +243,7 @@
         "title": "Detecting exploitable bugs in binary code",
         "pub_year": "2015",
         "citation": "US Patent 9,183,396, 2015",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "O-29z5AAAAAJ:SP6oXDckpogC"
     },
     {
@@ -278,14 +278,14 @@
         "title": "Enhancing symbolic execution with veritesting",
         "pub_year": "2014",
         "citation": "Proceedings of the 36th International Conference on Software Engineering …, 2014",
-        "num_citations": 349,
+        "num_citations": 352,
         "author_pub_id": "O-29z5AAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "GPS software attacks",
         "pub_year": "2012",
         "citation": "Proceedings of the 2012 ACM conference on Computer and communications …, 2012",
-        "num_citations": 170,
+        "num_citations": 171,
         "author_pub_id": "O-29z5AAAAAJ:TQgYirikUcIC"
     },
     {
@@ -306,7 +306,7 @@
         "title": "How shall we play a game?: A game-theoretical model for cyber-warfare games",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th Computer Security Foundations Symposium (CSF), 7-21, 2017",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "O-29z5AAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -320,7 +320,7 @@
         "title": "Methods and systems for automatically testing software",
         "pub_year": "2017",
         "citation": "US Patent 9,619,375, 2017",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "O-29z5AAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -341,14 +341,14 @@
         "title": "Network (In) Security Through IP Packet Filtering.",
         "pub_year": "1992",
         "citation": "USENIX Summer 21, 1992",
-        "num_citations": 290,
+        "num_citations": 292,
         "author_pub_id": "O-29z5AAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Optimizing seed selection for fuzzing",
         "pub_year": "2014",
         "citation": "23rd USENIX Security Symposium (USENIX Security 14), 861-875, 2014",
-        "num_citations": 315,
+        "num_citations": 318,
         "author_pub_id": "O-29z5AAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -374,7 +374,7 @@
         "title": "Privtrans: Automatically partitioning programs for privilege separation",
         "pub_year": "2004",
         "citation": "USENIX Security Symposium 57 (72), 2004",
-        "num_citations": 322,
+        "num_citations": 326,
         "author_pub_id": "O-29z5AAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -387,21 +387,21 @@
         "title": "Program-adaptive mutational fuzzing",
         "pub_year": "2015",
         "citation": "2015 IEEE Symposium on Security and Privacy, 725-741, 2015",
-        "num_citations": 333,
+        "num_citations": 334,
         "author_pub_id": "O-29z5AAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Q: Exploit hardening made easy",
         "pub_year": "2011",
         "citation": "20th USENIX Security Symposium (USENIX Security 11), 2011",
-        "num_citations": 548,
+        "num_citations": 552,
         "author_pub_id": "O-29z5AAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "RICH: Automatically protecting against integer-based vulnerabilities",
         "pub_year": "2007",
         "citation": "Carnegie Mellon University, 2007",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "O-29z5AAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -415,14 +415,14 @@
         "title": "Remote timing attacks are practical",
         "pub_year": "2005",
         "citation": "Computer Networks 48 (5), 701-716, 2005",
-        "num_citations": 1356,
+        "num_citations": 1361,
         "author_pub_id": "O-29z5AAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Replayer: Automatic protocol replay by binary analysis",
         "pub_year": "2006",
         "citation": "Proceedings of the 13th ACM conference on Computer and communications …, 2006",
-        "num_citations": 162,
+        "num_citations": 163,
         "author_pub_id": "O-29z5AAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -436,14 +436,14 @@
         "title": "Scaling up DPLL (T) string solvers using context-dependent simplification",
         "pub_year": "2017",
         "citation": "International Conference on Computer Aided Verification, 453-474, 2017",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "O-29z5AAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Scheduling black-box mutational fuzzing",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
-        "num_citations": 255,
+        "num_citations": 256,
         "author_pub_id": "O-29z5AAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -485,14 +485,14 @@
         "title": "TACHYON: Tandem execution for efficient live patch testing",
         "pub_year": "2012",
         "citation": "21st USENIX Security Symposium (USENIX Security 12), 617-630, 2012",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "O-29z5AAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "TIE: Principled reverse engineering of types in binary programs",
         "pub_year": "2011",
         "citation": "Carnegie Mellon University, 2011",
-        "num_citations": 293,
+        "num_citations": 295,
         "author_pub_id": "O-29z5AAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -560,7 +560,7 @@
         "title": "Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation.",
         "pub_year": "2007",
         "citation": "USENIX Security Symposium 15, 2007",
-        "num_citations": 165,
+        "num_citations": 166,
         "author_pub_id": "O-29z5AAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -574,7 +574,7 @@
         "title": "Towards automated dynamic analysis for linux-based embedded firmware.",
         "pub_year": "2016",
         "citation": "NDSS 1, 1.1-8.1, 2016",
-        "num_citations": 498,
+        "num_citations": 505,
         "author_pub_id": "O-29z5AAAAAJ:rO6llkc54NcC"
     },
     {
@@ -588,7 +588,7 @@
         "title": "Towards automatic software lineage inference",
         "pub_year": "2013",
         "citation": "22nd USENIX Security Symposium (USENIX Security 13), 81-96, 2013",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "O-29z5AAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -616,7 +616,7 @@
         "title": "Unleashing mayhem on binary code",
         "pub_year": "2012",
         "citation": "2012 IEEE Symposium on Security and Privacy, 380-394, 2012",
-        "num_citations": 786,
+        "num_citations": 796,
         "author_pub_id": "O-29z5AAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -636,14 +636,14 @@
         "title": "Virtual Appliances for Deploying and Maintaining Software.",
         "pub_year": "2003",
         "citation": "LISA 3, 181-194, 2003",
-        "num_citations": 268,
+        "num_citations": 267,
         "author_pub_id": "O-29z5AAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Virtual appliance management",
         "pub_year": "2011",
         "citation": "US Patent 7,890,689, 2011",
-        "num_citations": 266,
+        "num_citations": 264,
         "author_pub_id": "O-29z5AAAAAJ:dhFuZR0502QC"
     },
     {
@@ -670,7 +670,7 @@
         "title": "Your exploit is mine: Automatic shellcode transplant for remote exploits",
         "pub_year": "2017",
         "citation": "2017 IEEE Symposium on Security and Privacy (SP), 824-839, 2017",
-        "num_citations": 74,
+        "num_citations": 77,
         "author_pub_id": "O-29z5AAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -691,7 +691,7 @@
         "title": "{BYTEWEIGHT}: Learning to recognize functions in binary code",
         "pub_year": "2014",
         "citation": "23rd USENIX Security Symposium (USENIX Security 14), 845-860, 2014",
-        "num_citations": 338,
+        "num_citations": 342,
         "author_pub_id": "O-29z5AAAAAJ:ns9cj8rnVeAC"
     },
     {
