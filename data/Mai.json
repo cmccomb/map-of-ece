@@ -58,7 +58,7 @@
         "title": "A High Throughput Hardware Accelerator for FFTW Codelets: A First Look",
         "pub_year": "2022",
         "citation": "2022 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "-syEyyAAAAAJ:D_sINldO8mEC"
     },
     {
@@ -134,14 +134,14 @@
         "title": "ASIC accelerator in 28 nm for the post-quantum digital signature scheme XMSS",
         "pub_year": "2020",
         "citation": "2020 IEEE 38th International Conference on Computer Design (ICCD), 656-662, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "-syEyyAAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "An efficient reliable PUF-based cryptographic key generator in 65nm CMOS",
         "pub_year": "2014",
         "citation": "2014 Design, Automation & Test in Europe Conference & Exhibition (DATE), 1-6, 2014",
-        "num_citations": 142,
+        "num_citations": 146,
         "author_pub_id": "-syEyyAAAAAJ:k_IJM867U9cC"
     },
     {
@@ -245,7 +245,7 @@
         "title": "Data retention in MLC NAND flash memory: Characterization, optimization, and recovery",
         "pub_year": "2015",
         "citation": "2015 IEEE 21st International Symposium on High Performance Computer …, 2015",
-        "num_citations": 346,
+        "num_citations": 347,
         "author_pub_id": "-syEyyAAAAAJ:blknAaTinKkC"
     },
     {
@@ -280,7 +280,7 @@
         "title": "Digital circuit design challenges and opportunities in the era of nanoscale CMOS",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (2), 343-365, 2008",
-        "num_citations": 275,
+        "num_citations": 277,
         "author_pub_id": "-syEyyAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -301,7 +301,7 @@
         "title": "Error patterns in MLC NAND flash memory: Measurement, characterization, and analysis",
         "pub_year": "2012",
         "citation": "2012 Design, Automation & Test in Europe Conference & Exhibition (DATE), 521-526, 2012",
-        "num_citations": 485,
+        "num_citations": 489,
         "author_pub_id": "-syEyyAAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -356,7 +356,7 @@
         "title": "Flash correct-and-refresh: Retention-aware error management for increased flash memory lifetime",
         "pub_year": "2012",
         "citation": "2012 IEEE 30th International Conference on Computer Design (ICCD), 94-101, 2012",
-        "num_citations": 311,
+        "num_citations": 314,
         "author_pub_id": "-syEyyAAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -370,7 +370,7 @@
         "title": "Hardware redaction via designer-directed fine-grained eFPGA insertion",
         "pub_year": "2021",
         "citation": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2021",
-        "num_citations": 44,
+        "num_citations": 48,
         "author_pub_id": "-syEyyAAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Logic locking-connecting theory and practice",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "-syEyyAAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -451,7 +451,7 @@
         "title": "MANIC: A  @ 4MHz, 256 MOPS/mW, RISC-V microcontroller with embedded MRAM main memory and vector-dataflow co-processor in 22nm bulk finFET CMOS",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-4, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "-syEyyAAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Multi-bit error tolerant caches using two-dimensional error coding",
         "pub_year": "2007",
         "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007",
-        "num_citations": 375,
+        "num_citations": 376,
         "author_pub_id": "-syEyyAAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -554,7 +554,7 @@
         "title": "Program interference in MLC NAND flash memory: Characterization, modeling, and mitigation",
         "pub_year": "2013",
         "citation": "2013 IEEE 31st International Conference on Computer Design (ICCD), 123-130, 2013",
-        "num_citations": 264,
+        "num_citations": 266,
         "author_pub_id": "-syEyyAAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -621,7 +621,7 @@
         "title": "Reliability enhancement of bi-stable PUFs in 65nm bulk CMOS",
         "pub_year": "2012",
         "citation": "2012 IEEE International Symposium on Hardware-Oriented Security and Trust, 25-30, 2012",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "-syEyyAAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -702,7 +702,7 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 343,
+        "num_citations": 346,
         "author_pub_id": "-syEyyAAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -737,7 +737,7 @@
         "title": "Statistical learning in chip (SLIC)",
         "pub_year": "2015",
         "citation": "2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 664-669, 2015",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "-syEyyAAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -750,7 +750,7 @@
         "title": "The future of wires",
         "pub_year": "2001",
         "citation": "Proceedings of the IEEE 89 (4), 490-504, 2001",
-        "num_citations": 1968,
+        "num_citations": 1969,
         "author_pub_id": "-syEyyAAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -764,14 +764,14 @@
         "title": "Top-down physical design of soft embedded FPGA fabrics",
         "pub_year": "2021",
         "citation": "The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays …, 2021",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "-syEyyAAAAAJ:tOudhMTPpwUC"
     },
     {
         "title": "Towards specialized hardware for learning-based visual odometry on the edge",
         "pub_year": "2022",
         "citation": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "-syEyyAAAAAJ:eflP2zaiRacC"
     },
     {
@@ -785,7 +785,7 @@
         "title": "Virtual prototyper (ViPro) an early design space exploration and optimization tool for SRAM designers",
         "pub_year": "2010",
         "citation": "Proceedings of the 47th Design Automation Conference, 138-143, 2010",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "-syEyyAAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -799,7 +799,7 @@
         "title": "Vulnerabilities in MLC NAND flash memory programming: Experimental analysis, exploits, and mitigation techniques",
         "pub_year": "2017",
         "citation": "2017 IEEE International Symposium on High Performance Computer Architecture …, 2017",
-        "num_citations": 167,
+        "num_citations": 169,
         "author_pub_id": "-syEyyAAAAAJ:a0OBvERweLwC"
     },
     {

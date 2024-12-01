@@ -65,7 +65,7 @@
         "title": "A survey of faults and fault-injection techniques in edge computing systems",
         "pub_year": "2023",
         "citation": "2023 IEEE International Conference on Edge Computing and Communications …, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "qyPWUBcAAAAJ:WC9gN4BGCRcC"
     },
     {
@@ -229,14 +229,14 @@
         "title": "Benchmarking wireless protocols for feasibility in supporting crowdsourced mobile computing",
         "pub_year": "2016",
         "citation": "Distributed Applications and Interoperable Systems: 16th IFIP WG 6.1 …, 2016",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "qyPWUBcAAAAJ:XvxMoLDsR5gC"
     },
     {
         "title": "Binary function clustering using semantic hashes",
         "pub_year": "2012",
         "citation": "2012 11th International Conference on Machine Learning and Applications 1 …, 2012",
-        "num_citations": 70,
+        "num_citations": 72,
         "author_pub_id": "qyPWUBcAAAAJ:tYavs44e6CUC"
     },
     {
@@ -262,7 +262,7 @@
         "title": "Cachier: Edge-caching for recognition applications",
         "pub_year": "2017",
         "citation": "2017 IEEE 37th international conference on distributed computing systems …, 2017",
-        "num_citations": 207,
+        "num_citations": 210,
         "author_pub_id": "qyPWUBcAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -290,7 +290,7 @@
         "title": "Challenges and opportunities for embedded computing in retail environments",
         "pub_year": "2012",
         "citation": "International Conference on Sensor Systems and Software, 2012",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "qyPWUBcAAAAJ:uJ-U7cs_P_0C"
     },
     {
@@ -498,7 +498,7 @@
         "title": "Experiences, strategies, and challenges in building fault-tolerant CORBA systems",
         "pub_year": "2004",
         "citation": "IEEE Transactions on Computers, 467-511, 2004",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "qyPWUBcAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -547,7 +547,7 @@
         "title": "Fault Tolerant Edge Computing: Challenges and Opportunities",
         "pub_year": "2023",
         "citation": "2023 IEEE 7th International Conference on Fog and Edge Computing (ICFEC), 73-80, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "qyPWUBcAAAAJ:Ade32sEp0pkC"
     },
     {
@@ -712,7 +712,7 @@
         "title": "Hyrax: Cloud computing on mobile devices using MapReduce",
         "pub_year": "2009",
         "citation": "Master's Thesis, Carnegie Mellon University, 2009",
-        "num_citations": 643,
+        "num_citations": 642,
         "author_pub_id": "qyPWUBcAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -740,7 +740,7 @@
         "title": "Kahuna: Problem diagnosis for MapReduce-based cloud computing environments",
         "pub_year": "2010",
         "citation": "Network Operations and Management Symposium (NOMS), 2010 IEEE, 112-119, 2010",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "qyPWUBcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1050,7 +1050,7 @@
         "title": "Precog: prefetching for image recognition applications at the edge",
         "pub_year": "2017",
         "citation": "Proceedings of the Second ACM/IEEE Symposium on Edge Computing, 1-13, 2017",
-        "num_citations": 91,
+        "num_citations": 93,
         "author_pub_id": "qyPWUBcAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -1200,14 +1200,14 @@
         "title": "SALSA: analyzing logs as state machines",
         "pub_year": "2008",
         "citation": "Proceedings of the First USENIX conference on Analysis of system logs, 6-6, 2008",
-        "num_citations": 168,
+        "num_citations": 169,
         "author_pub_id": "qyPWUBcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "STOVE: Strict, Observable, Verifiable Data and Execution Models for Untrusted Applications",
         "pub_year": "2014",
         "citation": "2014 IEEE 6th International Conference on Cloud Computing Technology and …, 2014",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "qyPWUBcAAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -1263,14 +1263,14 @@
         "title": "Sluice: Secure dissemination of code updates in sensor networks",
         "pub_year": "2006",
         "citation": "26th IEEE international conference on Distributed Computing Systems (ICDCS …, 2006",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "qyPWUBcAAAAJ:XiSMed-E-HIC"
     },
     {
         "title": "Smartphone-based assistive technologies for the blind",
         "pub_year": "2009",
         "citation": "Proceedings of the 2009 international conference on Compilers, architecture …, 2009",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "qyPWUBcAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1345,7 +1345,7 @@
         "title": "Systems and methods for providing interactive video services",
         "pub_year": "2015",
         "citation": "US Patent 9,137,495, 2015",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "qyPWUBcAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1421,7 +1421,7 @@
         "title": "The case for mobile edge-clouds",
         "pub_year": "2013",
         "citation": "2013 IEEE 10th International Conference on Ubiquitous Intelligence and …, 2013",
-        "num_citations": 148,
+        "num_citations": 150,
         "author_pub_id": "qyPWUBcAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -1470,7 +1470,7 @@
         "title": "To Auto Scale or not to Auto Scale",
         "pub_year": "2013",
         "citation": "USENIX International Conference on Autonomic Computing (ICAC), 2013",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "qyPWUBcAAAAJ:SpbeaW3--B0C"
     },
     {
@@ -1505,7 +1505,7 @@
         "title": "Towards edge-caching for image recognition",
         "pub_year": "2017",
         "citation": "2017 IEEE International Conference on Pervasive Computing and Communications …, 2017",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "qyPWUBcAAAAJ:HIFyuExEbWQC"
     },
     {

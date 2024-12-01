@@ -31,7 +31,7 @@
         "title": "A family of provably correct algorithms for exact triangle counting",
         "pub_year": "2017",
         "citation": "Proceedings of the First International Workshop on Software Correctness for …, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "hlh0cocAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "A unified coded deep neural network training strategy based on generalized polydot codes",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018",
-        "num_citations": 120,
+        "num_citations": 122,
         "author_pub_id": "hlh0cocAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "Addressing unreliability in emerging devices and non-von neumann architectures using coded computing",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 108 (8), 1219-1234, 2020",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "hlh0cocAAAAJ:hMod-77fHWUC"
     },
     {
@@ -94,14 +94,14 @@
         "title": "Analytical modeling is enough for high-performance BLIS",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 43 (2), 1-18, 2016",
-        "num_citations": 188,
+        "num_citations": 192,
         "author_pub_id": "hlh0cocAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Automating the last-mile for high performance dense linear algebra",
         "pub_year": "2016",
         "citation": "arXiv preprint arXiv:1611.08035, 2016",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "hlh0cocAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "hlh0cocAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Evaluation of graph analytics frameworks using the gap benchmark suite",
         "pub_year": "2020",
         "citation": "2020 IEEE International Symposium on Workload Characterization (IISWC), 216-227, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "hlh0cocAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -248,7 +248,7 @@
         "title": "First look: Linear algebra-based triangle counting without matrix multiplication",
         "pub_year": "2017",
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2017",
-        "num_citations": 27,
+        "num_citations": 29,
         "author_pub_id": "hlh0cocAAAAJ:4DMP91E08xMC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "High performance zero-memory overhead direct convolutions",
         "pub_year": "2018",
         "citation": "Proceedings of the 35th International Conference on Machine Learning 80 …, 2018",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "hlh0cocAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -296,7 +296,7 @@
         "title": "High-assurance SPIRAL: End-to-end guarantees for robot and car control",
         "pub_year": "2017",
         "citation": "IEEE Control Systems Magazine 37 (2), 82-103, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "hlh0cocAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -317,8 +317,14 @@
         "title": "Large bandwidth-efficient FFTs on multicore and multi-socket systems",
         "pub_year": "2018",
         "citation": "2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS …, 2018",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "hlh0cocAAAAJ:ZeXyd9-uunAC"
+    },
+    {
+        "title": "Linear Algebra Approach for Directed Triad Counting and Enumeration",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "hlh0cocAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Linear algebraic Louvain method in python",
@@ -352,7 +358,7 @@
         "title": "Mixed data layout kernels for vectorized complex arithmetic",
         "pub_year": "2017",
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "hlh0cocAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -401,7 +407,7 @@
         "title": "Reformulating the direct convolution for high-performance deep learning inference on ARM processors",
         "pub_year": "2023",
         "citation": "Journal of Systems Architecture 135, 102806, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "hlh0cocAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -415,7 +421,7 @@
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "hlh0cocAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -457,7 +463,7 @@
         "title": "The BLIS framework: Experiments in portability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 42 (2), 1-19, 2016",
-        "num_citations": 128,
+        "num_citations": 131,
         "author_pub_id": "hlh0cocAAAAJ:W7OEmFMy1HYC"
     },
     {

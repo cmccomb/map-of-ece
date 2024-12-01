@@ -71,7 +71,7 @@
         "title": "DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing",
         "pub_year": "2021",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2021",
-        "num_citations": 8,
+        "num_citations": 11,
         "author_pub_id": "ygiY7C8AAAAJ:-f6ydRqryjwC"
     },
     {
@@ -194,7 +194,7 @@
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -208,7 +208,7 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -222,7 +222,7 @@
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 25,
+        "num_citations": 31,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -250,7 +250,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -299,7 +299,7 @@
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
-        "num_citations": 320,
+        "num_citations": 321,
         "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -334,14 +334,14 @@
         "title": "The case for custom storage backends in distributed storage systems",
         "pub_year": "2020",
         "citation": "ACM Transactions on Storage (TOS) 16 (2), 1-31, 2020",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "ygiY7C8AAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "This is why ML-driven cluster scheduling remains widely impractical",
         "pub_year": "2019",
         "citation": "Tech. Rep., 2019",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ygiY7C8AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -362,21 +362,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 21,
+        "num_citations": 27,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 148,
+        "num_citations": 153,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 49,
+        "num_citations": 52,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]
