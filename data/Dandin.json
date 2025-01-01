@@ -115,7 +115,7 @@
         "title": "Delay circuit with dual delay resolution regime",
         "pub_year": "2020",
         "citation": "US Patent 10,594,306, 2020",
-        "num_citations": 23,
+        "num_citations": 30,
         "author_pub_id": "mjixDB8AAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -142,14 +142,14 @@
         "title": "Handheld fluorometers for lab-on-a-chip applications",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Biomedical Circuits and Systems 3 (2), 97-107, 2009",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "mjixDB8AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "High resolution monitoring of chemotherapeutic agent potency in cancer cells using a CMOS capacitance biosensor",
         "pub_year": "2019",
         "citation": "Biosensors and Bioelectronics 142, 111501, 2019",
-        "num_citations": 26,
+        "num_citations": 28,
         "author_pub_id": "mjixDB8AAAAJ:dBIO0h50nwkC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Lab-on-CMOS capacitance sensor array for real-time cell viability measurements with I2C readout",
         "pub_year": "2016",
         "citation": "2016 IEEE International Symposium on Circuits and Systems (ISCAS), 2863-2866, 2016",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "mjixDB8AAAAJ:4hFrxpcac9AC"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Low-noise CMOS fluorescence sensor",
         "pub_year": "2007",
         "citation": "2007 IEEE International Symposium on Circuits and Systems, 2007",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "mjixDB8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -227,6 +227,13 @@
         "citation": "disponibile in rete all’indirizzo: http://www. ece. umd. edu/class/enee605, 2004",
         "num_citations": 1,
         "author_pub_id": "mjixDB8AAAAJ:LO7wyVUgiFcC"
+    },
+    {
+        "title": "METHOD FOR KEY GENERATION USING PHYSICALLY UNCLONABLE FUNCTIONS",
+        "pub_year": "2024",
+        "citation": "US Patent App. 18/672,716, 2024",
+        "num_citations": 0,
+        "author_pub_id": "mjixDB8AAAAJ:tH6gc1N1XXoC"
     },
     {
         "title": "Machine Learning Identification and Classification of Cancer Cell Behaviors in a Lab-on-CMOS Capacitance Sensing Platform",
@@ -274,7 +281,7 @@
         "title": "Optical filtering technologies for integrated fluorescence sensors",
         "pub_year": "2007",
         "citation": "Lab on a Chip 7 (8), 955-977, 2007",
-        "num_citations": 206,
+        "num_citations": 211,
         "author_pub_id": "mjixDB8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -358,7 +365,7 @@
         "title": "Real-time measurements of cell proliferation using a lab-on-CMOS capacitance sensor array",
         "pub_year": "2018",
         "citation": "IEEE transactions on biomedical circuits and systems 12 (3), 510-520, 2018",
-        "num_citations": 57,
+        "num_citations": 59,
         "author_pub_id": "mjixDB8AAAAJ:OTTXONDVkokC"
     },
     {
@@ -399,7 +406,7 @@
         "title": "Single-photon avalanche diode circuit with variable hold-off time and dual delay regime",
         "pub_year": "2017",
         "citation": "US Patent 9,671,284, 2017",
-        "num_citations": 41,
+        "num_citations": 47,
         "author_pub_id": "mjixDB8AAAAJ:umqufdRvDiIC"
     },
     {
@@ -469,7 +476,7 @@
         "title": "True Random Number Generation Using Dark Noise Modulation of a Single-Photon Avalanche Diode",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2023",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "mjixDB8AAAAJ:r_AWSJRzSzQC"
     }
 ]

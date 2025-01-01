@@ -17,7 +17,7 @@
         "title": "An off-the-shelf otoacoustic-emission probe for hearing screening via a smartphone",
         "pub_year": "2022",
         "citation": "Nature Biomedical Engineering 6 (11), 1203-1213, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "dpyzXwMAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -45,7 +45,7 @@
         "title": "Contactless cardiac arrest detection using smart devices",
         "pub_year": "2019",
         "citation": "NPJ digital medicine 2 (1), 52, 2019",
-        "num_citations": 111,
+        "num_citations": 112,
         "author_pub_id": "dpyzXwMAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -66,14 +66,21 @@
         "title": "Deepsense: Enabling carrier sense in low-power wide area networks using deep learning",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1904.10607, 2019",
-        "num_citations": 29,
+        "num_citations": 31,
         "author_pub_id": "dpyzXwMAAAAJ:ufrVoPGSRksC"
+    },
+    {
+        "title": "Detecting clinical medication errors with AI enabled wearable cameras",
+        "pub_year": "2024",
+        "citation": "NPJ Digital Medicine 7 (1), 287, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dpyzXwMAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Detecting middle ear fluid using smartphones",
         "pub_year": "2019",
         "citation": "Science translational medicine 11 (492), eaav1102, 2019",
-        "num_citations": 65,
+        "num_citations": 67,
         "author_pub_id": "dpyzXwMAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -87,7 +94,7 @@
         "title": "Identifying Pediatric Vascular Anomalies With Deep Learning",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1909.07046, 2019",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "dpyzXwMAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -126,10 +133,17 @@
         "author_pub_id": "dpyzXwMAAAAJ:-f6ydRqryjwC"
     },
     {
+        "title": "No Ear Left Behind: Wireless Earbuds for Low-Cost Hearing Screening",
+        "pub_year": "2024",
+        "citation": "GetMobile: Mobile Computing and Communications 28 (3), 20-24, 2024",
+        "num_citations": 0,
+        "author_pub_id": "dpyzXwMAAAAJ:BqipwSGYUEgC"
+    },
+    {
         "title": "Pact: Privacy sensitive protocols and mechanisms for mobile contact tracing",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2004.03544, 2020",
-        "num_citations": 198,
+        "num_citations": 200,
         "author_pub_id": "dpyzXwMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -150,14 +164,14 @@
         "title": "Real-Time Target Sound Extraction",
         "pub_year": "2023",
         "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "dpyzXwMAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Semantic Hearing: Programming Acoustic Scenes with Binaural Hearables",
         "pub_year": "2023",
         "citation": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and …, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "dpyzXwMAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -192,7 +206,7 @@
         "title": "Underwater 3D positioning on smart devices",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM SIGCOMM 2023 Conference, 33-48, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "dpyzXwMAAAAJ:blknAaTinKkC"
     },
     {
@@ -213,7 +227,7 @@
         "title": "Underwater messaging using mobile devices",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 545-559, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "dpyzXwMAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -227,7 +241,7 @@
         "title": "Wireless earbuds for low-cost hearing screening",
         "pub_year": "2023",
         "citation": "Proceedings of the 21st Annual International Conference on Mobile Systems …, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "dpyzXwMAAAAJ:k_IJM867U9cC"
     }
 ]

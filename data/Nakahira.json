@@ -31,7 +31,7 @@
         "title": "Adaptive safe control for driving in uncertain environments",
         "pub_year": "2022",
         "citation": "2022 IEEE Intelligent Vehicles Symposium (IV), 1662-1668, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "jnmyOEYAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Attack-Resilient H2, H-infinity, and L1 State Estimator",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Automatic Control, 2018",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "jnmyOEYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Context-aware LLM-based Safe Control Against Latent Risks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.11863, 2024",
-        "num_citations": 4,
+        "num_citations": 7,
         "author_pub_id": "jnmyOEYAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences, 2021",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "jnmyOEYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Medical application on internet of things",
         "pub_year": "2011",
         "citation": "IET international conference on communication technology and application …, 2011",
-        "num_citations": 183,
+        "num_citations": 185,
         "author_pub_id": "jnmyOEYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -254,7 +254,7 @@
         "title": "Myopically Verifiable Probabilistic Certificate for Long-term Safety",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2110.13380, 2021",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "jnmyOEYAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -274,35 +274,42 @@
     {
         "title": "Optimizing HVAC Systems for Energy Efficiency and Comfort: A Scalable and Robust Multi-Zone Control Approach with Uncertainty Considerations",
         "citation": "Computing in Civil Engineering 2023, 987-995, 0",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:O3NaXMp0MMsC"
+    },
+    {
+        "title": "Orthogonal Modal Representation in Long-Term Risk Quantification for Dynamic Multi-Agent Systems",
+        "pub_year": "2024",
+        "citation": "IEEE Control Systems Letters, 2024",
+        "num_citations": 0,
+        "author_pub_id": "jnmyOEYAAAAJ:pqnbT2bcN3wC"
     },
     {
         "title": "Physics-informed RL for Maximal Safety Probability Estimation",
         "pub_year": "2024",
         "citation": "2024 American Control Conference (ACC), pp. 3576-3583, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jnmyOEYAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Physics-informed representation and learning: Control and risk quantification",
         "pub_year": "2024",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (19), 21699 …, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "jnmyOEYAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Predictive Control and Regret Analysis of Non-Stationary MDP with Look-ahead Information",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2409.08434, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "jnmyOEYAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Probabilistic safety certificate for multi-agent systems",
         "pub_year": "2022",
         "citation": "2022 IEEE 61st Conference on Decision and Control (CDC), 5343-5350, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "jnmyOEYAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -323,7 +330,7 @@
         "title": "Safe Control in the Presence of Stochastic Uncertainties",
         "pub_year": "2021",
         "citation": "60th IEEE Conference on Decision and Control (CDC), 6640-6645, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "jnmyOEYAAAAJ:_Qo2XoVZTnwC"
     },
     {

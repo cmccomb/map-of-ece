@@ -108,7 +108,7 @@
         "title": "Calibrating subjective data biases and model predictive uncertainties in machine learning-based thermal perception predictions",
         "pub_year": "2024",
         "citation": "Building and Environment 247, 111053, 2024",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "jnmyOEYAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -122,7 +122,7 @@
         "title": "Context-aware LLM-based Safe Control Against Latent Risks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.11863, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "jnmyOEYAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Diversity-enabled sweet spots in layered architectures and speed-accuracy trade-offs in sensorimotor control",
         "pub_year": "2021",
         "citation": "Proceedings of the National Academy of Sciences, 2021",
-        "num_citations": 48,
+        "num_citations": 50,
         "author_pub_id": "jnmyOEYAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Electric vehicle charging: a queueing approach",
         "pub_year": "2017",
         "citation": "SIGMETRICS Performance Evaluation Review 45 (2), 33-35, 2017",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "jnmyOEYAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -198,11 +198,11 @@
         "title": "Fundamental limits and achievable performance in biomolecular control",
         "pub_year": "2018",
         "citation": "2018 Annual American Control Conference (ACC), 2707-2714, 2018",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "jnmyOEYAAAAJ:0EnyYjriUFMC"
     },
     {
-        "title": "Generalizable Physics-informed Learning for Stochastic Safety-critical Systems",
+        "title": "Generalizable Physics-Informed Learning for Stochastic Safety-Critical Systems",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2407.08868, 2024",
         "num_citations": 0,
@@ -219,7 +219,7 @@
         "title": "Hard limits on robust control over delayed and quantized communication channels with applications to sensorimotor control",
         "pub_year": "2015",
         "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 7522-7529, 2015",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "jnmyOEYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Medical application on internet of things",
         "pub_year": "2011",
         "citation": "IET international conference on communication technology and application …, 2011",
-        "num_citations": 184,
+        "num_citations": 183,
         "author_pub_id": "jnmyOEYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -280,7 +280,7 @@
     {
         "title": "Physics-informed RL for Maximal Safety Probability Estimation",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.16391, 2024",
+        "citation": "2024 American Control Conference (ACC), pp. 3576-3583, 2024",
         "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:lSLTfruPkqcC"
     },

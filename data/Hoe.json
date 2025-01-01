@@ -17,14 +17,14 @@
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
         "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "ZnRhcFUAAAAJ:Mojj43d5GZwC"
     },
     {
         "title": "3d point cloud reduction using mixed-integer quadratic programming",
         "pub_year": "2013",
         "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2013",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "ZnRhcFUAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Achieving 100gbps intrusion prevention on a single server",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020",
-        "num_citations": 118,
+        "num_citations": 124,
         "author_pub_id": "ZnRhcFUAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -171,7 +171,7 @@
         "title": "Beyond Peak Performance: Comparing the Real Performance of AI-Optimized FPGAs and GPUs",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 95,
+        "num_citations": 98,
         "author_pub_id": "ZnRhcFUAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -185,7 +185,7 @@
         "title": "CONNECT: re-examining conventional wisdom for designing nocs in the context of FPGAs",
         "pub_year": "2012",
         "citation": "Proceedings of the ACM/SIGDA international symposium on Field Programmable …, 2012",
-        "num_citations": 253,
+        "num_citations": 254,
         "author_pub_id": "ZnRhcFUAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -206,7 +206,7 @@
         "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
         "pub_year": "2011",
         "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011",
-        "num_citations": 209,
+        "num_citations": 210,
         "author_pub_id": "ZnRhcFUAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -220,7 +220,7 @@
         "title": "Computer generation of hardware for linear digital signal processing transforms",
         "pub_year": "2012",
         "citation": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 17 (2 …, 2012",
-        "num_citations": 159,
+        "num_citations": 160,
         "author_pub_id": "ZnRhcFUAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -352,7 +352,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 84,
+        "num_citations": 87,
         "author_pub_id": "ZnRhcFUAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -380,14 +380,14 @@
         "title": "FFTs with Near-Optimal Memory Access Through Block Data Layouts: Algorithm, Architecture and Design Automation",
         "pub_year": "2015",
         "citation": "Journal of Signal Processing Systems, 1-16, 2015",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "ZnRhcFUAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "FFTs with near-optimal memory access through block data layouts",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ZnRhcFUAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Hamlet: Hardware accelerated memory layout transform within 3d-stacked dram",
         "pub_year": "2014",
         "citation": "IEEE High Performance Extreme Computing Conference, 2014",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "ZnRhcFUAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -776,7 +776,7 @@
         "title": "Pigasus 2.0: making the pigasus IDS robust to attacks and different workloads",
         "pub_year": "2022",
         "citation": "Proceedings of the SIGCOMM'22 Poster and Demo Sessions, 61-62, 2022",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "ZnRhcFUAAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -902,7 +902,7 @@
         "title": "SMARTS: Accelerating microarchitecture simulation via rigorous statistical sampling",
         "pub_year": "2003",
         "citation": "Proceedings of the 30th annual international symposium on Computer …, 2003",
-        "num_citations": 798,
+        "num_citations": 801,
         "author_pub_id": "ZnRhcFUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -923,7 +923,7 @@
         "title": "SimFlex: statistical sampling of computer system simulation",
         "pub_year": "2006",
         "citation": "IEEE Micro 26 (4), 18-31, 2006",
-        "num_citations": 454,
+        "num_citations": 457,
         "author_pub_id": "ZnRhcFUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -944,7 +944,7 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 346,
+        "num_citations": 348,
         "author_pub_id": "ZnRhcFUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1140,7 +1140,7 @@
         "title": "We need kernel interposition over the network dataplane",
         "pub_year": "2021",
         "citation": "Proceedings of the Workshop on Hot Topics in Operating Systems, 152-158, 2021",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "ZnRhcFUAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -1154,7 +1154,7 @@
         "title": "{Ensō}: A Streaming Interface for {NIC-Application} Communication",
         "pub_year": "2023",
         "citation": "17th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2023",
-        "num_citations": 14,
+        "num_citations": 19,
         "author_pub_id": "ZnRhcFUAAAAJ:_5tno0g5mFcC"
     }
 ]

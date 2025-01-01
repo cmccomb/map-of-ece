@@ -23,8 +23,15 @@
         "title": "Bigger, longer, fewer: what do cluster jobs look like outside google",
         "pub_year": "2017",
         "citation": "Carnegie Mellon Univ., Pittsburgh, PA, Tech. Rep. CMU-PDL-17–104, 2017",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "ygiY7C8AAAAJ:Se3iqnhoufwC"
+    },
+    {
+        "title": "CARP: Range Query-Optimized Indexing for Streaming Data",
+        "pub_year": "2024",
+        "citation": "Proceedings of the International Conference for High Performance Computing …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Compact Filter Structures for Fast Data Partitioning",
@@ -99,7 +106,7 @@
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -194,21 +201,21 @@
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 79,
+        "num_citations": 90,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "More IOPS for less: Exploiting burstable storage in public clouds",
         "pub_year": "2020",
         "citation": "12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 20), 2020",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "ygiY7C8AAAAJ:dhFuZR0502QC"
     },
     {
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 154,
+        "num_citations": 162,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -222,7 +229,7 @@
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -250,7 +257,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -259,6 +266,13 @@
         "citation": "Technical Report CMU-PDL--, CMU Parallel Data Laboratory, April. URL http …, 2019",
         "num_citations": 7,
         "author_pub_id": "ygiY7C8AAAAJ:3fE2CSJIrl8C"
+    },
+    {
+        "title": "Reducing Cross-Cloud/Region Costs with the Auto-Configuring MACARON Cache",
+        "pub_year": "2024",
+        "citation": "Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ygiY7C8AAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Reducing the optical depth: Solutions for an astronomer-friendly Cloud",
@@ -271,7 +285,7 @@
         "title": "Scaling embedded in-situ indexing with deltaFS",
         "pub_year": "2018",
         "citation": "SC18: International Conference for High Performance Computing, Networking …, 2018",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "ygiY7C8AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -285,7 +299,7 @@
         "title": "Software-defined storage for fast trajectory queries using a deltafs indexed massive directory",
         "pub_year": "2017",
         "citation": "Proceedings of the 2nd Joint International Workshop on Parallel Data Storage …, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "ygiY7C8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -299,7 +313,7 @@
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
-        "num_citations": 321,
+        "num_citations": 325,
         "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -327,21 +341,21 @@
         "title": "The atlas cluster trace repository",
         "pub_year": "2018",
         "citation": "Usenix Mag 43 (4), 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ygiY7C8AAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "The case for custom storage backends in distributed storage systems",
         "pub_year": "2020",
         "citation": "ACM Transactions on Storage (TOS) 16 (2), 1-31, 2020",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ygiY7C8AAAAJ:QIV2ME_5wuYC"
     },
     {
         "title": "This is why ML-driven cluster scheduling remains widely impractical",
         "pub_year": "2019",
         "citation": "Tech. Rep., 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "ygiY7C8AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -369,14 +383,14 @@
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 153,
+        "num_citations": 160,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

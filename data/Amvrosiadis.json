@@ -9,7 +9,7 @@
         "title": "A Call for Research on Storage Emissions",
         "pub_year": "2024",
         "citation": "",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "ygiY7C8AAAAJ:isC4tDSrTZIC"
     },
     {
@@ -27,9 +27,9 @@
         "author_pub_id": "ygiY7C8AAAAJ:Se3iqnhoufwC"
     },
     {
-        "title": "CARP: Range Query-Optimized Indexing for Streaming Data",
+        "title": "Carp: Range query-optimized indexing for streaming data",
         "pub_year": "2024",
-        "citation": "Proceedings of the International Conference for High Performance Computing …, 2024",
+        "citation": "SC24: International Conference for High Performance Computing, Networking …, 2024",
         "num_citations": 0,
         "author_pub_id": "ygiY7C8AAAAJ:GnPB-g6toBAC"
     },
@@ -99,14 +99,14 @@
         "title": "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces",
         "pub_year": "2024",
         "citation": "18th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ygiY7C8AAAAJ:bEWYMUwI8FkC"
     },
     {
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 127,
+        "num_citations": 129,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -194,14 +194,14 @@
         "title": "Mimir: Finding Cost-efficient Storage Configurations in the Public Cloud",
         "pub_year": "2023",
         "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "ygiY7C8AAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 90,
+        "num_citations": 94,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -215,7 +215,7 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 162,
+        "num_citations": 165,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -229,7 +229,7 @@
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 33,
+        "num_citations": 36,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -257,7 +257,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -313,7 +313,7 @@
         "title": "Temperature Management in Data Centers: Why Some (Might) Like It Hot",
         "pub_year": "2012",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 40 (1), 163-174, 2012",
-        "num_citations": 325,
+        "num_citations": 327,
         "author_pub_id": "ygiY7C8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -383,14 +383,14 @@
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 160,
+        "num_citations": 169,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 53,
+        "num_citations": 56,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

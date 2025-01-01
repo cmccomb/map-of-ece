@@ -24,7 +24,7 @@
         "title": "3d point cloud reduction using mixed-integer quadratic programming",
         "pub_year": "2013",
         "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2013",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "ZnRhcFUAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -59,14 +59,14 @@
         "title": "A personal supercomputer for climate research",
         "pub_year": "1999",
         "citation": "Proceedings of the 1999 ACM/IEEE conference on Supercomputing, 59-es, 1999",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "ZnRhcFUAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "A study of pointer-chasing performance on shared-memory processor-FPGA systems",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM/SIGDA International Symposium on Field …, 2016",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "ZnRhcFUAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -87,8 +87,15 @@
         "title": "Achieving 100gbps intrusion prevention on a single server",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020",
-        "num_citations": 113,
+        "num_citations": 118,
         "author_pub_id": "ZnRhcFUAAAAJ:LI9QrySNdTsC"
+    },
+    {
+        "title": "Addressing Architectural Obstacles for Overlay with Stream Network Abstraction",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2411.17966, 2024",
+        "num_citations": 0,
+        "author_pub_id": "ZnRhcFUAAAAJ:9c2xU6iGI7YC"
     },
     {
         "title": "Algorithm and architecture optimization for large size two dimensional discrete fourier transform",
@@ -108,7 +115,7 @@
         "title": "Amorphous dynamic partial reconfiguration with flexible boundaries to remove fragmentation",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1710.08270, 2017",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ZnRhcFUAAAAJ:35r97b3x0nAC"
     },
     {
@@ -157,14 +164,14 @@
         "title": "Automatic pipelining from transactional datapath specifications",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2011",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "ZnRhcFUAAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "Beyond Peak Performance: Comparing the Real Performance of AI-Optimized FPGAs and GPUs",
         "pub_year": "2020",
         "citation": "",
-        "num_citations": 87,
+        "num_citations": 95,
         "author_pub_id": "ZnRhcFUAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -178,7 +185,7 @@
         "title": "CONNECT: re-examining conventional wisdom for designing nocs in the context of FPGAs",
         "pub_year": "2012",
         "citation": "Proceedings of the ACM/SIGDA international symposium on Field Programmable …, 2012",
-        "num_citations": 251,
+        "num_citations": 253,
         "author_pub_id": "ZnRhcFUAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -345,7 +352,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "ZnRhcFUAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -498,7 +505,7 @@
         "title": "GraphGen: An FPGA framework for vertex-centric graph computation",
         "pub_year": "2014",
         "citation": "2014 IEEE 22nd Annual International Symposium on Field-Programmable Custom …, 2014",
-        "num_citations": 164,
+        "num_citations": 165,
         "author_pub_id": "ZnRhcFUAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -533,14 +540,14 @@
         "title": "Hardware synthesis from term rewriting systems",
         "pub_year": "2000",
         "citation": "VLSI: Systems on a chip, 595-619, 2000",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "ZnRhcFUAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "HerQules: Securing programs via hardware-enforced message queues",
         "pub_year": "2021",
         "citation": "Proceedings of the 26th ACM International Conference on Architectural …, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "ZnRhcFUAAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -651,7 +658,7 @@
         "title": "MPI-StarT: Delivering network performance to numerical applications",
         "pub_year": "1998",
         "citation": "SC'98: Proceedings of the 1998 ACM/IEEE Conference on Supercomputing, 17-17, 1998",
-        "num_citations": 113,
+        "num_citations": 112,
         "author_pub_id": "ZnRhcFUAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -664,14 +671,14 @@
         "title": "Memory bandwidth efficient two-dimensional fast Fourier transform algorithm and implementation for large problem sizes",
         "pub_year": "2012",
         "citation": "2012 IEEE 20th International Symposium on Field-Programmable Custom …, 2012",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "ZnRhcFUAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Multi-bit error tolerant caches using two-dimensional error coding",
         "pub_year": "2007",
         "citation": "40th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO …, 2007",
-        "num_citations": 375,
+        "num_citations": 376,
         "author_pub_id": "ZnRhcFUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -755,7 +762,7 @@
         "title": "Partial Reconfiguration for Design Optimization",
         "pub_year": "2020",
         "citation": "2020 30th International Conference on Field Programmable Logic and …, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ZnRhcFUAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -832,7 +839,7 @@
         "title": "Quantifying the benefits of dynamic partial reconfiguration for embedded vision applications",
         "pub_year": "2019",
         "citation": "2019 29th International Conference on Field Programmable Logic and …, 2019",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "ZnRhcFUAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -895,14 +902,14 @@
         "title": "SMARTS: Accelerating microarchitecture simulation via rigorous statistical sampling",
         "pub_year": "2003",
         "citation": "Proceedings of the 30th annual international symposium on Computer …, 2003",
-        "num_citations": 796,
+        "num_citations": 798,
         "author_pub_id": "ZnRhcFUAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "ZnRhcFUAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -923,7 +930,7 @@
         "title": "Simflex: A fast, accurate, flexible full-system simulation framework for performance evaluation of server architecture",
         "pub_year": "2004",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 31 (4), 31-34, 2004",
-        "num_citations": 198,
+        "num_citations": 201,
         "author_pub_id": "ZnRhcFUAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -937,7 +944,7 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 343,
+        "num_citations": 346,
         "author_pub_id": "ZnRhcFUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1084,7 +1091,7 @@
         "title": "Time-shared execution of realtime computer vision pipelines by dynamic partial reconfiguration",
         "pub_year": "2018",
         "citation": "2018 28th International Conference on Field Programmable Logic and …, 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ZnRhcFUAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1133,7 +1140,7 @@
         "title": "We need kernel interposition over the network dataplane",
         "pub_year": "2021",
         "citation": "Proceedings of the Workshop on Hot Topics in Operating Systems, 152-158, 2021",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "ZnRhcFUAAAAJ:Dip1O2bNi0gC"
     },
     {
@@ -1147,7 +1154,7 @@
         "title": "{Ensō}: A Streaming Interface for {NIC-Application} Communication",
         "pub_year": "2023",
         "citation": "17th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2023",
-        "num_citations": 10,
+        "num_citations": 14,
         "author_pub_id": "ZnRhcFUAAAAJ:_5tno0g5mFcC"
     }
 ]

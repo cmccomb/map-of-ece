@@ -66,7 +66,7 @@
         "title": "A microarchitecture implementation framework for online learning with temporal neural networks",
         "pub_year": "2021",
         "citation": "2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 266-271, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "pARKzQsAAAAJ:9pM33mqn1YgC"
     },
     {
@@ -220,7 +220,7 @@
         "title": "AttriNet: Learning mid-level features for human activity recognition with deep belief networks",
         "pub_year": "2019",
         "citation": "Adjunct proceedings of the 2019 acm international joint conference on …, 2019",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "pARKzQsAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Can trace-driven simulators accurately predict superscalar performance?",
         "pub_year": "1996",
         "citation": "Proceedings International Conference on Computer Design. VLSI in Computers …, 1996",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "pARKzQsAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -434,7 +434,7 @@
         "title": "Cortical columns computing systems: Microarchitecture model, functional building blocks, and design tools",
         "pub_year": "2023",
         "citation": "Neuromorphic Computing, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "pARKzQsAAAAJ:OTTXONDVkokC"
     },
     {
@@ -476,14 +476,14 @@
         "title": "Die stacking (3D) microarchitecture",
         "pub_year": "2006",
         "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006",
-        "num_citations": 803,
+        "num_citations": 806,
         "author_pub_id": "pARKzQsAAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Direct CMOS implementation of neuromorphic temporal neural networks for sensory processing",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2009.00457, 2020",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "pARKzQsAAAAJ:rmuvC79q63oC"
     },
     {
@@ -572,7 +572,7 @@
         "title": "Exceeding the dataflow limit via value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the 29th Annual IEEE/ACM International Symposium on …, 1996",
-        "num_citations": 751,
+        "num_citations": 753,
         "author_pub_id": "pARKzQsAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -642,7 +642,7 @@
         "title": "Exploration of Unary Arithmetic-Based Matrix Multiply Units for Low Precision DL Accelerators",
         "pub_year": "2024",
         "citation": "2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 661-665, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:yFnVuubrUp4C"
     },
     {
@@ -782,7 +782,7 @@
         "title": "IDIoT: Multimodal framework for ubiquitous identification and assignment of human-carried wearable devices",
         "pub_year": "2023",
         "citation": "ACM Transactions on Internet of Things 4 (2), 1-25, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "pARKzQsAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -883,7 +883,7 @@
         "title": "Interprocessor traffic scheduling algorithm for multiple-processor networks",
         "pub_year": "1987",
         "citation": "IEEE Transactions on Computers 100 (4), 396-409, 1987",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "pARKzQsAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -1170,7 +1170,7 @@
         "title": "Methods and apparatus for reducing memory latency in a software application",
         "pub_year": "2008",
         "citation": "US Patent 7,328,433, 2008",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "pARKzQsAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1225,7 +1225,7 @@
         "title": "Mitigating Amdahl's law through EPI throttling",
         "pub_year": "2005",
         "citation": "32nd International Symposium on Computer Architecture (ISCA'05), 298-309, 2005",
-        "num_citations": 323,
+        "num_citations": 324,
         "author_pub_id": "pARKzQsAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -1239,7 +1239,7 @@
         "title": "Modern processor design: fundamentals of superscalar processors",
         "pub_year": "2013",
         "citation": "Waveland Press, 2013",
-        "num_citations": 629,
+        "num_citations": 639,
         "author_pub_id": "pARKzQsAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1281,7 +1281,7 @@
         "title": "NeRTCAM: CAM-Based CMOS Implementation of Reference Frames for Neuromorphic Processors",
         "pub_year": "2024",
         "citation": "2024 Neuro Inspired Computational Elements Conference (NICE), 1-9, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -1427,7 +1427,7 @@
         "title": "Primitives to enhance thread-level speculation",
         "pub_year": "2011",
         "citation": "US Patent 7,882,339, 2011",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "pARKzQsAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1553,7 +1553,7 @@
         "title": "Realtime Person Identification via Gait Analysis",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.15312, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "pARKzQsAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -1636,7 +1636,7 @@
         "title": "SemNet: Learning semantic attributes for human activity recognition with deep belief networks",
         "pub_year": "2022",
         "citation": "Frontiers in big Data 5, 879389, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "pARKzQsAAAAJ:_5tno0g5mFcC"
     },
     {
@@ -1727,7 +1727,7 @@
         "title": "Surfacevibe: vibration-based tap & swipe tracking on ubiquitous surfaces",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "pARKzQsAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1762,21 +1762,21 @@
         "title": "Systematic validation of pipeline interlock for superscalar microarchitectures",
         "pub_year": "1995",
         "citation": "Twenty-Fifth International Symposium on Fault-Tolerant Computing. Digest of …, 1995",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "pARKzQsAAAAJ:Tiz5es2fbqcC"
     },
     {
         "title": "TNN-CIM: An In-SRAM CMOS Implementation of TNN-Based Synaptic Arrays with STDP Learning",
         "pub_year": "2024",
         "citation": "2024 IEEE 6th International Conference on AI Circuits and Systems (AICAS …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:DJbcl8HfkQkC"
     },
     {
         "title": "TNNGen: Automated Design of Neuromorphic Sensory Processing Units for Time-Series Clustering",
         "pub_year": "2024",
         "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -1902,7 +1902,7 @@
         "title": "Tnn7: A custom macro suite for implementing highly optimized designs of neuromorphic tnns",
         "pub_year": "2022",
         "citation": "2022 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 152-157, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "pARKzQsAAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -1951,7 +1951,7 @@
         "title": "Unsupervised clustering of time series signals using neuromorphic energy-efficient temporal neural networks",
         "pub_year": "2021",
         "citation": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and …, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "pARKzQsAAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -1992,7 +1992,7 @@
         "title": "Value locality and load value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the seventh international conference on Architectural support …, 1996",
-        "num_citations": 968,
+        "num_citations": 969,
         "author_pub_id": "pARKzQsAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -2006,14 +2006,14 @@
         "title": "tuGEMM: Area-Power-Efficient Temporal Unary GEMM Architecture for Low-Precision Edge AI",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pARKzQsAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "tubGEMM: Energy-Efficient and Sparsity-Effective Temporal-Unary-Binary Based Matrix Multiply Unit",
         "pub_year": "2023",
         "citation": "2023 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 1-6, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "pARKzQsAAAAJ:QYdC8u9Cj1oC"
     }
 ]

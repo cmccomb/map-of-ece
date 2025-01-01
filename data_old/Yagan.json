@@ -17,7 +17,7 @@
         "title": "A community-driven approach to democratize access to satellite ground stations",
         "pub_year": "2021",
         "citation": "Proceedings of the 27th Annual International Conference on Mobile Computing …, 2021",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "XtTBo1AAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "An Agent-Based Model of Reddit Interactions and Moderation",
         "pub_year": "2023",
         "citation": "Proceedings of the International Conference on Advances in Social Networks …, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "XtTBo1AAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Bandit-based communication-efficient client selection strategies for federated learning",
         "pub_year": "2020",
         "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 1066-1069, 2020",
-        "num_citations": 76,
+        "num_citations": 79,
         "author_pub_id": "XtTBo1AAAAAJ:5awf1xo2G04C"
     },
     {
@@ -163,7 +163,7 @@
         "title": "Cascading failures in interdependent systems under a flow redistribution model",
         "pub_year": "2018",
         "citation": "Physical Review E 97 (2), 022307, 2018",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "XtTBo1AAAAAJ:f2IySw72cVMC"
     },
     {
@@ -184,7 +184,7 @@
         "title": "Conjoining speeds up information diffusion in overlaying social-physical networks",
         "pub_year": "2013",
         "citation": "IEEE Journal on Selected Areas in Communications 31 (6), 1038-1048, 2013",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "XtTBo1AAAAAJ:geHnlv5EZngC"
     },
     {
@@ -329,7 +329,7 @@
         "title": "Dynamic coupling strategy for interdependent network systems against cascading failures",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Network Science and Engineering 10 (4), 2265-2282, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "XtTBo1AAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -342,7 +342,7 @@
         "title": "Empowering low-power wide area networks in urban settings",
         "pub_year": "2017",
         "citation": "Proceedings of the Conference of the ACM Special Interest Group on Data …, 2017",
-        "num_citations": 235,
+        "num_citations": 236,
         "author_pub_id": "XtTBo1AAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -550,7 +550,7 @@
         "title": "Multi-Armed Bandits with Probing",
         "pub_year": "2024",
         "citation": "2024 IEEE International Symposium on Information Theory (ISIT), 2080-2085, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "XtTBo1AAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -571,8 +571,15 @@
         "title": "Multi-armed bandits with correlated arms",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6711-6732, 2021",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "XtTBo1AAAAAJ:1qzjygNMrQYC"
+    },
+    {
+        "title": "Multi-armed bandits with costly probes",
+        "pub_year": "2024",
+        "citation": "IEEE Transactions on Information Theory, 2024",
+        "num_citations": 1,
+        "author_pub_id": "XtTBo1AAAAAJ:p__nRnzSRKYC"
     },
     {
         "title": "Multistage complex contagions in random multiplex networks",
@@ -605,7 +612,7 @@
         "title": "On connectivity and robustness in random intersection graphs",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Automatic Control 62 (5), 2121-2136, 2016",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "XtTBo1AAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -778,7 +785,7 @@
         "title": "Optimal allocation of interconnecting links in cyber-physical systems: Interdependence, cascading failures, and robustness",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Parallel and Distributed Systems 23 (9), 1708-1720, 2012",
-        "num_citations": 235,
+        "num_citations": 236,
         "author_pub_id": "XtTBo1AAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -881,14 +888,14 @@
         "title": "Robustness of interdependent cyber-physical systems against cascading failures",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Automatic Control 65 (2), 711-726, 2019",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "XtTBo1AAAAAJ:fQNAKQ3IYiAC"
     },
     {
         "title": "Robustness of power systems under a democratic-fiber-bundle-like model",
         "pub_year": "2015",
         "citation": "Physical Review E 91 (6), 062811, 2015",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "XtTBo1AAAAAJ:maZDTaKrznsC"
     },
     {
@@ -965,7 +972,7 @@
         "title": "Spreading processes with mutations over multilayer networks",
         "pub_year": "2023",
         "citation": "Proceedings of the National Academy of Sciences 120 (24), e2302245120, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "XtTBo1AAAAAJ:2KloaMYe4IUC"
     },
     {

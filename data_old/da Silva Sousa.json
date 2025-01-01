@@ -30,21 +30,14 @@
         "title": "Characterizing and identifying composite refactorings: Concepts, heuristics and patterns",
         "pub_year": "2020",
         "citation": "Proceedings of the 17th International Conference on Mining Software …, 2020",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "Fl1qHEAAAAAJ:L8Ckcad2t8MC"
-    },
-    {
-        "title": "Code anomalies flock together",
-        "pub_year": "2016",
-        "citation": "38th IEEE International conference on software engineering, 2016",
-        "num_citations": 0,
-        "author_pub_id": "Fl1qHEAAAAAJ:blknAaTinKkC"
     },
     {
         "title": "Code anomalies flock together: Exploring code anomaly agglomerations for locating design problems",
         "pub_year": "2016",
         "citation": "Proceedings of the 38th International Conference on Software Engineering …, 2016",
-        "num_citations": 120,
+        "num_citations": 121,
         "author_pub_id": "Fl1qHEAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -134,7 +127,7 @@
         "title": "How do software developers identify design problems? a qualitative analysis",
         "pub_year": "2017",
         "citation": "Proceedings of the XXXI Brazilian Symposium on Software Engineering, 54-63, 2017",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "Fl1qHEAAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -148,7 +141,7 @@
         "title": "Identifying design problems in the source code: A grounded theory",
         "pub_year": "2018",
         "citation": "Proceedings of the 40th international conference on software engineering …, 2018",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "Fl1qHEAAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -176,7 +169,7 @@
         "title": "On the density and diversity of degradation symptoms in refactored classes: A multi-case study",
         "pub_year": "2019",
         "citation": "2019 IEEE 30th International Symposium on Software Reliability Engineering …, 2019",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "Fl1qHEAAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -211,7 +204,7 @@
         "title": "Refactoring effect on internal quality attributes: What haven’t they told you yet?",
         "pub_year": "2020",
         "citation": "Information and Software Technology 126, 106347, 2020",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "Fl1qHEAAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -231,7 +224,7 @@
         "title": "Revealing design problems in stinky code: a mixed-method study",
         "pub_year": "2017",
         "citation": "Proceedings of the 11th Brazilian Symposium on Software Components …, 2017",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "Fl1qHEAAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -245,7 +238,7 @@
         "title": "Revealing the social aspects of design decay: A retrospective study of pull requests",
         "pub_year": "2020",
         "citation": "Proceedings of the XXXIV Brazilian Symposium on Software Engineering, 364-373, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "Fl1qHEAAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -343,14 +336,14 @@
         "title": "Understanding the impact of refactoring on smells: A longitudinal study of 23 software projects",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 11th Joint Meeting on foundations of Software …, 2017",
-        "num_citations": 103,
+        "num_citations": 106,
         "author_pub_id": "Fl1qHEAAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "VazaDengue: An information system for preventing and combating mosquito-borne diseases with social networks",
         "pub_year": "2018",
         "citation": "Information Systems 75, 26-42, 2018",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "Fl1qHEAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -371,7 +364,7 @@
         "title": "When Are Smells Indicators of Architectural Refactoring Opportunities? A Study of 50 Software Projects",
         "pub_year": "2020",
         "citation": "ICPC, 2020",
-        "num_citations": 19,
+        "num_citations": 21,
         "author_pub_id": "Fl1qHEAAAAAJ:IWHjjKOFINEC"
     }
 ]

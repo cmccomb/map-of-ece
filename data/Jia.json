@@ -315,7 +315,7 @@
         "title": "Design, implementation and verification of an extensible and modular hypervisor framework",
         "pub_year": "2013",
         "citation": "2013 IEEE Symposium on Security and Privacy, 430-444, 2013",
-        "num_citations": 179,
+        "num_citations": 180,
         "author_pub_id": "yjJPtE4AAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -329,7 +329,7 @@
         "title": "Distributed provenance compression",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 ACM International Conference on Management of Data …, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "yjJPtE4AAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -398,7 +398,7 @@
         "title": "Expressing heap-shape contracts in linear logic",
         "pub_year": "2006",
         "citation": "Proceedings of the 5th international conference on Generative programming …, 2006",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "yjJPtE4AAAAJ:r0BpntZqJG4C"
     },
     {
@@ -473,7 +473,7 @@
         "title": "How Risky Are Real Users'{IFTTT} Applets?",
         "pub_year": "2020",
         "citation": "Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020), 505-529, 2020",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "yjJPtE4AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -542,14 +542,14 @@
         "title": "Lightweight source authentication and path validation",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM Conference on SIGCOMM, 271-282, 2014",
-        "num_citations": 186,
+        "num_citations": 188,
         "author_pub_id": "yjJPtE4AAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Linear Logic and Imperative Programming",
         "pub_year": "2008",
         "citation": "Princeton University, 2008",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "yjJPtE4AAAAJ:SP6oXDckpogC"
     },
     {
@@ -582,7 +582,7 @@
         "title": "Mechanized network origin and path authenticity proofs",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …, 2014",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "yjJPtE4AAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -662,7 +662,7 @@
         "title": "Nodemedic: End-to-end analysis of node. js vulnerabilities with provenance graphs",
         "pub_year": "2023",
         "citation": "2023 IEEE 8th European Symposium on Security and Privacy (EuroS&P), 1101-1127, 2023",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "yjJPtE4AAAAJ:J-pR_7NvFogC"
     },
     {
@@ -831,7 +831,7 @@
         "title": "Riding out domsday: Towards detecting and preventing dom cross-site scripting",
         "pub_year": "2018",
         "citation": "2018 Network and Distributed System Security Symposium (NDSS), 2018",
-        "num_citations": 96,
+        "num_citations": 97,
         "author_pub_id": "yjJPtE4AAAAJ:D03iK_w7-QYC"
     },
     {
@@ -945,7 +945,7 @@
         "title": "Syrust: automatic testing of rust libraries with semantic-aware program synthesis",
         "pub_year": "2021",
         "citation": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …, 2021",
-        "num_citations": 27,
+        "num_citations": 30,
         "author_pub_id": "yjJPtE4AAAAJ:UxriW0iASnsC"
     },
     {
@@ -1007,7 +1007,7 @@
         "title": "Timing-sensitive noninterference through composition",
         "pub_year": "2017",
         "citation": "Principles of Security and Trust: 6th International Conference, POST 2017 …, 2017",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "yjJPtE4AAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -1041,7 +1041,7 @@
         "title": "Towards a formal foundation of intermittent computing",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM on Programming Languages 4 (OOPSLA), 1-31, 2020",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "yjJPtE4AAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -1116,14 +1116,14 @@
         "title": "{NetSMC}: A Custom Symbolic Model Checker for Stateful Network Verification",
         "pub_year": "2020",
         "citation": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2020",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "yjJPtE4AAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "{überSpark}: Enforcing Verifiable Object Abstractions for Automated Compositional Security Analysis of a Hypervisor",
         "pub_year": "2016",
         "citation": "25th USENIX Security Symposium (USENIX Security 16), 87-104, 2016",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "yjJPtE4AAAAJ:cFHS6HbyZ2cC"
     },
     {

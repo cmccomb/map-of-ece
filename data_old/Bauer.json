@@ -3,7 +3,7 @@
         "title": "\" Adulthood is trying each of the same six passwords that you use for everything\": The Scarcity and Ambiguity of Security Advice on Social Media",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-27, 2022",
-        "num_citations": 11,
+        "num_citations": 14,
         "author_pub_id": "5cJzDZEAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -17,7 +17,7 @@
         "title": "(How) Do people change their passwords after a breach?",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2010.09853, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "5cJzDZEAAAAJ:kz9GbA2Ns4gC"
     },
     {
@@ -58,14 +58,14 @@
         "title": "A comparison of users' perceptions of and willingness to use Google, Facebook, and Google+ single-sign-on functionality",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM workshop on Digital identity management, 25-36, 2013",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "5cJzDZEAAAAJ:EUQCXRtRnyEC"
     },
     {
         "title": "A field study of computer-security perceptions using anti-virus customer-support chats",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "5cJzDZEAAAAJ:BwyfMAYsbu0C"
     },
     {
@@ -79,7 +79,7 @@
         "title": "A general framework for adversarial examples with objectives",
         "pub_year": "2019",
         "citation": "ACM Transactions on Privacy and Security (TOPS) 22 (3), 1-30, 2019",
-        "num_citations": 213,
+        "num_citations": 218,
         "author_pub_id": "5cJzDZEAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -107,7 +107,7 @@
         "title": "A spoonful of sugar? The impact of guidance and feedback on password-creation behavior",
         "pub_year": "2015",
         "citation": "Proceedings of the 33rd annual ACM conference on human factors in computing …, 2015",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "5cJzDZEAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -133,7 +133,7 @@
         "title": "Access control for home data sharing: Attitudes, needs and practices",
         "pub_year": "2010",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2010",
-        "num_citations": 192,
+        "num_citations": 193,
         "author_pub_id": "5cJzDZEAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -161,7 +161,7 @@
         "title": "Accessorize to a crime: Real and stealthy attacks on state-of-the-art face recognition",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …, 2016",
-        "num_citations": 1947,
+        "num_citations": 1974,
         "author_pub_id": "5cJzDZEAAAAJ:JoZmwDi-zQgC"
     },
     {
@@ -175,14 +175,14 @@
         "title": "Adversarial generative nets: Neural network attacks on state-of-the-art face recognition",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1801.00349 2 (3), 139, 2017",
-        "num_citations": 113,
+        "num_citations": 114,
         "author_pub_id": "5cJzDZEAAAAJ:tKAzc9rXhukC"
     },
     {
         "title": "Adversarial training for {Raw-Binary} malware classifiers",
         "pub_year": "2023",
         "citation": "32nd USENIX Security Symposium (USENIX Security 23), 1163-1180, 2023",
-        "num_citations": 28,
+        "num_citations": 31,
         "author_pub_id": "5cJzDZEAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -203,7 +203,7 @@
         "title": "Android taint flow analysis for app sets",
         "pub_year": "2014",
         "citation": "Proceedings of the 3rd ACM SIGPLAN International Workshop on the State of …, 2014",
-        "num_citations": 300,
+        "num_citations": 302,
         "author_pub_id": "5cJzDZEAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -217,7 +217,7 @@
         "title": "Attributions for ML-based ICS anomaly detection: From theory to practice",
         "pub_year": "2024",
         "citation": "Proc. 31st Netw. Distrib. Syst. Secur. Symp, 2024",
-        "num_citations": 2,
+        "num_citations": 4,
         "author_pub_id": "5cJzDZEAAAAJ:Ehil0879vHcC"
     },
     {
@@ -231,14 +231,14 @@
         "title": "Can long passwords be secure and usable?",
         "pub_year": "2014",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2014",
-        "num_citations": 185,
+        "num_citations": 184,
         "author_pub_id": "5cJzDZEAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Can unicorns help users compare crypto key fingerprints?",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017",
-        "num_citations": 98,
+        "num_citations": 100,
         "author_pub_id": "5cJzDZEAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -315,7 +315,7 @@
         "title": "Composing security policies with Polymer",
         "pub_year": "2005",
         "citation": "2005 ACM SIGPLAN conference on Programming language design and …, 2005",
-        "num_citations": 243,
+        "num_citations": 242,
         "author_pub_id": "5cJzDZEAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -350,7 +350,7 @@
         "title": "Correct horse battery staple: Exploring the usability of system-assigned passphrases",
         "pub_year": "2012",
         "citation": "Proceedings of the eighth symposium on usable privacy and security, 1-20, 2012",
-        "num_citations": 188,
+        "num_citations": 190,
         "author_pub_id": "5cJzDZEAAAAJ:k_IJM867U9cC"
     },
     {
@@ -370,14 +370,14 @@
         "title": "Design and evaluation of a data-driven password meter",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 chi conference on human factors in computing systems …, 2017",
-        "num_citations": 168,
+        "num_citations": 171,
         "author_pub_id": "5cJzDZEAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "Designing password policies for strength and usability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Information and System Security (TISSEC) 18 (4), 1-34, 2016",
-        "num_citations": 169,
+        "num_citations": 170,
         "author_pub_id": "5cJzDZEAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -390,7 +390,7 @@
         "title": "Detecting and resolving policy misconfigurations in access-control systems",
         "pub_year": "2011",
         "citation": "ACM Transactions on Information and System Security (TISSEC) 14 (1), 1-28, 2011",
-        "num_citations": 177,
+        "num_citations": 178,
         "author_pub_id": "5cJzDZEAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -418,7 +418,7 @@
         "title": "Discovering access-control misconfigurations: new approaches and evaluation methodologies",
         "pub_year": "2012",
         "citation": "Proceedings of the second ACM conference on Data and Application Security …, 2012",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "5cJzDZEAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -446,7 +446,7 @@
         "title": "Do users' perceptions of password security match reality?",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 CHI conference on human factors in computing systems …, 2016",
-        "num_citations": 239,
+        "num_citations": 241,
         "author_pub_id": "5cJzDZEAAAAJ:1qzjygNMrQYC"
     },
     {
@@ -459,7 +459,7 @@
         "title": "Don't bump, shake on it: The exploitation of a popular accelerometer-based smart phone exchange and its secure replacement",
         "pub_year": "2011",
         "citation": "Proceedings of the 27th Annual Computer Security Applications Conference …, 2011",
-        "num_citations": 71,
+        "num_citations": 72,
         "author_pub_id": "5cJzDZEAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -472,7 +472,7 @@
         "title": "Edit automata: Enforcement mechanisms for run-time security policies",
         "pub_year": "2005",
         "citation": "International Journal of Information Security 4, 2-16, 2005",
-        "num_citations": 456,
+        "num_citations": 455,
         "author_pub_id": "5cJzDZEAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -514,7 +514,7 @@
         "title": "Encountering stronger password requirements: user attitudes and behaviors",
         "pub_year": "2010",
         "citation": "Proceedings of the sixth symposium on usable privacy and security, 1-20, 2010",
-        "num_citations": 492,
+        "num_citations": 493,
         "author_pub_id": "5cJzDZEAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -561,7 +561,7 @@
         "title": "Fast, lean, and accurate: Modeling password guessability using neural networks",
         "pub_year": "2016",
         "citation": "25th USENIX Security Symposium (USENIX Security '16), 175-191, 2016",
-        "num_citations": 362,
+        "num_citations": 363,
         "author_pub_id": "5cJzDZEAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -589,7 +589,7 @@
         "title": "Guess again (and again and again): Measuring password strength by simulating password-cracking algorithms",
         "pub_year": "2012",
         "citation": "2012 IEEE Symposium on Security & Privacy, 523-537, 2012",
-        "num_citations": 616,
+        "num_citations": 619,
         "author_pub_id": "5cJzDZEAAAAJ:maZDTaKrznsC"
     },
     {
@@ -609,14 +609,14 @@
         "title": "How Risky Are Real Users' IFTTT Applets?",
         "pub_year": "2020",
         "citation": "Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020), 505-529, 2020",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "5cJzDZEAAAAJ:b1wdh0AR-JQC"
     },
     {
         "title": "How does your password measure up? The effect of strength meters on password creation",
         "pub_year": "2012",
         "citation": "USENIX Security Symposium, 65-80, 2012",
-        "num_citations": 424,
+        "num_citations": 427,
         "author_pub_id": "5cJzDZEAAAAJ:blknAaTinKkC"
     },
     {
@@ -630,7 +630,7 @@
         "title": "I added ‘!’at the end to make it secure”: Observing password creation in the lab",
         "pub_year": "2015",
         "citation": "SOUPS, 2015",
-        "num_citations": 322,
+        "num_citations": 326,
         "author_pub_id": "5cJzDZEAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -671,14 +671,14 @@
         "title": "Let's go in for a closer look: Observing passwords in their natural habitat",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …, 2017",
-        "num_citations": 194,
+        "num_citations": 198,
         "author_pub_id": "5cJzDZEAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Malware makeover: Breaking ml-based static analysis by modifying executable bytes",
         "pub_year": "2021",
         "citation": "Proceedings of the 2021 ACM Asia Conference on Computer and Communications …, 2021",
-        "num_citations": 73,
+        "num_citations": 76,
         "author_pub_id": "5cJzDZEAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -759,21 +759,21 @@
         "title": "Of passwords and people: measuring the effect of password-composition policies",
         "pub_year": "2011",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2011",
-        "num_citations": 588,
+        "num_citations": 590,
         "author_pub_id": "5cJzDZEAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "OmniCrawl: Comprehensive measurement of web tracking with real desktop and mobile browsers",
         "pub_year": "2022",
         "citation": "Proceedings on Privacy Enhancing Technologies 2022 (1), 227-252, 2022",
-        "num_citations": 32,
+        "num_citations": 36,
         "author_pub_id": "5cJzDZEAAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "On the Suitability of Lp-norms for Creating and Preventing Adversarial Examples",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1802.09653 https://arxiv.org/abs/1802.09653, 2018",
-        "num_citations": 173,
+        "num_citations": 175,
         "author_pub_id": "5cJzDZEAAAAJ:35r97b3x0nAC"
     },
     {
@@ -827,14 +827,14 @@
         "title": "Password creation in the presence of blacklists",
         "pub_year": "2017",
         "citation": "Proc. USEC, 50, 2017",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "5cJzDZEAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Perspectives from a comprehensive evaluation of reconstruction-based anomaly detection in industrial control systems",
         "pub_year": "2022",
         "citation": "European Symposium on Research in Computer Security, 493-513, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "5cJzDZEAAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -847,7 +847,7 @@
         "title": "Poster: The art of password creation",
         "pub_year": "2013",
         "citation": "Proc. of the IEEE Symp. on Security and Privacy 6, 2013",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "5cJzDZEAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -860,7 +860,7 @@
         "title": "Practical recommendations for stronger, more usable passwords combining minimum-strength, minimum-length, and blocklist requirements",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications …, 2020",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "5cJzDZEAAAAJ:VaXvl8Fpj5cC"
     },
     {
@@ -888,7 +888,7 @@
         "title": "Privacy expectations and preferences in an IoT world",
         "pub_year": "2017",
         "citation": "Thirteenth Symposium on Usable Privacy and Security (SOUPS 2017), 399-412, 2017",
-        "num_citations": 380,
+        "num_citations": 382,
         "author_pub_id": "5cJzDZEAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -916,42 +916,42 @@
         "title": "RS-Del: Edit distance robustness certificates for sequence classifiers via randomized deletion",
         "pub_year": "2023",
         "citation": "Advances in Neural Information Processing Systems 36, 18676-18711, 2023",
-        "num_citations": 17,
+        "num_citations": 23,
         "author_pub_id": "5cJzDZEAAAAJ:GFxP56DSvIMC"
     },
     {
         "title": "Randomness in ml defenses helps persistent attackers and hinders evaluators",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.13464, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "5cJzDZEAAAAJ:3htObqc8RwsC"
     },
     {
         "title": "Real life challenges in access-control management",
         "pub_year": "2009",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2009",
-        "num_citations": 128,
+        "num_citations": 129,
         "author_pub_id": "5cJzDZEAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Riding out DOMsday: Towards detecting and preventing DOM cross-site scripting",
         "pub_year": "2018",
         "citation": "2018 Network and Distributed System Security Symposium (NDSS), 2018",
-        "num_citations": 94,
+        "num_citations": 96,
         "author_pub_id": "5cJzDZEAAAAJ:evX43VCCuoAC"
     },
     {
         "title": "Run-time enforcement of information-flow properties on Android",
         "pub_year": "2013",
         "citation": "Computer Security–ESORICS 2013: 18th European Symposium on Research in …, 2013",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "5cJzDZEAAAAJ:P5F9QuxV20EC"
     },
     {
         "title": "Run-time enforcement of nonsafety policies",
         "pub_year": "2009",
         "citation": "ACM Transactions on Information and System Security (TISSEC) 12 (3), 1-41, 2009",
-        "num_citations": 264,
+        "num_citations": 266,
         "author_pub_id": "5cJzDZEAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -986,7 +986,7 @@
         "title": "Self-driving cars and data collection: Privacy perceptions of networked autonomous vehicles",
         "pub_year": "2017",
         "citation": "Thirteenth Symposium on Usable Privacy and Security (SOUPS 2017), 357-375, 2017",
-        "num_citations": 137,
+        "num_citations": 138,
         "author_pub_id": "5cJzDZEAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -1029,14 +1029,14 @@
         "title": "Sharing personal content online: Exploring channel choice and multi-channel behaviors",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 CHI conference on human factors in computing systems …, 2016",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "5cJzDZEAAAAJ:5ugPr518TE4C"
     },
     {
         "title": "Shedding light on inconsistencies in grid cybersecurity: Disconnects and recommendations",
         "pub_year": "2023",
         "citation": "2023 IEEE Symposium on Security and Privacy (SP), 38-55, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "5cJzDZEAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -1056,7 +1056,7 @@
         "title": "Some recipes can do more than spoil your appetite: Analyzing the security and privacy risks of IFTTT recipes",
         "pub_year": "2017",
         "citation": "Proceedings of the 26th International Conference on World Wide Web, 1501-1510, 2017",
-        "num_citations": 194,
+        "num_citations": 196,
         "author_pub_id": "5cJzDZEAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -1070,7 +1070,7 @@
         "title": "Speculative privacy concerns about AR glasses data collection",
         "pub_year": "2023",
         "citation": "Proceedings on Privacy Enhancing Technologies, 2023",
-        "num_citations": 18,
+        "num_citations": 22,
         "author_pub_id": "5cJzDZEAAAAJ:a3BOlSfXSfwC"
     },
     {
@@ -1103,7 +1103,7 @@
         "title": "Tag, you can see it! Using tags for access control in photo sharing",
         "pub_year": "2012",
         "citation": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2012",
-        "num_citations": 190,
+        "num_citations": 192,
         "author_pub_id": "5cJzDZEAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -1150,14 +1150,14 @@
         "title": "The post anachronism: the temporal dimension of Facebook privacy",
         "pub_year": "2013",
         "citation": "Proceedings of the 12th ACM workshop on Workshop on privacy in the …, 2013",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "5cJzDZEAAAAJ:f2IySw72cVMC"
     },
     {
         "title": "Timing-sensitive noninterference through composition",
         "pub_year": "2017",
         "citation": "Principles of Security and Trust: 6th International Conference, POST 2017 …, 2017",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "5cJzDZEAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -1178,7 +1178,7 @@
         "title": "Towards a lightweight, hybrid approach for detecting DOM XSS vulnerabilities with machine learning",
         "pub_year": "2021",
         "citation": "Proceedings of the Web Conference 2021, 2684-2695, 2021",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "5cJzDZEAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -1205,14 +1205,14 @@
         "title": "Trilateral design and test code for military bridging and gap-crossing equipment",
         "pub_year": "2005",
         "citation": "US Army Tank Automotive and Armaments Command, 2005",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "5cJzDZEAAAAJ:Aul-kAQHnToC"
     },
     {
         "title": "Types and effects for non-interfering program monitors",
         "pub_year": "2002",
         "citation": "International Symposium on Software Security, 154-171, 2002",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "5cJzDZEAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1240,7 +1240,7 @@
         "title": "User behaviors and attitudes under password expiration policies",
         "pub_year": "2018",
         "citation": "Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), 13-30, 2018",
-        "num_citations": 64,
+        "num_citations": 66,
         "author_pub_id": "5cJzDZEAAAAJ:uc_IGeMz5qoC"
     },
     {
@@ -1282,7 +1282,7 @@
         "title": "What makes people install a COVID-19 contact-tracing app? Understanding the influence of app design and individual difference on contact-tracing app adoption intention",
         "pub_year": "2021",
         "citation": "Pervasive and Mobile Computing 75, 101439, 2021",
-        "num_citations": 94,
+        "num_citations": 98,
         "author_pub_id": "5cJzDZEAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -1296,7 +1296,7 @@
         "title": "What matters to users? Factors that affect users' willingness to share information with online advertisers",
         "pub_year": "2013",
         "citation": "Proceedings of the Ninth Symposium on Usable Privacy and Security, 7, 2013",
-        "num_citations": 204,
+        "num_citations": 207,
         "author_pub_id": "5cJzDZEAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -1316,7 +1316,7 @@
         "title": "Why people (don't) use password managers effectively",
         "pub_year": "2019",
         "citation": "Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019), 319-338, 2019",
-        "num_citations": 196,
+        "num_citations": 201,
         "author_pub_id": "5cJzDZEAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -1349,21 +1349,21 @@
         "title": "“Did you know this camera tracks your mood?”: Understanding Privacy Expectations and Preferences in the Age of Video Analytics",
         "pub_year": "2021",
         "citation": "Proceedings on Privacy Enhancing Technologies, 2021",
-        "num_citations": 36,
+        "num_citations": 39,
         "author_pub_id": "5cJzDZEAAAAJ:SpbeaW3--B0C"
     },
     {
         "title": "“I would have to evaluate their objections”: Privacy tensions between smart home device owners and incidental users",
         "pub_year": "2021",
         "citation": "Proceedings on Privacy Enhancing Technologies, 2021",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "5cJzDZEAAAAJ:ruyezt5ZtCIC"
     },
     {
         "title": "“It's not actually that horrible” Exploring Adoption of Two-Factor Authentication at a University",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems …, 2018",
-        "num_citations": 179,
+        "num_citations": 182,
         "author_pub_id": "5cJzDZEAAAAJ:z_wVstp3MssC"
     }
 ]

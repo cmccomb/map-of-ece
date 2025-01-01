@@ -66,7 +66,7 @@
         "title": "A microarchitecture implementation framework for online learning with temporal neural networks",
         "pub_year": "2021",
         "citation": "2021 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 266-271, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "pARKzQsAAAAJ:9pM33mqn1YgC"
     },
     {
@@ -269,7 +269,7 @@
         "title": "Building inter-block streams from a dynamic execution trace for a program",
         "pub_year": "2007",
         "citation": "US Patent 7,228,528, 2007",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "pARKzQsAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -297,7 +297,7 @@
         "title": "Caching DAG traces",
         "pub_year": "2002",
         "citation": "US Patent App. 09/823,235, 2002",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "pARKzQsAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -350,7 +350,8 @@
     },
     {
         "title": "Commercial Evaluation of Zero-Skipping MAC Design for Bit Sparsity Exploitation in DL Inference",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "2024 IFIP/IEEE 32nd International Conference on Very Large Scale Integration …, 2024",
         "num_citations": 0,
         "author_pub_id": "pARKzQsAAAAJ:ODE9OILHJdcC"
     },
@@ -372,7 +373,7 @@
         "title": "Compiler-based scheduling optimization hints for user-level threads",
         "pub_year": "2012",
         "citation": "US Patent 8,205,200, 2012",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "pARKzQsAAAAJ:08ZZubdj9fEC"
     },
     {
@@ -407,7 +408,7 @@
         "title": "Continuous signature monitoring: low-cost concurrent detection of processor control errors",
         "pub_year": "1990",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 1990",
-        "num_citations": 201,
+        "num_citations": 202,
         "author_pub_id": "pARKzQsAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -455,7 +456,7 @@
         "title": "Deep speaker embedding for speaker-targeted automatic speech recognition",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 3rd International Conference on Natural Language …, 2019",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pARKzQsAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -476,7 +477,7 @@
         "title": "Die stacking (3D) microarchitecture",
         "pub_year": "2006",
         "citation": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture …, 2006",
-        "num_citations": 806,
+        "num_citations": 807,
         "author_pub_id": "pARKzQsAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -497,7 +498,7 @@
         "title": "Dynamic speculative precomputation",
         "pub_year": "2001",
         "citation": "Proceedings. 34th ACM/IEEE International Symposium on Microarchitecture …, 2001",
-        "num_citations": 300,
+        "num_citations": 301,
         "author_pub_id": "pARKzQsAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -572,7 +573,7 @@
         "title": "Exceeding the dataflow limit via value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the 29th Annual IEEE/ACM International Symposium on …, 1996",
-        "num_citations": 753,
+        "num_citations": 754,
         "author_pub_id": "pARKzQsAAAAJ:mvPsJ3kp5DgC"
     },
     {
@@ -600,7 +601,7 @@
         "title": "Experimental evaluation of two concurrent error detection schemes",
         "pub_year": "1986",
         "citation": "Proc. Of the 16th Int’l. Symp. On Fault-Tolerant Computing, Vienna, 138-143, 1986",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "pARKzQsAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -628,7 +629,7 @@
         "title": "Exploiting instruction-level resource parallelism for transparent, integrated control-flow monitoring",
         "pub_year": "1991",
         "citation": "Digest of Papers. Fault-Tolerant Computing: The Twenty-First International …, 1991",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "pARKzQsAAAAJ:PoWvk5oyLR8C"
     },
     {
@@ -719,7 +720,7 @@
         "title": "Handling address translations and exceptions of a heterogeneous resource of a processor using another processor resource",
         "pub_year": "2009",
         "citation": "US Patent 7,487,341, 2009",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "pARKzQsAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -761,7 +762,7 @@
         "title": "Helper threads via virtual multithreading on an experimental itanium® 2 processor-based platform",
         "pub_year": "2004",
         "citation": "ACM SIGPLAN Notices 39 (11), 144-155, 2004",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "pARKzQsAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -782,7 +783,7 @@
         "title": "IDIoT: Multimodal framework for ubiquitous identification and assignment of human-carried wearable devices",
         "pub_year": "2023",
         "citation": "ACM Transactions on Internet of Things 4 (2), 1-25, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "pARKzQsAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -821,7 +822,7 @@
         "title": "Inductive fault analysis of MOS integrated circuits",
         "pub_year": "1985",
         "citation": "IEEE Design & Test of Computers 2 (6), 13-26, 1985",
-        "num_citations": 657,
+        "num_citations": 658,
         "author_pub_id": "pARKzQsAAAAJ:z_wVstp3MssC"
     },
     {
@@ -932,7 +933,7 @@
         "title": "Mechanism for instruction set based thread execution on a plurality of instruction sequencers",
         "pub_year": "2014",
         "citation": "US Patent 8,719,819, 2014",
-        "num_citations": 113,
+        "num_citations": 118,
         "author_pub_id": "pARKzQsAAAAJ:rO6llkc54NcC"
     },
     {
@@ -967,14 +968,14 @@
         "title": "Mechanism for monitoring instruction set based thread execution on a plurality of instruction sequencers",
         "pub_year": "2014",
         "citation": "US Patent 8,887,174, 2014",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "pARKzQsAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Mechanism to emulate user-level multithreading on an OS-sequestered sequencer",
         "pub_year": "2010",
         "citation": "US Patent 7,810,083, 2010",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "pARKzQsAAAAJ:SpbeaW3--B0C"
     },
     {
@@ -988,7 +989,7 @@
         "title": "Mechanism to schedule threads on OS-sequestered sequencers without operating system intervention",
         "pub_year": "2013",
         "citation": "US Patent 8,607,235, 2013",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "pARKzQsAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -1023,7 +1024,7 @@
         "title": "Method and apparatus for affinity-guided speculative helper threads in chip multiprocessors",
         "pub_year": "2011",
         "citation": "US Patent 8,078,831, 2011",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "pARKzQsAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -1037,7 +1038,7 @@
         "title": "Method and apparatus for contextual gesture recognition",
         "pub_year": "2012",
         "citation": "US Patent App. 13/156,557, 2012",
-        "num_citations": 34,
+        "num_citations": 40,
         "author_pub_id": "pARKzQsAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -1086,21 +1087,21 @@
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2013",
         "citation": "US Patent 8,346,760, 2013",
-        "num_citations": 33,
+        "num_citations": 37,
         "author_pub_id": "pARKzQsAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2009",
         "citation": "US Patent 7,580,914, 2009",
-        "num_citations": 21,
+        "num_citations": 25,
         "author_pub_id": "pARKzQsAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "Method and system to provide concurrent user-level, non-privileged shared resource thread creation and execution",
         "pub_year": "2015",
         "citation": "US Patent 9,189,230, 2015",
-        "num_citations": 56,
+        "num_citations": 59,
         "author_pub_id": "pARKzQsAAAAJ:-_dYPAW6P2MC"
     },
     {
@@ -1163,21 +1164,21 @@
         "title": "Methods and apparatus for generating speculative helper thread spawn-target points",
         "pub_year": "2009",
         "citation": "US Patent 7,523,465, 2009",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "pARKzQsAAAAJ:URolC5Kub84C"
     },
     {
         "title": "Methods and apparatus for reducing memory latency in a software application",
         "pub_year": "2008",
         "citation": "US Patent 7,328,433, 2008",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "pARKzQsAAAAJ:nb7KW1ujOQ8C"
     },
     {
         "title": "Methods and apparatuses for compiler-creating helper threads for multi-threading",
         "pub_year": "2005",
         "citation": "US Patent App. 10/676,889, 2005",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "pARKzQsAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -1239,7 +1240,7 @@
         "title": "Modern processor design: fundamentals of superscalar processors",
         "pub_year": "2013",
         "citation": "Waveland Press, 2013",
-        "num_citations": 639,
+        "num_citations": 640,
         "author_pub_id": "pARKzQsAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1434,7 +1435,7 @@
         "title": "Primitives to enhance thread-level speculation",
         "pub_year": "2011",
         "citation": "US Patent App. 12/970,040, 2011",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "pARKzQsAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -1557,6 +1558,13 @@
         "author_pub_id": "pARKzQsAAAAJ:HtS1dXgVpQUC"
     },
     {
+        "title": "Realtime Person Identification via Gait Analysis Using IMU Sensors on Edge Devices",
+        "pub_year": "2024",
+        "citation": "2024 International Conference on Neuromorphic Systems (ICONS), 371-375, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pARKzQsAAAAJ:OcBU2YAGkTUC"
+    },
+    {
         "title": "Reducing Branch Misprediction Penalty Via Dynamic Control Independence Detection",
         "pub_year": "1998",
         "citation": "",
@@ -1643,7 +1651,7 @@
         "title": "Sequencer address management",
         "pub_year": "2010",
         "citation": "US Patent 7,743,233, 2010",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "pARKzQsAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -1685,7 +1693,7 @@
         "title": "Speculative multi-threading for instruction prefetch and/or trace pre-build",
         "pub_year": "2010",
         "citation": "US Patent 7,814,469, 2010",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "pARKzQsAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -1706,7 +1714,7 @@
         "title": "Speculative precomputation: Long-range prefetching of delinquent loads",
         "pub_year": "2001",
         "citation": "ACM SIGARCH Computer Architecture News 29 (2), 14-25, 2001",
-        "num_citations": 499,
+        "num_citations": 500,
         "author_pub_id": "pARKzQsAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -1727,7 +1735,7 @@
         "title": "Surfacevibe: vibration-based tap & swipe tracking on ubiquitous surfaces",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "pARKzQsAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1874,7 +1882,7 @@
         "title": "Theoretical modeling of superscalar processor performance",
         "pub_year": "1994",
         "citation": "Proceedings of the 27th annual international symposium on Microarchitecture …, 1994",
-        "num_citations": 130,
+        "num_citations": 131,
         "author_pub_id": "pARKzQsAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1923,7 +1931,7 @@
         "title": "Transformation of single-threaded code to speculative precomputation enabled code",
         "pub_year": "2004",
         "citation": "US Patent App. 10/334,868, 2004",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "pARKzQsAAAAJ:HbR8gkJAVGIC"
     },
     {
@@ -1958,14 +1966,14 @@
         "title": "User-level privilege management",
         "pub_year": "2011",
         "citation": "US Patent 8,074,274, 2011",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "pARKzQsAAAAJ:4MWp96NkSFoC"
     },
     {
         "title": "User-programmable low-overhead multithreading",
         "pub_year": "2009",
         "citation": "US Patent 7,631,307, 2009",
-        "num_citations": 95,
+        "num_citations": 98,
         "author_pub_id": "pARKzQsAAAAJ:_Ybze24A_UAC"
     },
     {
@@ -1992,7 +2000,7 @@
         "title": "Value locality and load value prediction",
         "pub_year": "1996",
         "citation": "Proceedings of the seventh international conference on Architectural support …, 1996",
-        "num_citations": 969,
+        "num_citations": 970,
         "author_pub_id": "pARKzQsAAAAJ:9vf0nzSNQJEC"
     },
     {

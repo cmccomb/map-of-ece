@@ -51,7 +51,7 @@
         "title": "A Methodology and Testbed to Develop an Energy Model for 5G Virtualized RANs",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Communications Workshops (ICC …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "DK7TEvkAAAAJ:65Yg0jNCQDAC"
     },
     {
@@ -182,7 +182,7 @@
         "title": "A software architecture for physical layer wireless network emulation",
         "pub_year": "2006",
         "citation": "Proceedings of the 1st international workshop on Wireless network testbeds …, 2006",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "DK7TEvkAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -404,7 +404,7 @@
         "title": "Analysis of the reputation system and user contributions on a question answering website: Stackoverflow",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 IEEE/ACM international conference on advances in …, 2013",
-        "num_citations": 233,
+        "num_citations": 234,
         "author_pub_id": "DK7TEvkAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -501,14 +501,14 @@
         "title": "Automating instrumentation choices for performance problems in distributed applications with VAIF",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM Symposium on Cloud Computing, 61-75, 2021",
-        "num_citations": 16,
+        "num_citations": 19,
         "author_pub_id": "DK7TEvkAAAAJ:jE2MZjpN3IcC"
     },
     {
         "title": "Autonomic Computing: Concepts, Infrastructure, and Applications",
         "pub_year": "2006",
         "citation": "CRC Press, 1st edn., 2006",
-        "num_citations": 217,
+        "num_citations": 218,
         "author_pub_id": "DK7TEvkAAAAJ:bKqednn6t2AC"
     },
     {
@@ -647,7 +647,7 @@
         "title": "Cloudslam: Edge offloading of stateful vehicular applications",
         "pub_year": "2020",
         "citation": "2020 IEEE/ACM Symposium on Edge Computing (SEC), 139-151, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "DK7TEvkAAAAJ:6_hjMsCP8ZoC"
     },
     {
@@ -781,7 +781,7 @@
         "title": "DIRC: Increasing indoor wireless capacity using directional antennas",
         "pub_year": "2009",
         "citation": "Proceedings of the ACM SIGCOMM 2009 conference on Data communication, 171-182, 2009",
-        "num_citations": 165,
+        "num_citations": 166,
         "author_pub_id": "DK7TEvkAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -948,14 +948,14 @@
         "title": "Effects of buffering semantics on I/O performance",
         "pub_year": "1996",
         "citation": "Proceedings of the second USENIX symposium on Operating systems design and …, 1996",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "DK7TEvkAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Efficiency analysis of formally verified adaptive cruise controllers",
         "pub_year": "2013",
         "citation": "16th International IEEE Conference on Intelligent Transportation Systems …, 2013",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "DK7TEvkAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -1045,7 +1045,7 @@
         "title": "Evaluation and characterization of available bandwidth probing techniques",
         "pub_year": "2003",
         "citation": "IEEE journal on Selected Areas in Communications 21 (6), 879-894, 2003",
-        "num_citations": 1056,
+        "num_citations": 1057,
         "author_pub_id": "DK7TEvkAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1128,7 +1128,7 @@
         "title": "Exploiting the height of vehicles in vehicular communication",
         "pub_year": "2011",
         "citation": "2011 IEEE Vehicular Networking Conference (VNC), 163-170, 2011",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "DK7TEvkAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -1156,7 +1156,7 @@
         "title": "FPGA-based channel simulator for a wireless network emulator",
         "pub_year": "2009",
         "citation": "VTC Spring 2009-IEEE 69th Vehicular Technology Conference, 1-5, 2009",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "DK7TEvkAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1358,14 +1358,14 @@
         "title": "Improving the on-vehicle experience of passengers through SC-M*: A scalable multi-passenger multi-criteria mobility planner",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Intelligent Transportation Systems 22 (2), 1026-1040, 2020",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "DK7TEvkAAAAJ:owLR8QvbtFgC"
     },
     {
         "title": "Improving wireless LAN performance via adaptive local error control",
         "pub_year": "1998",
         "citation": "Proceedings Sixth International Conference on Network Protocols (Cat. No …, 1998",
-        "num_citations": 159,
+        "num_citations": 158,
         "author_pub_id": "DK7TEvkAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1393,7 +1393,7 @@
         "title": "LISP on a reduced-instruction-set-processor",
         "pub_year": "1986",
         "citation": "Proceedings of the 1986 ACM Conference on LISP and Functional Programming …, 1986",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "DK7TEvkAAAAJ:a0OBvERweLwC"
     },
     {
@@ -1407,7 +1407,7 @@
         "title": "Lessons learned from a real vehicular network deployment of delay-tolerant networking",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Communication Workshop (ICCW), 2489-2494, 2015",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "DK7TEvkAAAAJ:EkHepimYqZsC"
     },
     {
@@ -1428,7 +1428,7 @@
         "title": "Locating Internet bottlenecks: Algorithms, measurements, and implications",
         "pub_year": "2004",
         "citation": "ACM SIGCOMM Computer Communication Review 34 (4), 41-54, 2004",
-        "num_citations": 347,
+        "num_citations": 348,
         "author_pub_id": "DK7TEvkAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -1469,7 +1469,7 @@
         "title": "Measurement and analysis of the error characteristics of an in-building wireless network",
         "pub_year": "1996",
         "citation": "Conference proceedings on Applications, technologies, architectures, and …, 1996",
-        "num_citations": 350,
+        "num_citations": 351,
         "author_pub_id": "DK7TEvkAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1592,7 +1592,7 @@
         "title": "On path selection for traffic with bandwidth guarantees",
         "pub_year": "1997",
         "citation": "Proceedings 1997 International Conference on Network Protocols, 191-202, 1997",
-        "num_citations": 588,
+        "num_citations": 587,
         "author_pub_id": "DK7TEvkAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1742,7 +1742,7 @@
         "title": "Providing contextual information to pervasive computing applications",
         "pub_year": "2003",
         "citation": "Proceedings of the First IEEE International Conference on Pervasive …, 2003",
-        "num_citations": 286,
+        "num_citations": 285,
         "author_pub_id": "DK7TEvkAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1784,7 +1784,7 @@
         "title": "Rainbow: Architecture-based self-adaptation with reusable infrastructure",
         "pub_year": "2004",
         "citation": "Computer 37 (10), 46-54, 2004",
-        "num_citations": 1850,
+        "num_citations": 1851,
         "author_pub_id": "DK7TEvkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1860,7 +1860,7 @@
         "title": "Routing traffic with quality-of-service guarantees in integrated services networks",
         "pub_year": "1998",
         "citation": "Proceedings of Workshop on Network and Operating Systems Support for Digital …, 1998",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "DK7TEvkAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1909,7 +1909,7 @@
         "title": "Securing Passive Replication Through Verification",
         "pub_year": "2015",
         "citation": "2015 IEEE 34th Symposium on Reliable Distributed Systems (SRDS), 176-181, 2015",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "DK7TEvkAAAAJ:evX43VCCuoAC"
     },
     {
@@ -1936,7 +1936,7 @@
         "title": "Self-Management in Chaotic Wireless Deployments",
         "pub_year": "2005",
         "citation": "MOBICOM'05: Proceedings of the Eleventh Annual International Conference on …, 2005",
-        "num_citations": 615,
+        "num_citations": 616,
         "author_pub_id": "DK7TEvkAAAAJ:vbGhcppDl1QC"
     },
     {
@@ -1957,7 +1957,7 @@
         "title": "Sketchovsky: Enabling ensembles of sketches on programmable switches",
         "pub_year": "2023",
         "citation": "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2023",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "DK7TEvkAAAAJ:kF1pexMAQbMC"
     },
     {
@@ -1985,7 +1985,7 @@
         "title": "Software architecture-based adaptation for pervasive systems",
         "pub_year": "2002",
         "citation": "Trends in Network and Pervasive Computing—ARCS 2002: International …, 2002",
-        "num_citations": 169,
+        "num_citations": 168,
         "author_pub_id": "DK7TEvkAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -2034,7 +2034,7 @@
         "title": "Supporting integrated MAC and PHY software development for the USRP SDR",
         "pub_year": "2006",
         "citation": "2006 1st IEEE Workshop on Networking Technologies for Software Defined Radio …, 2006",
-        "num_citations": 87,
+        "num_citations": 86,
         "author_pub_id": "DK7TEvkAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -2104,7 +2104,7 @@
         "title": "The cost of the\" s\" in https",
         "pub_year": "2014",
         "citation": "Proceedings of the 10th ACM International on Conference on emerging …, 2014",
-        "num_citations": 321,
+        "num_citations": 320,
         "author_pub_id": "DK7TEvkAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -2139,7 +2139,7 @@
         "title": "Time-division TCP for reconfigurable data center networks",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 19-35, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "DK7TEvkAAAAJ:ziOE8S1-AIUC"
     },
     {
@@ -2164,18 +2164,18 @@
         "author_pub_id": "DK7TEvkAAAAJ:a9-T7VOCCH8C"
     },
     {
-        "title": "Towards Optimal Load Balancing in Multi-Zone Kubernetes Clusters via Reinforcement Learning",
-        "pub_year": "2024",
-        "citation": "2024 33rd International Conference on Computer Communications and Networks …, 2024",
-        "num_citations": 0,
-        "author_pub_id": "DK7TEvkAAAAJ:UuEBAcK4md4C"
-    },
-    {
         "title": "Towards optimal load balancing in multi-zone Kubernetes clusters via reinforcement learning",
         "pub_year": "2024",
         "citation": "ICCCN2024, the 33rd International Conference on Computer Communications and …, 2024",
         "num_citations": 0,
         "author_pub_id": "DK7TEvkAAAAJ:zGdJYJv2LkUC"
+    },
+    {
+        "title": "Towards optimal load balancing in multi-zone kubernetes clusters via reinforcement learning",
+        "pub_year": "2024",
+        "citation": "2024 33rd International Conference on Computer Communications and Networks …, 2024",
+        "num_citations": 1,
+        "author_pub_id": "DK7TEvkAAAAJ:UuEBAcK4md4C"
     },
     {
         "title": "Towards tunable measurement techniques for available bandwidth",
@@ -2229,7 +2229,7 @@
         "title": "User-level protocol servers with kernel-level performance",
         "pub_year": "1998",
         "citation": "Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …, 1998",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "DK7TEvkAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -2256,7 +2256,7 @@
         "title": "Using emulation to understand and improve wireless networks and applications",
         "pub_year": "2005",
         "citation": "Proceedings of the 2nd conference on Symposium on Networked Systems Design …, 2005",
-        "num_citations": 148,
+        "num_citations": 149,
         "author_pub_id": "DK7TEvkAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -2366,7 +2366,7 @@
         "title": "XIA: An architecture for an evolvable and trustworthy Internet",
         "pub_year": "2011",
         "citation": "Proceedings of the 10th ACM Workshop on Hot Topics in Networks, 1-6, 2011",
-        "num_citations": 190,
+        "num_citations": 191,
         "author_pub_id": "DK7TEvkAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -2380,7 +2380,7 @@
         "title": "XIA: architecting a more trustworthy and evolvable internet",
         "pub_year": "2014",
         "citation": "ACM SIGCOMM Computer Communication Review 44 (3), 50-57, 2014",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "DK7TEvkAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -2393,7 +2393,7 @@
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "DK7TEvkAAAAJ:KaMxkj08jr0C"
     },
     {

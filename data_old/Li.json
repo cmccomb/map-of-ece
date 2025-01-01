@@ -1,5 +1,12 @@
 [
     {
+        "title": "4H-SiC microring opto-mechanical oscillator with a self-injection locked pump",
+        "pub_year": "2024",
+        "citation": "https://arxiv.org/abs/2411.11107, 2024",
+        "num_citations": 0,
+        "author_pub_id": "yafW7KUAAAAJ:46ZxqUMUUiUC"
+    },
+    {
         "title": "A temperature-insensitive third-order coupled-resonator filter for on-chip terabit/s optical interconnects",
         "pub_year": "2010",
         "citation": "Ieee Photonics Technology Letters 22 (23), 1768-1770, 2010",
@@ -24,7 +31,7 @@
         "title": "Advanced technologies for quantum photonic devices based on epitaxial quantum dots",
         "pub_year": "2019",
         "citation": "Advanced Quantum Technologies, 1900034, 2019",
-        "num_citations": 10,
+        "num_citations": 12,
         "author_pub_id": "yafW7KUAAAAJ:z1UM3hFlCnwC"
     },
     {
@@ -45,14 +52,14 @@
         "title": "An optical-frequency synthesizer using integrated photonics",
         "pub_year": "2018",
         "citation": "Nature, https://arxiv.org/abs/1708.05228, 2018",
-        "num_citations": 958,
+        "num_citations": 968,
         "author_pub_id": "yafW7KUAAAAJ:vnlkOLRwEpMC"
     },
     {
         "title": "Architecture for the photonic integration of an optical atomic clock",
         "pub_year": "2019",
         "citation": "Optica 6 (5), 680-685, 2019",
-        "num_citations": 534,
+        "num_citations": 555,
         "author_pub_id": "yafW7KUAAAAJ:vU07HMfDF0IC"
     },
     {
@@ -93,7 +100,7 @@
         "title": "Broadband resonator-waveguide coupling for efficient extraction of octave-spanning microcombs",
         "pub_year": "2019",
         "citation": "Optics letters 44 (19), 4737-4740, 2019",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "yafW7KUAAAAJ:LTqI5EznaiYC"
     },
     {
@@ -127,7 +134,7 @@
         "title": "Chip-integrated visible–telecom entangled photon pair source for quantum communication",
         "pub_year": "2019",
         "citation": "Nature Physics, 1, 2019",
-        "num_citations": 255,
+        "num_citations": 262,
         "author_pub_id": "yafW7KUAAAAJ:lCwh4MUTK3kC"
     },
     {
@@ -187,6 +194,13 @@
         "author_pub_id": "yafW7KUAAAAJ:u5HHmVD_uO8C"
     },
     {
+        "title": "Directly accessing the single-soliton state of a Kerr microcomb and its universal scaling law",
+        "pub_year": "2024",
+        "citation": "Optical Materials Express 14 (12), 2938-2948, 2024",
+        "num_citations": 0,
+        "author_pub_id": "yafW7KUAAAAJ:pjRfloc17pIC"
+    },
+    {
         "title": "Dispersion-engineered silicon nitride supercontinuum for frequency comb metrology at the 10− 15 level",
         "pub_year": "2017",
         "citation": "CLEO: Science and Innovations, SW1J. 6, 2017",
@@ -197,7 +211,7 @@
         "title": "Efficient Raman lasing and Raman-Kerr interaction in an integrated silicon carbide platform",
         "pub_year": "2023",
         "citation": "ACS Photonics, https://arxiv.org/abs/2311.06561, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "yafW7KUAAAAJ:H4BvrwWW1nIC"
     },
     {
@@ -218,7 +232,7 @@
         "title": "Efficient and low-noise single-photon-level frequency conversion interfaces using silicon nanophotonics",
         "pub_year": "2016",
         "citation": "Nature Photonics 10, 406-414, 2016",
-        "num_citations": 279,
+        "num_citations": 282,
         "author_pub_id": "yafW7KUAAAAJ:Ij5K2eFKDn8C"
     },
     {
@@ -260,14 +274,14 @@
         "title": "Entangled photon pair generation in an  integrated silicon carbide platform",
         "pub_year": "2024",
         "citation": "Light: Science&Applications 13, 110, 2024",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "yafW7KUAAAAJ:LgS-jFGbg7oC"
     },
     {
         "title": "Exceptional points in lossy media lead to deep polynomial wave penetration with spatially uniform power loss",
         "pub_year": "2022",
         "citation": "Nature Nanotechnology 17 (6), 583-589, 2022",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "yafW7KUAAAAJ:hYo2n04OfVQC"
     },
     {
@@ -309,7 +323,7 @@
         "title": "High resolution on-chip spectroscopy based on miniaturized microdonut resonators",
         "pub_year": "2011",
         "citation": "Optics express 19 (13), 12356-12364, 2011",
-        "num_citations": 213,
+        "num_citations": 214,
         "author_pub_id": "yafW7KUAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -337,21 +351,21 @@
         "title": "Interlocking Kerr-microresonator frequency combs for microwave to optical synthesis",
         "pub_year": "2018",
         "citation": "Optics Letters 43 (12), 2933-2936, 2018",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "yafW7KUAAAAJ:P7LlSSNAG1YC"
     },
     {
         "title": "Investigation of the electro-optic effect in high-Q 4H-SiC microresonators",
         "pub_year": "2023",
         "citation": "Optics Letters 48, 1482-1485, 2023",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "yafW7KUAAAAJ:LanzmH-P2dYC"
     },
     {
         "title": "Kerr-Microresonator Soliton Frequency Combs at Cryogenic Temperatures",
         "pub_year": "2019",
         "citation": "Physical Review Applied 12 (3), 034057, 2019",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "yafW7KUAAAAJ:tNsEl-QMJWAC"
     },
     {
@@ -379,7 +393,7 @@
         "title": "Measurement of the Kerr nonlinear refractive index and its variation among 4H-SiC wafers",
         "pub_year": "2023",
         "citation": "Physical Review Applied 19, 034083, 2023",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "yafW7KUAAAAJ:nFKkZUXzBysC"
     },
     {
@@ -399,7 +413,7 @@
         "title": "Milliwatt-threshold visible–telecom optical parametric oscillation using silicon nanophotonics",
         "pub_year": "2019",
         "citation": "Optica 6 (12), 1535-1541, 2019",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "yafW7KUAAAAJ:-DjAm9EnE7YC"
     },
     {
@@ -455,7 +469,7 @@
         "title": "Octave-spanning microcomb generation in 4H-silicon-carbide-on-insulator photonics platform",
         "pub_year": "2022",
         "citation": "Photonics Research 10 (4), 870-876, 2022",
-        "num_citations": 48,
+        "num_citations": 51,
         "author_pub_id": "yafW7KUAAAAJ:XeDezf1aGvMC"
     },
     {
@@ -475,14 +489,14 @@
         "title": "Perspective:4H–SiC microring resonators—Opportunities for nonlinear integrated optics",
         "pub_year": "2024",
         "citation": "Applied Physics Letters 124, 170502, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "yafW7KUAAAAJ:DwjEEbtpRbkC"
     },
     {
         "title": "Phased-Locked Two-Color Single Soliton Microcombs in Dispersion-Engineered Si3N4 Resonators",
         "pub_year": "2018",
         "citation": "Optics Letters 43, 2772-2775, 2018",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "yafW7KUAAAAJ:AC0jL3CeADUC"
     },
     {
@@ -509,28 +523,28 @@
         "title": "Photonic chip for laser stabilization to an atomic vapor with 10−11 instability",
         "pub_year": "2018",
         "citation": "Optica 5 (4), 443, 2018",
-        "num_citations": 157,
+        "num_citations": 161,
         "author_pub_id": "yafW7KUAAAAJ:4opXj0ecdLoC"
     },
     {
         "title": "Photonic integration of an optical atomic clock",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1811.00616, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "yafW7KUAAAAJ:zOZ9ajuejPIC"
     },
     {
         "title": "Photonic waveguide to free-space Gaussian beam extreme mode converter",
         "pub_year": "2018",
         "citation": "Light: Science & Applications 7 (1), 72, 2018",
-        "num_citations": 103,
+        "num_citations": 106,
         "author_pub_id": "yafW7KUAAAAJ:9VvujQR9vaUC"
     },
     {
         "title": "Photonic-chip supercontinuum with tailored spectra for counting optical frequencies",
         "pub_year": "2017",
         "citation": "Physical Review Applied 8 (1), 014027, 2017",
-        "num_citations": 66,
+        "num_citations": 68,
         "author_pub_id": "yafW7KUAAAAJ:02rtHm8L3-kC"
     },
     {
@@ -551,7 +565,7 @@
         "title": "Quantum frequency conversion of a quantum dot single-photon source on a nanophotonic chip",
         "pub_year": "2019",
         "citation": "Optica 6 (5), 563-569, 2019",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "yafW7KUAAAAJ:IirLfZ2R_SQC"
     },
     {
@@ -577,14 +591,14 @@
         "title": "Silicon carbide soliton microcomb generation for narrow-grid optical communications",
         "pub_year": "2024",
         "citation": "IEEE Journal of Selected Topics in Quantum Electronics (https://arxiv.org …, 2024",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "yafW7KUAAAAJ:VENjpDiXZq4C"
     },
     {
         "title": "Stably accessing octave-spanning microresonator frequency combs in the soliton regime",
         "pub_year": "2016",
         "citation": "Optica (arXiv preprint arXiv:1611.09229) 4 (2), 193-203, 2016",
-        "num_citations": 336,
+        "num_citations": 340,
         "author_pub_id": "yafW7KUAAAAJ:LdboP74Pu9YC"
     },
     {
@@ -598,7 +612,7 @@
         "title": "Systematic engineering of waveguide-resonator coupling for silicon microring/microdisk/racetrack resonators: theory and experiment",
         "pub_year": "2010",
         "citation": "IEEE Journal of Quantum Electronics 46 (8), 1158-1169, 2010",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "yafW7KUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -612,7 +626,7 @@
         "title": "Terahertz-Rate Kerr-Microresonator Optical Clockwork",
         "pub_year": "2019",
         "citation": "Physical Review X 9 (3), 031023, 2019",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "yafW7KUAAAAJ:5PnCxSpcA8MC"
     },
     {
@@ -625,7 +639,7 @@
         "title": "The nanolithography toolbox",
         "pub_year": "2016",
         "citation": "Journal of Research of the National Institute of Standards and Technology …, 2016",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "yafW7KUAAAAJ:IQTLpiDzPJAC"
     },
     {

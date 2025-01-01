@@ -17,14 +17,14 @@
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
         "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "Mm-vQM8AAAAJ:2l5NCbZemmgC"
     },
     {
         "title": "3DIC memory chips including computational logic-in-memory for performing accelerated data processing",
         "pub_year": "2016",
         "citation": "US Patent 9,286,216, 2016",
-        "num_citations": 84,
+        "num_citations": 92,
         "author_pub_id": "Mm-vQM8AAAAJ:jSAVyFp_754C"
     },
     {
@@ -94,7 +94,7 @@
         "title": "A 69.5 mW 20 GS/s 6b time-interleaved ADC with embedded time-to-digital calibration in 32 nm CMOS SOI",
         "pub_year": "2014",
         "citation": "IEEE Journal of Solid-State Circuits 49 (12), 2891-2901, 2014",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "Mm-vQM8AAAAJ:RoXSNcbkSzsC"
     },
     {
@@ -108,14 +108,21 @@
         "title": "A LASSO-Inspired Approach for Localizing Power System Infeasibility",
         "pub_year": "2020",
         "citation": "2020 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2020",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Mm-vQM8AAAAJ:JH5k92_tO-AC"
+    },
+    {
+        "title": "A Linearized, Low Phase Noise VCO Based 25 GHz PLL With Autonomic Biasing (vol 48, pg 1138, 2013)",
+        "pub_year": "2013",
+        "citation": "IEEE JOURNAL OF SOLID-STATE CIRCUITS 48 (6), 1539-1539, 2013",
+        "num_citations": 0,
+        "author_pub_id": "Mm-vQM8AAAAJ:9VeumLvkZSQC"
     },
     {
         "title": "A Phase-Change Via-Reconfigurable CMOS  VCO",
         "pub_year": "2013",
         "citation": "IEEE transactions on electron devices 60 (12), 3979-3988, 2013",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "Mm-vQM8AAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -136,7 +143,7 @@
         "title": "A WLAV-based robust hybrid state estimation using circuit-theoretic approach",
         "pub_year": "2021",
         "citation": "2021 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "Mm-vQM8AAAAJ:PVqtIyvKoSUC"
     },
     {
@@ -150,14 +157,14 @@
         "title": "A circuit-theoretic approach to state estimation",
         "pub_year": "2020",
         "citation": "2020 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), 1126-1130, 2020",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "Mm-vQM8AAAAJ:E7VqQtBCVmcC"
     },
     {
         "title": "A convex method of generalized state estimation using circuit-theoretic node-breaker model",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Power Systems, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Mm-vQM8AAAAJ:cB__R-XWw9UC"
     },
     {
@@ -213,7 +220,7 @@
         "title": "A linear formulation for power system state estimation including RTU and PMU measurements",
         "pub_year": "2019",
         "citation": "2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), 1-5, 2019",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "Mm-vQM8AAAAJ:WwIwg2wKZ0QC"
     },
     {
@@ -346,7 +353,7 @@
         "title": "A synthesis methodology for application-specific logic-in-memory designs",
         "pub_year": "2015",
         "citation": "Proceedings of the 52Nd Annual Design Automation Conference, 1-6, 2015",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:PkcyUWeTMh0C"
     },
     {
@@ -416,7 +423,7 @@
         "title": "Accelerating sparse matrix-matrix multiplication with 3D-stacked logic-in-memory hardware",
         "pub_year": "2013",
         "citation": "2013 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2013",
-        "num_citations": 138,
+        "num_citations": 137,
         "author_pub_id": "Mm-vQM8AAAAJ:5MTHONV0fEkC"
     },
     {
@@ -500,7 +507,7 @@
         "title": "Algorithm and hardware co-optimized solution for large SpMV problems",
         "pub_year": "2017",
         "citation": "2017 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2017",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "Mm-vQM8AAAAJ:m92CDrhVnKEC"
     },
     {
@@ -542,7 +549,7 @@
         "title": "An 8.5 mW 5GS/s 6b flash ADC with dynamic offset calibration in 32nm CMOS SOI",
         "pub_year": "2013",
         "citation": "2013 Symposium on VLSI Circuits, C264-C265, 2013",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "Mm-vQM8AAAAJ:hkOj_22Ku90C"
     },
     {
@@ -596,7 +603,7 @@
         "title": "An analysis of the wire-load model uncertainty problem",
         "pub_year": "2002",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2002",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "Mm-vQM8AAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -631,7 +638,7 @@
         "title": "An equivalent circuit formulation for power system state estimation including PMUs",
         "pub_year": "2018",
         "citation": "2018 North American Power Symposium (NAPS), 1-6, 2018",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "Mm-vQM8AAAAJ:lg2tdxc6qMwC"
     },
     {
@@ -645,7 +652,7 @@
         "title": "An equivalent circuit formulation of the power flow problem with current and voltage state variables",
         "pub_year": "2015",
         "citation": "2015 IEEE Eindhoven PowerTech, 1-6, 2015",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "Mm-vQM8AAAAJ:k_7cPK9k7w8C"
     },
     {
@@ -666,7 +673,7 @@
         "title": "An oscillatory neural network with programmable resistive synapses in 28 nm CMOS",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Rebooting Computing (ICRC), 1-7, 2018",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "Mm-vQM8AAAAJ:jlhcAiayVhoC"
     },
     {
@@ -707,7 +714,7 @@
         "title": "Analysis and background self-calibration of comparator offset in loop-unrolled SAR ADCs",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 65 (2), 458-470, 2017",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "Mm-vQM8AAAAJ:_AeoHAGD03cC"
     },
     {
@@ -791,14 +798,14 @@
         "title": "Asymptotic probability extraction for non-normal distributions of circuit performance",
         "pub_year": "2004",
         "citation": "IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004 …, 2004",
-        "num_citations": 138,
+        "num_citations": 137,
         "author_pub_id": "Mm-vQM8AAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Asymptotic probability extraction for nonnormal performance distributions",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2006",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "Mm-vQM8AAAAJ:4DMP91E08xMC"
     },
     {
@@ -818,7 +825,7 @@
         "title": "Asymptotic waveform evaluation for timing analysis",
         "pub_year": "1990",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1990",
-        "num_citations": 2397,
+        "num_citations": 2401,
         "author_pub_id": "Mm-vQM8AAAAJ:EkHepimYqZsC"
     },
     {
@@ -901,21 +908,21 @@
         "title": "Chainlink memory",
         "pub_year": "2015",
         "citation": "US Patent 9,117,523, 2015",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Mm-vQM8AAAAJ:Hck25ST_3aIC"
     },
     {
         "title": "Changedar: Online localized change detection for sensor data on a graph",
         "pub_year": "2018",
         "citation": "Proceedings of the 27th ACM International Conference on Information and …, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:nPTYJWkExTIC"
     },
     {
         "title": "Chip-to-chip authentication method based on SRAM PUF and public key cryptography",
         "pub_year": "2019",
         "citation": "Journal of Hardware and Systems Security 3, 382-396, 2019",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "Mm-vQM8AAAAJ:QaSi33NTfwYC"
     },
     {
@@ -977,7 +984,7 @@
         "title": "Combined transmission and distribution state-estimation for future electric grids",
         "pub_year": "2024",
         "citation": "Power Systems Operation with 100% Renewable Energy Sources, 299-315, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Mm-vQM8AAAAJ:17ZO-CJnx_8C"
     },
     {
@@ -1012,7 +1019,7 @@
         "title": "Configurable circuits using phase change switches",
         "pub_year": "2009",
         "citation": "US Patent 7,634,248, 2009",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "Mm-vQM8AAAAJ:Br1UauaknNIC"
     },
     {
@@ -1040,7 +1047,7 @@
         "title": "Contingency analysis with warm starter using probabilistic graphical model",
         "pub_year": "2024",
         "citation": "Electric Power Systems Research 234, 110737, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Mm-vQM8AAAAJ:nU66GSXDKhoC"
     },
     {
@@ -1075,7 +1082,7 @@
         "title": "Correlation-aware statistical timing analysis with non-Gaussian delay distributions",
         "pub_year": "2005",
         "citation": "Proceedings of the 42nd annual Design Automation Conference, 77-82, 2005",
-        "num_citations": 231,
+        "num_citations": 233,
         "author_pub_id": "Mm-vQM8AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1180,7 +1187,7 @@
         "title": "Design methodology for IC manufacturability based on regular logic-bricks",
         "pub_year": "2005",
         "citation": "Proceedings of the 42nd annual Design Automation Conference, 353-358, 2005",
-        "num_citations": 137,
+        "num_citations": 138,
         "author_pub_id": "Mm-vQM8AAAAJ:XoXfffV-tXoC"
     },
     {
@@ -1271,7 +1278,7 @@
         "title": "Dynamic graph-based anomaly detection in the electrical grid",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Power Systems 37 (5), 3408-3422, 2021",
-        "num_citations": 33,
+        "num_citations": 35,
         "author_pub_id": "Mm-vQM8AAAAJ:sgsej9ZJWHMC"
     },
     {
@@ -1382,7 +1389,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 84,
+        "num_citations": 87,
         "author_pub_id": "Mm-vQM8AAAAJ:xyvS_IvSCKsC"
     },
     {
@@ -1504,14 +1511,14 @@
         "title": "Energy-efficient abundant-data computing: The N3XT 1,000 x",
         "pub_year": "2015",
         "citation": "Computer 48 (12), 24-33, 2015",
-        "num_citations": 294,
+        "num_citations": 295,
         "author_pub_id": "Mm-vQM8AAAAJ:v6i8RKmR8ToC"
     },
     {
         "title": "Enhanced modelling framework for equivalent circuit-based power system state estimation",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Power Systems 35 (5), 3790-3799, 2020",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "Mm-vQM8AAAAJ:eH23hyXCXa4C"
     },
     {
@@ -1553,7 +1560,7 @@
         "title": "Equivalent circuit formulation for solving AC optimal power flow",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (3), 2354-2365, 2018",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "Mm-vQM8AAAAJ:QsKbpXNoaWkC"
     },
     {
@@ -1588,7 +1595,7 @@
         "title": "Evaluating feasibility within power flow",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Smart Grid 11 (4), 3522-3534, 2020",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "Mm-vQM8AAAAJ:rbGdIwl2e6cC"
     },
     {
@@ -1756,7 +1763,7 @@
         "title": "GridWatch: Sensor Placement and Anomaly Detection in the Electrical Grid",
         "pub_year": "2019",
         "citation": "Machine Learning and Knowledge Discovery in Databases: European Conference …, 2019",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "Mm-vQM8AAAAJ:4e5Qn2KL_jwC"
     },
     {
@@ -1770,7 +1777,7 @@
         "title": "Hardware redaction via designer-directed fine-grained eFPGA insertion",
         "pub_year": "2021",
         "citation": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2021",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "Mm-vQM8AAAAJ:9LpHyFPp1DQC"
     },
     {
@@ -1908,7 +1915,7 @@
         "title": "Improving robustness and modeling generality for power flow analysis",
         "pub_year": "2016",
         "citation": "2016 IEEE/PES Transmission and Distribution Conference and Exposition (T&D), 1-5, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "Mm-vQM8AAAAJ:D_tqNUsBuKoC"
     },
     {
@@ -1957,7 +1964,7 @@
         "title": "Inductance 101: Modeling and extraction",
         "pub_year": "2001",
         "citation": "Proceedings of the 38th annual Design Automation Conference, 323-328, 2001",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "Mm-vQM8AAAAJ:Se3iqnhoufwC"
     },
     {
@@ -2110,7 +2117,7 @@
         "title": "Magnetic switching cells and methods of making and operating same",
         "pub_year": "2013",
         "citation": "US Patent 8,476,925, 2013",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "Mm-vQM8AAAAJ:48xauSegjOkC"
     },
     {
@@ -2152,7 +2159,7 @@
         "title": "Method and apparatus for analysing and modeling of analog systems",
         "pub_year": "2003",
         "citation": "US Patent App. 10/100,402, 2003",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "Mm-vQM8AAAAJ:7H_MAutzIkAC"
     },
     {
@@ -2166,7 +2173,7 @@
         "title": "Method and apparatus for simulating a microelectric interconnect circuit",
         "pub_year": "1995",
         "citation": "US Patent 5,379,231, 1995",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "Mm-vQM8AAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -2180,7 +2187,7 @@
         "title": "Method and apparatus for thermal modeling and analysis of semiconductor chip designs",
         "pub_year": "2011",
         "citation": "US Patent 8,082,137, 2011",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "Mm-vQM8AAAAJ:iyewoVqAXLQC"
     },
     {
@@ -2194,7 +2201,7 @@
         "title": "Method and system for grouping logic in an integrated circuit design to minimize number of transistors and number of unique geometry patterns",
         "pub_year": "2011",
         "citation": "US Patent App. 12/938,226, 2011",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Mm-vQM8AAAAJ:XUvXOeBm_78C"
     },
     {
@@ -2229,7 +2236,7 @@
         "title": "Method for mapping a Boolean logic network to a limited set of application-domain specific logic cells",
         "pub_year": "2010",
         "citation": "US Patent 7,757,187, 2010",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Mm-vQM8AAAAJ:CaZNVDsoPx4C"
     },
     {
@@ -2250,14 +2257,14 @@
         "title": "Method for the definition of a library of application-domain-specific logic cells",
         "pub_year": "2012",
         "citation": "US Patent 8,271,916, 2012",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "Mm-vQM8AAAAJ:ji7lAbPyDbYC"
     },
     {
         "title": "Methods and Software for Calculating Optimal Power Flow in an Electrical Power Grid and Utilizations of Same",
         "pub_year": "2018",
         "citation": "US Patent App. 15/658,335, 2018",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Mm-vQM8AAAAJ:2vr6o8x5NLkC"
     },
     {
@@ -2278,7 +2285,7 @@
         "title": "Methods, systems, and computer program products for modeling nonlinear systems",
         "pub_year": "2005",
         "citation": "US Patent App. 10/859,621, 2005",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "Mm-vQM8AAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -2320,7 +2327,7 @@
         "title": "Model order-reduction of RC (L) interconnect including variational analysis",
         "pub_year": "1999",
         "citation": "Proceedings of the 36th annual ACM/IEEE Design Automation Conference, 201-206, 1999",
-        "num_citations": 198,
+        "num_citations": 199,
         "author_pub_id": "Mm-vQM8AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -2369,7 +2376,7 @@
         "title": "Modeling techniques for logic locking",
         "pub_year": "2020",
         "citation": "Proceedings of the 39th International Conference on Computer-Aided Design, 1-9, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "Mm-vQM8AAAAJ:EBV337fEn3EC"
     },
     {
@@ -2425,7 +2432,7 @@
         "title": "NORM: Compact model order reduction of weakly nonlinear systems",
         "pub_year": "2003",
         "citation": "Proceedings of the 40th annual Design Automation Conference, 472-477, 2003",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "Mm-vQM8AAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -2495,14 +2502,14 @@
         "title": "Nonvolatile magnetic logic device",
         "pub_year": "2016",
         "citation": "US Patent 9,300,301, 2016",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "Mm-vQM8AAAAJ:Xl6nMSl579sC"
     },
     {
         "title": "Novel STT-MTJ device enabling all-metallic logic circuits",
         "pub_year": "2012",
         "citation": "IEEE transactions on Magnetics 48 (11), 3215-3218, 2012",
-        "num_citations": 81,
+        "num_citations": 83,
         "author_pub_id": "Mm-vQM8AAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -2530,7 +2537,7 @@
         "title": "OTTER: Optimal termination of transmission lines excluding radiation",
         "pub_year": "1994",
         "citation": "Proceedings of the 31st annual Design Automation Conference, 640-645, 1994",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "Mm-vQM8AAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -2544,7 +2551,7 @@
         "title": "On the design of phase locked loop oscillatory neural networks: mitigation of transmission delay effects",
         "pub_year": "2016",
         "citation": "2016 International Joint Conference on Neural Networks (IJCNN), 2039-2046, 2016",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "Mm-vQM8AAAAJ:MIg0yeAD4ggC"
     },
     {
@@ -2593,7 +2600,7 @@
         "title": "Oscillatory neural networks based on TMO nano-oscillators and multi-level RRAM cells",
         "pub_year": "2015",
         "citation": "IEEE journal on Emerging and Selected Topics in Circuits and Systems 5 (2 …, 2015",
-        "num_citations": 83,
+        "num_citations": 85,
         "author_pub_id": "Mm-vQM8AAAAJ:JTqpx9DYBaYC"
     },
     {
@@ -2653,7 +2660,7 @@
         "title": "PRIMA: Passive reduced-order interconnect macromodeling algorithm",
         "pub_year": "2003",
         "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 433-450, 2003",
-        "num_citations": 2089,
+        "num_citations": 2095,
         "author_pub_id": "Mm-vQM8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2680,7 +2687,7 @@
         "title": "PRIMO: Probability interpretation of moments for delay calculation",
         "pub_year": "1998",
         "citation": "Proceedings of the 35th annual design automation conference, 463-468, 1998",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "Mm-vQM8AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -2749,14 +2756,14 @@
         "title": "Phase change random access memory, thermal analysis",
         "pub_year": "2006",
         "citation": "Thermal and Thermomechanical Proceedings 10th Intersociety Conference on …, 2006",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "Mm-vQM8AAAAJ:YohjEiUPhakC"
     },
     {
         "title": "Physically Unclonable Functions Using Neuromorphic Networks",
         "pub_year": "2016",
         "citation": "US Patent App. 14/931,592, 2016",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Mm-vQM8AAAAJ:RJOyoaXV5v8C"
     },
     {
@@ -2798,7 +2805,7 @@
         "title": "Power Grid Behavioral Patterns and Risks of Generalization in Applied Machine Learning",
         "pub_year": "2023",
         "citation": "Companion Proceedings of the 14th ACM International Conference on Future …, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "Mm-vQM8AAAAJ:1xBWf43XMUgC"
     },
     {
@@ -2812,7 +2819,7 @@
         "title": "PowerCast: Mining and forecasting power grid sequences",
         "pub_year": "2017",
         "citation": "Machine Learning and Knowledge Discovery in Databases: European Conference …, 2017",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "Mm-vQM8AAAAJ:jmjb1lOE9QIC"
     },
     {
@@ -2847,14 +2854,14 @@
         "title": "Projection-based performance modeling for inter/intra-die variations",
         "pub_year": "2005",
         "citation": "ICCAD-2005. IEEE/ACM International Conference on Computer-Aided Design, 2005 …, 2005",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "Mm-vQM8AAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Projection-based statistical analysis of full-chip leakage power with non-log-normal distributions",
         "pub_year": "2006",
         "citation": "Proceedings of the 43rd annual Design Automation Conference, 103-108, 2006",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "Mm-vQM8AAAAJ:_kc_bZDykSQC"
     },
     {
@@ -2951,7 +2958,7 @@
         "title": "Regular fabrics for nano-scaled CMOS technologies",
         "pub_year": "2006",
         "citation": "Proc. Int. Solid State Circuits Conf, 2006",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "Mm-vQM8AAAAJ:mlAyqtXpCwEC"
     },
     {
@@ -3042,7 +3049,7 @@
         "title": "Robust convergence of power flow using Tx stepping method with equivalent circuit formulation",
         "pub_year": "2018",
         "citation": "2018 Power Systems Computation Conference (PSCC), 1-7, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "Mm-vQM8AAAAJ:c59VksA5Vz4C"
     },
     {
@@ -3056,7 +3063,7 @@
         "title": "Robust power flow and three-phase power flow analyses",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (1), 616-626, 2018",
-        "num_citations": 113,
+        "num_citations": 115,
         "author_pub_id": "Mm-vQM8AAAAJ:qmtmRrLr0tkC"
     },
     {
@@ -3132,7 +3139,7 @@
         "title": "STAC: Statistical timing analysis with correlation",
         "pub_year": "2004",
         "citation": "Proceedings of the 41st annual Design Automation Conference, 343-348, 2004",
-        "num_citations": 168,
+        "num_citations": 169,
         "author_pub_id": "Mm-vQM8AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -3221,7 +3228,7 @@
         "title": "Shedding light on inconsistencies in grid cybersecurity: Disconnects and recommendations",
         "pub_year": "2023",
         "citation": "2023 IEEE Symposium on Security and Privacy (SP), 38-55, 2023",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "Mm-vQM8AAAAJ:oAywNP-vUhwC"
     },
     {
@@ -3331,7 +3338,7 @@
         "title": "Statistical performance modeling and optimization",
         "pub_year": "2007",
         "citation": "Foundations and Trends® in Electronic Design Automation 1 (4), 331-480, 2007",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "Mm-vQM8AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -3407,14 +3414,14 @@
         "title": "Systems, Methods, and Software for Planning, Simulating, and Operating Electrical Power Systems",
         "pub_year": "2017",
         "citation": "US Patent App. 15/456,341, 2017",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "Mm-vQM8AAAAJ:LK8CI43ZvvMC"
     },
     {
         "title": "Systems, methods and computer program products for creating hierarchical equivalent circuit models",
         "pub_year": "2006",
         "citation": "US Patent 7,096,174, 2006",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "Mm-vQM8AAAAJ:f2IySw72cVMC"
     },
     {
@@ -3442,7 +3449,7 @@
         "title": "TETA: Transistor-level waveform evaluation for timing analysis",
         "pub_year": "2002",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2002",
-        "num_citations": 30,
+        "num_citations": 32,
         "author_pub_id": "Mm-vQM8AAAAJ:mB3voiENLucC"
     },
     {
@@ -3477,14 +3484,14 @@
         "title": "The Elmore Delay",
         "pub_year": "2002",
         "citation": "IC Interconnect Analysis, 25-66, 2002",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Mm-vQM8AAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "The Elmore delay as bound for RC trees with generalized input signals",
         "pub_year": "1995",
         "citation": "Proceedings of the 32nd annual ACM/IEEE Design Automation Conference, 364-369, 1995",
-        "num_citations": 338,
+        "num_citations": 340,
         "author_pub_id": "Mm-vQM8AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -3596,7 +3603,7 @@
         "title": "Towards Practical Physics-Informed ML Design and Evaluation for Power Grid",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2205.03673, 2022",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Mm-vQM8AAAAJ:5VjbC5aozO0C"
     },
     {
@@ -3735,7 +3742,7 @@
         "title": "h-gamma: an RC delay metric based on a gamma distribution approximation of the homogeneous response",
         "pub_year": "1998",
         "citation": "Proceedings of the 1998 IEEE/ACM international conference on Computer-aided …, 1998",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "Mm-vQM8AAAAJ:_FxGoFyzp5QC"
     },
     {

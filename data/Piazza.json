@@ -38,7 +38,7 @@
         "title": "1.5-GHz CMOS voltage-controlled oscillator based on thickness-field-excited piezoelectric AlN contour-mode MEMS resonators",
         "pub_year": "2010",
         "citation": "IEEE Custom Integrated Circuits Conference 2010, 1-4, 2010",
-        "num_citations": 20,
+        "num_citations": 23,
         "author_pub_id": "K98bfxEAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "33 GHz overmoded bulk acoustic resonator",
         "pub_year": "2022",
         "citation": "IEEE Microwave and Wireless Components Letters 32 (6), 656-659, 2022",
-        "num_citations": 50,
+        "num_citations": 57,
         "author_pub_id": "K98bfxEAAAAJ:ce2CqMG-AY4C"
     },
     {
@@ -81,6 +81,13 @@
         "citation": "2009 IEEE 22nd International Conference on Micro Electro Mechanical Systems …, 2009",
         "num_citations": 146,
         "author_pub_id": "K98bfxEAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+        "title": "52 GHz 35% Scandium Doped Aluminum Nitride Overmoded Bulk Acoustic Resonator",
+        "pub_year": "2024",
+        "citation": "2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "K98bfxEAAAAJ:-nhnvRiOwuoC"
     },
     {
         "title": "970 MHz Ovenized Oscillator Based on an ALN MEMS Resonator with Monolithically Integrated Suspended Nano Hot Plate",
@@ -100,14 +107,14 @@
         "title": "A 100 nm thick, 32 kHz X-cut lithium niobate piezoelectric nanoscale ultrasound transducer for airborne ultrasound communication",
         "pub_year": "2021",
         "citation": "Journal of Microelectromechanical Systems 30 (3), 337-339, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "K98bfxEAAAAJ:owLR8QvbtFgC"
     },
     {
         "title": "A 47μW 204MHz AlN Contour-Mode MEMS based tunable oscillator in 65nm CMOS",
         "pub_year": "2013",
         "citation": "2013 IEEE International Symposium on Circuits and Systems (ISCAS), 1757-1760, 2013",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "K98bfxEAAAAJ:D_sINldO8mEC"
     },
     {
@@ -141,7 +148,7 @@
         "title": "A solidly mounted 55 GHz overmoded bulk acoustic resonator",
         "pub_year": "2023",
         "citation": "2023 IEEE International Ultrasonics Symposium (IUS), 1-4, 2023",
-        "num_citations": 13,
+        "num_citations": 16,
         "author_pub_id": "K98bfxEAAAAJ:1DsIQWDZLl8C"
     },
     {
@@ -183,7 +190,7 @@
         "title": "A two dimensional vision-based force sensor for microrobotic applications",
         "pub_year": "2011",
         "citation": "Sensors and Actuators A: Physical 171 (2), 340-351, 2011",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "K98bfxEAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -218,7 +225,7 @@
         "title": "Acousto-optical modulation of thin film lithium niobate waveguide devices",
         "pub_year": "2019",
         "citation": "Photonics Research 7 (9), 1003-1013, 2019",
-        "num_citations": 115,
+        "num_citations": 119,
         "author_pub_id": "K98bfxEAAAAJ:buQ7SEKw-1sC"
     },
     {
@@ -260,7 +267,7 @@
         "title": "AlN on SOI pMUTs for ultrasonic power transfer",
         "pub_year": "2017",
         "citation": "2017 IEEE International Ultrasonics Symposium (IUS), 1-4, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "K98bfxEAAAAJ:WJVC3Jt7v1AC"
     },
     {
@@ -323,7 +330,7 @@
         "title": "An 18 nW− 47/− 40 dBm sensitivity 3/100 kbps MEMS-assisted CMOS wake-up receiver",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 66 (11), 4439-4447, 2019",
-        "num_citations": 21,
+        "num_citations": 24,
         "author_pub_id": "K98bfxEAAAAJ:otzGkya1bYkC"
     },
     {
@@ -365,7 +372,7 @@
         "title": "Anchor losses in AlN contour mode resonators",
         "pub_year": "2014",
         "citation": "Journal of microelectromechanical systems 24 (2), 265-275, 2014",
-        "num_citations": 149,
+        "num_citations": 153,
         "author_pub_id": "K98bfxEAAAAJ:evX43VCCuoAC"
     },
     {
@@ -449,7 +456,7 @@
         "title": "Contour-Mode Piezoelectric Micromechanical Resonators",
         "pub_year": "2009",
         "citation": "US Patent App. 12/350,859, 2009",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "K98bfxEAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -561,7 +568,7 @@
         "title": "Design and analysis of lithium–niobate-based high electromechanical coupling RF-MEMS resonators for wideband filtering",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 61 (1), 403-414, 2012",
-        "num_citations": 334,
+        "num_citations": 342,
         "author_pub_id": "K98bfxEAAAAJ:WbkHhVStYXYC"
     },
     {
@@ -617,7 +624,7 @@
         "title": "Dual-beam actuation of piezoelectric AlN RF MEMS switches monolithically integrated with AlN contour-mode resonators",
         "pub_year": "2008",
         "citation": "Journal of micromechanics and microengineering 18 (10), 105011, 2008",
-        "num_citations": 122,
+        "num_citations": 123,
         "author_pub_id": "K98bfxEAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -666,7 +673,7 @@
         "title": "Electro-optically controlled acousto-optic racetrack modulator etched in LNOI platform",
         "pub_year": "2018",
         "citation": "2018 IEEE Micro Electro Mechanical Systems (MEMS), 743-746, 2018",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "K98bfxEAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -715,14 +722,14 @@
         "title": "Experimental study on the impact of anchor losses on the quality factor of contour mode AlN resonators",
         "pub_year": "2013",
         "citation": "2013 Transducers & Eurosensors XXVII: The 17th International Conference on …, 2013",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "K98bfxEAAAAJ:1qzjygNMrQYC"
     },
     {
         "title": "Extraction of elastooptic coefficient of thin-film arsenic trisulfide using a Mach–Zehnder acoustooptic modulator on lithium niobate",
         "pub_year": "2020",
         "citation": "Journal of Lightwave Technology 38 (7), 2053-2059, 2020",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "K98bfxEAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -736,7 +743,7 @@
         "title": "Fast and accurate prediction of spurious modes in aluminum nitride MEMS resonators using artificial neural network algorithm",
         "pub_year": "2017",
         "citation": "2017 IEEE International Ultrasonics Symposium (IUS), 1-4, 2017",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "K98bfxEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -757,7 +764,7 @@
         "title": "From microwave acoustic filters to millimeter-wave operation and new applications",
         "pub_year": "2022",
         "citation": "IEEE Journal of Microwaves 3 (1), 484-508, 2022",
-        "num_citations": 98,
+        "num_citations": 113,
         "author_pub_id": "K98bfxEAAAAJ:-jrNzM816MMC"
     },
     {
@@ -887,6 +894,13 @@
         "author_pub_id": "K98bfxEAAAAJ:JQOojiI6XY0C"
     },
     {
+        "title": "Hybrid Plasmonic‐GeTe Active Metasurfaces with High Tunability",
+        "pub_year": "2024",
+        "citation": "Advanced Photonics Research, 2400132, 2024",
+        "num_citations": 0,
+        "author_pub_id": "K98bfxEAAAAJ:F2UWTTQJPOcC"
+    },
+    {
         "title": "Hybrid ultra-compact 4th order band-pass filters based on piezoelectric AlN contour-mode MEMS resonators",
         "pub_year": "2008",
         "citation": "2008 Solid-State Sensors, Actuators, and Microsystems Workshop (Hilton Head …, 2008",
@@ -946,14 +960,14 @@
         "title": "Integration of bottom electrode in Y-cut lithium niobate thin films for high electromechanical coupling and high capacitance per unit area MEMS resonators",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th International Conference on Micro Electro Mechanical Systems …, 2017",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "K98bfxEAAAAJ:FAceZFleit8C"
     },
     {
         "title": "Interface dewetting as a source of void formation and aggregation in phase change nanoscale actuators",
         "pub_year": "2023",
         "citation": "Applied Physics Letters 122 (5), 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "K98bfxEAAAAJ:U_HPUtbDl20C"
     },
     {
@@ -974,7 +988,7 @@
         "title": "Investigation of 20% scandium-doped aluminum nitride films for MEMS laterally vibrating resonators",
         "pub_year": "2017",
         "citation": "2017 IEEE International Ultrasonics Symposium (IUS), 1-4, 2017",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "K98bfxEAAAAJ:_5tno0g5mFcC"
     },
     {
@@ -1057,7 +1071,7 @@
         "title": "Laterally vibrating resonator based elasto-optic modulation in aluminum nitride",
         "pub_year": "2016",
         "citation": "APL Photonics 1 (3), 2016",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "K98bfxEAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -1071,14 +1085,14 @@
         "title": "Lithium niobate on insulator (LNOI) grating couplers",
         "pub_year": "2015",
         "citation": "CLEO: Science and Innovations, SW4I. 7, 2015",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "K98bfxEAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Lithium niobate on silicon dioxide suspended membranes: A technology platform for engineering the temperature coefficient of frequency of high electromechanical coupling resonators",
         "pub_year": "2014",
         "citation": "Journal of Microelectromechanical Systems 23 (6), 1318-1329, 2014",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "K98bfxEAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -1106,7 +1120,7 @@
         "title": "Low-loss chirped grating for vertical light coupling in lithium niobate on insulator",
         "pub_year": "2019",
         "citation": "Journal of Optics 21 (6), 065801, 2019",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "K98bfxEAAAAJ:6yz0xqPARnAC"
     },
     {
@@ -1127,7 +1141,7 @@
         "title": "Magnet-less circulator using AlN MEMS filters and CMOS RF switches",
         "pub_year": "2019",
         "citation": "Journal of Microelectromechanical Systems 28 (3), 409-418, 2019",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "K98bfxEAAAAJ:4X0JR2_MtJMC"
     },
     {
@@ -1316,7 +1330,7 @@
         "title": "Novel on chip rotation detection based on the acousto-optic effect in surface acoustic wave gyroscopes",
         "pub_year": "2018",
         "citation": "Optics express 26 (19), 25060-25075, 2018",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "K98bfxEAAAAJ:u-coK7KVo8oC"
     },
     {
@@ -1350,7 +1364,7 @@
         "title": "Ovenized high frequency oscillators based on aluminum nitride contour-mode MEMS resonators",
         "pub_year": "2011",
         "citation": "2011 International Electron Devices Meeting, 20.2. 1-20.2. 4, 2011",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "K98bfxEAAAAJ:k_IJM867U9cC"
     },
     {
@@ -1385,7 +1399,7 @@
         "title": "Phase Change Nanoelectromechanical Relay for Nonvolatile Low Leakage Switching",
         "pub_year": "2022",
         "citation": "Advanced Electronic Materials 8 (9), 2200085, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "K98bfxEAAAAJ:hsZV8lGYWTMC"
     },
     {
@@ -1434,14 +1448,14 @@
         "title": "Piezoelectric ALN RF MEM switches monolithically integrated with ALN contour-mode resonators",
         "pub_year": "2013",
         "citation": "US Patent 8,604,670, 2013",
-        "num_citations": 48,
+        "num_citations": 55,
         "author_pub_id": "K98bfxEAAAAJ:J_g5lzvAfSwC"
     },
     {
         "title": "Piezoelectric MEMS resonators",
         "pub_year": "2017",
         "citation": "Springer International Publishing, 2017",
-        "num_citations": 229,
+        "num_citations": 233,
         "author_pub_id": "K98bfxEAAAAJ:rmuvC79q63oC"
     },
     {
@@ -1483,7 +1497,7 @@
         "title": "Piezoelectric aluminum nitride thin films for microelectromechanical systems",
         "pub_year": "2012",
         "citation": "MRS bulletin 37 (11), 1051-1061, 2012",
-        "num_citations": 247,
+        "num_citations": 251,
         "author_pub_id": "K98bfxEAAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -1497,7 +1511,7 @@
         "title": "Piezoelectric aluminum nitride vibrating contour-mode MEMS resonators",
         "pub_year": "2006",
         "citation": "Journal of Microelectromechanical systems 15 (6), 1406-1418, 2006",
-        "num_citations": 761,
+        "num_citations": 766,
         "author_pub_id": "K98bfxEAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1546,7 +1560,7 @@
         "title": "Piezoelectric/magnetostrictive MEMS resonant sensor array for in-plane multi-axis magnetic field detection",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th International Conference on Micro Electro Mechanical Systems …, 2017",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "K98bfxEAAAAJ:GtLg2Ama23sC"
     },
     {
@@ -1560,7 +1574,7 @@
         "title": "Piezoelectrically-acutated opto-acoustic oscillator",
         "pub_year": "2015",
         "citation": "2015 Joint Conference of the IEEE International Frequency Control Symposium …, 2015",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "K98bfxEAAAAJ:b1wdh0AR-JQC"
     },
     {
@@ -1588,7 +1602,7 @@
         "title": "Quality factor dependence on the inactive regions in AlN contour-mode resonators",
         "pub_year": "2015",
         "citation": "Journal of Microelectromechanical Systems 24 (5), 1575-1582, 2015",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "K98bfxEAAAAJ:hMsQuOkrut0C"
     },
     {
@@ -1651,7 +1665,7 @@
         "title": "SS-DNA functionalized ultra-thin-film ALN Contour-mode Resonators with self-sustained oscillator for volatile organic chemical detection",
         "pub_year": "2010",
         "citation": "2010 IEEE 23rd International Conference on Micro Electro Mechanical Systems …, 2010",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "K98bfxEAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1707,7 +1721,7 @@
         "title": "Single-chip multiple-frequency ALN MEMS filters based on contour-mode piezoelectric resonators",
         "pub_year": "2007",
         "citation": "Journal of Microelectromechanical Systems 16 (2), 319-328, 2007",
-        "num_citations": 269,
+        "num_citations": 270,
         "author_pub_id": "K98bfxEAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1770,14 +1784,14 @@
         "title": "Sub-GHz X-Cut Lithium Niobate S₀ Mode MEMS Resonators",
         "pub_year": "2022",
         "citation": "Journal of Microelectromechanical Systems 31 (6), 888-900, 2022",
-        "num_citations": 24,
+        "num_citations": 27,
         "author_pub_id": "K98bfxEAAAAJ:-7ulzOJl1JYC"
     },
     {
         "title": "Sub-milliwatt integrated oven for temperature stable laterally vibrating piezoelectric MEMS resonators",
         "pub_year": "2015",
         "citation": "2015 Transducers-2015 18th International Conference on Solid-State Sensors …, 2015",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "K98bfxEAAAAJ:lmc2jWPfTJgC"
     },
     {
@@ -1812,7 +1826,7 @@
         "title": "Switch-less dual-frequency reconfigurable CMOS oscillator using one single piezoelectric AlN MEMS resonator with co-existing S0 and S1 Lamb-wave modes",
         "pub_year": "2011",
         "citation": "2011 IEEE 24th International Conference on Micro Electro Mechanical Systems …, 2011",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "K98bfxEAAAAJ:rO6llkc54NcC"
     },
     {
@@ -1840,7 +1854,7 @@
         "title": "Temperature-stable piezoelectric MEMS resonators using integrated ovens and simple resistive feedback circuits",
         "pub_year": "2016",
         "citation": "Journal of Microelectromechanical Systems 26 (1), 187-195, 2016",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "K98bfxEAAAAJ:86PQX7AUzd4C"
     },
     {
@@ -1900,6 +1914,13 @@
         "author_pub_id": "K98bfxEAAAAJ:ClCfbGk0d_YC"
     },
     {
+        "title": "Thin Film ST-cut Quartz on Silicon Microelectromechanical Resonators with Ultra-Low Power on-Chip Ovenization",
+        "pub_year": "2024",
+        "citation": "2024 IEEE Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium …, 2024",
+        "num_citations": 0,
+        "author_pub_id": "K98bfxEAAAAJ:w1MjKQ0l0TYC"
+    },
+    {
         "title": "Through-package wireless powering via piezoelectric micromachined ultrasonic transducers",
         "pub_year": "2018",
         "citation": "2018 IEEE Micro Electro Mechanical Systems (MEMS), 1076-1079, 2018",
@@ -1938,7 +1959,7 @@
         "title": "Two-port stacked piezoelectric aluminum nitride contour-mode resonant MEMS",
         "pub_year": "2007",
         "citation": "Sensors and Actuators A: Physical 136 (2), 638-645, 2007",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "K98bfxEAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1952,7 +1973,7 @@
         "title": "Ultra high frequency air/aluminum nitride fractal phononic crystals",
         "pub_year": "2011",
         "citation": "2011 Joint Conference of the IEEE International Frequency Control and the …, 2011",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "K98bfxEAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -2008,7 +2029,7 @@
         "title": "Up-Scaling Microacoustics: 20 to 35 GHz ALN Resonators with f• Q Products Exceeding 14 THz",
         "pub_year": "2024",
         "citation": "2024 IEEE 37th International Conference on Micro Electro Mechanical Systems …, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "K98bfxEAAAAJ:KNjnJ3z-R6IC"
     },
     {
@@ -2078,14 +2099,14 @@
         "title": "X-cut LiNbO3 Coupled Resonators for Narrow-band Filtering Applications",
         "pub_year": "2020",
         "citation": "2020 Joint Conference of the IEEE International Frequency Control Symposium …, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "K98bfxEAAAAJ:MhiOAD_qIWkC"
     },
     {
         "title": "X-cut lithium niobate laterally vibrating MEMS resonator with figure of merit of 1560",
         "pub_year": "2018",
         "citation": "Journal of Microelectromechanical Systems 27 (4), 602-604, 2018",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "K98bfxEAAAAJ:nZcligLrVowC"
     },
     {
@@ -2099,7 +2120,7 @@
         "title": "X-cut lithium niobate-based shear horizontal resonators for radio frequency applications",
         "pub_year": "2020",
         "citation": "Journal of Microelectromechanical Systems 29 (6), 1464-1472, 2020",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "K98bfxEAAAAJ:WHdLCjDvYFkC"
     },
     {

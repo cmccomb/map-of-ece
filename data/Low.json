@@ -10,7 +10,7 @@
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
         "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014",
-        "num_citations": 116,
+        "num_citations": 117,
         "author_pub_id": "hlh0cocAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -59,14 +59,14 @@
         "title": "A unified coded deep neural network training strategy based on generalized polydot codes",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018",
-        "num_citations": 122,
+        "num_citations": 123,
         "author_pub_id": "hlh0cocAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Accumulating Householder transformations, revisited",
         "pub_year": "2006",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 32 (2), 169-179, 2006",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "hlh0cocAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -87,14 +87,14 @@
         "title": "Analytical cache modeling and tilesize optimization for tensor contractions",
         "pub_year": "2019",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2019",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "hlh0cocAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Analytical modeling is enough for high-performance BLIS",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 43 (2), 1-18, 2016",
-        "num_citations": 192,
+        "num_citations": 193,
         "author_pub_id": "hlh0cocAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Compilers, hands-off my hands-on optimizations",
         "pub_year": "2016",
         "citation": "Proceedings of the 3rd Workshop on Programming Models for SIMD/Vector …, 2016",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "hlh0cocAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 84,
+        "num_citations": 87,
         "author_pub_id": "hlh0cocAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -227,7 +227,7 @@
         "title": "FFTX and SpectralPack: A first look",
         "pub_year": "2018",
         "citation": "2018 IEEE 25th International Conference on High Performance Computing …, 2018",
-        "num_citations": 28,
+        "num_citations": 30,
         "author_pub_id": "hlh0cocAAAAJ:mB3voiENLucC"
     },
     {
@@ -241,7 +241,7 @@
         "title": "Families of butterfly counting algorithms for bipartite graphs",
         "pub_year": "2022",
         "citation": "2022 IEEE International Parallel and Distributed Processing Symposium …, 2022",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "hlh0cocAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -283,7 +283,7 @@
         "title": "High performance zero-memory overhead direct convolutions",
         "pub_year": "2018",
         "citation": "Proceedings of the 35th International Conference on Machine Learning 80 …, 2018",
-        "num_citations": 99,
+        "num_citations": 101,
         "author_pub_id": "hlh0cocAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -351,7 +351,7 @@
         "title": "Masterless coded computing: A fully-distributed coded FFT algorithm",
         "pub_year": "2018",
         "citation": "2018 56th Annual Allerton Conference on Communication, Control, and …, 2018",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "hlh0cocAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -407,7 +407,7 @@
         "title": "Reformulating the direct convolution for high-performance deep learning inference on ARM processors",
         "pub_year": "2023",
         "citation": "Journal of Systems Architecture 135, 102806, 2023",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "hlh0cocAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -463,7 +463,7 @@
         "title": "The BLIS framework: Experiments in portability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 42 (2), 1-19, 2016",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "hlh0cocAAAAJ:W7OEmFMy1HYC"
     },
     {
