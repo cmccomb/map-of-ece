@@ -220,7 +220,7 @@
         "title": "AttriNet: Learning mid-level features for human activity recognition with deep belief networks",
         "pub_year": "2019",
         "citation": "Adjunct proceedings of the 2019 acm international joint conference on …, 2019",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "pARKzQsAAAAJ:xtoqd-5pKcoC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Characterizing human activity induced impulse and slip-pulse excitations through structural vibration",
         "pub_year": "2018",
         "citation": "Journal of Sound and Vibration 414, 61-80, 2018",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "pARKzQsAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -643,7 +643,7 @@
         "title": "Exploration of Unary Arithmetic-Based Matrix Multiply Units for Low Precision DL Accelerators",
         "pub_year": "2024",
         "citation": "2024 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 661-665, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "pARKzQsAAAAJ:yFnVuubrUp4C"
     },
     {
@@ -884,7 +884,7 @@
         "title": "Interprocessor traffic scheduling algorithm for multiple-processor networks",
         "pub_year": "1987",
         "citation": "IEEE Transactions on Computers 100 (4), 396-409, 1987",
-        "num_citations": 90,
+        "num_citations": 91,
         "author_pub_id": "pARKzQsAAAAJ:WqliGbK-hY8C"
     },
     {
@@ -933,7 +933,7 @@
         "title": "Mechanism for instruction set based thread execution on a plurality of instruction sequencers",
         "pub_year": "2014",
         "citation": "US Patent 8,719,819, 2014",
-        "num_citations": 118,
+        "num_citations": 119,
         "author_pub_id": "pARKzQsAAAAJ:rO6llkc54NcC"
     },
     {
@@ -1080,7 +1080,7 @@
         "title": "Method and apparatus for varying energy per instruction according to the amount of available parallelism",
         "pub_year": "2008",
         "citation": "US Patent 7,437,581, 2008",
-        "num_citations": 201,
+        "num_citations": 202,
         "author_pub_id": "pARKzQsAAAAJ:mB3voiENLucC"
     },
     {
@@ -1094,7 +1094,7 @@
         "title": "Method and apparatus to improve execution of a stored program",
         "pub_year": "2009",
         "citation": "US Patent 7,580,914, 2009",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "pARKzQsAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -1275,7 +1275,7 @@
         "title": "Multiplexed-access scan testable integrated circuit",
         "pub_year": "1986",
         "citation": "US Patent 4,602,210, 1986",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "pARKzQsAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -1616,7 +1616,7 @@
         "title": "Safe store for speculative helper threads",
         "pub_year": "2010",
         "citation": "US Patent 7,657,880, 2010",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "pARKzQsAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -1630,7 +1630,7 @@
         "title": "Scaling and characterizing database workloads: Bridging the gap between research and practice",
         "pub_year": "2003",
         "citation": "Proceedings. 36th Annual IEEE/ACM International Symposium on …, 2003",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "pARKzQsAAAAJ:SP6oXDckpogC"
     },
     {
@@ -1672,14 +1672,14 @@
         "title": "Space-time graph modeling of ride requests based on real-world data",
         "pub_year": "2017",
         "citation": "Workshops at the Thirty-First AAAI Conference on Artificial Intelligence, 2017",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "pARKzQsAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "Speculative Precomputation: Exploring the Use of Multithreading for Latency.",
         "pub_year": "2002",
         "citation": "Intel Technology Journal 6 (1), 2002",
-        "num_citations": 66,
+        "num_citations": 65,
         "author_pub_id": "pARKzQsAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1830,6 +1830,13 @@
         "author_pub_id": "pARKzQsAAAAJ:vV6vV6tmYwMC"
     },
     {
+        "title": "Tempus Core: Area-Power Efficient Temporal-Unary Convolution Core for Low-Precision Edge DLAs",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.19002, 2024",
+        "num_citations": 0,
+        "author_pub_id": "pARKzQsAAAAJ:OR75R8vi5nAC"
+    },
+    {
         "title": "Testing and Testability of (N, K) Shuffle/exchange Networks",
         "pub_year": "1983",
         "citation": "Carnegie-Mellon University, 1983",
@@ -1861,7 +1868,7 @@
         "title": "The intrinsic bandwidth requirements of ordinary programs",
         "pub_year": "1996",
         "citation": "ACM SIGOPS Operating Systems Review 30 (5), 105-114, 1996",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "pARKzQsAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -2014,14 +2021,14 @@
         "title": "tuGEMM: Area-Power-Efficient Temporal Unary GEMM Architecture for Low-Precision Edge AI",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "pARKzQsAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "tubGEMM: Energy-Efficient and Sparsity-Effective Temporal-Unary-Binary Based Matrix Multiply Unit",
         "pub_year": "2023",
         "citation": "2023 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 1-6, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "pARKzQsAAAAJ:QYdC8u9Cj1oC"
     }
 ]

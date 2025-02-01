@@ -146,7 +146,7 @@
         "title": "A framework for evaluating intrusion detection architectures in advanced metering infrastructures",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Smart Grid 5 (2), 906-915, 2014",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "FClnlsgAAAAJ:L1USKYWJimsC"
     },
     {
@@ -230,7 +230,7 @@
         "title": "A provenance model for the european union general data protection regulation",
         "pub_year": "2018",
         "citation": "Provenance and Annotation of Data and Processes: 7th International …, 2018",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "FClnlsgAAAAJ:-uzm3Y7AvW0C"
     },
     {
@@ -306,7 +306,7 @@
         "title": "ARIMA-based modeling and validation of consumption readings in power grids",
         "pub_year": "2016",
         "citation": "Critical Information Infrastructures Security: 10th International Conference …, 2016",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "FClnlsgAAAAJ:w0F2JDEymm0C"
     },
     {
@@ -362,7 +362,7 @@
         "title": "Algorithms for the generation of state-level representations of stochastic activity networks with general reward structures",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Software Engineering 22 (9), 603-614, 1996",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "FClnlsgAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -488,14 +488,14 @@
         "title": "An unsupervised multi-detector approach for identifying malicious lateral movement",
         "pub_year": "2017",
         "citation": "2017 IEEE 36th Symposium on Reliable Distributed Systems (SRDS), 224-233, 2017",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "FClnlsgAAAAJ:0aBXIfxlw9sC"
     },
     {
         "title": "Analysis of distributed policy rule-sets for compliance with global policy",
         "pub_year": "2012",
         "citation": "US Patent 8,209,738, 2012",
-        "num_citations": 417,
+        "num_citations": 434,
         "author_pub_id": "FClnlsgAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -663,7 +663,7 @@
         "title": "Causal Analysis for {Software-Defined} Networking Attacks",
         "pub_year": "2021",
         "citation": "30th USENIX Security Symposium (USENIX Security 21), 3183-3200, 2021",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "FClnlsgAAAAJ:xm0LlTxljI0C"
     },
     {
@@ -697,7 +697,7 @@
         "title": "Cluster-based failure detection service for large-scale ad hoc wireless network applications",
         "pub_year": "2004",
         "citation": "International Conference on Dependable Systems and Networks, 2004, 805-814, 2004",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "FClnlsgAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -786,7 +786,7 @@
         "title": "Cross-app poisoning in software-defined networking",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 ACM SIGSAC conference on computer and communications …, 2018",
-        "num_citations": 63,
+        "num_citations": 64,
         "author_pub_id": "FClnlsgAAAAJ:8dzOF9BpDQoC"
     },
     {
@@ -871,7 +871,7 @@
         "title": "Data protection intents for software-defined networking",
         "pub_year": "2019",
         "citation": "2019 IEEE Conference on Network Softwarization (NetSoft), 271-275, 2019",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "FClnlsgAAAAJ:z8nqeaKD1nsC"
     },
     {
@@ -1072,7 +1072,7 @@
         "title": "Enhancing grid measurements: Wide area measurement systems, NASPInet, and security",
         "pub_year": "2011",
         "citation": "IEEE Power and Energy Magazine 10 (1), 67-73, 2011",
-        "num_citations": 75,
+        "num_citations": 76,
         "author_pub_id": "FClnlsgAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -1593,7 +1593,7 @@
         "title": "Model-based security metrics using adversary view security evaluation (advise)",
         "pub_year": "2011",
         "citation": "2011 Eighth International Conference on Quantitative Evaluation of SysTems …, 2011",
-        "num_citations": 247,
+        "num_citations": 248,
         "author_pub_id": "FClnlsgAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -1852,7 +1852,7 @@
         "title": "PCA-based method for detecting integrity attacks on advanced metering infrastructure",
         "pub_year": "2015",
         "citation": "Quantitative Evaluation of Systems: 12th International Conference, QEST 2015 …, 2015",
-        "num_citations": 92,
+        "num_citations": 91,
         "author_pub_id": "FClnlsgAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -1995,7 +1995,7 @@
         "title": "Performance and dependability modeling with Möbius",
         "pub_year": "2009",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 36 (4), 16-21, 2009",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "FClnlsgAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -2025,6 +2025,13 @@
         "citation": "Medical Imaging IV: PACS Systems Design and Evaluation 1234, 167-178, 1990",
         "num_citations": 24,
         "author_pub_id": "FClnlsgAAAAJ:isC4tDSrTZIC"
+    },
+    {
+        "title": "Performance evaluation of a picture archiving and communication system using stochastic activity networks",
+        "pub_year": "1990",
+        "citation": "SPIE Proceedings, 1990",
+        "num_citations": 0,
+        "author_pub_id": "FClnlsgAAAAJ:JH5k92_tO-AC"
     },
     {
         "title": "Performance evaluation of a probabilistic replica selection algorithm",
@@ -2144,7 +2151,7 @@
         "title": "Properties of the tangle for uniform random and random walk tip selection",
         "pub_year": "2019",
         "citation": "2019 IEEE International Conference on Blockchain (Blockchain), 228-236, 2019",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "FClnlsgAAAAJ:Vr2j17o0sqMC"
     },
     {
@@ -2172,7 +2179,7 @@
         "title": "Provenance for intent-based networking",
         "pub_year": "2020",
         "citation": "2020 6th IEEE conference on network softwarization (NetSoft), 195-199, 2020",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "FClnlsgAAAAJ:AZju0d2GQJ0C"
     },
     {
@@ -2353,14 +2360,14 @@
         "title": "SCPSE: Security-oriented cyber-physical state estimation for power grid critical infrastructures",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Smart Grid 3 (4), 1790-1799, 2012",
-        "num_citations": 213,
+        "num_citations": 214,
         "author_pub_id": "FClnlsgAAAAJ:gVv57TyPmFsC"
     },
     {
         "title": "SOCCA: A security-oriented cyber-physical contingency analysis in power infrastructures",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Smart Grid 5 (1), 3-13, 2013",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "FClnlsgAAAAJ:prdVHNxh-e8C"
     },
     {
@@ -2373,7 +2380,7 @@
         "title": "Safeguarding academic accounts and resources with the university credential abuse auditing system",
         "pub_year": "2012",
         "citation": "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN …, 2012",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "FClnlsgAAAAJ:sNmaIFBj_lkC"
     },
     {
@@ -2429,7 +2436,7 @@
         "title": "Security analysis of urban railway systems: the need for a cyber-physical perspective",
         "pub_year": "2015",
         "citation": "Computer Safety, Reliability, and Security: SAFECOMP 2015 Workshops, ASSURE …, 2015",
-        "num_citations": 68,
+        "num_citations": 70,
         "author_pub_id": "FClnlsgAAAAJ:FiDNX6EVdGUC"
     },
     {
@@ -2512,7 +2519,7 @@
         "title": "Specification-based intrusion detection for advanced metering infrastructures",
         "pub_year": "2011",
         "citation": "2011 IEEE 17th Pacific rim international symposium on dependable computing …, 2011",
-        "num_citations": 261,
+        "num_citations": 262,
         "author_pub_id": "FClnlsgAAAAJ:z_wVstp3MssC"
     },
     {
@@ -2561,7 +2568,7 @@
         "title": "Stochastic activity networks: formal definitions and concepts⋆",
         "pub_year": "2000",
         "citation": "School organized by the European Educational Forum, 315-343, 2000",
-        "num_citations": 539,
+        "num_citations": 540,
         "author_pub_id": "FClnlsgAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -2602,7 +2609,7 @@
         "title": "Systems, devices, and methods for initiating recovery",
         "pub_year": "2009",
         "citation": "US Patent 7,536,595, 2009",
-        "num_citations": 53,
+        "num_citations": 60,
         "author_pub_id": "FClnlsgAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -2656,7 +2663,7 @@
         "title": "The Mobius framework and its implementation",
         "pub_year": "2002",
         "citation": "IEEE Transactions on Software Engineering 28 (10), 956-969, 2002",
-        "num_citations": 384,
+        "num_citations": 385,
         "author_pub_id": "FClnlsgAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -2670,7 +2677,7 @@
         "title": "The Mobius modeling tool",
         "pub_year": "2001",
         "citation": "Proceedings 9th International Workshop on Petri Nets and Performance Models …, 2001",
-        "num_citations": 302,
+        "num_citations": 303,
         "author_pub_id": "FClnlsgAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -2740,7 +2747,7 @@
         "title": "The multiple-asymmetric-utility system model: A framework for modeling cyber-human systems",
         "pub_year": "2011",
         "citation": "2011 Eighth International Conference on Quantitative Evaluation of SysTems …, 2011",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "FClnlsgAAAAJ:ZuybSZzF8UAC"
     },
     {

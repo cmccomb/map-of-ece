@@ -51,7 +51,7 @@
         "title": "Anonymity properties of the bitcoin P2P network",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1703.08761, 2017",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "Rn_BmTYAAAAJ:edDO8Oi4QzsC"
     },
     {
@@ -93,7 +93,7 @@
         "title": "Building a RAPPOR with the unknown: Privacy-preserving learning of associations and data dictionaries",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1503.01214, 2015",
-        "num_citations": 365,
+        "num_citations": 370,
         "author_pub_id": "Rn_BmTYAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -113,7 +113,7 @@
         "title": "Central bankers’ new cybersecurity challenge",
         "pub_year": "2022",
         "citation": "Finance & Development 59 (3), 30-32, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Rn_BmTYAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -140,7 +140,7 @@
         "title": "Compounding of wealth in proof-of-stake cryptocurrencies",
         "pub_year": "2019",
         "citation": "Financial Cryptography and Data Security: 23rd International Conference, FC …, 2019",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "Rn_BmTYAAAAJ:Ri6SYOTghG4C"
     },
     {
@@ -175,7 +175,7 @@
         "title": "Dandelion: Redesigning the bitcoin network for anonymity",
         "pub_year": "2017",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 1 (1 …, 2017",
-        "num_citations": 138,
+        "num_citations": 141,
         "author_pub_id": "Rn_BmTYAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -195,15 +195,22 @@
         "title": "Deanonymization in the bitcoin P2P network",
         "pub_year": "2017",
         "citation": "Advances in Neural Information Processing Systems 30, 2017",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "Rn_BmTYAAAAJ:5qfkUJPXOUwC"
     },
     {
         "title": "Design Choices for Central Bank Digital Currency: Policy and Technical Considerations",
         "pub_year": "2020",
         "citation": "Brookings Institution, 2020",
-        "num_citations": 213,
+        "num_citations": 215,
         "author_pub_id": "Rn_BmTYAAAAJ:OTTXONDVkokC"
+    },
+    {
+        "title": "Design and Evaluation of Privacy-Preserving Protocols for Agent-Facilitated Mobile Money Services in Kenya",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2412.18716, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Rn_BmTYAAAAJ:wKETBy42zhYC"
     },
     {
         "title": "Design choices for central bank digital currency",
@@ -223,7 +230,7 @@
         "title": "Economics of proof-of-stake payment systems",
         "pub_year": "2019",
         "citation": "Working paper, 2019",
-        "num_citations": 59,
+        "num_citations": 58,
         "author_pub_id": "Rn_BmTYAAAAJ:DUooU5lO8OsC"
     },
     {
@@ -237,7 +244,7 @@
         "title": "Efficient algorithms for federated saddle point optimization",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2102.06333, 2021",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "Rn_BmTYAAAAJ:4vMrXwiscB8C"
     },
     {
@@ -299,14 +306,14 @@
         "title": "Hiding the rumor source",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Information theory 63 (10), 6679-6713, 2017",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "Rn_BmTYAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "High throughput cryptocurrency routing in payment channel networks",
         "pub_year": "2020",
         "citation": "17th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2020",
-        "num_citations": 184,
+        "num_citations": 188,
         "author_pub_id": "Rn_BmTYAAAAJ:WJVC3Jt7v1AC"
     },
     {
@@ -327,21 +334,14 @@
         "title": "Infogan-cr and modelcentrality: Self-supervised model training and selection for disentangling gans",
         "pub_year": "2020",
         "citation": "international conference on machine learning, 6127-6139, 2020",
-        "num_citations": 136,
+        "num_citations": 140,
         "author_pub_id": "Rn_BmTYAAAAJ:mlAyqtXpCwEC"
-    },
-    {
-        "title": "Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.10116, 2024",
-        "num_citations": 0,
-        "author_pub_id": "Rn_BmTYAAAAJ:v1_lew4L6wgC"
     },
     {
         "title": "Introduction to machine learning",
         "pub_year": "2019",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Rn_BmTYAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -355,7 +355,7 @@
         "title": "Locally differentially private sparse vector aggregation",
         "pub_year": "2022",
         "citation": "2022 IEEE Symposium on Security and Privacy (SP), 422-439, 2022",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "Rn_BmTYAAAAJ:nZcligLrVowC"
     },
     {
@@ -369,14 +369,14 @@
         "title": "Missing Key: The challenge of cybersecurity and central bank digital currency",
         "pub_year": "2022",
         "citation": "Atlantic Council, 2022",
-        "num_citations": 6,
+        "num_citations": 9,
         "author_pub_id": "Rn_BmTYAAAAJ:BzfGm06jWhQC"
     },
     {
         "title": "Mixture-of-Linear-Experts for Long-term Time Series Forecasting",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2312.06786, 2023",
-        "num_citations": 17,
+        "num_citations": 20,
         "author_pub_id": "Rn_BmTYAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -390,7 +390,7 @@
         "title": "Multiresolution graph signal processing via circulant structures",
         "pub_year": "2013",
         "citation": "2013 IEEE Digital Signal Processing and Signal Processing Education Meeting …, 2013",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "Rn_BmTYAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -411,7 +411,7 @@
         "title": "On the privacy properties of gan-generated samples",
         "pub_year": "2021",
         "citation": "International Conference on Artificial Intelligence and Statistics, 1522-1530, 2021",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "Rn_BmTYAAAAJ:cWzG1nlazyYC"
     },
     {
@@ -445,7 +445,7 @@
         "title": "Pacgan: The power of two samples in generative adversarial networks",
         "pub_year": "2018",
         "citation": "Advances in neural information processing systems 31, 2018",
-        "num_citations": 430,
+        "num_citations": 436,
         "author_pub_id": "Rn_BmTYAAAAJ:PVjk1bu6vJQC"
     },
     {
@@ -473,7 +473,7 @@
         "title": "Practical gan-based synthetic ip header trace generation using netshare",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 458-472, 2022",
-        "num_citations": 67,
+        "num_citations": 72,
         "author_pub_id": "Rn_BmTYAAAAJ:vDZJ-YLwNdEC"
     },
     {
@@ -494,22 +494,15 @@
         "title": "Prism: Deconstructing the blockchain to approach physical limits",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications …, 2019",
-        "num_citations": 326,
+        "num_citations": 335,
         "author_pub_id": "Rn_BmTYAAAAJ:umqufdRvDiIC"
     },
     {
         "title": "Prism: Scaling bitcoin by 10,000 x",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1909.11261, 2019",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "Rn_BmTYAAAAJ:0izLItjtcgwC"
-    },
-    {
-        "title": "Privacy Requirements and Realities of Digital Public Goods",
-        "pub_year": "2024",
-        "citation": "Twentieth Symposium on Usable Privacy and Security (SOUPS 2024), 159-177, 2024",
-        "num_citations": 0,
-        "author_pub_id": "Rn_BmTYAAAAJ:nRpfm8aw39MC"
     },
     {
         "title": "Privacy in Cross-border Digital Currency. A Transatlantic Approach",
@@ -525,6 +518,13 @@
         "author_pub_id": "Rn_BmTYAAAAJ:PaBasH6fAo0C"
     },
     {
+        "title": "Privacy requirements and realities of digital public goods",
+        "pub_year": "2024",
+        "citation": "Twentieth Symposium on Usable Privacy and Security (SOUPS 2024), 159-177, 2024",
+        "num_citations": 0,
+        "author_pub_id": "Rn_BmTYAAAAJ:nRpfm8aw39MC"
+    },
+    {
         "title": "Privacy-preserving messaging and search: A collaborative approach",
         "pub_year": "2015",
         "citation": "University of California, Berkeley, 2015",
@@ -535,7 +535,7 @@
         "title": "Privacy-utility tradeoffs in routing cryptocurrency over payment channel networks",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 4 (2 …, 2020",
-        "num_citations": 70,
+        "num_citations": 74,
         "author_pub_id": "Rn_BmTYAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -576,14 +576,14 @@
         "title": "Reducing the communication cost of federated learning through multistage optimization",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2108.06869, 2021",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Rn_BmTYAAAAJ:yqoGN6RLRZoC"
     },
     {
         "title": "Routing cryptocurrency with the spider network",
         "pub_year": "2018",
         "citation": "Proceedings of the 17th ACM Workshop on Hot Topics in Networks, 29-35, 2018",
-        "num_citations": 103,
+        "num_citations": 106,
         "author_pub_id": "Rn_BmTYAAAAJ:YohjEiUPhakC"
     },
     {
@@ -604,7 +604,7 @@
         "title": "Self-supervised euphemism detection and identification for content moderation",
         "pub_year": "2021",
         "citation": "2021 IEEE Symposium on Security and Privacy (SP), 229-246, 2021",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "Rn_BmTYAAAAJ:DJbcl8HfkQkC"
     },
     {
@@ -639,21 +639,21 @@
         "title": "SquirRL: Automating attack analysis on blockchain incentive mechanisms with deep reinforcement learning",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1912.01798, 2019",
-        "num_citations": 95,
+        "num_citations": 100,
         "author_pub_id": "Rn_BmTYAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Statistic Maximal Leakage",
         "pub_year": "2024",
         "citation": "2024 IEEE International Symposium on Information Theory (ISIT), 2742-2747, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "Rn_BmTYAAAAJ:7BrZ7Jt4UNcC"
     },
     {
         "title": "Strategic latency reduction in blockchain peer-to-peer networks",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (2 …, 2023",
-        "num_citations": 29,
+        "num_citations": 32,
         "author_pub_id": "Rn_BmTYAAAAJ:lvd772isFD0C"
     },
     {
@@ -667,7 +667,7 @@
         "title": "The Role of User-Agent Interactions on Mobile Money Practices in Kenya and Tanzania",
         "pub_year": "2024",
         "citation": "2024 IEEE Symposium on Security and Privacy (SP), 752-769, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Rn_BmTYAAAAJ:buQ7SEKw-1sC"
     },
     {
@@ -695,7 +695,7 @@
         "title": "Towards a defense against backdoor attacks in continual federated learning",
         "pub_year": "2023",
         "citation": "Transactions on Machine Learning Research, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Rn_BmTYAAAAJ:nVrZBo8bIpAC"
     },
     {
@@ -723,14 +723,14 @@
         "title": "User Experiences with Third-Party SIM Cards and ID Registration in Kenya and Tanzania",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.00830, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "Rn_BmTYAAAAJ:otzGkya1bYkC"
     },
     {
         "title": "Using GANs for Sharing Networked Time Series Data: Challenges, Initial Promise, and Open Questions",
         "pub_year": "2020",
         "citation": "Proceedings of the ACM Internet Measurement Conference, 464-483, 2020",
-        "num_citations": 256,
+        "num_citations": 269,
         "author_pub_id": "Rn_BmTYAAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -744,7 +744,7 @@
         "title": "Why spectral normalization stabilizes gans: Analysis and improvements",
         "pub_year": "2021",
         "citation": "Advances in neural information processing systems 34, 9625-9638, 2021",
-        "num_citations": 54,
+        "num_citations": 57,
         "author_pub_id": "Rn_BmTYAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -764,14 +764,14 @@
         "title": "{Distance-Aware} Private Set Intersection",
         "pub_year": "2023",
         "citation": "32nd USENIX Security Symposium (USENIX Security 23), 319-336, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "Rn_BmTYAAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "Rn_BmTYAAAAJ:a3BOlSfXSfwC"
     }
 ]

@@ -3,7 +3,7 @@
         "title": "//Trace: parallel trace replay with approximate causal events",
         "pub_year": "2007",
         "citation": "Carnegie Mellon University, 2007",
-        "num_citations": 101,
+        "num_citations": 103,
         "author_pub_id": "738WppcAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -63,7 +63,7 @@
         "title": "A performance study of BDD-based model checking",
         "pub_year": "1998",
         "citation": "Formal Methods in Computer-Aided Design: Second International Conference …, 1998",
-        "num_citations": 127,
+        "num_citations": 128,
         "author_pub_id": "738WppcAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -168,7 +168,7 @@
         "title": "Automating instrumentation choices for performance problems in distributed applications with VAIF",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM Symposium on Cloud Computing, 61-75, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "738WppcAAAAJ:KUbvn5osdkgC"
     },
     {
@@ -383,7 +383,7 @@
         "title": "Computer Systems: A Programmer's Perspective plus MasteringEngineering with Pearson eText--Access Card Package",
         "pub_year": "2015",
         "citation": "Pearson, 2015",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "738WppcAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -410,7 +410,7 @@
         "title": "Computer systems: a programmer’s perspective",
         "pub_year": "2011",
         "citation": "Prentice Hall, 2011",
-        "num_citations": 801,
+        "num_citations": 807,
         "author_pub_id": "738WppcAAAAJ:wbdj-CoPYUoC"
     },
     {
@@ -670,7 +670,7 @@
         "title": "High resolution forward and inverse earthquake modeling on terascale computers",
         "pub_year": "2003",
         "citation": "Proceedings of the 2003 ACM/IEEE Conference on Supercomputing, 52, 2003",
-        "num_citations": 254,
+        "num_citations": 253,
         "author_pub_id": "738WppcAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -683,7 +683,7 @@
         "title": "Host load prediction using linear models",
         "pub_year": "2000",
         "citation": "Cluster Computing 3, 265-280, 2000",
-        "num_citations": 364,
+        "num_citations": 365,
         "author_pub_id": "738WppcAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -765,14 +765,14 @@
         "title": "Large-scale simulation of elastic wave propagation in heterogeneous media on parallel computers",
         "pub_year": "1998",
         "citation": "Computer methods in applied mechanics and engineering 152 (1-2), 85-102, 1998",
-        "num_citations": 461,
+        "num_citations": 463,
         "author_pub_id": "738WppcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Locality in search engine queries and its implications for caching",
         "pub_year": "2002",
         "citation": "Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …, 2002",
-        "num_citations": 238,
+        "num_citations": 236,
         "author_pub_id": "738WppcAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -833,7 +833,7 @@
         "title": "Open Cirrus™ Cloud Computing Testbed: Federated Data Centers for Open Source Systems and Services Research.",
         "pub_year": "2009",
         "citation": "HotCloud 9, 1-1, 2009",
-        "num_citations": 133,
+        "num_citations": 134,
         "author_pub_id": "738WppcAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -976,7 +976,7 @@
         "title": "Scalable parallel octree meshing for terascale applications",
         "pub_year": "2005",
         "citation": "SC'05: Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 4-4, 2005",
-        "num_citations": 163,
+        "num_citations": 162,
         "author_pub_id": "738WppcAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -997,7 +997,7 @@
         "title": "Seurat: A pointillist approach to anomaly detection",
         "pub_year": "2004",
         "citation": "Recent Advances in Intrusion Detection: 7th International Symposium, RAID …, 2004",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "738WppcAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -1092,7 +1092,7 @@
         "title": "Task parallelism in a High Performance Fortran framework",
         "pub_year": "1994",
         "citation": "IEEE Parallel and Distributed Technology 2 (3), 16-26, 1994",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "738WppcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1168,7 +1168,7 @@
         "title": "Topology discovery for large ethernet networks",
         "pub_year": "2001",
         "citation": "ACM SIGCOMM Computer Communication Review 31 (4), 237-248, 2001",
-        "num_citations": 357,
+        "num_citations": 358,
         "author_pub_id": "738WppcAAAAJ:d1gkVwhDpl0C"
     },
     {

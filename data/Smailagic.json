@@ -58,14 +58,14 @@
         "title": "A case study in embedded-system design: The VuMan 2 wearable computer",
         "pub_year": "1993",
         "citation": "IEEE Design & Test of Computers 10 (3), 56-67, 1993",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "qMCGI94AAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "A case study of a system-level approach to power-aware computing",
         "pub_year": "2003",
         "citation": "ACM Transactions on Embedded Computing Systems (TECS) 2 (3), 255-276, 2003",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "qMCGI94AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -86,7 +86,7 @@
         "title": "A human-ai collaborative approach for clinical decision making on rehabilitation assessment",
         "pub_year": "2021",
         "citation": "Proceedings of the 2021 CHI conference on human factors in computing systems …, 2021",
-        "num_citations": 121,
+        "num_citations": 127,
         "author_pub_id": "qMCGI94AAAAJ:8xutWZnSdmoC"
     },
     {
@@ -149,7 +149,7 @@
         "title": "A virtual coach for upper-extremity myoelectric prosthetic rehabilitation",
         "pub_year": "2017",
         "citation": "2017 International Conference on Virtual Rehabilitation (ICVR), 1-2, 2017",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "qMCGI94AAAAJ:ClCfbGk0d_YC"
     },
     {
@@ -205,7 +205,7 @@
         "title": "Activity recognition and monitoring using multiple sensors on different body positions",
         "pub_year": "2006",
         "citation": "International Workshop on Wearable and Implantable Body Sensor Networks (BSN …, 2006",
-        "num_citations": 1080,
+        "num_citations": 1082,
         "author_pub_id": "qMCGI94AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Adtranz: a mobile computing system for maintenance and collaboration",
         "pub_year": "1998",
         "citation": "Digest of Papers. Second International Symposium on Wearable Computers (Cat …, 1998",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "qMCGI94AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Agent-assisted task management that reduces email overload",
         "pub_year": "2010",
         "citation": "Proceedings of the 15th international conference on Intelligent user …, 2010",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "qMCGI94AAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -308,7 +308,7 @@
         "title": "Application design for wearable computing",
         "pub_year": "2008",
         "citation": "Morgan & Claypool Publishers, 2008",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qMCGI94AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -419,21 +419,21 @@
         "title": "Constructing wearable computers for maintenance applications",
         "pub_year": "2001",
         "citation": "Fundamentals of wearable computers and augmented reality, 663-694, 2001",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "qMCGI94AAAAJ:nZcligLrVowC"
     },
     {
         "title": "Context-aware mobile computing: Learning context-dependent personal preferences from a wearable sensor array",
         "pub_year": "2005",
         "citation": "IEEE Transactions on Mobile Computing 5 (2), 113-127, 2005",
-        "num_citations": 287,
+        "num_citations": 285,
         "author_pub_id": "qMCGI94AAAAJ:qjMakFHDy7sC"
     },
     {
         "title": "Continuous inference of psychological stress from sensory measurements collected in the natural environment",
         "pub_year": "2011",
         "citation": "Proceedings of the 10th ACM/IEEE international conference on information …, 2011",
-        "num_citations": 385,
+        "num_citations": 386,
         "author_pub_id": "qMCGI94AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -577,7 +577,7 @@
         "title": "Digital systems design and prototyping using field programmable logic",
         "pub_year": "2012",
         "citation": "Springer Science & Business Media, 2012",
-        "num_citations": 130,
+        "num_citations": 131,
         "author_pub_id": "qMCGI94AAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -605,7 +605,7 @@
         "title": "Ecological momentary assessment in behavioral research: addressing technological and human participant challenges",
         "pub_year": "2017",
         "citation": "Journal of medical Internet research 19 (3), e77, 2017",
-        "num_citations": 289,
+        "num_citations": 290,
         "author_pub_id": "qMCGI94AAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -632,14 +632,14 @@
         "title": "Enabling AI and robotic coaches for physical rehabilitation therapy: iterative design and evaluation with therapists and post-stroke survivors",
         "pub_year": "2024",
         "citation": "International Journal of Social Robotics 16 (1), 1-22, 2024",
-        "num_citations": 36,
+        "num_citations": 39,
         "author_pub_id": "qMCGI94AAAAJ:GFxP56DSvIMC"
     },
     {
         "title": "Enhancement of retinal fundus images via pixel color amplification",
         "pub_year": "2020",
         "citation": "International conference on image analysis and recognition, 299-312, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "qMCGI94AAAAJ:OR75R8vi5nAC"
     },
     {
@@ -708,14 +708,14 @@
         "title": "EyeWes: weakly supervised pre-trained convolutional neural networks for diabetic retinopathy detection",
         "pub_year": "2019",
         "citation": "2019 16th international conference on machine vision applications (MVA), 1-6, 2019",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "qMCGI94AAAAJ:Ri6SYOTghG4C"
     },
     {
         "title": "Eyequal: Accurate, explainable, retinal image quality assessment",
         "pub_year": "2017",
         "citation": "2017 16th IEEE International Conference on machine learning and applications …, 2017",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "qMCGI94AAAAJ:_axFR9aDTf0C"
     },
     {
@@ -837,7 +837,7 @@
         "title": "Improving lesion segmentation for diabetic retinopathy using adversarial learning",
         "pub_year": "2019",
         "citation": "International Conference on Image Analysis and Recognition, 333-344, 2019",
-        "num_citations": 41,
+        "num_citations": 42,
         "author_pub_id": "qMCGI94AAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -851,7 +851,7 @@
         "title": "Integrating Design Education, Research and Practice at Carnegie Mellon: A Multi‐disciplinary Course in Wearable Computers",
         "pub_year": "1996",
         "citation": "Journal of Engineering Education 85 (4), 279-285, 1996",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "qMCGI94AAAAJ:dhFuZR0502QC"
     },
     {
@@ -872,7 +872,7 @@
         "title": "Interdisciplinary concurrent design methodology as applied to the navigator wearable computer system",
         "pub_year": "1994",
         "citation": "Journal of Computer and Software Engineering 2 (3), 259-292, 1994",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "qMCGI94AAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -928,7 +928,7 @@
         "title": "Learning to assess the quality of stroke rehabilitation exercises",
         "pub_year": "2019",
         "citation": "Proceedings of the 24th International Conference on Intelligent User …, 2019",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "qMCGI94AAAAJ:NXb4pA-qfm4C"
     },
     {
@@ -956,14 +956,14 @@
         "title": "Location sensing and privacy in a context-aware computing environment",
         "pub_year": "2002",
         "citation": "IEEE Wireless Communications 9 (5), 10-17, 2002",
-        "num_citations": 487,
+        "num_citations": 486,
         "author_pub_id": "qMCGI94AAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "MIA: a wearable computer for bridge inspectors",
         "pub_year": "1998",
         "citation": "Digest of Papers. Second International Symposium on Wearable Computers (Cat …, 1998",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "qMCGI94AAAAJ:4DMP91E08xMC"
     },
     {
@@ -982,7 +982,7 @@
         "title": "Matching interface design with user tasks. Modalities of interaction with CMU wearable computers",
         "pub_year": "1996",
         "citation": "IEEE Personal Communications 3 (1), 14-25, 1996",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "qMCGI94AAAAJ:WF5omc3nYNoC"
     },
     {
@@ -996,7 +996,7 @@
         "title": "Medal: Deep active learning sampling method for medical image analysis",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1809.09287, 2018",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "qMCGI94AAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -1048,7 +1048,7 @@
         "title": "MoCCA: A mobile communication and computing architecture",
         "pub_year": "1999",
         "citation": "ACM SIGMOBILE Mobile Computing and Communications Review 3 (4), 39-46, 1999",
-        "num_citations": 103,
+        "num_citations": 104,
         "author_pub_id": "qMCGI94AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1062,7 +1062,7 @@
         "title": "Monitoring health changes in congestive heart failure patients using wearables and clinical data",
         "pub_year": "2017",
         "citation": "2017 16th IEEE International Conference on Machine Learning and Applications …, 2017",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "qMCGI94AAAAJ:rmuvC79q63oC"
     },
     {
@@ -1131,7 +1131,7 @@
         "title": "O‐MedAL: Online active deep learning for medical image analysis",
         "pub_year": "2020",
         "citation": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 10 (4 …, 2020",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "qMCGI94AAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -1151,7 +1151,7 @@
         "title": "Personalized stress detection from physiological measurements",
         "pub_year": "2010",
         "citation": "International symposium on quality of life technology 1, 28-29, 2010",
-        "num_citations": 176,
+        "num_citations": 175,
         "author_pub_id": "qMCGI94AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -1212,7 +1212,7 @@
         "title": "Project aura: Toward distraction-free pervasive computing",
         "pub_year": "2002",
         "citation": "IEEE Pervasive computing 1 (2), 22-31, 2002",
-        "num_citations": 1382,
+        "num_citations": 1384,
         "author_pub_id": "qMCGI94AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1254,7 +1254,7 @@
         "title": "Rapid design and manufacture of wearable computers",
         "pub_year": "1996",
         "citation": "Communications of the ACM 39 (2), 63-70, 1996",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qMCGI94AAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -1317,14 +1317,14 @@
         "title": "Skeleton Tracking Solutions for a Low-Cost Stroke Rehabilitation Support System",
         "pub_year": "2023",
         "citation": "2023 International Conference on Rehabilitation Robotics (ICORR), 1-6, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "qMCGI94AAAAJ:otzGkya1bYkC"
     },
     {
         "title": "Sparse linear regression with elastic net regularization for brain-computer interfaces",
         "pub_year": "2012",
         "citation": "2012 Annual International Conference of the IEEE Engineering in Medicine and …, 2012",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "qMCGI94AAAAJ:M05iB0D1s5AC"
     },
     {
@@ -1432,7 +1432,7 @@
         "title": "The CMU mobile computers: A new generation of computer systems",
         "pub_year": "1994",
         "citation": "Proceedings of COMPCON'94, 467-473, 1994",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "qMCGI94AAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -1453,7 +1453,7 @@
         "title": "The agenda of wearable healthcare",
         "pub_year": "2005",
         "citation": "Yearbook of medical informatics 14 (01), 125-138, 2005",
-        "num_citations": 171,
+        "num_citations": 174,
         "author_pub_id": "qMCGI94AAAAJ:lgwcVrK6X84C"
     },
     {
@@ -1481,7 +1481,7 @@
         "title": "The efficacy of a multicomponent functional fitness program based on exergaming on cognitive functioning of healthy older adults: a randomized controlled trial",
         "pub_year": "2020",
         "citation": "Journal of aging and physical activity 29 (4), 586-594, 2020",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "qMCGI94AAAAJ:LhH-TYMQEocC"
     },
     {
@@ -1530,7 +1530,7 @@
         "title": "Towards efficient annotations for a human-ai collaborative, clinical decision support system: A case study on physical stroke rehabilitation assessment",
         "pub_year": "2022",
         "citation": "Proceedings of the 27th International Conference on Intelligent User …, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "qMCGI94AAAAJ:gVv57TyPmFsC"
     },
     {
@@ -1544,7 +1544,7 @@
         "title": "Trading off prediction accuracy and power consumption for context-aware wearable computing",
         "pub_year": "2005",
         "citation": "Ninth IEEE International Symposium on Wearable Computers (ISWC'05), 20-26, 2005",
-        "num_citations": 197,
+        "num_citations": 199,
         "author_pub_id": "qMCGI94AAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1655,7 +1655,7 @@
         "title": "Virtual coach technology for supporting self-care",
         "pub_year": "2010",
         "citation": "Physical Medicine and Rehabilitation Clinics 21 (1), 179-194, 2010",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "qMCGI94AAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1751,7 +1751,7 @@
         "title": "eWatch: context sensitive system design case study",
         "pub_year": "2005",
         "citation": "IEEE Computer Society Annual Symposium on VLSI: New Frontiers in VLSI Design …, 2005",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "qMCGI94AAAAJ:-f6ydRqryjwC"
     },
     {

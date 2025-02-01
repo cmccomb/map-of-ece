@@ -37,7 +37,7 @@
         "title": "32-bit cyclic redundancy codes for internet applications",
         "pub_year": "2002",
         "citation": "Proceedings International Conference on Dependable Systems and Networks, 459-468, 2002",
-        "num_citations": 350,
+        "num_citations": 352,
         "author_pub_id": "DFtapYEAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -84,7 +84,7 @@
         "title": "A case study on runtime monitoring of an autonomous research vehicle (ARV) system",
         "pub_year": "2015",
         "citation": "Runtime Verification: 6th International Conference, RV 2015, Vienna, Austria …, 2015",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "DFtapYEAAAAJ:epqYDVWIO7EC"
     },
     {
@@ -105,7 +105,7 @@
         "title": "A framework for scalable analysis and design of system-wide graceful degradation in distributed embedded systems",
         "pub_year": "2003",
         "citation": "Proceedings of the Eighth International Workshop on Object-Oriented Real …, 2003",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "DFtapYEAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -154,14 +154,14 @@
         "title": "A reasonable driver standard for automated vehicle safety",
         "pub_year": "2023",
         "citation": "International Conference on Computer Safety, Reliability, and Security, 355-361, 2023",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "DFtapYEAAAAJ:AXkvAH5U_nMC"
     },
     {
         "title": "A safety standard approach for fully autonomous vehicles",
         "pub_year": "2019",
         "citation": "Computer Safety, Reliability, and Security: SAFECOMP 2019 Workshops, ASSURE …, 2019",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "DFtapYEAAAAJ:KbBQZpvPDL4C"
     },
     {
@@ -257,7 +257,7 @@
         "title": "Anatomy of a robotaxi crash: Lessons from the cruise pedestrian dragging mishap",
         "pub_year": "2024",
         "citation": "International Conference on Computer Safety, Reliability, and Security, 119-133, 2024",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "DFtapYEAAAAJ:jE2MZjpN3IcC"
     },
     {
@@ -325,14 +325,21 @@
         "title": "Autonomous vehicle safety: An interdisciplinary challenge",
         "pub_year": "2017",
         "citation": "IEEE Intelligent Transportation Systems Magazine 9 (1), 90-96, 2017",
-        "num_citations": 733,
+        "num_citations": 744,
         "author_pub_id": "DFtapYEAAAAJ:ILKRHgRFtOwC"
+    },
+    {
+        "title": "Autonomous vehicles and software safety engineering",
+        "pub_year": "2022",
+        "citation": "ICSE keynote, 2022",
+        "num_citations": 7,
+        "author_pub_id": "DFtapYEAAAAJ:mKu_rENv82IC"
     },
     {
         "title": "Autonomous vehicles meet the physical world: RSS, variability, uncertainty, and proving safety",
         "pub_year": "2019",
         "citation": "Computer Safety, Reliability, and Security: 38th International Conference …, 2019",
-        "num_citations": 85,
+        "num_citations": 87,
         "author_pub_id": "DFtapYEAAAAJ:fFSKOagxvKUC"
     },
     {
@@ -451,7 +458,7 @@
         "title": "Challenges in autonomous vehicle testing and validation",
         "pub_year": "2016",
         "citation": "SAE International Journal of Transportation Safety 4 (1), 15-24, 2016",
-        "num_citations": 801,
+        "num_citations": 811,
         "author_pub_id": "DFtapYEAAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -602,7 +609,7 @@
         "title": "Cyclic redundancy code (CRC) polynomial selection for embedded networks",
         "pub_year": "2004",
         "citation": "International Conference on Dependable Systems and Networks, 2004, 145-154, 2004",
-        "num_citations": 567,
+        "num_citations": 569,
         "author_pub_id": "DFtapYEAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -885,7 +892,7 @@
         "title": "Embedded system design issues (the rest of the story)",
         "pub_year": "1996",
         "citation": "Proceedings International Conference on Computer Design. VLSI in Computers …, 1996",
-        "num_citations": 176,
+        "num_citations": 175,
         "author_pub_id": "DFtapYEAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1278,7 +1285,7 @@
         "title": "Method and system for analyzing advertisements delivered to a mobile unit",
         "pub_year": "2003",
         "citation": "US Patent 6,647,269, 2003",
-        "num_citations": 959,
+        "num_citations": 961,
         "author_pub_id": "DFtapYEAAAAJ:WA5NYHcadZ8C"
     },
     {
@@ -1444,7 +1451,7 @@
         "title": "Perils of the PC Cache",
         "pub_year": "1993",
         "citation": "Carnegie Mellon University, 1993",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "DFtapYEAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1745,14 +1752,14 @@
         "title": "Safety architecture for autonomous vehicles",
         "pub_year": "2021",
         "citation": "US Patent 10,962,972, 2021",
-        "num_citations": 22,
+        "num_citations": 24,
         "author_pub_id": "DFtapYEAAAAJ:OR75R8vi5nAC"
     },
     {
         "title": "Safety argument considerations for public road testing of autonomous vehicles",
         "pub_year": "2019",
         "citation": "SAE International Journal of Advances and Current Practices in Mobility 1 …, 2019",
-        "num_citations": 52,
+        "num_citations": 54,
         "author_pub_id": "DFtapYEAAAAJ:ODE9OILHJdcC"
     },
     {
@@ -1766,7 +1773,7 @@
         "title": "Selection of cyclic redundancy code and checksum algorithms to ensure critical data integrity",
         "pub_year": "2015",
         "citation": "Carnegie Mellon University, 2015",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "DFtapYEAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -1794,7 +1801,7 @@
         "title": "Software testing",
         "pub_year": "1999",
         "citation": "Dependable Embedded Systems 5 (2006), 1, 1999",
-        "num_citations": 196,
+        "num_citations": 198,
         "author_pub_id": "DFtapYEAAAAJ:kh2fBNsKQNwC"
     },
     {
@@ -1850,7 +1857,7 @@
         "title": "Systems and Methods for Evaluating Perception System Quality",
         "pub_year": "2022",
         "citation": "US Patent App. 17/291,493, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "DFtapYEAAAAJ:lgwcVrK6X84C"
     },
     {
@@ -1897,7 +1904,7 @@
         "title": "The Heavy Tail Safety Ceiling",
         "pub_year": "2018",
         "citation": "Automated and Connected Vehicle Systems Testing Symposium, 2018",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "DFtapYEAAAAJ:IRz6iEL74y4C"
     },
     {
@@ -1918,7 +1925,7 @@
         "title": "The UL 4600 Guidebook: What to Include in an Autonomous Vehicle Safety Case",
         "pub_year": "2022",
         "citation": "Carnegie Mellon University, 2022",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "DFtapYEAAAAJ:Br1UauaknNIC"
     },
     {
@@ -1953,7 +1960,7 @@
         "title": "The awkward middle for automated vehicles: Liability attribution rules when humans and computers share driving responsibilities",
         "pub_year": "2023",
         "citation": "",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DFtapYEAAAAJ:rHJHxKgnXwkC"
     },
     {
@@ -1995,7 +2002,7 @@
         "title": "Toward a framework for highly automated vehicle safety validation",
         "pub_year": "2018",
         "citation": "SAE Technical Paper, 2018",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "DFtapYEAAAAJ:MLfJN-KU85MC"
     },
     {
@@ -2009,7 +2016,7 @@
         "title": "Toward middleware fault injection for automotive networks",
         "pub_year": "1998",
         "citation": "Carnegie Mellon University, 1998",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "DFtapYEAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -2044,7 +2051,7 @@
         "title": "Ul 4600: what to include in an autonomous vehicle safety case",
         "pub_year": "2023",
         "citation": "Computer 56 (05), 101-104, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "DFtapYEAAAAJ:WC9gN4BGCRcC"
     },
     {
@@ -2072,7 +2079,7 @@
         "title": "Using architectural properties to model and measure graceful degradation",
         "pub_year": "2003",
         "citation": "Architecting dependable systems, 267-289, 2003",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "DFtapYEAAAAJ:ULOm3_A8WrAC"
     },
     {

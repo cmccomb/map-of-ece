@@ -106,7 +106,7 @@
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 129,
+        "num_citations": 130,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -215,7 +215,7 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 165,
+        "num_citations": 168,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -229,7 +229,7 @@
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 36,
+        "num_citations": 38,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -257,7 +257,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -341,7 +341,7 @@
         "title": "The atlas cluster trace repository",
         "pub_year": "2018",
         "citation": "Usenix Mag 43 (4), 2018",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "ygiY7C8AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -355,7 +355,7 @@
         "title": "This is why ML-driven cluster scheduling remains widely impractical",
         "pub_year": "2019",
         "citation": "Tech. Rep., 2019",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "ygiY7C8AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -376,21 +376,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 169,
+        "num_citations": 177,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 56,
+        "num_citations": 58,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]
