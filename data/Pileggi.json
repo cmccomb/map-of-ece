@@ -17,7 +17,7 @@
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
         "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014",
-        "num_citations": 118,
+        "num_citations": 120,
         "author_pub_id": "Mm-vQM8AAAAJ:2l5NCbZemmgC"
     },
     {
@@ -59,7 +59,7 @@
         "title": "A 0.6-to-1V inverter-based 5-bit flash ADC in 90nm digital CMOS",
         "pub_year": "2008",
         "citation": "2008 IEEE Custom Integrated Circuits Conference, 153-156, 2008",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "Mm-vQM8AAAAJ:M05iB0D1s5AC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "A 3D-stacked logic-in-memory accelerator for application-specific data intensive computing",
         "pub_year": "2013",
         "citation": "2013 IEEE international 3D systems integration conference (3DIC), 1-7, 2013",
-        "num_citations": 151,
+        "num_citations": 153,
         "author_pub_id": "Mm-vQM8AAAAJ:QyXJ3EUuO1IC"
     },
     {
@@ -105,20 +105,6 @@
         "author_pub_id": "Mm-vQM8AAAAJ:jKT558fuBk8C"
     },
     {
-        "title": "A LASSO-Inspired Approach for Localizing Power System Infeasibility",
-        "pub_year": "2020",
-        "citation": "2020 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2020",
-        "num_citations": 4,
-        "author_pub_id": "Mm-vQM8AAAAJ:JH5k92_tO-AC"
-    },
-    {
-        "title": "A Linearized, Low Phase Noise VCO Based 25 GHz PLL With Autonomic Biasing (vol 48, pg 1138, 2013)",
-        "pub_year": "2013",
-        "citation": "IEEE JOURNAL OF SOLID-STATE CIRCUITS 48 (6), 1539-1539, 2013",
-        "num_citations": 0,
-        "author_pub_id": "Mm-vQM8AAAAJ:FQ36aI_S1AEC"
-    },
-    {
         "title": "A Phase-Change Via-Reconfigurable CMOS  VCO",
         "pub_year": "2013",
         "citation": "IEEE transactions on electron devices 60 (12), 3979-3988, 2013",
@@ -129,7 +115,7 @@
         "title": "A Risk-Managed Steady-State Analysis to Assess the Impact of Power Grid Uncertainties",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2111.10290, 2021",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "Mm-vQM8AAAAJ:S2WlVNSe3u4C"
     },
     {
@@ -163,7 +149,7 @@
     {
         "title": "A convex method of generalized state estimation using circuit-theoretic node-breaker model",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Power Systems, 2023",
+        "citation": "IEEE Transactions on Power Systems 39 (3), 4897-4910, 2023",
         "num_citations": 5,
         "author_pub_id": "Mm-vQM8AAAAJ:cB__R-XWw9UC"
     },
@@ -217,17 +203,24 @@
         "author_pub_id": "Mm-vQM8AAAAJ:738O_yMBCRsC"
     },
     {
+        "title": "A lasso-inspired approach for localizing power system infeasibility",
+        "pub_year": "2020",
+        "citation": "2020 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2020",
+        "num_citations": 4,
+        "author_pub_id": "Mm-vQM8AAAAJ:JH5k92_tO-AC"
+    },
+    {
         "title": "A linear formulation for power system state estimation including RTU and PMU measurements",
         "pub_year": "2019",
         "citation": "2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), 1-5, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "Mm-vQM8AAAAJ:WwIwg2wKZ0QC"
     },
     {
         "title": "A linear-centric modeling approach to harmonic balance analysis",
         "pub_year": "2002",
         "citation": "Proceedings 2002 Design, Automation and Test in Europe Conference and …, 2002",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "Mm-vQM8AAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -248,7 +241,7 @@
         "title": "A methodology for analog circuit macromodeling",
         "pub_year": "2004",
         "citation": "Proceedings of the 2004 IEEE International Behavioral Modeling and …, 2004",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "Mm-vQM8AAAAJ:_xSYboBqXhAC"
     },
     {
@@ -262,7 +255,7 @@
         "title": "A non-volatile look-up table design using PCM (phase-change memory) cells",
         "pub_year": "2011",
         "citation": "2011 Symposium on VLSI Circuits-Digest of Technical Papers, 302-303, 2011",
-        "num_citations": 45,
+        "num_citations": 44,
         "author_pub_id": "Mm-vQM8AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -297,7 +290,7 @@
         "title": "A quadratic metric with a simple solution scheme for initial placement",
         "pub_year": "1988",
         "citation": "Proceedings of the 25th ACM/IEEE Design Automation Conference, 324-329, 1988",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "Mm-vQM8AAAAJ:tYavs44e6CUC"
     },
     {
@@ -311,13 +304,13 @@
         "title": "A self-calibrating sense amplifier for a true random number generator using hybrid FinFET-straintronic MTJ",
         "pub_year": "2017",
         "citation": "2017 IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH …, 2017",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "Mm-vQM8AAAAJ:TaaCk18tZOkC"
     },
     {
         "title": "A sequential quadratic programming approach to concurrent gate and interconnect sizing",
         "pub_year": "1997",
-        "citation": "IEEE Trans. Computer-Aided Design, 1997",
+        "citation": "IEEE trans. Computer-Aided Design 10 (43.644611), 1997",
         "num_citations": 2,
         "author_pub_id": "Mm-vQM8AAAAJ:QYdC8u9Cj1oC"
     },
@@ -325,7 +318,7 @@
         "title": "A sequential quadratic programming approach to concurrent gate and wire sizing",
         "pub_year": "1997",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1997",
-        "num_citations": 110,
+        "num_citations": 109,
         "author_pub_id": "Mm-vQM8AAAAJ:roLk4NBRz8UC"
     },
     {
@@ -339,7 +332,7 @@
         "title": "A sparse image method for BEM capacitance extraction",
         "pub_year": "1996",
         "citation": "Proceedings of the 33rd annual Design Automation Conference, 357-362, 1996",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "Mm-vQM8AAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -388,14 +381,14 @@
         "title": "AWE macromodels of VLSI interconnect for circuit simulation",
         "pub_year": "1992",
         "citation": "1992 IEEE/ACM International Conference on Computer-Aided Design, 64-70, 1992",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "Mm-vQM8AAAAJ:TIZ-Mc8IlK0C"
     },
     {
         "title": "AWE-inspired",
         "pub_year": "1993",
         "citation": "Proceedings of IEEE Custom Integrated Circuits Conference-CICC'93, 18.1. 1 …, 1993",
-        "num_citations": 100,
+        "num_citations": 101,
         "author_pub_id": "Mm-vQM8AAAAJ:4MWp96NkSFoC"
     },
     {
@@ -409,7 +402,7 @@
         "title": "AWEsim: Asymptotic waveform evaluation for timing analysis",
         "pub_year": "1989",
         "citation": "Proceedings of the 26th ACM/IEEE Design Automation Conference, 634-637, 1989",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "Mm-vQM8AAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -423,7 +416,7 @@
         "title": "Accelerating sparse matrix-matrix multiplication with 3D-stacked logic-in-memory hardware",
         "pub_year": "2013",
         "citation": "2013 IEEE High Performance Extreme Computing Conference (HPEC), 1-6, 2013",
-        "num_citations": 139,
+        "num_citations": 140,
         "author_pub_id": "Mm-vQM8AAAAJ:5MTHONV0fEkC"
     },
     {
@@ -472,7 +465,7 @@
         "title": "Adaptive post-silicon tuning for analog circuits: concept, analysis and optimization",
         "pub_year": "2007",
         "citation": "2007 IEEE/ACM International Conference on Computer-Aided Design, 450-457, 2007",
-        "num_citations": 43,
+        "num_citations": 46,
         "author_pub_id": "Mm-vQM8AAAAJ:BqipwSGYUEgC"
     },
     {
@@ -486,7 +479,7 @@
         "title": "Adversarially robust learning for security-constrained optimal power flow",
         "pub_year": "2021",
         "citation": "Advances in Neural Information Processing Systems 34, 28677-28689, 2021",
-        "num_citations": 20,
+        "num_citations": 23,
         "author_pub_id": "Mm-vQM8AAAAJ:wBLCggQE-ToC"
     },
     {
@@ -553,20 +546,6 @@
         "author_pub_id": "Mm-vQM8AAAAJ:hkOj_22Ku90C"
     },
     {
-        "title": "An Equivalent Circuit Approach to Distributed Optimization",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.14607, 2023",
-        "num_citations": 3,
-        "author_pub_id": "Mm-vQM8AAAAJ:Cvh0bltMcLgC"
-    },
-    {
-        "title": "An Equivalent Circuit Workflow for Unconstrained Optimization",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.14061, 2023",
-        "num_citations": 4,
-        "author_pub_id": "Mm-vQM8AAAAJ:GtqhT-R7ZnwC"
-    },
-    {
         "title": "An Explicit RC-Circuit Delay Approximation Based on the First Three Moments of the Impulse Response",
         "citation": "",
         "num_citations": 0,
@@ -624,7 +603,7 @@
         "title": "An efficient methodology for extraction and simulation of transmission lines for application specific electronic modules",
         "pub_year": "1993",
         "citation": "Proceedings of 1993 International Conference on Computer Aided Design (ICCAD …, 1993",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "Mm-vQM8AAAAJ:tuHXwOkdijsC"
     },
     {
@@ -635,10 +614,17 @@
         "author_pub_id": "Mm-vQM8AAAAJ:Ehil0879vHcC"
     },
     {
+        "title": "An equivalent circuit approach to distributed optimization",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.14607, 2023",
+        "num_citations": 3,
+        "author_pub_id": "Mm-vQM8AAAAJ:Cvh0bltMcLgC"
+    },
+    {
         "title": "An equivalent circuit formulation for power system state estimation including PMUs",
         "pub_year": "2018",
         "citation": "2018 North American Power Symposium (NAPS), 1-6, 2018",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "Mm-vQM8AAAAJ:lg2tdxc6qMwC"
     },
     {
@@ -656,24 +642,31 @@
         "author_pub_id": "Mm-vQM8AAAAJ:k_7cPK9k7w8C"
     },
     {
+        "title": "An equivalent circuit workflow for unconstrained optimization",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.14061, 2023",
+        "num_citations": 4,
+        "author_pub_id": "Mm-vQM8AAAAJ:GtqhT-R7ZnwC"
+    },
+    {
         "title": "An explicit RC-circuit delay approximation based on the first three moments of the impulse response",
         "pub_year": "1996",
         "citation": "Proceedings of the 33rd annual Design Automation Conference, 611-616, 1996",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "Mm-vQM8AAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "An interconnect channel design methodology for high performance integrated circuits",
         "pub_year": "2004",
         "citation": "Proceedings Design, Automation and Test in Europe Conference and Exhibition …, 2004",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "Mm-vQM8AAAAJ:ClCfbGk0d_YC"
     },
     {
         "title": "An oscillatory neural network with programmable resistive synapses in 28 nm CMOS",
         "pub_year": "2018",
         "citation": "2018 IEEE International Conference on Rebooting Computing (ICRC), 1-7, 2018",
-        "num_citations": 31,
+        "num_citations": 29,
         "author_pub_id": "Mm-vQM8AAAAJ:jlhcAiayVhoC"
     },
     {
@@ -686,7 +679,7 @@
         "title": "Analog and RF circuit macromodels for system-level analysis",
         "pub_year": "2003",
         "citation": "Proceedings of the 40th annual Design Automation Conference, 478-483, 2003",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "Mm-vQM8AAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -732,7 +725,7 @@
         "author_pub_id": "Mm-vQM8AAAAJ:08ZZubdj9fEC"
     },
     {
-        "title": "Analytical Inverter-Based Distributed Generator Model for Power Flow Analysis",
+        "title": "Analytical inverter-based distributed generator model for power flow analysis",
         "pub_year": "2021",
         "citation": "2021 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2021",
         "num_citations": 1,
@@ -742,7 +735,7 @@
         "title": "Analyzing on-chips Interconnect effects",
         "pub_year": "2001",
         "citation": "Design of High Performance Microprocessor Circuits, 2001",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "Mm-vQM8AAAAJ:ALROH1vI_8AC"
     },
     {
@@ -770,7 +763,7 @@
         "title": "Architecture-aware FPGA placement using metric embedding",
         "pub_year": "2006",
         "citation": "Proceedings of the 43rd annual design automation conference, 460-465, 2006",
-        "num_citations": 58,
+        "num_citations": 57,
         "author_pub_id": "Mm-vQM8AAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -805,7 +798,7 @@
         "title": "Asymptotic probability extraction for nonnormal performance distributions",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2006",
-        "num_citations": 94,
+        "num_citations": 95,
         "author_pub_id": "Mm-vQM8AAAAJ:4DMP91E08xMC"
     },
     {
@@ -825,14 +818,14 @@
         "title": "Asymptotic waveform evaluation for timing analysis",
         "pub_year": "1990",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1990",
-        "num_citations": 2403,
+        "num_citations": 2410,
         "author_pub_id": "Mm-vQM8AAAAJ:EkHepimYqZsC"
     },
     {
         "title": "Automated testability enhancements for logic brick libraries",
         "pub_year": "2008",
         "citation": "Proceedings of the conference on Design, automation and test in Europe, 480-485, 2008",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "Mm-vQM8AAAAJ:_5tno0g5mFcC"
     },
     {
@@ -853,14 +846,14 @@
         "title": "Bounds for BEM capacitance extraction",
         "pub_year": "1997",
         "citation": "Proceedings of the 34th annual Design Automation Conference, 133-136, 1997",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Mm-vQM8AAAAJ:NhqRSupF_l8C"
     },
     {
         "title": "Building trusted ICs using split fabrication",
         "pub_year": "2014",
         "citation": "2014 IEEE international symposium on hardware-oriented security and trust …, 2014",
-        "num_citations": 137,
+        "num_citations": 134,
         "author_pub_id": "Mm-vQM8AAAAJ:OzeSX8-yOCQC"
     },
     {
@@ -874,7 +867,7 @@
         "title": "CMOS gate delay models for general RLC loading",
         "pub_year": "1997",
         "citation": "Proceedings International Conference on Computer Design VLSI in Computers …, 1997",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "Mm-vQM8AAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -894,7 +887,7 @@
         "title": "Calculating worst-case gate delays due to dominant capacitance coupling",
         "pub_year": "1997",
         "citation": "Proceedings of the 34th annual Design Automation Conference, 46-51, 1997",
-        "num_citations": 204,
+        "num_citations": 205,
         "author_pub_id": "Mm-vQM8AAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -921,8 +914,8 @@
     {
         "title": "Chip-to-chip authentication method based on SRAM PUF and public key cryptography",
         "pub_year": "2019",
-        "citation": "Journal of Hardware and Systems Security 3, 382-396, 2019",
-        "num_citations": 13,
+        "citation": "Journal of Hardware and Systems Security 3 (4), 382-396, 2019",
+        "num_citations": 14,
         "author_pub_id": "Mm-vQM8AAAAJ:QaSi33NTfwYC"
     },
     {
@@ -950,7 +943,7 @@
         "title": "CircuitGraph: A Python package for Boolean circuits",
         "pub_year": "2020",
         "citation": "Journal of Open Source Software 5 (56), 2646, 2020",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:DQNrXyjhriIC"
     },
     {
@@ -970,7 +963,7 @@
         "title": "Co-optimization of circuits, layout and lithography for predictive technology scaling beyond gratings",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2010",
-        "num_citations": 123,
+        "num_citations": 124,
         "author_pub_id": "Mm-vQM8AAAAJ:0N-VGjzr574C"
     },
     {
@@ -998,7 +991,7 @@
         "title": "Compact reduced-order modeling of weakly nonlinear analog and RF circuits",
         "pub_year": "2005",
         "citation": "IEEE Transactions on computer-aided design of integrated circuits and …, 2005",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "Mm-vQM8AAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -1047,14 +1040,14 @@
         "title": "Contingency analysis with warm starter using probabilistic graphical model",
         "pub_year": "2024",
         "citation": "Electric Power Systems Research 234, 110737, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Mm-vQM8AAAAJ:nU66GSXDKhoC"
     },
     {
         "title": "Continuous Switch Model and Heuristics for Mixed-Integer Nonlinear Problems in Power Systems",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Power Systems, 2023",
-        "num_citations": 1,
+        "citation": "IEEE Transactions on Power Systems 39 (4), 5780-5791, 2023",
+        "num_citations": 2,
         "author_pub_id": "Mm-vQM8AAAAJ:GHsHDPAyICYC"
     },
     {
@@ -1075,14 +1068,14 @@
         "title": "Coping with RC (L) interconnect design headaches",
         "pub_year": "1995",
         "citation": "Proceedings of IEEE International Conference on Computer Aided Design (ICCAD …, 1995",
-        "num_citations": 97,
+        "num_citations": 100,
         "author_pub_id": "Mm-vQM8AAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Correlation-aware statistical timing analysis with non-Gaussian delay distributions",
         "pub_year": "2005",
         "citation": "Proceedings of the 42nd annual Design Automation Conference, 77-82, 2005",
-        "num_citations": 232,
+        "num_citations": 229,
         "author_pub_id": "Mm-vQM8AAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1131,14 +1124,14 @@
         "title": "Delay evaluation with lumped linear RLC interconnect circuit models",
         "pub_year": "1989",
         "citation": "Proceedings of the decennial Caltech conference on VLSI on Advanced research …, 1989",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "Mm-vQM8AAAAJ:g3aElNc5_aQC"
     },
     {
         "title": "Delay metrics",
         "pub_year": "1998",
         "citation": "ISPD98, 1998",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Mm-vQM8AAAAJ:IUKN3-7HHlwC"
     },
     {
@@ -1187,14 +1180,14 @@
         "title": "Design methodology for IC manufacturability based on regular logic-bricks",
         "pub_year": "2005",
         "citation": "Proceedings of the 42nd annual Design Automation Conference, 353-358, 2005",
-        "num_citations": 137,
+        "num_citations": 136,
         "author_pub_id": "Mm-vQM8AAAAJ:XoXfffV-tXoC"
     },
     {
         "title": "Design methodology of regular logic bricks for robust integrated circuits",
         "pub_year": "2006",
         "citation": "2006 International Conference on Computer Design, 162-167, 2006",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "Mm-vQM8AAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -1208,7 +1201,7 @@
         "title": "Detecting reliability attacks during split fabrication using test-only BEOL stack",
         "pub_year": "2014",
         "citation": "Proceedings of the 51st Annual Design Automation Conference, 1-6, 2014",
-        "num_citations": 49,
+        "num_citations": 45,
         "author_pub_id": "Mm-vQM8AAAAJ:VN7nJs4JPk0C"
     },
     {
@@ -1240,9 +1233,9 @@
         "author_pub_id": "Mm-vQM8AAAAJ:wvYxNZNCP7wC"
     },
     {
-        "title": "Digital Circuit Interconnec: Issues, Models, Analysis And Design",
+        "title": "Digital Circuit Interconnect: Issues, Models, Analysis and Design",
         "pub_year": "1994",
-        "citation": "IEEE/ACM International Conference on Computer-Aided Design, xxviii-xxviii, 1994",
+        "citation": "Tutorial of IEEE/ACM International Conference on Computer-Aided-Design, 1994",
         "num_citations": 1,
         "author_pub_id": "Mm-vQM8AAAAJ:HbR8gkJAVGIC"
     },
@@ -1250,14 +1243,14 @@
         "title": "Digital circuit design challenges and opportunities in the era of nanoscale CMOS",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (2), 343-365, 2008",
-        "num_citations": 282,
+        "num_citations": 283,
         "author_pub_id": "Mm-vQM8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Domain characterization of transmission line models and analyses",
         "pub_year": "1996",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1996",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "Mm-vQM8AAAAJ:blknAaTinKkC"
     },
     {
@@ -1311,7 +1304,7 @@
     {
         "title": "EWA: Efficient wiring-sizing algorithm for signal nets and clock nets",
         "pub_year": "2002",
-        "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2002",
+        "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 2002",
         "num_citations": 39,
         "author_pub_id": "Mm-vQM8AAAAJ:HDshCWvjkbEC"
     },
@@ -1319,14 +1312,14 @@
         "title": "Economic assessment of lithography strategies for the 22nm technology node",
         "pub_year": "2009",
         "citation": "Photomask Technology 2009 7488, 873-882, 2009",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "Mm-vQM8AAAAJ:FAceZFleit8C"
     },
     {
         "title": "Efficient and secure intellectual property (IP) design with split fabrication",
         "pub_year": "2014",
         "citation": "2014 IEEE international symposium on hardware-oriented security and trust …, 2014",
-        "num_citations": 86,
+        "num_citations": 85,
         "author_pub_id": "Mm-vQM8AAAAJ:w1MjKQ0l0TYC"
     },
     {
@@ -1340,7 +1333,7 @@
         "title": "Efficient full-chip thermal modeling and analysis",
         "pub_year": "2004",
         "citation": "IEEE/ACM International Conference on Computer Aided Design, 2004. ICCAD-2004 …, 2004",
-        "num_citations": 137,
+        "num_citations": 138,
         "author_pub_id": "Mm-vQM8AAAAJ:UebtZRa9Y70C"
     },
     {
@@ -1375,7 +1368,7 @@
         "title": "Efficient per-nonlinearity distortion analysis for analog and RF circuits",
         "pub_year": "2003",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2003",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "Mm-vQM8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -1389,7 +1382,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 91,
+        "num_citations": 90,
         "author_pub_id": "Mm-vQM8AAAAJ:xyvS_IvSCKsC"
     },
     {
@@ -1424,7 +1417,7 @@
         "title": "Electronic Circuit & System Simulation Methods (SRE)",
         "pub_year": "1998",
         "citation": "McGraw-Hill, Inc., 1998",
-        "num_citations": 602,
+        "num_citations": 598,
         "author_pub_id": "Mm-vQM8AAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -1470,7 +1463,7 @@
         "title": "Employing adversarial robustness techniques for large-scale stochastic optimal power flow",
         "pub_year": "2022",
         "citation": "Electric Power Systems Research 212, 108497, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:IT1MJ6E3JesC"
     },
     {
@@ -1498,7 +1491,7 @@
         "title": "Enabling technology scaling with``in production''lithography processes [6924-19]",
         "pub_year": "2008",
         "citation": "PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6924 (1 …, 2008",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "Mm-vQM8AAAAJ:rHJHxKgnXwkC"
     },
     {
@@ -1511,7 +1504,7 @@
         "title": "Energy-efficient abundant-data computing: The N3XT 1,000 x",
         "pub_year": "2015",
         "citation": "Computer 48 (12), 24-33, 2015",
-        "num_citations": 296,
+        "num_citations": 292,
         "author_pub_id": "Mm-vQM8AAAAJ:v6i8RKmR8ToC"
     },
     {
@@ -1546,14 +1539,14 @@
         "title": "Equipotential shells for efficient inductance extraction",
         "pub_year": "2001",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2001",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "Mm-vQM8AAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Equipotential shells for efficient partial inductance extraction",
         "pub_year": "1998",
         "citation": "International Electron Devices Meeting 1998. Technical Digest (Cat. No …, 1998",
-        "num_citations": 15,
+        "num_citations": 19,
         "author_pub_id": "Mm-vQM8AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -1581,14 +1574,14 @@
         "title": "Error bounds for capacitance extraction via window techniques",
         "pub_year": "1999",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1999",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "Mm-vQM8AAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Evaluating RC-interconnect using moment-matching approximations",
         "pub_year": "1991",
         "citation": "1991 IEEE International Conference on Computer-Aided Design Digest of …, 1991",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "Mm-vQM8AAAAJ:EYYDruWGBe4C"
     },
     {
@@ -1629,7 +1622,7 @@
     {
         "title": "Exhaustive DFM Evaluation of Logic Cell Libraries via Virtual Characterization",
         "pub_year": "2018",
-        "citation": "EasyChair, 2018",
+        "citation": "",
         "num_citations": 0,
         "author_pub_id": "Mm-vQM8AAAAJ:0sTkTiv_uMkC"
     },
@@ -1637,7 +1630,7 @@
         "title": "Experimental demonstration of four-terminal magnetic logic device with separate read-and write-paths",
         "pub_year": "2014",
         "citation": "2014 IEEE International Electron Devices Meeting, 33.1. 1-33.1. 4, 2014",
-        "num_citations": 43,
+        "num_citations": 42,
         "author_pub_id": "Mm-vQM8AAAAJ:eO3_k5sD8BwC"
     },
     {
@@ -1665,7 +1658,7 @@
         "title": "Exploring regular fabrics to optimize the performance-cost trade-off",
         "pub_year": "2003",
         "citation": "Proceedings of the 40th annual Design Automation Conference, 782-787, 2003",
-        "num_citations": 142,
+        "num_citations": 143,
         "author_pub_id": "Mm-vQM8AAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -1714,7 +1707,7 @@
         "title": "Formal verification of phase-locked loops using reachability analysis and continuization",
         "pub_year": "2013",
         "citation": "Communications of the ACM 56 (10), 97-104, 2013",
-        "num_citations": 105,
+        "num_citations": 99,
         "author_pub_id": "Mm-vQM8AAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -1735,7 +1728,7 @@
         "title": "Fully-digital oscillatory associative memories enabled by non-volatile logic",
         "pub_year": "2013",
         "citation": "The 2013 International Joint Conference on Neural Networks (IJCNN), 1-6, 2013",
-        "num_citations": 16,
+        "num_citations": 14,
         "author_pub_id": "Mm-vQM8AAAAJ:OBSaB-F7qqsC"
     },
     {
@@ -1749,8 +1742,15 @@
         "title": "Generating sparse partial inductance matrices with guaranteed stability",
         "pub_year": "1995",
         "citation": "Proceedings of IEEE International Conference on Computer Aided Design (ICCAD …, 1995",
-        "num_citations": 134,
+        "num_citations": 135,
         "author_pub_id": "Mm-vQM8AAAAJ:YsMSGLbcyi4C"
+    },
+    {
+        "title": "Generating sparse partial inductance matrices with guaranteed stability",
+        "pub_year": "1995",
+        "citation": "ICCAD, 1995",
+        "num_citations": 1,
+        "author_pub_id": "Mm-vQM8AAAAJ:DUFsPKDdMi0C"
     },
     {
         "title": "Global and local congestion optimization in technology mapping",
@@ -1763,11 +1763,11 @@
         "title": "GridWatch: Sensor Placement and Anomaly Detection in the Electrical Grid",
         "pub_year": "2019",
         "citation": "Machine Learning and Knowledge Discovery in Databases: European Conference …, 2019",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "Mm-vQM8AAAAJ:4e5Qn2KL_jwC"
     },
     {
-        "title": "Gridwarm: Towards practical physics-informed ml design and evaluation for power grid",
+        "title": "Gridwarm: Towards practical physicsinformed ml design and evaluation for power grid",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2205.03673, 2022",
         "num_citations": 5,
@@ -1777,13 +1777,13 @@
         "title": "Hardware redaction via designer-directed fine-grained eFPGA insertion",
         "pub_year": "2021",
         "citation": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2021",
-        "num_citations": 55,
+        "num_citations": 58,
         "author_pub_id": "Mm-vQM8AAAAJ:9LpHyFPp1DQC"
     },
     {
         "title": "Heterogeneous logic block architectures for via-patterned programmable fabrics",
         "pub_year": "2003",
-        "citation": "Field Programmable Logic and Application: 13th International Conference, FPL …, 2003",
+        "citation": "International Conference on Field Programmable Logic and Applications, 426-436, 2003",
         "num_citations": 16,
         "author_pub_id": "Mm-vQM8AAAAJ:2P1L_qKh6hAC"
     },
@@ -1853,7 +1853,7 @@
         "title": "IC analyses including extracted inductance models",
         "pub_year": "1999",
         "citation": "Proceedings of the 36th annual ACM/IEEE Design Automation Conference, 915-920, 1999",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "Mm-vQM8AAAAJ:LO7wyVUgiFcC"
     },
     {
@@ -1867,7 +1867,7 @@
         "title": "IC thermal simulation and modeling via efficient multigrid-based approaches",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2006",
-        "num_citations": 127,
+        "num_citations": 126,
         "author_pub_id": "Mm-vQM8AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1880,7 +1880,7 @@
         "title": "Impact of interconnect variations on the clock skew of a gigahertz microprocessor",
         "pub_year": "2000",
         "citation": "Proceedings of the 37th Annual Design Automation Conference, 168-171, 2000",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "Mm-vQM8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1936,21 +1936,21 @@
         "title": "Indirect performance sensing for on-chip analog self-healing via Bayesian model fusion",
         "pub_year": "2013",
         "citation": "Proceedings of the IEEE 2013 Custom Integrated Circuits Conference, 1-4, 2013",
-        "num_citations": 25,
+        "num_citations": 23,
         "author_pub_id": "Mm-vQM8AAAAJ:MAUkC_7iAq8C"
     },
     {
         "title": "Indirect performance sensing for on-chip self-healing of analog and RF circuits",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 61 (8), 2243-2252, 2014",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "Mm-vQM8AAAAJ:oi2SiIJ9l4AC"
     },
     {
         "title": "Indirect phase noise sensing for self-healing voltage controlled oscillators",
         "pub_year": "2011",
         "citation": "2011 IEEE Custom Integrated Circuits Conference (CICC), 1-4, 2011",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "Mm-vQM8AAAAJ:2VqYfGB8ITEC"
     },
     {
@@ -1964,14 +1964,14 @@
         "title": "Inductance 101: Modeling and extraction",
         "pub_year": "2001",
         "citation": "Proceedings of the 38th annual Design Automation Conference, 323-328, 2001",
-        "num_citations": 118,
+        "num_citations": 117,
         "author_pub_id": "Mm-vQM8AAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Integrating dynamic voltage/frequency scaling and adaptive body biasing using test-time voltage selection",
         "pub_year": "2009",
         "citation": "Proceedings of the 2009 ACM/IEEE international symposium on Low power …, 2009",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "Mm-vQM8AAAAJ:geHnlv5EZngC"
     },
     {
@@ -1985,7 +1985,7 @@
         "title": "Interconnect and Packaging Analysis",
         "pub_year": "1992",
         "citation": "ICCAD-92 Tutorial 2, 1992",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "Mm-vQM8AAAAJ:r_AWSJRzSzQC"
     },
     {
@@ -2026,14 +2026,14 @@
         "title": "Latch-based logic locking",
         "pub_year": "2020",
         "citation": "2020 IEEE International Symposium on Hardware Oriented Security and Trust …, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "Mm-vQM8AAAAJ:V_vSwabWVtYC"
     },
     {
         "title": "Limitations and challenges of computer-aided design technology for CMOS VLSI",
         "pub_year": "2001",
         "citation": "Proceedings of the IEEE 89 (3), 341-365, 2001",
-        "num_citations": 116,
+        "num_citations": 118,
         "author_pub_id": "Mm-vQM8AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -2065,17 +2065,17 @@
         "author_pub_id": "Mm-vQM8AAAAJ:2tRrZ1ZAMYUC"
     },
     {
-        "title": "Logic IP for low-cost IC design in advanced CMOS nodes",
+        "title": "Logic IP for Low-Cost IC design in advanced CMOS nodes",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems 28 (2), 585-595, 2019",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:Ej9njvOgR2oC"
     },
     {
         "title": "Logic locking-connecting theory and practice",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Mm-vQM8AAAAJ:i91s68tWr-MC"
     },
     {
@@ -2138,7 +2138,7 @@
         "title": "Maximization of layout printability/manufacturability by extreme layout regularity",
         "pub_year": "2007",
         "citation": "Journal of Micro/Nanolithography, MEMS and MOEMS 6 (3), 031011-031011-15, 2007",
-        "num_citations": 74,
+        "num_citations": 76,
         "author_pub_id": "Mm-vQM8AAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -2173,7 +2173,7 @@
         "title": "Method and apparatus for simulating a microelectric interconnect circuit",
         "pub_year": "1995",
         "citation": "US Patent 5,379,231, 1995",
-        "num_citations": 118,
+        "num_citations": 117,
         "author_pub_id": "Mm-vQM8AAAAJ:ML0RJ9NH7IQC"
     },
     {
@@ -2290,9 +2290,9 @@
     },
     {
         "title": "Metrics and bounds for phase delay and signal attenuation in RC (L) clock trees",
-        "pub_year": "1999",
-        "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1999",
-        "num_citations": 23,
+        "pub_year": "2002",
+        "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 2002",
+        "num_citations": 24,
         "author_pub_id": "Mm-vQM8AAAAJ:isC4tDSrTZIC"
     },
     {
@@ -2313,14 +2313,14 @@
         "title": "Min/max on-chip inductance models and delay metrics",
         "pub_year": "2001",
         "citation": "Proceedings of the 38th annual Design Automation Conference, 341-346, 2001",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "Mm-vQM8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Mismatch analysis and statistical design at 65 nm and below",
         "pub_year": "2008",
         "citation": "2008 IEEE Custom Integrated Circuits Conference, 9-12, 2008",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "Mm-vQM8AAAAJ:_axFR9aDTf0C"
     },
     {
@@ -2341,14 +2341,14 @@
         "title": "Modeling interconnect variability using efficient parametric model order reduction",
         "pub_year": "2005",
         "citation": "Design, Automation and Test in Europe, 958-963, 2005",
-        "num_citations": 101,
+        "num_citations": 99,
         "author_pub_id": "Mm-vQM8AAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Modeling lossy transmission lines using the method of characteristics",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Circuits and Systems I: Fundamental Theory and …, 1996",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "Mm-vQM8AAAAJ:zA6iFVUQeVQC"
     },
     {
@@ -2376,7 +2376,7 @@
         "title": "Modeling techniques for logic locking",
         "pub_year": "2020",
         "citation": "Proceedings of the 39th International Conference on Computer-Aided Design, 1-9, 2020",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "Mm-vQM8AAAAJ:EBV337fEn3EC"
     },
     {
@@ -2390,7 +2390,7 @@
         "title": "Modeling the\" Effective capacitance\" for the RC interconnect of CMOS gates",
         "pub_year": "1994",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 1994",
-        "num_citations": 444,
+        "num_citations": 437,
         "author_pub_id": "Mm-vQM8AAAAJ:epqYDVWIO7EC"
     },
     {
@@ -2432,14 +2432,14 @@
         "title": "NORM: Compact model order reduction of weakly nonlinear systems",
         "pub_year": "2003",
         "citation": "Proceedings of the 40th annual Design Automation Conference, 472-477, 2003",
-        "num_citations": 104,
+        "num_citations": 103,
         "author_pub_id": "Mm-vQM8AAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "NSF Integrated Circuit Research, Education and Workforce Development Workshop Final Report",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2311.02055, 2023",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "Mm-vQM8AAAAJ:wkm4DBaukwsC"
     },
     {
@@ -2460,14 +2460,14 @@
         "title": "Naturally oxidized FeCo as a magnetic coupling layer for electrically isolated read/write paths in mLogic",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Magnetics 49 (7), 4351-4354, 2013",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "Mm-vQM8AAAAJ:gKiMpY-AVTkC"
     },
     {
         "title": "Neurocomputing and associative memories based on ovenized aluminum nitride resonators",
         "pub_year": "2013",
         "citation": "The 2013 International Joint Conference on Neural Networks (IJCNN), 1-8, 2013",
-        "num_citations": 9,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:-jrNzM816MMC"
     },
     {
@@ -2509,7 +2509,7 @@
         "title": "Novel STT-MTJ device enabling all-metallic logic circuits",
         "pub_year": "2012",
         "citation": "IEEE transactions on Magnetics 48 (11), 3215-3218, 2012",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "Mm-vQM8AAAAJ:Ak0FvsSvgGUC"
     },
     {
@@ -2558,7 +2558,7 @@
         "title": "On the efficacy of simplified 2D on-chip inductance models",
         "pub_year": "2002",
         "citation": "Proceedings of the 39th annual Design Automation Conference, 757-762, 2002",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "Mm-vQM8AAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -2579,14 +2579,14 @@
         "title": "On-chip induction modeling: Basics and advanced methods",
         "pub_year": "2002",
         "citation": "IEEE transactions on very large scale integration (VLSI) systems 10 (6), 712-729, 2002",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "Mm-vQM8AAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "On-package decoupling optimization with package macromodels",
         "pub_year": "2003",
         "citation": "Proceedings of the IEEE 2003 Custom Integrated Circuits Conference, 2003 …, 2003",
-        "num_citations": 33,
+        "num_citations": 36,
         "author_pub_id": "Mm-vQM8AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -2613,7 +2613,7 @@
         "title": "Overcoming wireload model uncertainty during physical design",
         "pub_year": "2001",
         "citation": "Proceedings of the 2001 international symposium on Physical design, 182-189, 2001",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "Mm-vQM8AAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -2643,13 +2643,6 @@
         "author_pub_id": "Mm-vQM8AAAAJ:IaI1MmNe2tcC"
     },
     {
-        "title": "PRIMA: PASSIVE INTERCONNECT",
-        "pub_year": "2003",
-        "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 433, 2003",
-        "num_citations": 0,
-        "author_pub_id": "Mm-vQM8AAAAJ:c1AJUTjuCtUC"
-    },
-    {
         "title": "PRIMA: PASSIVE REDUCED-ORDER INTERCONNECT ALGORITHM",
         "pub_year": "2012",
         "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 433, 2012",
@@ -2660,7 +2653,7 @@
         "title": "PRIMA: Passive reduced-order interconnect macromodeling algorithm",
         "pub_year": "2003",
         "citation": "The Best of ICCAD: 20 Years of Excellence in Computer-Aided Design, 433-450, 2003",
-        "num_citations": 2100,
+        "num_citations": 2122,
         "author_pub_id": "Mm-vQM8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -2669,12 +2662,6 @@
         "citation": "Proceedings of the 35th annual conference on Design automation conference-DAC'98, 1998",
         "num_citations": 0,
         "author_pub_id": "Mm-vQM8AAAAJ:_9Xh93LWpsYC"
-    },
-    {
-        "title": "PRIMO: Proba",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "Mm-vQM8AAAAJ:Tfl4UtY-dJUC"
     },
     {
         "title": "PRIMO: Probability Interpretation of Moments for Delay Calculation",
@@ -2694,14 +2681,14 @@
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "Mm-vQM8AAAAJ:M0leSnx2MbUC"
     },
     {
         "title": "Parameterized interconnect order reduction with explicit-and-implicit multi-parameter moment matching for inter/intra-die variations",
         "pub_year": "2005",
         "citation": "ICCAD-2005. IEEE/ACM International Conference on Computer-Aided Design, 2005 …, 2005",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "Mm-vQM8AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -2721,7 +2708,7 @@
         "title": "Parasitics extraction with multipole refinement",
         "pub_year": "2004",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2004",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "Mm-vQM8AAAAJ:XiVPGOgt02cC"
     },
     {
@@ -2742,7 +2729,7 @@
         "title": "Performance computation for precharacterized CMOS gates with RC loads",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 1996",
-        "num_citations": 207,
+        "num_citations": 209,
         "author_pub_id": "Mm-vQM8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -2756,7 +2743,7 @@
         "title": "Phase change random access memory, thermal analysis",
         "pub_year": "2006",
         "citation": "Thermal and Thermomechanical Proceedings 10th Intersociety Conference on …, 2006",
-        "num_citations": 55,
+        "num_citations": 52,
         "author_pub_id": "Mm-vQM8AAAAJ:YohjEiUPhakC"
     },
     {
@@ -2802,13 +2789,6 @@
         "author_pub_id": "Mm-vQM8AAAAJ:0CzhzZyukY4C"
     },
     {
-        "title": "Power Grid Behavioral Patterns and Risks of Generalization in Applied Machine Learning",
-        "pub_year": "2023",
-        "citation": "Companion Proceedings of the 14th ACM International Conference on Future …, 2023",
-        "num_citations": 1,
-        "author_pub_id": "Mm-vQM8AAAAJ:1xBWf43XMUgC"
-    },
-    {
         "title": "Power comparison of throughput optimized IC busses",
         "pub_year": "2003",
         "citation": "IEEE Computer Society Annual Symposium on VLSI, 2003. Proceedings., 35-44, 2003",
@@ -2816,7 +2796,14 @@
         "author_pub_id": "Mm-vQM8AAAAJ:1lhNe0rCu4AC"
     },
     {
-        "title": "PowerCast: Mining and forecasting power grid sequences",
+        "title": "Power grid behavioral patterns and risks of generalization in applied machine learning",
+        "pub_year": "2023",
+        "citation": "Companion Proceedings of the 14th ACM International Conference on Future …, 2023",
+        "num_citations": 1,
+        "author_pub_id": "Mm-vQM8AAAAJ:1xBWf43XMUgC"
+    },
+    {
+        "title": "Powercast: Mining and forecasting power grid sequences",
         "pub_year": "2017",
         "citation": "Machine Learning and Knowledge Discovery in Databases: European Conference …, 2017",
         "num_citations": 40,
@@ -2840,7 +2827,7 @@
         "title": "Proceedings of the 2002 IEEEACM International Conference on Computer-aided Design",
         "pub_year": "2002",
         "citation": "ACM, 2002",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "Mm-vQM8AAAAJ:dAp6zn-oMfAC"
     },
     {
@@ -2868,7 +2855,7 @@
         "title": "Quadratic statistical $ MAX $ approximation for parametric yield estimation of analog/RF integrated circuits",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2008",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "Mm-vQM8AAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -2896,21 +2883,21 @@
         "title": "RC-Interconnect macromodels for timing simulation",
         "pub_year": "1996",
         "citation": "Proceedings of the 33rd annual Design Automation Conference, 544-547, 1996",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "Mm-vQM8AAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "RICE: Rapid interconnect circuit evaluation using AWE",
         "pub_year": "1994",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 1994",
-        "num_citations": 247,
+        "num_citations": 250,
         "author_pub_id": "Mm-vQM8AAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "RICE: Rapid interconnect circuit evaluator",
         "pub_year": "1991",
         "citation": "Proceedings of the 28th ACM/IEEE Design Automation Conference, 555-560, 1991",
-        "num_citations": 208,
+        "num_citations": 209,
         "author_pub_id": "Mm-vQM8AAAAJ:uWiczbcajpAC"
     },
     {
@@ -2937,7 +2924,7 @@
         "title": "Reducing variability in chip-multiprocessors with adaptive body biasing",
         "pub_year": "2010",
         "citation": "Proceedings of the 16th ACM/IEEE international symposium on Low power …, 2010",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "Mm-vQM8AAAAJ:KxtntwgDAa4C"
     },
     {
@@ -2979,7 +2966,7 @@
         "title": "Reliable non-zero skew clock trees using wire width optimization",
         "pub_year": "1993",
         "citation": "Proceedings of the 30th international Design Automation Conference, 165-170, 1993",
-        "num_citations": 126,
+        "num_citations": 125,
         "author_pub_id": "Mm-vQM8AAAAJ:Z5m8FVwuT1cC"
     },
     {
@@ -2990,10 +2977,10 @@
         "author_pub_id": "Mm-vQM8AAAAJ:nVrZBo8bIpAC"
     },
     {
-        "title": "Rice: rapid interconnect circuit evaluation",
+        "title": "Rice: Rapid interconnect circuit evaluator",
         "pub_year": "1991",
-        "citation": "Proc. IEEE/ACM Int. Conf. on Design Automation, 555-560, 1991",
-        "num_citations": 3,
+        "citation": "IEEE Design Automation Conference, 555-560, 1991",
+        "num_citations": 4,
         "author_pub_id": "Mm-vQM8AAAAJ:ODE9OILHJdcC"
     },
     {
@@ -3021,7 +3008,7 @@
         "title": "Robust analog/RF circuit design with projection-based performance modeling",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2006",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "Mm-vQM8AAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -3063,7 +3050,7 @@
         "title": "Robust power flow and three-phase power flow analyses",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Power Systems 34 (1), 616-626, 2018",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "Mm-vQM8AAAAJ:qmtmRrLr0tkC"
     },
     {
@@ -3076,7 +3063,7 @@
     {
         "title": "Routing architecture exploration for regular fabrics",
         "pub_year": "2004",
-        "citation": "Proceedings of the 41st annual Design Automation Conference, 204-207, 2004",
+        "citation": "Proceedings of the 41st Annual Design Automation Conference, 204-207, 2004",
         "num_citations": 26,
         "author_pub_id": "Mm-vQM8AAAAJ:rmuvC79q63oC"
     },
@@ -3111,7 +3098,7 @@
         "title": "SPIE: Sparse partial inductance extraction",
         "pub_year": "1997",
         "citation": "Proceedings of the 34th annual Design Automation Conference, 137-140, 1997",
-        "num_citations": 97,
+        "num_citations": 99,
         "author_pub_id": "Mm-vQM8AAAAJ:8k81kl-MbHgC"
     },
     {
@@ -3139,7 +3126,7 @@
         "title": "STAC: Statistical timing analysis with correlation",
         "pub_year": "2004",
         "citation": "Proceedings of the 41st annual Design Automation Conference, 343-348, 2004",
-        "num_citations": 168,
+        "num_citations": 167,
         "author_pub_id": "Mm-vQM8AAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -3228,7 +3215,7 @@
         "title": "Shedding light on inconsistencies in grid cybersecurity: Disconnects and recommendations",
         "pub_year": "2023",
         "citation": "2023 IEEE Symposium on Security and Privacy (SP), 38-55, 2023",
-        "num_citations": 14,
+        "num_citations": 17,
         "author_pub_id": "Mm-vQM8AAAAJ:oAywNP-vUhwC"
     },
     {
@@ -3241,7 +3228,7 @@
         "title": "Simplify to survive: prescriptive layouts ensure profitable scaling to 32nm and beyond",
         "pub_year": "2009",
         "citation": "Design for Manufacturability through Design-Process Integration III 7275, 53-61, 2009",
-        "num_citations": 75,
+        "num_citations": 74,
         "author_pub_id": "Mm-vQM8AAAAJ:hCrLmN-GePgC"
     },
     {
@@ -3262,14 +3249,14 @@
         "title": "Simultaneous gate and interconnect sizing for circuit-level delay optimization",
         "pub_year": "1995",
         "citation": "Proceedings of the 32nd annual ACM/IEEE Design Automation Conference, 690-695, 1995",
-        "num_citations": 34,
+        "num_citations": 33,
         "author_pub_id": "Mm-vQM8AAAAJ:RHpTSmoSYBkC"
     },
     {
         "title": "Skew and delay optimization for reliable buffered clock trees",
         "pub_year": "1993",
         "citation": "Proceedings of 1993 International Conference on Computer Aided Design (ICCAD …, 1993",
-        "num_citations": 138,
+        "num_citations": 136,
         "author_pub_id": "Mm-vQM8AAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -3338,7 +3325,7 @@
         "title": "Statistical performance modeling and optimization",
         "pub_year": "2007",
         "citation": "Foundations and Trends® in Electronic Design Automation 1 (4), 331-480, 2007",
-        "num_citations": 88,
+        "num_citations": 86,
         "author_pub_id": "Mm-vQM8AAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -3449,14 +3436,14 @@
         "title": "TETA: Transistor-level waveform evaluation for timing analysis",
         "pub_year": "2002",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2002",
-        "num_citations": 32,
+        "num_citations": 30,
         "author_pub_id": "Mm-vQM8AAAAJ:mB3voiENLucC"
     },
     {
         "title": "Taco: Timing analysis with coupling",
         "pub_year": "2000",
         "citation": "Proceedings of the 37th Annual Design Automation Conference, 266-269, 2000",
-        "num_citations": 159,
+        "num_citations": 158,
         "author_pub_id": "Mm-vQM8AAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -3484,21 +3471,21 @@
         "title": "The Elmore Delay",
         "pub_year": "2002",
         "citation": "IC Interconnect Analysis, 25-66, 2002",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "Mm-vQM8AAAAJ:zCSUwVk65WsC"
     },
     {
         "title": "The Elmore delay as bound for RC trees with generalized input signals",
         "pub_year": "1995",
-        "citation": "Proceedings of the 32nd annual ACM/IEEE Design Automation Conference, 364-369, 1995",
-        "num_citations": 340,
+        "citation": "Proceedings of the 32nd Annual ACM/IEEE Design Automation Conference, 364-369, 1995",
+        "num_citations": 336,
         "author_pub_id": "Mm-vQM8AAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "The Tenth Intersociety Conference on ITHERM",
         "pub_year": "2006",
         "citation": "IEEE, May, 660, 2006",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "Mm-vQM8AAAAJ:9pM33mqn1YgC"
     },
     {
@@ -3512,7 +3499,7 @@
         "title": "Thermal analyses of confined cell design for phase change random access memory (PCRAM)",
         "pub_year": "2008",
         "citation": "2008 11th Intersociety Conference on Thermal and Thermomechanical Phenomena …, 2008",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "Mm-vQM8AAAAJ:DUooU5lO8OsC"
     },
     {
@@ -3537,10 +3524,17 @@
         "author_pub_id": "Mm-vQM8AAAAJ:8dzOF9BpDQoC"
     },
     {
+        "title": "Time-Domain Simulation of Variational Interconnect Models",
+        "pub_year": "2002",
+        "citation": "International Symposium on Quality Electronic Design: Proceedings: 18-21 …, 2002",
+        "num_citations": 0,
+        "author_pub_id": "Mm-vQM8AAAAJ:IExZWSxeYXUC"
+    },
+    {
         "title": "Time-domain macromodels for VLSI interconnect analysis",
         "pub_year": "1994",
         "citation": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 1994",
-        "num_citations": 125,
+        "num_citations": 124,
         "author_pub_id": "Mm-vQM8AAAAJ:BUYA1_V_uYcC"
     },
     {
@@ -3575,7 +3569,7 @@
         "title": "Top-down physical design of soft embedded FPGA fabrics",
         "pub_year": "2021",
         "citation": "The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays …, 2021",
-        "num_citations": 18,
+        "num_citations": 20,
         "author_pub_id": "Mm-vQM8AAAAJ:cRMvf6lLvU8C"
     },
     {
@@ -3589,7 +3583,7 @@
         "title": "Toward efficient programming of reconfigurable radio frequency (RF) receivers",
         "pub_year": "2014",
         "citation": "2014 19th Asia and South Pacific Design Automation Conference (ASP-DAC), 256-261, 2014",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "Mm-vQM8AAAAJ:mKu_rENv82IC"
     },
     {
@@ -3600,7 +3594,7 @@
         "author_pub_id": "Mm-vQM8AAAAJ:2Q0AJrNhS-QC"
     },
     {
-        "title": "Towards Practical Physics-Informed ML Design and Evaluation for Power Grid",
+        "title": "Towards practical physics-informed ML design and evaluation for power grid",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2205.03673, 2022",
         "num_citations": 3,
@@ -3610,14 +3604,14 @@
         "title": "Transmission line synthesis",
         "pub_year": "1995",
         "citation": "Proceedings of the 32nd annual ACM/IEEE Design Automation Conference, 358-363, 1995",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "Mm-vQM8AAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Transmission line synthesis via constrained multivariable optimization",
         "pub_year": "1997",
         "citation": "IEEE transactions on computer-aided design of integrated circuits and …, 1997",
-        "num_citations": 29,
+        "num_citations": 27,
         "author_pub_id": "Mm-vQM8AAAAJ:maZDTaKrznsC"
     },
     {
@@ -3644,7 +3638,7 @@
         "title": "Two optimizations to accelerated method-of-moments algorithms for signal integrity analysis of complicated 3-D packages",
         "pub_year": "1995",
         "citation": "Proceedings of Electrical Performance of Electronic Packaging, 213-216, 1995",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "Mm-vQM8AAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -3693,7 +3687,7 @@
         "title": "Variation-tolerant SRAM sense-amplifier timing using configurable replica bitlines",
         "pub_year": "2008",
         "citation": "2008 IEEE Custom Integrated Circuits Conference, 415-418, 2008",
-        "num_citations": 52,
+        "num_citations": 50,
         "author_pub_id": "Mm-vQM8AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -3714,7 +3708,7 @@
         "title": "Why do people tag? Motivations for photo tagging",
         "pub_year": "2010",
         "citation": "Communications of the ACM 53 (7), 128-131, 2010",
-        "num_citations": 245,
+        "num_citations": 240,
         "author_pub_id": "Mm-vQM8AAAAJ:Aul-kAQHnToC"
     },
     {
@@ -3735,28 +3729,28 @@
         "title": "ftd an exact frequency to time domain conversion for reduced order RLC interconnect models",
         "pub_year": "1998",
         "citation": "Proceedings of the 35th annual Design Automation Conference, 469-472, 1998",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "Mm-vQM8AAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "h-gamma: an RC delay metric based on a gamma distribution approximation of the homogeneous response",
         "pub_year": "1998",
         "citation": "Proceedings of the 1998 IEEE/ACM international conference on Computer-aided …, 1998",
-        "num_citations": 117,
+        "num_citations": 116,
         "author_pub_id": "Mm-vQM8AAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "mLogic: All spin logic device and circuits",
         "pub_year": "2015",
         "citation": "2015 Fourth Berkeley Symposium on Energy Efficient Electronic Systems (E3S), 1-2, 2015",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "Mm-vQM8AAAAJ:DyXnQzXoVgIC"
     },
     {
         "title": "mLogic: Ultra-low voltage non-volatile logic circuits using STT-MTJ devices",
         "pub_year": "2012",
         "citation": "Proceedings of the 49th Annual Design Automation Conference, 486-491, 2012",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "Mm-vQM8AAAAJ:4vMrXwiscB8C"
     }
 ]

@@ -14,10 +14,16 @@
         "author_pub_id": "ffUu1PcAAAAJ:OU6Ihb5iCvQC"
     },
     {
+        "title": "325 Performing Fine Phonetic Distinctions: Templates versus Features",
+        "citation": "Invariance and Variability in Speech Processes, 325-345, 0",
+        "num_citations": 0,
+        "author_pub_id": "ffUu1PcAAAAJ:G1UMdFYMoxkC"
+    },
+    {
         "title": "A Bayesian classifier for spectrographic mask estimation for missing feature speech recognition",
         "pub_year": "2004",
         "citation": "Speech Communication 43 (4), 379-393, 2004",
-        "num_citations": 215,
+        "num_citations": 217,
         "author_pub_id": "ffUu1PcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -66,7 +72,7 @@
         "title": "A framework for testing and comparing binaural models",
         "pub_year": "2018",
         "citation": "Hearing Research 360, 92-106, 2018",
-        "num_citations": 34,
+        "num_citations": 35,
         "author_pub_id": "ffUu1PcAAAAJ:PaBasH6fAo0C"
     },
     {
@@ -108,7 +114,7 @@
         "title": "A posteriori estimation of correlated jointly Gaussian mean vectors",
         "pub_year": "1984",
         "citation": "IEEE transactions on pattern analysis and machine intelligence, 530-535, 1984",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "ffUu1PcAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -129,7 +135,7 @@
         "title": "A unified approach for robust speech recognition.",
         "pub_year": "1995",
         "citation": "EUROSPEECH, 481-484, 1995",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "ffUu1PcAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -143,7 +149,7 @@
         "title": "A vector Taylor series approach for environment-independent speech recognition",
         "pub_year": "1996",
         "citation": "1996 IEEE international conference on acoustics, speech, and signal …, 1996",
-        "num_citations": 612,
+        "num_citations": 609,
         "author_pub_id": "ffUu1PcAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -161,17 +167,10 @@
         "author_pub_id": "ffUu1PcAAAAJ:ZqE1mSdD_DYC"
     },
     {
-        "title": "ACOUSTICAL PRE-PROCESSING",
-        "pub_year": "1990",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "ffUu1PcAAAAJ:foquWX3nUaYC"
-    },
-    {
         "title": "ACOUSTICAL, PRE-PR ()(CESSING FOR ROBUST SPOKEN I „ANGUAGE SYSTEMIS",
         "pub_year": "1990",
         "citation": "",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "ffUu1PcAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -198,21 +197,21 @@
         "title": "Acoustical pre-processing for robust speech recognition",
         "pub_year": "1989",
         "citation": "Speech and Natural Language: Proceedings of a Workshop Held at Cape Cod …, 1989",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "ffUu1PcAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Acoustical preprocessing for automatic speech recognition",
         "pub_year": "1989",
         "citation": "DARPA Speech and Natural Language Workshop, 1989",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "ffUu1PcAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Across‐frequency interaction in lateralization of complex binaural stimuli",
         "pub_year": "1994",
         "citation": "The Journal of the Acoustical Society of America 96 (6), 3804-3806, 1994",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ffUu1PcAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -247,7 +246,7 @@
         "title": "An improved DNN-based spectral feature mapping that removes noise and reverberation for robust automatic speech recognition",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1803.09016, 2018",
-        "num_citations": 6,
+        "num_citations": 4,
         "author_pub_id": "ffUu1PcAAAAJ:WHdLCjDvYFkC"
     },
     {
@@ -258,10 +257,10 @@
         "author_pub_id": "ffUu1PcAAAAJ:1lhNe0rCu4AC"
     },
     {
-        "title": "An integrated approach to improve speech recognition rate for non-native speakers",
+        "title": "An integrated approach to improve speech recognition rate for non-native speakers.",
         "pub_year": "2006",
-        "citation": "Ninth International Conference on Spoken Language Processing, 2006",
-        "num_citations": 4,
+        "citation": "INTERSPEECH, 2006",
+        "num_citations": 2,
         "author_pub_id": "ffUu1PcAAAAJ:VL0QpB8kHFEC"
     },
     {
@@ -352,7 +351,7 @@
         "title": "Automatic generation of subword units for speech recognition systems",
         "pub_year": "2002",
         "citation": "IEEE Transactions on Speech and Audio Processing 10 (2), 89-99, 2002",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "ffUu1PcAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -366,14 +365,14 @@
         "title": "Automatic segmentation, classification and clustering of broadcast news audio",
         "pub_year": "1997",
         "citation": "Proc. DARPA speech recognition workshop 1997, 1997",
-        "num_citations": 561,
+        "num_citations": 562,
         "author_pub_id": "ffUu1PcAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Automatic selection of thresholds for signal separation algorithms based on interaural delay.",
         "pub_year": "2010",
         "citation": "INTERSPEECH, 729-732, 2010",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ffUu1PcAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -450,7 +449,7 @@
         "title": "Binaural sound source separation motivated by auditory processing",
         "pub_year": "2011",
         "citation": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "ffUu1PcAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -477,7 +476,7 @@
         "title": "Cepstral compensation by polynomial approximation for environment-independent speech recognition",
         "pub_year": "1996",
         "citation": "Proceeding of Fourth International Conference on Spoken Language Processing …, 1996",
-        "num_citations": 42,
+        "num_citations": 40,
         "author_pub_id": "ffUu1PcAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -502,17 +501,17 @@
         "author_pub_id": "ffUu1PcAAAAJ:p2g8aNsByqUC"
     },
     {
-        "title": "Classifier-based mask estimation for missing feature methods of robust speech recognition",
+        "title": "Classifier-based mask estimation for missing feature methods of robust speech recognition.",
         "pub_year": "2000",
-        "citation": "Sixth International Conference on Spoken Language Processing, 2000",
-        "num_citations": 35,
+        "citation": "INTERSPEECH, 538-541, 2000",
+        "num_citations": 36,
         "author_pub_id": "ffUu1PcAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Cmu-informedia at trecvid 2013 multimedia event detection",
         "pub_year": "2013",
         "citation": "TRECVID 2013 Workshop 1 (2), 5, 2013",
-        "num_citations": 38,
+        "num_citations": 41,
         "author_pub_id": "ffUu1PcAAAAJ:4hFrxpcac9AC"
     },
     {
@@ -568,7 +567,7 @@
         "title": "Compensation for environmental degradation in automatic speech recognition",
         "pub_year": "1997",
         "citation": "Proc. of the ESCA Tutorial and Research Workshop on Robust Speech …, 1997",
-        "num_citations": 94,
+        "num_citations": 93,
         "author_pub_id": "ffUu1PcAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -595,15 +594,15 @@
     {
         "title": "Continuous feature adaptation for non-native speech recognition",
         "pub_year": "2007",
-        "citation": "International Journal of Computer and Information Engineering 1 (6), 1701-1708, 2007",
-        "num_citations": 13,
+        "citation": "International Journal of Computer, Information Science and Engineering 1 (6 …, 2007",
+        "num_citations": 14,
         "author_pub_id": "ffUu1PcAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Creating multi-modal, user-centric records of meetings with the carnegie mellon meeting recorder architecture",
         "pub_year": "2004",
         "citation": "Carnegie Mellon University, 2004",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "ffUu1PcAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -617,21 +616,21 @@
         "title": "Data-driven environmental compensation for speech recognition: A unified approach",
         "pub_year": "1998",
         "citation": "Speech Communication 24 (4), 267-285, 1998",
-        "num_citations": 99,
+        "num_citations": 97,
         "author_pub_id": "ffUu1PcAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Decisions about features",
         "pub_year": "1982",
         "citation": "The Journal of the Acoustical Society of America 72 (S1), S32-S32, 1982",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "ffUu1PcAAAAJ:eMMeJKvmdy0C"
     },
     {
         "title": "Delta-spectral cepstral coefficients for robust speech recognition",
         "pub_year": "2011",
         "citation": "2011 IEEE International conference on acoustics, speech and signal …, 2011",
-        "num_citations": 157,
+        "num_citations": 159,
         "author_pub_id": "ffUu1PcAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -641,8 +640,9 @@
         "author_pub_id": "ffUu1PcAAAAJ:qwy9JoKyICEC"
     },
     {
-        "title": "Department of Electrical Engineering and Biomedical Engineering Progranl Carnegie-Mellon University Pittsburgh, Pennsylvania 15213 USA",
-        "citation": "HEARING-Physiological Bases and Psychophysics, 209, 0",
+        "title": "Department of Electrical Engineering and Biomedical Engineering Program Carnegie-Mellon University Pittsburgh, Pennsylvania 15213 USA",
+        "pub_year": "1980",
+        "citation": "Psychophysical, Physiological and Behavioural Studies in Hearing …, 1980",
         "num_citations": 0,
         "author_pub_id": "ffUu1PcAAAAJ:XD-gHx7UXLsC"
     },
@@ -658,6 +658,13 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "ffUu1PcAAAAJ:pS0ncopqnHgC"
+    },
+    {
+        "title": "Der Turm: Roman",
+        "pub_year": "1974",
+        "citation": "Scherz, 1974",
+        "num_citations": 1,
+        "author_pub_id": "ffUu1PcAAAAJ:hvmnpdAuIbkC"
     },
     {
         "title": "Der Turm: flammendes Inferno: Roman",
@@ -733,7 +740,7 @@
         "title": "Discrimination of symmetric time‐intensity traded binaural stimuli",
         "pub_year": "1979",
         "citation": "The Journal of the Acoustical Society of America 66 (6), 1733-1737, 1979",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "ffUu1PcAAAAJ:rO6llkc54NcC"
     },
     {
@@ -747,7 +754,7 @@
         "title": "Distortion-class modeling for robust speech recognition under GSM RPE-LTP coding",
         "pub_year": "2001",
         "citation": "Speech Communication 34 (1-2), 213-225, 2001",
-        "num_citations": 18,
+        "num_citations": 12,
         "author_pub_id": "ffUu1PcAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -803,21 +810,21 @@
         "title": "Dynamic methods for measuring the elastic properties of solids",
         "pub_year": "2001",
         "citation": "(No Title), 2001",
-        "num_citations": 14,
+        "num_citations": 8,
         "author_pub_id": "ffUu1PcAAAAJ:yxmsSjX2EkcC"
     },
     {
         "title": "Dynamic speaker adaptation for feature-based isolated word recognition",
         "pub_year": "1987",
         "citation": "IEEE transactions on acoustics, speech, and signal processing 35 (6), 751-763, 1987",
-        "num_citations": 66,
+        "num_citations": 64,
         "author_pub_id": "ffUu1PcAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Dynamic speaker adaptation for isolated letter recognition using MAP estimation",
         "pub_year": "1983",
         "citation": "ICASSP'83. IEEE International Conference on Acoustics, Speech, and Signal …, 1983",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "ffUu1PcAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -871,21 +878,21 @@
         "title": "Efficient cepstral normalization for robust speech recognition",
         "pub_year": "1993",
         "citation": "Human Language Technology: Proceedings of a Workshop Held at Plainsboro, New …, 1993",
-        "num_citations": 233,
+        "num_citations": 228,
         "author_pub_id": "ffUu1PcAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Efficient joint compensation of speech for the effects of additive noise and linear filtering",
         "pub_year": "1992",
         "citation": "[Proceedings] ICASSP-92: 1992 IEEE International Conference on Acoustics …, 1992",
-        "num_citations": 146,
+        "num_citations": 144,
         "author_pub_id": "ffUu1PcAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Efficient real spherical harmonic representation of head-related transfer functions",
         "pub_year": "2015",
         "citation": "IEEE Journal of Selected Topics in Signal Processing 9 (5), 921-930, 2015",
-        "num_citations": 91,
+        "num_citations": 90,
         "author_pub_id": "ffUu1PcAAAAJ:3htObqc8RwsC"
     },
     {
@@ -920,7 +927,7 @@
         "title": "Environmental robustness in automatic speech recognition",
         "pub_year": "1990",
         "citation": "International Conference on Acoustics, Speech, and Signal Processing, 849-852, 1990",
-        "num_citations": 1064,
+        "num_citations": 1052,
         "author_pub_id": "ffUu1PcAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -975,7 +982,7 @@
         "title": "Fast computation of the difference of low-pass transform",
         "pub_year": "1984",
         "citation": "IEEE transactions on pattern analysis and machine intelligence, 212-222, 1984",
-        "num_citations": 199,
+        "num_citations": 197,
         "author_pub_id": "ffUu1PcAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -989,13 +996,13 @@
         "title": "Feature extraction for robust speech recognition based on maximizing the sharpness of the power distribution and on power flooring",
         "pub_year": "2010",
         "citation": "2010 IEEE international conference on acoustics, speech and signal …, 2010",
-        "num_citations": 150,
+        "num_citations": 149,
         "author_pub_id": "ffUu1PcAAAAJ:_Qo2XoVZTnwC"
     },
     {
-        "title": "Feature extraction for robust speech recognition using a power-law nonlinearity and power-bias subtraction",
+        "title": "Feature extraction for robust speech recognition using a power-law nonlinearity and power-bias subtraction.",
         "pub_year": "2009",
-        "citation": "tenth annual conference of the international speech communication association, 2009",
+        "citation": "Interspeech 10, 2009",
         "num_citations": 119,
         "author_pub_id": "ffUu1PcAAAAJ:qUcmZB5y_30C"
     },
@@ -1017,7 +1024,7 @@
         "title": "Feature-based speaker-independent recognition of isolated English letters",
         "pub_year": "1983",
         "citation": "ICASSP'83. IEEE International Conference on Acoustics, Speech, and Signal …, 1983",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "ffUu1PcAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -1079,7 +1086,7 @@
         "title": "Gammatone sub-band magnitude-domain dereverberation for ASR",
         "pub_year": "2011",
         "citation": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "ffUu1PcAAAAJ:J-pR_7NvFogC"
     },
     {
@@ -1093,14 +1100,14 @@
         "title": "Hearing is believing: Biologically inspired methods for robust automatic speech recognition",
         "pub_year": "2012",
         "citation": "IEEE signal processing magazine 29 (6), 34-43, 2012",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "ffUu1PcAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "Highly-reverberant real environment database: Hrre",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1801.09651, 2018",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "ffUu1PcAAAAJ:IaI1MmNe2tcC"
     },
     {
@@ -1162,7 +1169,7 @@
         "title": "Inference of missing spectrographic features for robust speech recognition.",
         "pub_year": "1998",
         "citation": "ICSLP 98, 1491-1494, 1998",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "ffUu1PcAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -1190,7 +1197,7 @@
         "title": "Instantaneous-distortion based weighted acoustic modeling for robust recognition of coded speech.",
         "pub_year": "2000",
         "citation": "INTERSPEECH, 842-845, 2000",
-        "num_citations": 0,
+        "num_citations": 2,
         "author_pub_id": "ffUu1PcAAAAJ:W5xh706n7nkC"
     },
     {
@@ -1204,7 +1211,7 @@
         "title": "Interaural correlation as the basis of a working model of binaural processing: an introduction",
         "pub_year": "2005",
         "citation": "Sound source localization, 238-271, 2005",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "ffUu1PcAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -1281,7 +1288,7 @@
         "title": "Lateralization of bands of noise: Effects of bandwidth and differences of interaural time and phase",
         "pub_year": "1989",
         "citation": "The Journal of the Acoustical Society of America 86 (4), 1285-1293, 1989",
-        "num_citations": 111,
+        "num_citations": 108,
         "author_pub_id": "ffUu1PcAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -1294,7 +1301,7 @@
         "title": "Lateralization of complex binaural stimuli: A weighted‐image model",
         "pub_year": "1988",
         "citation": "The Journal of the Acoustical Society of America 84 (1), 156-165, 1988",
-        "num_citations": 233,
+        "num_citations": 237,
         "author_pub_id": "ffUu1PcAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1374,24 +1381,24 @@
         "author_pub_id": "ffUu1PcAAAAJ:UxriW0iASnsC"
     },
     {
-        "title": "Least squares signal declipping for robust speech recognition",
+        "title": "Least squares signal declipping for robust speech recognition.",
         "pub_year": "2014",
-        "citation": "Fifteenth Annual Conference of the International Speech Communication …, 2014",
-        "num_citations": 35,
+        "citation": "Interspeech 4, 4-8, 2014",
+        "num_citations": 36,
         "author_pub_id": "ffUu1PcAAAAJ:cWzG1nlazyYC"
     },
     {
         "title": "Likelihood-maximizing beamforming for robust hands-free speech recognition",
         "pub_year": "2004",
         "citation": "IEEE Transactions on speech and audio processing 12 (5), 489-498, 2004",
-        "num_citations": 192,
+        "num_citations": 189,
         "author_pub_id": "ffUu1PcAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Locally normalized filter banks applied to deep neural-network-based robust speech recognition",
         "pub_year": "2017",
         "citation": "IEEE Signal Processing Letters 24 (4), 377-381, 2017",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "ffUu1PcAAAAJ:4xDN1ZYqzskC"
     },
     {
@@ -1425,7 +1432,7 @@
         "title": "Maximum-likelihood-based cepstral inverse filtering for blind speech dereverberation",
         "pub_year": "2010",
         "citation": "2010 IEEE International Conference on Acoustics, Speech and Signal …, 2010",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "ffUu1PcAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -1446,14 +1453,14 @@
         "title": "Missing feature speech recognition using dereverberation and echo suppression in reverberant environments",
         "pub_year": "2007",
         "citation": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "ffUu1PcAAAAJ:ldfaerwXgEUC"
     },
     {
         "title": "Missing-feature approaches in speech recognition",
         "pub_year": "2005",
         "citation": "IEEE Signal Processing Magazine 22 (5), 101-116, 2005",
-        "num_citations": 292,
+        "num_citations": 293,
         "author_pub_id": "ffUu1PcAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -1474,35 +1481,35 @@
         "title": "Model compensation and matched condition methods for robust speech recognition",
         "pub_year": "2018",
         "citation": "Noise reduction in speech applications, 245-275, 2018",
-        "num_citations": 29,
+        "num_citations": 28,
         "author_pub_id": "ffUu1PcAAAAJ:RHpTSmoSYBkC"
     },
     {
-        "title": "Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models",
+        "title": "Modeling analog dynamic range compressors using deep learning and state-space models",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2403.16331, 2024",
-        "num_citations": 3,
+        "num_citations": 5,
         "author_pub_id": "ffUu1PcAAAAJ:4aZ_i-5WJEQC"
     },
     {
         "title": "Models of binaural interaction",
         "pub_year": "1995",
         "citation": "Handbook of perception and cognition 6, 347-386, 1995",
-        "num_citations": 132,
+        "num_citations": 131,
         "author_pub_id": "ffUu1PcAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Models of binaural perception",
         "pub_year": "1997",
         "citation": "Binaural and spatial hearing in real and virtual environments 24, 499-531, 1997",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "ffUu1PcAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Multi-microphone correlation-based processing for robust speech recognition",
         "pub_year": "1993",
         "citation": "1993 IEEE International Conference on Acoustics, Speech, and Signal …, 1993",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "ffUu1PcAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1516,7 +1523,7 @@
         "title": "Multivariate-Gaussian-based cepstral normalization for robust speech recognition",
         "pub_year": "1995",
         "citation": "1995 International Conference on Acoustics, Speech, and Signal Processing 1 …, 1995",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "ffUu1PcAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1529,8 +1536,8 @@
     {
         "title": "N-Best list rescoring using syntactic trigrams",
         "pub_year": "2004",
-        "citation": "MICAI 2004: Advances in Artificial Intelligence: Third Mexican International …, 2004",
-        "num_citations": 7,
+        "citation": "Mexican International Conference on Artificial Intelligence, 79-88, 2004",
+        "num_citations": 8,
         "author_pub_id": "ffUu1PcAAAAJ:dshw04ExmUIC"
     },
     {
@@ -1544,7 +1551,7 @@
         "title": "Nonlinear enhancement of onset for robust speech recognition.",
         "pub_year": "2010",
         "citation": "INTERSPEECH, 2058-2061, 2010",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "ffUu1PcAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -1614,7 +1621,7 @@
         "title": "Optimization of the DET curve in speaker verification",
         "pub_year": "2012",
         "citation": "2012 IEEE Spoken Language Technology Workshop (SLT), 318-323, 2012",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ffUu1PcAAAAJ:S16KYo8Pm5AC"
     },
     {
@@ -1663,7 +1670,7 @@
         "title": "Parsing spoken phrases despite missing words.",
         "pub_year": "1988",
         "citation": "ICASSP, 275-278, 1988",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "ffUu1PcAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -1684,7 +1691,7 @@
         "title": "Perception of simultaneously presented musical timbres",
         "pub_year": "1972",
         "citation": "",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "ffUu1PcAAAAJ:sszUF3NjhM4C"
     },
     {
@@ -1698,7 +1705,7 @@
         "title": "Performing fine phonetic distinctions: templates versus features",
         "pub_year": "2014",
         "citation": "Invariance and variability in speech processes, 325-345, 2014",
-        "num_citations": 71,
+        "num_citations": 69,
         "author_pub_id": "ffUu1PcAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1709,9 +1716,9 @@
         "author_pub_id": "ffUu1PcAAAAJ:vRqMK49ujn8C"
     },
     {
-        "title": "Physiologically-motivated synchrony-based processing for robust automatic speech recognition",
+        "title": "Physiologically-motivated synchrony-based processing for robust automatic speech recognition.",
         "pub_year": "2006",
-        "citation": "Ninth International Conference on Spoken Language Processing, 2006",
+        "citation": "INTERSPEECH, 2006",
         "num_citations": 39,
         "author_pub_id": "ffUu1PcAAAAJ:bEWYMUwI8FkC"
     },
@@ -1754,7 +1761,7 @@
         "title": "Profile view lip reading",
         "pub_year": "2007",
         "citation": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "ffUu1PcAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -1801,7 +1808,7 @@
         "title": "Reconstruction of missing features for robust speech recognition",
         "pub_year": "2004",
         "citation": "Speech communication 43 (4), 275-296, 2004",
-        "num_citations": 282,
+        "num_citations": 284,
         "author_pub_id": "ffUu1PcAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1862,7 +1869,7 @@
         "title": "Robust Speech Recognition Based on Binaural Auditory Processing.",
         "pub_year": "2017",
         "citation": "INTERSPEECH, 3872-3876, 2017",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "ffUu1PcAAAAJ:wMgC3FpKEyYC"
     },
     {
@@ -1875,8 +1882,8 @@
     {
         "title": "Robust features in deep-learning-based speech recognition",
         "pub_year": "2017",
-        "citation": "New Era for Robust Speech Recognition: Exploiting Deep Learning, 187-217, 2017",
-        "num_citations": 40,
+        "citation": "New era for robust speech recognition: Exploiting deep learning, 187-217, 2017",
+        "num_citations": 39,
         "author_pub_id": "ffUu1PcAAAAJ:vDZJ-YLwNdEC"
     },
     {
@@ -1890,7 +1897,7 @@
         "title": "Robust signal-to-noise ratio estimation based on waveform amplitude distribution analysis.",
         "pub_year": "2008",
         "citation": "Interspeech, 2598-2601, 2008",
-        "num_citations": 222,
+        "num_citations": 223,
         "author_pub_id": "ffUu1PcAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -1904,7 +1911,7 @@
         "title": "Robust speech recognition by normalization of the acoustic space.",
         "pub_year": "1991",
         "citation": "icassp 91, 893-896, 1991",
-        "num_citations": 192,
+        "num_citations": 195,
         "author_pub_id": "ffUu1PcAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1971,6 +1978,13 @@
         "author_pub_id": "ffUu1PcAAAAJ:Dip1O2bNi0gC"
     },
     {
+        "title": "SUBJECTIVE LATERAL POSITION AND INTERAURAL DISCRIMINATION",
+        "pub_year": "1983",
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "ffUu1PcAAAAJ:k8Z6L05lTy4C"
+    },
+    {
         "title": "SUBJECTIVE LATERALITY OF NOISE-MASKED BINAURAL TARGETS",
         "pub_year": "1980",
         "citation": "Psychophysical, Physiological and Behavioural Studies in Hearing …, 1980",
@@ -2009,7 +2023,7 @@
         "title": "Signal and feature compensation methods for robust speech recognition",
         "pub_year": "2018",
         "citation": "Noise reduction in speech applications, 219-244, 2018",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "ffUu1PcAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -2023,14 +2037,14 @@
         "title": "Signal processing for robust speech recognition",
         "pub_year": "1994",
         "citation": "Human Language Technology: Proceedings of a Workshop held at Plainsboro, New …, 1994",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "ffUu1PcAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Signal separation for robust speech recognition based on phase difference information obtained in the frequency domain.",
         "pub_year": "2009",
         "citation": "INTERSPEECH, 2495-2498, 2009",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "ffUu1PcAAAAJ:blknAaTinKkC"
     },
     {
@@ -2086,7 +2100,7 @@
         "title": "Sources of degradation of speech recognition in the telephone network",
         "pub_year": "1994",
         "citation": "Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech …, 1994",
-        "num_citations": 107,
+        "num_citations": 109,
         "author_pub_id": "ffUu1PcAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -2104,13 +2118,6 @@
         "author_pub_id": "ffUu1PcAAAAJ:3s1wT3WcHBgC"
     },
     {
-        "title": "Speaker Segmentation and Clustering for Simultaneously Presented Speech",
-        "pub_year": "2009",
-        "citation": "Tenth Annual Conference of the International Speech Communication Association, 2009",
-        "num_citations": 1,
-        "author_pub_id": "ffUu1PcAAAAJ:ipzZ9siozwsC"
-    },
-    {
         "title": "Speaker adaptation and environmental compensation for the 1996 broadcast news task",
         "pub_year": "1997",
         "citation": "Proc. DARPA Speech Recognition Workshop, 119-122, 1997",
@@ -2120,8 +2127,8 @@
     {
         "title": "Speaker adaptation in continuous speech recognition via estimation of correlated mean vectors",
         "pub_year": "1991",
-        "citation": "Thèse de Doctorat, Carnegie Mellon University, Pittsburg Pennsylvania, 1991",
-        "num_citations": 34,
+        "citation": "Carnegie Mellon University, 1991",
+        "num_citations": 33,
         "author_pub_id": "ffUu1PcAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -2130,6 +2137,13 @@
         "citation": "Eurospeech, 1139-1142, 1997",
         "num_citations": 57,
         "author_pub_id": "ffUu1PcAAAAJ:aqlVkmm33-oC"
+    },
+    {
+        "title": "Speaker segmentation and clustering for simultaneously presented speech.",
+        "pub_year": "2009",
+        "citation": "Interspeech, 2551-2554, 2009",
+        "num_citations": 1,
+        "author_pub_id": "ffUu1PcAAAAJ:ipzZ9siozwsC"
     },
     {
         "title": "Specification of the 1995 ARPA hub 3 evaluation: Unlimited vocabulary NAB news baseline",
@@ -2142,35 +2156,35 @@
         "title": "Specification of the 1996 Hub4 broadcast news evaluation",
         "pub_year": "1997",
         "citation": "Proc. ARPA Speech Recognition Workshop, 7-10, 1997",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "ffUu1PcAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Speech in noisy environments: robust automatic segmentation, feature extraction, and hypothesis combination",
         "pub_year": "2001",
         "citation": "2001 IEEE International Conference on Acoustics, Speech, and Signal …, 2001",
-        "num_citations": 95,
+        "num_citations": 94,
         "author_pub_id": "ffUu1PcAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Speech recognition from GSM codec parameters.",
         "pub_year": "1998",
         "citation": "ICSLP, 1463-1466, 1998",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "ffUu1PcAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Speech recognizer-based microphone array processing for robust hands-free speech recognition",
         "pub_year": "2002",
         "citation": "2002 IEEE International Conference on Acoustics, Speech, and Signal …, 2002",
-        "num_citations": 34,
+        "num_citations": 31,
         "author_pub_id": "ffUu1PcAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Speech understanding in open tasks",
         "pub_year": "1992",
         "citation": "Speech and Natural Language: Proceedings of a Workshop Held at Harriman, New …, 1992",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "ffUu1PcAAAAJ:RYcK_YlVTxYC"
     },
     {
@@ -2184,7 +2198,7 @@
         "title": "Structured redefinition of sound units by merging and splitting for improved speech recognition.",
         "pub_year": "2000",
         "citation": "INTERSPEECH, 151-154, 2000",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "ffUu1PcAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -2212,15 +2226,8 @@
         "title": "Subband parameter optimization of microphone arrays for speech recognition in reverberant environments",
         "pub_year": "2003",
         "citation": "2003 IEEE International Conference on Acoustics, Speech, and Signal …, 2003",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "ffUu1PcAAAAJ:J_g5lzvAfSwC"
-    },
-    {
-        "title": "Subjective Lateral Position and Interaural Discrimination",
-        "pub_year": "1983",
-        "citation": "",
-        "num_citations": 2,
-        "author_pub_id": "ffUu1PcAAAAJ:k8Z6L05lTy4C"
     },
     {
         "title": "Suppression of Slowly-Varying Components and Offset of Power Contour for Robust Speech Recognition",
@@ -2236,10 +2243,17 @@
         "author_pub_id": "ffUu1PcAAAAJ:buQ7SEKw-1sC"
     },
     {
+        "title": "THE EFFECTS OF BACKGROUND MUSIC",
+        "pub_year": "1997",
+        "citation": "Proceedings: April, 21-24, 1997, Munich, Germany. Plenary, expert summaries …, 1997",
+        "num_citations": 0,
+        "author_pub_id": "ffUu1PcAAAAJ:RuPIJ_LgqDgC"
+    },
+    {
         "title": "Temporal Context in Speech Emotion Recognition.",
         "pub_year": "2021",
         "citation": "Interspeech 2021, 3370-3374, 2021",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "ffUu1PcAAAAJ:v6i8RKmR8ToC"
     },
     {
@@ -2253,14 +2267,14 @@
         "title": "The 1997 CMU Sphinx-3 English broadcast news transcription system",
         "pub_year": "1998",
         "citation": "Carnegie Mellon University, 1998",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "ffUu1PcAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "The 1998 carnegie mellon university sphinx-3 spanish broadcast news transcription system",
         "pub_year": "1999",
-        "citation": "Proc. of the DARPA Broadcast News Transcription and Understanding Workshop, 1999",
-        "num_citations": 18,
+        "citation": "Proc. DARPA Broadcast News Workshop, 175-178, 1999",
+        "num_citations": 17,
         "author_pub_id": "ffUu1PcAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -2309,14 +2323,14 @@
         "title": "The effects of background music on speech recognition accuracy",
         "pub_year": "1997",
         "citation": "1997 IEEE International Conference on Acoustics, Speech, and Signal …, 1997",
-        "num_citations": 61,
+        "num_citations": 60,
         "author_pub_id": "ffUu1PcAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "The fMRI data of Thompson et al.(2006) do not constrain how the human midbrain represents interaural time delay",
         "pub_year": "2019",
         "citation": "Journal of the Association for Research in Otolaryngology 20, 305-311, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "ffUu1PcAAAAJ:q-HalDI95KYC"
     },
     {
@@ -2344,7 +2358,7 @@
         "title": "The role of consistency of interaural timing over frequency in binaural lateralization",
         "pub_year": "1992",
         "citation": "Auditory physiology and perception, 547-554, 1992",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "ffUu1PcAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -2365,14 +2379,14 @@
         "title": "The towering inferno",
         "pub_year": "1974",
         "citation": "(No Title), 1974",
-        "num_citations": 10,
+        "num_citations": 8,
         "author_pub_id": "ffUu1PcAAAAJ:HJSXoJQnj-YC"
     },
     {
         "title": "Theory of binaural interaction based on auditory‐nerve data. IV. A model for subjective lateral position",
         "pub_year": "1978",
         "citation": "The Journal of the Acoustical Society of America 64 (1), 127-140, 1978",
-        "num_citations": 239,
+        "num_citations": 249,
         "author_pub_id": "ffUu1PcAAAAJ:BwyfMAYsbu0C"
     },
     {
@@ -2397,9 +2411,9 @@
         "author_pub_id": "ffUu1PcAAAAJ:NMxIlDl6LWMC"
     },
     {
-        "title": "Towards fusion of feature extraction and acoustic model training: A top down process for robust speech recognition",
+        "title": "Towards fusion of feature extraction and acoustic model training: a top down process for robust speech recognition.",
         "pub_year": "2009",
-        "citation": "Tenth Annual Conference of the International Speech Communication Association, 2009",
+        "citation": "INTERSPEECH, 32-35, 2009",
         "num_citations": 9,
         "author_pub_id": "ffUu1PcAAAAJ:08ZZubdj9fEC"
     },
@@ -2435,7 +2449,7 @@
         "title": "Two-microphone source separation algorithm based on statistical modeling of angle distributions",
         "pub_year": "2012",
         "citation": "2012 IEEE International Conference on Acoustics, Speech and Signal …, 2012",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ffUu1PcAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -2451,13 +2465,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "ffUu1PcAAAAJ:JQOojiI6XY0C"
-    },
-    {
-        "title": "Unsupervised Training Scheme with Non-Stereo Data for Empirical Feature Vector Compensation",
-        "pub_year": "2009",
-        "citation": "Tenth Annual Conference of the International Speech Communication Association, 2009",
-        "num_citations": 0,
-        "author_pub_id": "ffUu1PcAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Unsupervised Voice Type Discrimination Score Adaptation Using X-Vector Clusters",
@@ -2481,6 +2488,13 @@
         "author_pub_id": "ffUu1PcAAAAJ:bnK-pcrLprsC"
     },
     {
+        "title": "Unsupervised training scheme with non-stereo data for empirical feature vector compensation.",
+        "pub_year": "2009",
+        "citation": "INTERSPEECH, 1247-1250, 2009",
+        "num_citations": 0,
+        "author_pub_id": "ffUu1PcAAAAJ:eq2jaN3J8jMC"
+    },
+    {
         "title": "Use of FM pulses to measure acoustic backscatter from rough plane surfaces",
         "pub_year": "1971",
         "citation": "The Journal of the Acoustical Society of America 49 (5B), 1464-1474, 1971",
@@ -2488,9 +2502,9 @@
         "author_pub_id": "ffUu1PcAAAAJ:lgwcVrK6X84C"
     },
     {
-        "title": "Using class weighting in inter-class MLLR",
+        "title": "Using class weighting in inter-class MLLR.",
         "pub_year": "2000",
-        "citation": "Sixth International Conference on Spoken Language Processing, 2000",
+        "citation": "INTERSPEECH, 560-563, 2000",
         "num_citations": 1,
         "author_pub_id": "ffUu1PcAAAAJ:WA5NYHcadZ8C"
     },
@@ -2505,7 +2519,7 @@
         "title": "Vector polynomial approximations for robust speech recognition",
         "pub_year": "1997",
         "citation": "Proc. of the ESCA Workshop ETRW on Speech Processing in Adverse Conditions …, 1997",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "ffUu1PcAAAAJ:mvPsJ3kp5DgC"
     },
     {

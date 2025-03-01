@@ -51,7 +51,7 @@
         "title": "A survey of smart data pricing: Past proposals, current plans, and future trends",
         "pub_year": "2013",
         "citation": "Acm computing surveys (csur) 46 (2), 1-37, 2013",
-        "num_citations": 284,
+        "num_citations": 286,
         "author_pub_id": "XEztdZgAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -65,8 +65,15 @@
         "title": "AMUSE: Empowering users for cost-aware offloading with throughput-delay tradeoffs",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Mobile Computing 15 (5), 1062-1076, 2015",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "XEztdZgAAAAJ:0EnyYjriUFMC"
+    },
+    {
+        "title": "ASC",
+        "pub_year": "2019",
+        "citation": "Proceedings of the Fourth Workshop on International Science of Smart City …, 2019",
+        "num_citations": 0,
+        "author_pub_id": "XEztdZgAAAAJ:FAceZFleit8C"
     },
     {
         "title": "ASC: Actuation system for city-wide crowdsensing with ride-sharing vehicular platform",
@@ -135,7 +142,7 @@
         "title": "Batch-size independent regret bounds for combinatorial semi-bandits with probabilistically triggered arms or independent arms",
         "pub_year": "2022",
         "citation": "Advances in Neural Information Processing Systems 35, 14904-14916, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "XEztdZgAAAAJ:VLnqNzywnoUC"
     },
     {
@@ -212,7 +219,7 @@
         "title": "Coded edge computing",
         "pub_year": "2020",
         "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 237-246, 2020",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "XEztdZgAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -240,7 +247,7 @@
         "title": "DYNAMITE: Dynamic Interplay of Mini-Batch Size and Aggregation Frequency for Federated Learning with Static and Streaming Dataset",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Mobile Computing, 2023",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "XEztdZgAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -261,14 +268,14 @@
         "title": "Discovering valuations and enforcing truthfulness in a deadline-aware scheduler",
         "pub_year": "2017",
         "citation": "IEEE INFOCOM 2017-IEEE Conference on Computer Communications, 1-9, 2017",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "XEztdZgAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Distributed inference acceleration with adaptive DNN partitioning and offloading",
         "pub_year": "2020",
         "citation": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications, 854-863, 2020",
-        "num_citations": 206,
+        "num_citations": 212,
         "author_pub_id": "XEztdZgAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -289,7 +296,7 @@
         "title": "Dynamic coupling strategy for interdependent network systems against cascading failures",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Network Science and Engineering 10 (4), 2265-2282, 2023",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "XEztdZgAAAAJ:Fu2w8maKXqMC"
     },
     {
@@ -324,7 +331,7 @@
         "title": "Edge-assisted collaborative image recognition for mobile augmented reality",
         "pub_year": "2021",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 18 (1), 1-31, 2021",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "XEztdZgAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -344,13 +351,13 @@
         "title": "Efficient federated learning against heterogeneous and non-stationary client unavailability",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2409.17446, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "XEztdZgAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Empowering Federated Learning with Implicit Gossiping: Mitigating Connection Unreliability Amidst Unknown and Arbitrary Dynamics",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.10091, 2024",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Signal Processing, 2025",
         "num_citations": 0,
         "author_pub_id": "XEztdZgAAAAJ:-FonjvnnhkoC"
     },
@@ -372,7 +379,7 @@
         "title": "Evaluating the Optimality of Dynamic Coupling Strategies in Interdependent Network Systems",
         "pub_year": "2023",
         "citation": "ICC 2023-IEEE International Conference on Communications, 1474-1480, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "XEztdZgAAAAJ:BwyfMAYsbu0C"
     },
     {
@@ -417,13 +424,6 @@
         "author_pub_id": "XEztdZgAAAAJ:i2xiXl-TujoC"
     },
     {
-        "title": "FedBaF: Federated Learning Aggregation Biased by a Foundation Model",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2410.18352, 2024",
-        "num_citations": 1,
-        "author_pub_id": "XEztdZgAAAAJ:_axFR9aDTf0C"
-    },
-    {
         "title": "FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2412.16144, 2024",
@@ -434,7 +434,7 @@
         "title": "FedGCN: Convergence-communication tradeoffs in federated training of graph convolutional networks",
         "pub_year": "2024",
         "citation": "Advances in neural information processing systems 36, 2024",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "XEztdZgAAAAJ:uLbwQdceFCQC"
     },
     {
@@ -448,22 +448,15 @@
         "title": "FedML-HE: An efficient homomorphic-encryption-based privacy-preserving federated learning system",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.10837, 2023",
-        "num_citations": 38,
+        "num_citations": 50,
         "author_pub_id": "XEztdZgAAAAJ:ML0RJ9NH7IQC"
     },
     {
         "title": "FedRule: Federated rule recommendation system with graph neural networks",
         "pub_year": "2023",
         "citation": "Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and …, 2023",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "XEztdZgAAAAJ:0KyAp5RtaNEC"
-    },
-    {
-        "title": "FedSPD: A Soft-clustering Approach for Personalized Decentralized Federated Learning",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2410.18862, 2024",
-        "num_citations": 0,
-        "author_pub_id": "XEztdZgAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "FedTLU: Federated Learning with Targeted Layer Updates",
@@ -473,10 +466,17 @@
         "author_pub_id": "XEztdZgAAAAJ:4fGpz3EwCPoC"
     },
     {
+        "title": "Fedbaf: Federated learning aggregation biased by a foundation model",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2410.18352, 2024",
+        "num_citations": 1,
+        "author_pub_id": "XEztdZgAAAAJ:_axFR9aDTf0C"
+    },
+    {
         "title": "Federated Communication-Efficient Multi-Objective Optimization",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2410.16398, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "XEztdZgAAAAJ:86PQX7AUzd4C"
     },
     {
@@ -508,11 +508,25 @@
         "author_pub_id": "XEztdZgAAAAJ:xtoqd-5pKcoC"
     },
     {
+        "title": "Fedsecurity: Benchmarking attacks and defenses in federated learning and federated llms",
+        "pub_year": "2023",
+        "citation": "",
+        "num_citations": 1,
+        "author_pub_id": "XEztdZgAAAAJ:GtLg2Ama23sC"
+    },
+    {
         "title": "Fedsoft: Soft clustered federated learning with proximal local updating",
         "pub_year": "2022",
         "citation": "Proceedings of the AAAI conference on artificial intelligence 36 (7), 8124-8131, 2022",
-        "num_citations": 96,
+        "num_citations": 98,
         "author_pub_id": "XEztdZgAAAAJ:dQ2og3OwTAUC"
+    },
+    {
+        "title": "Fedspd: A soft-clustering approach for personalized decentralized federated learning",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2410.18862, 2024",
+        "num_citations": 1,
+        "author_pub_id": "XEztdZgAAAAJ:rmuvC79q63oC"
     },
     {
         "title": "Fire: A failure-adaptive reinforcement learning framework for edge computing migrations",
@@ -525,14 +539,14 @@
         "title": "Fog-based data offloading in urban IoT scenarios",
         "pub_year": "2019",
         "citation": "IEEE INFOCOM 2019-IEEE Conference on Computer Communications, 784-792, 2019",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "XEztdZgAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Gcn-se: Attention as explainability for node classification in dynamic graphs",
         "pub_year": "2021",
         "citation": "2021 IEEE International Conference on Data Mining (ICDM), 1060-1065, 2021",
-        "num_citations": 23,
+        "num_citations": 25,
         "author_pub_id": "XEztdZgAAAAJ:1yQoGdGgb4wC"
     },
     {
@@ -559,7 +573,7 @@
         "title": "Harnessing the power of the cloud: Revenue, fairness, and cloud neutrality",
         "pub_year": "2018",
         "citation": "Journal of Management Information Systems 35 (3), 813-836, 2018",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "XEztdZgAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -573,7 +587,7 @@
         "title": "How to bid the cloud",
         "pub_year": "2015",
         "citation": "ACM SIGCOMM Computer Communication Review 45 (4), 71-84, 2015",
-        "num_citations": 228,
+        "num_citations": 229,
         "author_pub_id": "XEztdZgAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -668,7 +682,7 @@
         "title": "Interpretable clustering on dynamic graphs with recurrent graph neural networks",
         "pub_year": "2021",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (5), 4608-4616, 2021",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "XEztdZgAAAAJ:HE397vMXCloC"
     },
     {
@@ -744,14 +758,14 @@
         "title": "Modems: Optimizing edge computing migrations for user mobility",
         "pub_year": "2022",
         "citation": "IEEE Journal on Selected Areas in Communications 41 (3), 675-689, 2022",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "XEztdZgAAAAJ:LjlpjdlvIbIC"
     },
     {
         "title": "Multiresource allocation: Fairness–efficiency tradeoffs in a unifying framework",
         "pub_year": "2013",
         "citation": "IEEE/ACM Transactions on Networking 21 (6), 1785-1798, 2013",
-        "num_citations": 400,
+        "num_citations": 402,
         "author_pub_id": "XEztdZgAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -765,7 +779,7 @@
         "title": "Network-aware optimization of distributed learning for fog computing",
         "pub_year": "2021",
         "citation": "IEEE/ACM Transactions on Networking 29 (5), 2019-2032, 2021",
-        "num_citations": 121,
+        "num_citations": 123,
         "author_pub_id": "XEztdZgAAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -786,7 +800,7 @@
         "title": "Observe before play: Multi-armed bandit with pre-observations",
         "pub_year": "2019",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 46 (2), 89-90, 2019",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "XEztdZgAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -807,7 +821,7 @@
         "title": "On merits and viability of multi-cloud serverless",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM Symposium on Cloud Computing, 600-608, 2021",
-        "num_citations": 34,
+        "num_citations": 36,
         "author_pub_id": "XEztdZgAAAAJ:PR6Y55bgFSsC"
     },
     {
@@ -828,7 +842,7 @@
         "title": "On the viability of a cloud virtual service provider",
         "pub_year": "2016",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 44 (1), 235-248, 2016",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "XEztdZgAAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -842,7 +856,7 @@
         "title": "Online competitive influence maximization",
         "pub_year": "2022",
         "citation": "International Conference on Artificial Intelligence and Statistics, 11472-11502, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "XEztdZgAAAAJ:V3AGJWp-ZtQC"
     },
     {
@@ -892,10 +906,17 @@
         "author_pub_id": "XEztdZgAAAAJ:wbdj-CoPYUoC"
     },
     {
+        "title": "Pairwise Elimination with Instance-Dependent Guarantees for Bandits with Cost Subsidy",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.10290, 2025",
+        "num_citations": 0,
+        "author_pub_id": "XEztdZgAAAAJ:_FM0Bhl9EiAC"
+    },
+    {
         "title": "Pas: Prediction-based actuation system for city-scale ridesharing vehicular mobile crowdsensing",
         "pub_year": "2020",
         "citation": "IEEE Internet of Things Journal 7 (5), 3719-3734, 2020",
-        "num_citations": 83,
+        "num_citations": 84,
         "author_pub_id": "XEztdZgAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -943,7 +964,7 @@
         "title": "Predicting learning interactions in social learning networks: a deep learning enabled approach",
         "pub_year": "2023",
         "citation": "IEEE/ACM Transactions on Networking 31 (5), 2086-2100, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "XEztdZgAAAAJ:AvfA0Oy_GE0C"
     },
     {
@@ -990,7 +1011,7 @@
         "title": "Procuring spontaneous session-level resource guarantees for real-time applications: An auction approach",
         "pub_year": "2019",
         "citation": "IEEE Journal on Selected Areas in Communications 37 (7), 1534-1548, 2019",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "XEztdZgAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -1004,7 +1025,7 @@
         "title": "RGMComm: Return Gap Minimization via Discrete Communications in Multi-Agent Reinforcement Learning",
         "pub_year": "2024",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 38 (16), 17327 …, 2024",
-        "num_citations": 15,
+        "num_citations": 18,
         "author_pub_id": "XEztdZgAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -1120,7 +1141,7 @@
         "title": "Sponsoring mobile data: Analyzing the impact on internet stakeholders",
         "pub_year": "2018",
         "citation": "IEEE/ACM Transactions on Networking 26 (3), 1179-1192, 2018",
-        "num_citations": 128,
+        "num_citations": 127,
         "author_pub_id": "XEztdZgAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -1168,7 +1189,7 @@
         "title": "TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.13082, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "XEztdZgAAAAJ:e_rmSamDkqQC"
     },
     {
@@ -1251,7 +1272,7 @@
         "title": "Towards Adversarially Robust Human-in-the-Loop Learning for HVAC Systems",
         "pub_year": "2025",
         "citation": "AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications …, 2025",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "XEztdZgAAAAJ:Ri6SYOTghG4C"
     },
     {
@@ -1265,14 +1286,14 @@
         "title": "Towards bias correction of fedavg over nonuniform and time-varying communications",
         "pub_year": "2023",
         "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 6719-6724, 2023",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "XEztdZgAAAAJ:ILKRHgRFtOwC"
     },
     {
         "title": "Towards flexible device participation in federated learning",
         "pub_year": "2021",
         "citation": "International Conference on Artificial Intelligence and Statistics, 3403-3411, 2021",
-        "num_citations": 125,
+        "num_citations": 127,
         "author_pub_id": "XEztdZgAAAAJ:kRWSkSYxWN8C"
     },
     {
@@ -1283,10 +1304,17 @@
         "author_pub_id": "XEztdZgAAAAJ:bEWYMUwI8FkC"
     },
     {
+        "title": "Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem With Triggered or Self-Reliant Arms",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Networking, 2025",
+        "num_citations": 0,
+        "author_pub_id": "XEztdZgAAAAJ:9pM33mqn1YgC"
+    },
+    {
         "title": "Variance-adaptive algorithm for probabilistic maximum coverage bandits with general feedback",
         "pub_year": "2023",
         "citation": "IEEE INFOCOM 2023-IEEE Conference on Computer Communications, 1-10, 2023",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "XEztdZgAAAAJ:g3aElNc5_aQC"
     },
     {
@@ -1335,7 +1363,7 @@
         "title": "ilocus: Incentivizing vehicle mobility to optimize sensing distribution in crowd sensing",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Mobile Computing 19 (8), 1831-1847, 2019",
-        "num_citations": 131,
+        "num_citations": 132,
         "author_pub_id": "XEztdZgAAAAJ:dshw04ExmUIC"
     }
 ]

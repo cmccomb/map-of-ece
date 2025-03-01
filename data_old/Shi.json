@@ -98,7 +98,7 @@
         "title": "Adore: Differentially oblivious relational database operators",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2212.05176, 2022",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "rejzeocAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -133,14 +133,14 @@
         "title": "Authenticated data structures, generically",
         "pub_year": "2014",
         "citation": "ACM SIGPLAN Notices 49 (1), 411-423, 2014",
-        "num_citations": 123,
+        "num_citations": 125,
         "author_pub_id": "rejzeocAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Authentication in the clouds: a framework and its application to mobile users",
         "pub_year": "2010",
         "citation": "Proceedings of the 2010 ACM workshop on Cloud computing security workshop, 1-6, 2010",
-        "num_citations": 213,
+        "num_citations": 212,
         "author_pub_id": "rejzeocAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -189,7 +189,7 @@
         "title": "Bucket oblivious sort: An extremely simple oblivious sort",
         "pub_year": "2020",
         "citation": "Symposium on Simplicity in Algorithms, 8-14, 2020",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "rejzeocAAAAJ:ruyezt5ZtCIC"
     },
     {
@@ -203,7 +203,7 @@
         "title": "CC: A Framework for Building Composable Zero-Knowledge Proofs",
         "pub_year": "2015",
         "citation": "Cryptology ePrint Archive, 2015",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "rejzeocAAAAJ:dQ2og3OwTAUC"
     },
     {
@@ -217,8 +217,15 @@
         "title": "Can We Overcome the n log n Barrier for Oblivious Sorting?",
         "pub_year": "2019",
         "citation": "Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …, 2019",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "rejzeocAAAAJ:uc_IGeMz5qoC"
+    },
+    {
+        "title": "Can open decentralized ledgers be economically secure?",
+        "pub_year": "2023",
+        "citation": "Cryptology ePrint Archive, 2023",
+        "num_citations": 4,
+        "author_pub_id": "rejzeocAAAAJ:WC23djZS0W4C"
     },
     {
         "title": "Case Study: Sales Scams",
@@ -252,7 +259,7 @@
         "title": "Circuit oram: On tightness of the goldreich-ostrovsky lower bound",
         "pub_year": "2015",
         "citation": "Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …, 2015",
-        "num_citations": 366,
+        "num_citations": 371,
         "author_pub_id": "rejzeocAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -266,14 +273,14 @@
         "title": "Collusion-resilience in transaction fee mechanism design",
         "pub_year": "2024",
         "citation": "Proceedings of the 25th ACM Conference on Economics and Computation, 1045-1073, 2024",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "rejzeocAAAAJ:prdVHNxh-e8C"
     },
     {
         "title": "Communication complexity of byzantine agreement, revisited",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing …, 2019",
-        "num_citations": 150,
+        "num_citations": 153,
         "author_pub_id": "rejzeocAAAAJ:URolC5Kub84C"
     },
     {
@@ -308,14 +315,14 @@
         "title": "Constant-round MPC with fairness and guarantee of output delivery",
         "pub_year": "2015",
         "citation": "Advances in Cryptology--CRYPTO 2015: 35th Annual Cryptology Conference …, 2015",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "rejzeocAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Constants count: Practical improvements to oblivious {RAM}",
         "pub_year": "2015",
         "citation": "24th USENIX Security Symposium (USENIX Security 15), 415-430, 2015",
-        "num_citations": 229,
+        "num_citations": 231,
         "author_pub_id": "rejzeocAAAAJ:D_sINldO8mEC"
     },
     {
@@ -343,7 +350,7 @@
         "title": "Data oblivious algorithms for multicores",
         "pub_year": "2021",
         "citation": "Proceedings of the 33rd ACM Symposium on Parallelism in Algorithms and …, 2021",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "rejzeocAAAAJ:bz8QjSJIRt4C"
     },
     {
@@ -357,7 +364,7 @@
         "title": "Designing secure sensor networks",
         "pub_year": "2004",
         "citation": "IEEE Wireless Communications 11 (6), 38-43, 2004",
-        "num_citations": 915,
+        "num_citations": 917,
         "author_pub_id": "rejzeocAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -371,7 +378,7 @@
         "title": "Differentially oblivious database joins: Overcoming the worst-case curse of fully oblivious algorithms",
         "pub_year": "2021",
         "citation": "Cryptology ePrint Archive, 2021",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "rejzeocAAAAJ:mlAyqtXpCwEC"
     },
     {
@@ -392,7 +399,7 @@
         "title": "Differentially private densest subgraph",
         "pub_year": "2022",
         "citation": "International Conference on Artificial Intelligence and Statistics, 11581-11597, 2022",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "rejzeocAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -454,14 +461,14 @@
         "title": "Efficient dynamic proof of retrievability for cold storage",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "rejzeocAAAAJ:NyGDZy8z5eUC"
     },
     {
         "title": "Efficient pre-processing pir without public-key cryptography",
         "pub_year": "2024",
         "citation": "Annual International Conference on the Theory and Applications of …, 2024",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "rejzeocAAAAJ:7H_MAutzIkAC"
     },
     {
@@ -530,8 +537,15 @@
         "title": "Formal abstractions for attested execution secure processors",
         "pub_year": "2017",
         "citation": "Advances in Cryptology–EUROCRYPT 2017: 36th Annual International Conference …, 2017",
-        "num_citations": 159,
+        "num_citations": 163,
         "author_pub_id": "rejzeocAAAAJ:PR6Y55bgFSsC"
+    },
+    {
+        "title": "Foundations of Platform-Assisted Auctions",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2501.03141, 2025",
+        "num_citations": 0,
+        "author_pub_id": "rejzeocAAAAJ:OBSaB-F7qqsC"
     },
     {
         "title": "Foundations of Transaction Fee Mechanism Design",
@@ -543,21 +557,21 @@
         "title": "Foundations of differentially oblivious algorithms",
         "pub_year": "2022",
         "citation": "ACM Journal of the ACM (JACM) 69 (4), 1-49, 2022",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "rejzeocAAAAJ:nrtMV_XWKgEC"
     },
     {
         "title": "Foundations of transaction fee mechanism design",
         "pub_year": "2023",
         "citation": "Proceedings of the 2023 Annual ACM-SIAM Symposium on Discrete Algorithms …, 2023",
-        "num_citations": 89,
+        "num_citations": 93,
         "author_pub_id": "rejzeocAAAAJ:OcBU2YAGkTUC"
     },
     {
         "title": "Fruitchains: A fair blockchain",
         "pub_year": "2017",
         "citation": "Proceedings of the ACM symposium on principles of distributed computing, 315-324, 2017",
-        "num_citations": 460,
+        "num_citations": 466,
         "author_pub_id": "rejzeocAAAAJ:ZuybSZzF8UAC"
     },
     {
@@ -571,28 +585,28 @@
         "title": "Game theoretic notions of fairness in multi-party coin toss",
         "pub_year": "2018",
         "citation": "Theory of Cryptography: 16th International Conference, TCC 2018, Panaji …, 2018",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "rejzeocAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Game-theoretic fairness meets multi-party protocols: the case of leader election",
         "pub_year": "2021",
         "citation": "Advances in Cryptology–CRYPTO 2021: 41st Annual International Cryptology …, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "rejzeocAAAAJ:anf4URPfarAC"
     },
     {
         "title": "Ghostrider: A hardware-software system for memory trace oblivious computation",
         "pub_year": "2015",
         "citation": "ACM SIGPLAN Notices 50 (4), 87-101, 2015",
-        "num_citations": 217,
+        "num_citations": 218,
         "author_pub_id": "rejzeocAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Graphsc: Parallel secure computation made easy",
         "pub_year": "2015",
         "citation": "2015 IEEE symposium on security and privacy, 377-394, 2015",
-        "num_citations": 198,
+        "num_citations": 199,
         "author_pub_id": "rejzeocAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -613,7 +627,7 @@
         "title": "Hawk: The blockchain model of cryptography and privacy-preserving smart contracts",
         "pub_year": "2016",
         "citation": "2016 IEEE symposium on security and privacy (SP), 839-858, 2016",
-        "num_citations": 3287,
+        "num_citations": 3316,
         "author_pub_id": "rejzeocAAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -641,14 +655,14 @@
         "title": "Hybrid consensus: Efficient consensus in the permissionless model",
         "pub_year": "2016",
         "citation": "Cryptology ePrint Archive, 2016",
-        "num_citations": 498,
+        "num_citations": 505,
         "author_pub_id": "rejzeocAAAAJ:VL0QpB8kHFEC"
     },
     {
         "title": "Hypercriticality",
         "pub_year": "2010",
         "citation": "Communications of the ACM 53 (7), 5-5, 2010",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "rejzeocAAAAJ:L1USKYWJimsC"
     },
     {
@@ -662,7 +676,7 @@
         "title": "IPDL: A simple framework for formally verifying distributed cryptographic protocols",
         "pub_year": "2021",
         "citation": "Cryptology ePrint Archive, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "rejzeocAAAAJ:XvxMoLDsR5gC"
     },
     {
@@ -676,14 +690,14 @@
         "title": "Implicit authentication",
         "pub_year": "2012",
         "citation": "US Patent 8,312,157, 2012",
-        "num_citations": 328,
+        "num_citations": 329,
         "author_pub_id": "rejzeocAAAAJ:TFP_iSt0sucC"
     },
     {
         "title": "Implicit authentication",
         "pub_year": "2012",
         "citation": "US Patent App. 12/955,825, 2012",
-        "num_citations": 125,
+        "num_citations": 126,
         "author_pub_id": "rejzeocAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -695,8 +709,8 @@
     },
     {
         "title": "Implicit authentication through learning user behavior",
-        "pub_year": "2011",
-        "citation": "Information Security: 13th International Conference, ISC 2010, Boca Raton …, 2011",
+        "pub_year": "2010",
+        "citation": "International conference on information security, 99-113, 2010",
         "num_citations": 399,
         "author_pub_id": "rejzeocAAAAJ:roLk4NBRz8UC"
     },
@@ -704,7 +718,7 @@
         "title": "Improved extension protocols for byzantine broadcast and agreement",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2002.11321, 2020",
-        "num_citations": 108,
+        "num_citations": 112,
         "author_pub_id": "rejzeocAAAAJ:86PQX7AUzd4C"
     },
     {
@@ -739,7 +753,7 @@
         "title": "Joint link prediction and attribute inference using a social-attribute network",
         "pub_year": "2014",
         "citation": "ACM Transactions on Intelligent Systems and Technology (TIST) 5 (2), 1-20, 2014",
-        "num_citations": 237,
+        "num_citations": 238,
         "author_pub_id": "rejzeocAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -774,14 +788,14 @@
         "title": "Locally decodable and updatable non-malleable codes and their applications",
         "pub_year": "2020",
         "citation": "Journal of Cryptology 33 (1), 319-355, 2020",
-        "num_citations": 62,
+        "num_citations": 63,
         "author_pub_id": "rejzeocAAAAJ:SP6oXDckpogC"
     },
     {
         "title": "Locally differentially private sparse vector aggregation",
         "pub_year": "2022",
         "citation": "2022 IEEE Symposium on Security and Privacy (SP), 422-439, 2022",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "rejzeocAAAAJ:3htObqc8RwsC"
     },
     {
@@ -809,7 +823,7 @@
         "title": "MPC for MPC: secure computation on a massively parallel computing architecture",
         "pub_year": "2020",
         "citation": "11th Innovations in Theoretical Computer Science Conference (ITCS 2020), 2020",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "rejzeocAAAAJ:XoXfffV-tXoC"
     },
     {
@@ -823,7 +837,7 @@
         "title": "Maximizing miner revenue in transaction fee mechanism design",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2302.12895, 2023",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "rejzeocAAAAJ:v1_lew4L6wgC"
     },
     {
@@ -844,7 +858,7 @@
         "title": "Memory trace oblivious program execution",
         "pub_year": "2013",
         "citation": "2013 IEEE 26th Computer Security Foundations Symposium, 51-65, 2013",
-        "num_citations": 92,
+        "num_citations": 93,
         "author_pub_id": "rejzeocAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -879,21 +893,21 @@
         "title": "Multi-client inner product encryption: function-hiding instantiations without random oracles",
         "pub_year": "2023",
         "citation": "IACR International Conference on Public-Key Cryptography, 622-651, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "rejzeocAAAAJ:j7_hQOaDUrUC"
     },
     {
         "title": "Multi-client verifiable computation with stronger security guarantees",
         "pub_year": "2015",
         "citation": "Theory of Cryptography: 12th Theory of Cryptography Conference, TCC 2015 …, 2015",
-        "num_citations": 68,
+        "num_citations": 67,
         "author_pub_id": "rejzeocAAAAJ:tS2w5q8j5-wC"
     },
     {
         "title": "Multi-cloud oblivious storage",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
-        "num_citations": 180,
+        "num_citations": 181,
         "author_pub_id": "rejzeocAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -907,14 +921,14 @@
         "title": "Multi-input functional encryption",
         "pub_year": "2014",
         "citation": "Advances in Cryptology–EUROCRYPT 2014: 33rd Annual International Conference …, 2014",
-        "num_citations": 458,
+        "num_citations": 459,
         "author_pub_id": "rejzeocAAAAJ:xtRiw3GOFMkC"
     },
     {
         "title": "Multi-input functional encryption",
         "pub_year": "2013",
         "citation": "Cryptology ePrint Archive, 2013",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "rejzeocAAAAJ:HtEfBTGE9r8C"
     },
     {
@@ -928,7 +942,7 @@
         "title": "Needles in a haystack: Mining information from public dynamic analysis sandboxes for malware intelligence",
         "pub_year": "2015",
         "citation": "24th USENIX Security Symposium (USENIX Security 15), 1057-1072, 2015",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "rejzeocAAAAJ:BzfGm06jWhQC"
     },
     {
@@ -970,7 +984,7 @@
         "title": "Oblivious RAM with O((logN)3) Worst-Case Cost",
         "pub_year": "2011",
         "citation": "Advances in Cryptology–ASIACRYPT 2011: 17th International Conference on the …, 2011",
-        "num_citations": 560,
+        "num_citations": 561,
         "author_pub_id": "rejzeocAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -984,7 +998,7 @@
         "title": "Oblivious data structures",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …, 2014",
-        "num_citations": 278,
+        "num_citations": 279,
         "author_pub_id": "rejzeocAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -1019,7 +1033,7 @@
         "title": "Oblivm: A programming framework for secure computation",
         "pub_year": "2015",
         "citation": "2015 IEEE Symposium on Security and Privacy, 359-376, 2015",
-        "num_citations": 469,
+        "num_citations": 473,
         "author_pub_id": "rejzeocAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -1032,28 +1046,21 @@
         "title": "On Scaling Decentralized Blockchains: (A Position Paper)",
         "pub_year": "2016",
         "citation": "International conference on financial cryptography and data security, 106-125, 2016",
-        "num_citations": 1744,
+        "num_citations": 1759,
         "author_pub_id": "rejzeocAAAAJ:WA5NYHcadZ8C"
     },
     {
         "title": "On the Amortized Communication Complexity of Byzantine Broadcast",
         "pub_year": "2023",
         "citation": "Proceedings of the 2023 ACM Symposium on Principles of Distributed Computing …, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "rejzeocAAAAJ:FiytvqdAVhgC"
-    },
-    {
-        "title": "On the Viability of Open-Source Financial Rails: Economic Security of Permissionless Consensus",
-        "pub_year": "2023",
-        "citation": "Cryptology ePrint Archive, 2023",
-        "num_citations": 3,
-        "author_pub_id": "rejzeocAAAAJ:WC23djZS0W4C"
     },
     {
         "title": "On the adaptive security of MACs and PRFs",
         "pub_year": "2020",
         "citation": "International Conference on the Theory and Application of Cryptology and …, 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "rejzeocAAAAJ:4fGpz3EwCPoC"
     },
     {
@@ -1071,13 +1078,6 @@
         "author_pub_id": "rejzeocAAAAJ:uJ-U7cs_P_0C"
     },
     {
-        "title": "On the viability of open-source financial rails: Economic security of permissionless consensus",
-        "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2409.08951, 2024",
-        "num_citations": 1,
-        "author_pub_id": "rejzeocAAAAJ:Dem6FJhTUoYC"
-    },
-    {
         "title": "One experience collecting sensitive mobile data",
         "pub_year": "2010",
         "citation": "USER Workshop of SOUPS, 2010",
@@ -1088,7 +1088,7 @@
         "title": "Onion ORAM: A constant bandwidth blowup oblivious RAM",
         "pub_year": "2016",
         "citation": "Theory of Cryptography: 13th International Conference, TCC 2016-A, Tel Aviv …, 2016",
-        "num_citations": 211,
+        "num_citations": 213,
         "author_pub_id": "rejzeocAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -1109,7 +1109,7 @@
         "title": "OptORAMa: optimal oblivious RAM",
         "pub_year": "2020",
         "citation": "Advances in Cryptology–EUROCRYPT 2020: 39th Annual International Conference …, 2020",
-        "num_citations": 139,
+        "num_citations": 141,
         "author_pub_id": "rejzeocAAAAJ:WHdLCjDvYFkC"
     },
     {
@@ -1130,14 +1130,14 @@
         "title": "Optimal Sorting Circuits for Short Keys∗",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 Annual ACM-SIAM Symposium on Discrete Algorithms …, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "rejzeocAAAAJ:umqufdRvDiIC"
     },
     {
         "title": "Optimal lower bound for differentially private multi-party aggregation",
         "pub_year": "2012",
         "citation": "European Symposium on Algorithms, 277-288, 2012",
-        "num_citations": 131,
+        "num_citations": 133,
         "author_pub_id": "rejzeocAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -1178,7 +1178,7 @@
     {
         "title": "PIR with Client-Side Preprocessing: Information-Theoretic Constructions",
         "pub_year": "2024",
-        "citation": "Advances in Cryptology-CRYPTO 2024: 44th Annual International Cryptology …, 2024",
+        "citation": "Advances in Cryptology–CRYPTO 2024: 44th Annual International Cryptology …, 2024",
         "num_citations": 0,
         "author_pub_id": "rejzeocAAAAJ:jE2MZjpN3IcC"
     },
@@ -1200,28 +1200,28 @@
         "title": "Pala: A simple partially synchronous blockchain",
         "pub_year": "2018",
         "citation": "Cryptology ePrint Archive, 2018",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "rejzeocAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Path ORAM",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "rejzeocAAAAJ:kVjdVfd2voEC"
     },
     {
         "title": "Path ORAM: an extremely simple oblivious RAM protocol",
         "pub_year": "2018",
         "citation": "Journal of the ACM (JACM) 65 (4), 1-26, 2018",
-        "num_citations": 1289,
+        "num_citations": 1299,
         "author_pub_id": "rejzeocAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Path Oblivious Heap: Optimal and Practical Oblivious Priority Queue",
         "pub_year": "2020",
         "citation": "ieee symposium on security and privacy, 2020",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "rejzeocAAAAJ:oNZyr7d5Mn4C"
     },
     {
@@ -1249,35 +1249,35 @@
         "title": "Permacoin: Repurposing bitcoin work for data preservation",
         "pub_year": "2014",
         "citation": "2014 IEEE Symposium on Security and Privacy, 475-490, 2014",
-        "num_citations": 426,
+        "num_citations": 431,
         "author_pub_id": "rejzeocAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Phantom: Practical oblivious computation in a secure processor",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
-        "num_citations": 315,
+        "num_citations": 318,
         "author_pub_id": "rejzeocAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "Piano: extremely simple, single-server PIR with sublinear server computation",
         "pub_year": "2024",
         "citation": "2024 IEEE Symposium on Security and Privacy (SP), 4296-4314, 2024",
-        "num_citations": 37,
+        "num_citations": 40,
         "author_pub_id": "rejzeocAAAAJ:MpfHP-DdYjUC"
     },
     {
         "title": "Pili: A simple, fast, and robust family of blockchain protocols",
         "pub_year": "2018",
         "citation": "Cryptology ePrint Archive, Report 2018/980, 2018. https://eprint. iacr. org …, 2018",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "rejzeocAAAAJ:WZBGuue-350C"
     },
     {
         "title": "Pili: An extremely simple synchronous blockchain",
         "pub_year": "2018",
         "citation": "Cryptology ePrint Archive, 2018",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "rejzeocAAAAJ:ILKRHgRFtOwC"
     },
     {
@@ -1291,7 +1291,7 @@
         "title": "Pioneer: verifying code integrity and enforcing untampered code execution on legacy systems",
         "pub_year": "2005",
         "citation": "Proceedings of the twentieth ACM symposium on Operating systems principles, 1-16, 2005",
-        "num_citations": 569,
+        "num_citations": 571,
         "author_pub_id": "rejzeocAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1305,7 +1305,7 @@
         "title": "Polynomial commitment with a {One-to-Many} prover and applications",
         "pub_year": "2022",
         "citation": "31st USENIX Security Symposium (USENIX Security 22), 2965-2982, 2022",
-        "num_citations": 21,
+        "num_citations": 24,
         "author_pub_id": "rejzeocAAAAJ:OR75R8vi5nAC"
     },
     {
@@ -1326,7 +1326,7 @@
         "title": "Portcullis: Protecting connection setup from denial-of-capability attacks",
         "pub_year": "2007",
         "citation": "ACM SIGCOMM Computer Communication Review 37 (4), 289-300, 2007",
-        "num_citations": 288,
+        "num_citations": 289,
         "author_pub_id": "rejzeocAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1339,7 +1339,7 @@
         "title": "Practical dynamic proofs of retrievability",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
-        "num_citations": 259,
+        "num_citations": 260,
         "author_pub_id": "rejzeocAAAAJ:70eg2SAEIzsC"
     },
     {
@@ -1353,7 +1353,7 @@
         "title": "Practical dynamic searchable encryption with small leakage",
         "pub_year": "2013",
         "citation": "Cryptology ePrint Archive, 2013",
-        "num_citations": 754,
+        "num_citations": 760,
         "author_pub_id": "rejzeocAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -1367,7 +1367,7 @@
         "title": "Predicate privacy in encryption systems",
         "pub_year": "2009",
         "citation": "Theory of Cryptography Conference, 457-473, 2009",
-        "num_citations": 556,
+        "num_citations": 557,
         "author_pub_id": "rejzeocAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -1388,28 +1388,28 @@
         "title": "Privacy-preserving aggregation of time-series data",
         "pub_year": "2011",
         "citation": "Network and Distributed System Security Symposium (NDSS), 2011",
-        "num_citations": 964,
+        "num_citations": 973,
         "author_pub_id": "rejzeocAAAAJ:P7Ujq4OLJYoC"
     },
     {
         "title": "Privacy-preserving collaborative filtering",
         "pub_year": "2013",
         "citation": "US Patent 8,478,768, 2013",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "rejzeocAAAAJ:O3NaXMp0MMsC"
     },
     {
         "title": "Privacy-preserving stream aggregation with fault tolerance",
         "pub_year": "2012",
         "citation": "Financial Cryptography and Data Security: 16th International Conference, FC …, 2012",
-        "num_citations": 269,
+        "num_citations": 271,
         "author_pub_id": "rejzeocAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Private and continual release of statistics",
         "pub_year": "2011",
         "citation": "ACM Transactions on Information and System Security (TISSEC) 14 (3), 1-24, 2011",
-        "num_citations": 631,
+        "num_citations": 638,
         "author_pub_id": "rejzeocAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1471,21 +1471,21 @@
         "title": "Rethinking large-scale consensus",
         "pub_year": "2017",
         "citation": "2017 IEEE 30th Computer Security Foundations Symposium (CSF), 115-129, 2017",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "rejzeocAAAAJ:VLnqNzywnoUC"
     },
     {
         "title": "Revisiting the power of non-equivocation in distributed protocols",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 ACM Symposium on Principles of Distributed Computing …, 2022",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "rejzeocAAAAJ:Ak0FvsSvgGUC"
     },
     {
         "title": "Ring ORAM: Closing the Gap Between Small and Large Client Storage Oblivious RAM.",
         "pub_year": "2014",
         "citation": "IACR Cryptol. ePrint Arch. 2014, 997, 2014",
-        "num_citations": 91,
+        "num_citations": 92,
         "author_pub_id": "rejzeocAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1527,7 +1527,7 @@
         "title": "Sealed-glass proofs: Using transparent enclaves to prove and sell knowledge",
         "pub_year": "2017",
         "citation": "2017 IEEE European Symposium on Security and Privacy (EuroS&P), 19-34, 2017",
-        "num_citations": 138,
+        "num_citations": 141,
         "author_pub_id": "rejzeocAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -1581,21 +1581,21 @@
         "title": "Shadowcrypt: Encrypted web applications for everyone",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications …, 2014",
-        "num_citations": 154,
+        "num_citations": 155,
         "author_pub_id": "rejzeocAAAAJ:p2g8aNsByqUC"
     },
     {
         "title": "Signatures of correct computation",
         "pub_year": "2013",
         "citation": "Theory of Cryptography Conference, 222-242, 2013",
-        "num_citations": 259,
+        "num_citations": 261,
         "author_pub_id": "rejzeocAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Signatures of reputation",
         "pub_year": "2010",
         "citation": "Financial Cryptography and Data Security: 14th International Conference, FC …, 2010",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "rejzeocAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -1609,14 +1609,14 @@
         "title": "Snow White: Provably secure proofs of stake.",
         "pub_year": "2016",
         "citation": "IACR Cryptol. ePrint Arch. 2016 (919), 2016",
-        "num_citations": 277,
+        "num_citations": 279,
         "author_pub_id": "rejzeocAAAAJ:ye4kPcJQO24C"
     },
     {
         "title": "Snow White: Robustly Reconfigurable Consensus and Applications to Provably Secure Proof of Stake",
         "pub_year": "2019",
         "citation": "Financial Cryptography and Data Security: 23rd International Conference, FC …, 2019",
-        "num_citations": 297,
+        "num_citations": 303,
         "author_pub_id": "rejzeocAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -1630,7 +1630,7 @@
         "title": "Solidus: Confidential distributed ledger transactions via PVORM",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …, 2017",
-        "num_citations": 173,
+        "num_citations": 178,
         "author_pub_id": "rejzeocAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -1658,7 +1658,7 @@
         "title": "Step by step towards creating a safe smart contract: Lessons and insights from a cryptocurrency lab",
         "pub_year": "2016",
         "citation": "Financial Cryptography and Data Security: FC 2016 International Workshops …, 2016",
-        "num_citations": 805,
+        "num_citations": 810,
         "author_pub_id": "rejzeocAAAAJ:8AbLer7MMksC"
     },
     {
@@ -1671,7 +1671,7 @@
         "title": "Streaming authenticated data structures",
         "pub_year": "2013",
         "citation": "Advances in Cryptology–EUROCRYPT 2013: 32nd Annual International Conference …, 2013",
-        "num_citations": 98,
+        "num_citations": 99,
         "author_pub_id": "rejzeocAAAAJ:hMod-77fHWUC"
     },
     {
@@ -1685,21 +1685,21 @@
         "title": "Streamlet: Textbook streamlined blockchains",
         "pub_year": "2020",
         "citation": "Proceedings of the 2nd ACM Conference on Advances in Financial Technologies …, 2020",
-        "num_citations": 148,
+        "num_citations": 155,
         "author_pub_id": "rejzeocAAAAJ:FPJr55Dyh1AC"
     },
     {
         "title": "Streamlined blockchains: A simple and elegant approach (a tutorial and survey)",
         "pub_year": "2019",
         "citation": "Advances in Cryptology–ASIACRYPT 2019: 25th International Conference on the …, 2019",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "rejzeocAAAAJ:foquWX3nUaYC"
     },
     {
         "title": "Stubborn mining: Generalizing selfish mining and combining with an eclipse attack",
         "pub_year": "2016",
         "citation": "2016 IEEE European Symposium on Security and Privacy (EuroS&P), 305-320, 2016",
-        "num_citations": 651,
+        "num_citations": 660,
         "author_pub_id": "rejzeocAAAAJ:BrmTIyaxlBUC"
     },
     {
@@ -1733,14 +1733,14 @@
         "title": "Synchronous, with a chance of partition tolerance",
         "pub_year": "2019",
         "citation": "Advances in Cryptology–CRYPTO 2019: 39th Annual International Cryptology …, 2019",
-        "num_citations": 71,
+        "num_citations": 75,
         "author_pub_id": "rejzeocAAAAJ:kz9GbA2Ns4gC"
     },
     {
         "title": "TACKing together efficient authentication, revocation, and privacy in VANETs",
         "pub_year": "2009",
         "citation": "2009 6th Annual IEEE Communications Society Conference on Sensor, Mesh and …, 2009",
-        "num_citations": 352,
+        "num_citations": 354,
         "author_pub_id": "rejzeocAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -1768,7 +1768,7 @@
         "title": "The honey badger of BFT protocols",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGSAC conference on computer and communications …, 2016",
-        "num_citations": 1066,
+        "num_citations": 1090,
         "author_pub_id": "rejzeocAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -1789,7 +1789,7 @@
         "title": "The ring of gyges: Investigating the future of criminal smart contracts",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …, 2016",
-        "num_citations": 279,
+        "num_citations": 281,
         "author_pub_id": "rejzeocAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -1803,21 +1803,21 @@
         "title": "The sleepy model of consensus",
         "pub_year": "2017",
         "citation": "Advances in Cryptology–ASIACRYPT 2017: 23rd International Conference on the …, 2017",
-        "num_citations": 262,
+        "num_citations": 265,
         "author_pub_id": "rejzeocAAAAJ:N5tVd3kTz84C"
     },
     {
         "title": "The smart classroom: merging technologies for seamless tele-education",
         "pub_year": "2003",
         "citation": "IEEE Pervasive Computing 2 (02), 47-55, 2003",
-        "num_citations": 383,
+        "num_citations": 382,
         "author_pub_id": "rejzeocAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "The sybil attack in sensor networks: analysis & defenses",
         "pub_year": "2004",
         "citation": "Proceedings of the 3rd international symposium on Information processing in …, 2004",
-        "num_citations": 2198,
+        "num_citations": 2199,
         "author_pub_id": "rejzeocAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1844,7 +1844,7 @@
         "title": "Thunderella: Blockchains with Optimistic Instant Confirmation",
         "pub_year": "2018",
         "citation": "Advances in Cryptology–EUROCRYPT 2018: 37th Annual International Conference …, 2018",
-        "num_citations": 324,
+        "num_citations": 326,
         "author_pub_id": "rejzeocAAAAJ:vDijr-p_gm4C"
     },
     {
@@ -1858,7 +1858,7 @@
         "title": "Towards automated safety vetting of plc code in real-world plants",
         "pub_year": "2019",
         "citation": "2019 IEEE Symposium on Security and Privacy (SP), 522-538, 2019",
-        "num_citations": 82,
+        "num_citations": 85,
         "author_pub_id": "rejzeocAAAAJ:tYavs44e6CUC"
     },
     {
@@ -1879,7 +1879,7 @@
         "title": "Town crier: An authenticated data feed for smart contracts",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 aCM sIGSAC conference on computer and communications …, 2016",
-        "num_citations": 845,
+        "num_citations": 854,
         "author_pub_id": "rejzeocAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -1907,14 +1907,14 @@
         "title": "Viaduct: an extensible, optimizing compiler for secure distributed programs",
         "pub_year": "2021",
         "citation": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …, 2021",
-        "num_citations": 36,
+        "num_citations": 39,
         "author_pub_id": "rejzeocAAAAJ:IUKN3-7HHlwC"
     },
     {
         "title": "What can cryptography do for decentralized mechanism design",
         "pub_year": "2022",
         "citation": "arXiv preprint arXiv:2209.14462, 2022",
-        "num_citations": 26,
+        "num_citations": 29,
         "author_pub_id": "rejzeocAAAAJ:sJsF-0ZLhtgC"
     },
     {
@@ -1935,7 +1935,7 @@
         "title": "iDASH secure genome analysis competition using ObliVM",
         "pub_year": "2015",
         "citation": "Cryptology ePrint Archive, 2015",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "rejzeocAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -1948,7 +1948,7 @@
         "title": "xJsnark: A framework for efficient verifiable computation",
         "pub_year": "2018",
         "citation": "2018 IEEE Symposium on Security and Privacy (SP), 944-961, 2018",
-        "num_citations": 140,
+        "num_citations": 141,
         "author_pub_id": "rejzeocAAAAJ:ipzZ9siozwsC"
     },
     {
@@ -1962,7 +1962,7 @@
         "title": "{SDDR}:{Light-Weight}, Secure Mobile Encounters",
         "pub_year": "2014",
         "citation": "23rd USENIX Security Symposium (USENIX Security 14), 925-940, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "rejzeocAAAAJ:P5F9QuxV20EC"
     },
     {

@@ -17,7 +17,7 @@
         "title": "A New Photodiode Model for SPICE Simulation of Complementary Metal–Oxide–Semiconductor Image Sensors",
         "pub_year": "2007",
         "citation": "Japanese journal of applied physics 46 (4S), 2352, 2007",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "hkAq-IIAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -87,11 +87,11 @@
         "title": "Class-E power amplifiers incorporating fingerprint augmentation with combinatorial security primitives for machine-learning-based authentication in 65 nm CMOS",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 69 (5), 1896-1909, 2022",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "hkAq-IIAAAAJ:hC7cP41nSMkC"
     },
     {
-        "title": "Deep Reinforcement Learning on FPGA for Self-Healing Cryogenic Power Amplifier Control",
+        "title": "Deep reinforcement learning on FPGA for self-healing cryogenic power amplifier control",
         "pub_year": "2023",
         "citation": "IEEE Open Journal of Circuits and Systems 4, 176-187, 2023",
         "num_citations": 1,
@@ -101,14 +101,14 @@
         "title": "Device simulations of silicon detectors: a design perspective",
         "pub_year": "2003",
         "citation": "Nuclear Instruments and Methods in Physics Research Section A: Accelerators …, 2003",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "hkAq-IIAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Empirical dark current modeling for complementary metal oxide semiconductor active pixel sensor",
         "pub_year": "2002",
         "citation": "Optical Engineering 41 (6), 1216-1219, 2002",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "hkAq-IIAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -200,6 +200,13 @@
         "author_pub_id": "hkAq-IIAAAAJ:j3f4tGmQtD8C"
     },
     {
+        "title": "Intrusion into RF Fingerprint Authorized Wireless Communications with Generative-Adversarial-Network-based Attackers",
+        "pub_year": "2025",
+        "citation": "IEEE Transactions on Wireless Communications, 2025",
+        "num_citations": 0,
+        "author_pub_id": "hkAq-IIAAAAJ:JV2RwH3_ST0C"
+    },
+    {
         "title": "Lower-power giga-hertz analog-to-digital converters with background calibration",
         "pub_year": "2013",
         "citation": "Carnegie Mellon University, 2013",
@@ -221,7 +228,7 @@
         "author_pub_id": "hkAq-IIAAAAJ:2osOgNQ5qMEC"
     },
     {
-        "title": "RF Analog Hardware Trojan Detection Through Electromagnetic Side-Channel",
+        "title": "RF analog hardware Trojan detection through electromagnetic side-channel",
         "pub_year": "2022",
         "citation": "IEEE Open Journal of Circuits and Systems 3, 237-251, 2022",
         "num_citations": 4,
@@ -257,7 +264,7 @@
         "title": "Single-input broadband hybrid Doherty power amplifiers design relying on a phase sliding-mode of the load modulation scheme",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Microwave Theory and Techniques 71 (4), 1550-1562, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "hkAq-IIAAAAJ:4JMBOYKVnBMC"
     },
     {

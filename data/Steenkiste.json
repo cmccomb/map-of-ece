@@ -23,7 +23,7 @@
         "title": "A 32b microprocessor with on-chip 2Kbyte instruction cache",
         "pub_year": "1987",
         "citation": "1987 IEEE International Solid-State Circuits Conference. Digest of Technical …, 1987",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "DK7TEvkAAAAJ:HtS1dXgVpQUC"
     },
     {
@@ -48,6 +48,13 @@
         "author_pub_id": "DK7TEvkAAAAJ:blknAaTinKkC"
     },
     {
+        "title": "A Hybrid Location Model with a Computable Location Identifier for Ubiquitous Computing",
+        "pub_year": "2003",
+        "citation": "UbiComp 2002: Ubiquitous Computing: 4th International Conference, Göteborg …, 2003",
+        "num_citations": 0,
+        "author_pub_id": "DK7TEvkAAAAJ:aIdbFUkbNIkC"
+    },
+    {
         "title": "A Methodology and Testbed to Develop an Energy Model for 5G Virtualized RANs",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Communications Workshops (ICC …, 2024",
@@ -61,6 +68,13 @@
         "author_pub_id": "DK7TEvkAAAAJ:Aul-kAQHnToC"
     },
     {
+        "title": "A Programming Interface For",
+        "pub_year": "1999",
+        "citation": "IEEE... Conference on Open Architectures and Network Programming Proceedings, 34, 1999",
+        "num_citations": 0,
+        "author_pub_id": "DK7TEvkAAAAJ:Xl6nMSl579sC"
+    },
+    {
         "title": "A bandwidth advisor for wireless networks",
         "pub_year": "2002",
         "citation": "ACM SIGCOMM Computer Communication Review 32 (1), 58-58, 2002",
@@ -71,7 +85,7 @@
         "title": "A conference gateway supporting interoperability between SIP and H. 323",
         "pub_year": "2001",
         "citation": "Proceedings of the ninth ACM international conference on Multimedia, 421-430, 2001",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "DK7TEvkAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -106,18 +120,18 @@
         "title": "A measurement study of internet bottlenecks",
         "pub_year": "2005",
         "citation": "Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …, 2005",
-        "num_citations": 78,
+        "num_citations": 76,
         "author_pub_id": "DK7TEvkAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "A network project course based on network processors",
         "pub_year": "2003",
         "citation": "ACM SIGCSE Bulletin 35 (1), 262-266, 2003",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "DK7TEvkAAAAJ:bnK-pcrLprsC"
     },
     {
-        "title": "A perspective on application/networking coupling",
+        "title": "A perspective on application/networking coupling,\"",
         "pub_year": "1998",
         "citation": "8 th International Workshop on Network and Operating Systems Support for …, 1998",
         "num_citations": 3,
@@ -133,7 +147,7 @@
         "title": "A programmable router architecture supporting control plane extensibility",
         "pub_year": "2000",
         "citation": "IEEE Communications magazine 38 (3), 152-159, 2000",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "DK7TEvkAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -154,7 +168,7 @@
         "title": "A scalable peer-to-peer system for music information retrieval",
         "pub_year": "2004",
         "citation": "Computer Music Journal 28 (2), 24-33, 2004",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "DK7TEvkAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -168,7 +182,7 @@
         "title": "A simple interprocedural register allocation algorithm and its effectiveness for LISP",
         "pub_year": "1989",
         "citation": "ACM Transactions on Programming Languages and Systems (TOPLAS) 11 (1), 1-32, 1989",
-        "num_citations": 71,
+        "num_citations": 69,
         "author_pub_id": "DK7TEvkAAAAJ:mB3voiENLucC"
     },
     {
@@ -182,7 +196,7 @@
         "title": "A software architecture for physical layer wireless network emulation",
         "pub_year": "2006",
         "citation": "Proceedings of the 1st international workshop on Wireless network testbeds …, 2006",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "DK7TEvkAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -231,7 +245,7 @@
         "title": "A trace-based evaluation of adaptive error correction for a wireless local area network",
         "pub_year": "1999",
         "citation": "Mobile Networks and Applications 4, 273-287, 1999",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "DK7TEvkAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -244,7 +258,7 @@
         "title": "Access control to information in pervasive computing environments",
         "pub_year": "2003",
         "citation": "9th Workshop on Hot Topics in Operating Systems (HotOS IX), 2003",
-        "num_citations": 61,
+        "num_citations": 63,
         "author_pub_id": "DK7TEvkAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -258,7 +272,7 @@
         "title": "Activity-oriented computing",
         "pub_year": "2008",
         "citation": "Advances in Ubiquitous Computing: Future Paradigms and Directions, 280-315, 2008",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "DK7TEvkAAAAJ:SP6oXDckpogC"
     },
     {
@@ -327,7 +341,7 @@
         "title": "An access control architecture for programmable routers",
         "pub_year": "2001",
         "citation": "2001 IEEE Open Architectures and Network Programming Proceedings. OPENARCH …, 2001",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "DK7TEvkAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -341,21 +355,21 @@
         "title": "An adaptive protocol for efficient support of range queries in DHT-based systems",
         "pub_year": "2004",
         "citation": "Proceedings of the 12th IEEE International Conference on Network Protocols …, 2004",
-        "num_citations": 146,
+        "num_citations": 145,
         "author_pub_id": "DK7TEvkAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "An architecture for coordinating multiple self-management systems",
         "pub_year": "2004",
         "citation": "Proceedings. Fourth Working IEEE/IFIP Conference on Software Architecture …, 2004",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "DK7TEvkAAAAJ:j3f4tGmQtD8C"
     },
     {
         "title": "An architecture for the integration of physical and informational spaces",
         "pub_year": "2003",
         "citation": "Personal and Ubiquitous Computing 7, 82-90, 2003",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "DK7TEvkAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -369,7 +383,7 @@
         "title": "An empirical analysis of a large-scale mobile cloud storage service",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 Internet Measurement Conference, 287-301, 2016",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "DK7TEvkAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -404,7 +418,7 @@
         "title": "Analysis of the reputation system and user contributions on a question answering website: Stackoverflow",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 IEEE/ACM international conference on advances in …, 2013",
-        "num_citations": 236,
+        "num_citations": 250,
         "author_pub_id": "DK7TEvkAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -424,7 +438,7 @@
         "title": "And then there were more: Secure communication for more than two parties",
         "pub_year": "2017",
         "citation": "Proceedings of the 13th International Conference on emerging Networking …, 2017",
-        "num_citations": 75,
+        "num_citations": 73,
         "author_pub_id": "DK7TEvkAAAAJ:fbc8zXXH2BUC"
     },
     {
@@ -438,7 +452,7 @@
         "title": "Application-allocated I/O buffering with system-allocated performance",
         "pub_year": "1996",
         "citation": "",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "DK7TEvkAAAAJ:LjlpjdlvIbIC"
     },
     {
@@ -508,7 +522,7 @@
         "title": "Autonomic Computing: Concepts, Infrastructure, and Applications",
         "pub_year": "2006",
         "citation": "CRC Press, 1st edn., 2006",
-        "num_citations": 219,
+        "num_citations": 227,
         "author_pub_id": "DK7TEvkAAAAJ:bKqednn6t2AC"
     },
     {
@@ -578,14 +592,14 @@
         "title": "Building self-adapting services using service-specific knowledge",
         "pub_year": "2005",
         "citation": "HPDC-14. Proceedings. 14th IEEE International Symposium on High Performance …, 2005",
-        "num_citations": 17,
+        "num_citations": 15,
         "author_pub_id": "DK7TEvkAAAAJ:l7t_Zn2s7bgC"
     },
     {
         "title": "Building self-configuring services using service-specific knowledge",
         "pub_year": "2004",
         "citation": "Proceedings. 13th IEEE International Symposium on High performance …, 2004",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "DK7TEvkAAAAJ:M3NEmzRMIkIC"
     },
     {
@@ -617,7 +631,7 @@
         "author_pub_id": "DK7TEvkAAAAJ:An6A6Jpfc1oC"
     },
     {
-        "title": "Catnap: Exploiting high bandwidth wireless interfaces to save energy for mobile devices",
+        "title": "Catnap: exploiting high bandwidth wireless interfaces to save energy for mobile devices",
         "pub_year": "2010",
         "citation": "Proceedings of the 8th international conference on Mobile systems …, 2010",
         "num_citations": 224,
@@ -634,7 +648,7 @@
         "title": "Characterizing 802.11 wireless link behavior",
         "pub_year": "2010",
         "citation": "Wireless Networks 16, 167-182, 2010",
-        "num_citations": 40,
+        "num_citations": 38,
         "author_pub_id": "DK7TEvkAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -647,7 +661,7 @@
         "title": "Cloudslam: Edge offloading of stateful vehicular applications",
         "pub_year": "2020",
         "citation": "2020 IEEE/ACM Symposium on Edge Computing (SEC), 139-151, 2020",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "DK7TEvkAAAAJ:6_hjMsCP8ZoC"
     },
     {
@@ -679,7 +693,7 @@
         "title": "Cognet: an architectural foundation for experimental cognitive radio networks within the future internet",
         "pub_year": "2006",
         "citation": "Proceedings of first ACM/IEEE international workshop on Mobility in the …, 2006",
-        "num_citations": 115,
+        "num_citations": 113,
         "author_pub_id": "DK7TEvkAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -692,7 +706,7 @@
         "title": "Collecting network status information for network-aware applications",
         "pub_year": "2000",
         "citation": "Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …, 2000",
-        "num_citations": 242,
+        "num_citations": 243,
         "author_pub_id": "DK7TEvkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -753,7 +767,7 @@
         "title": "Copy emulation in checksummed, multiple-packet communication",
         "pub_year": "1997",
         "citation": "Proceedings of INFOCOM'97 3, 1122-1130, 1997",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "DK7TEvkAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -788,14 +802,14 @@
         "title": "Darwin: Customizable resource management for value-added network services",
         "pub_year": "2001",
         "citation": "IEEE Network 15 (1), 22-35, 2001",
-        "num_citations": 188,
+        "num_citations": 190,
         "author_pub_id": "DK7TEvkAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Darwin: Resource management for application-aware networks",
         "pub_year": "1997",
         "citation": "CMU Technical Rreport, 1997",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "DK7TEvkAAAAJ:nZcligLrVowC"
     },
     {
@@ -809,7 +823,7 @@
         "title": "Data reshuffling in support of fast I/O for distributed-memory machines",
         "pub_year": "1994",
         "citation": "Proceedings of 3rd IEEE International Symposium on High Performance …, 1994",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "DK7TEvkAAAAJ:HE397vMXCloC"
     },
     {
@@ -823,14 +837,14 @@
         "title": "Density-aware zone-based packet forwarding in vehicular networks",
         "pub_year": "2016",
         "citation": "US Patent 9,491,684, 2016",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "DK7TEvkAAAAJ:LhH-TYMQEocC"
     },
     {
         "title": "Design and evaluation of a distributed scalable content discovery system",
         "pub_year": "2004",
         "citation": "IEEE Journal on Selected Areas in Communications 22 (1), 54-66, 2004",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "DK7TEvkAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -844,21 +858,21 @@
         "title": "Design and implementation of an RF front end for physical layer wireless network emulation",
         "pub_year": "2007",
         "citation": "2007 IEEE 65th Vehicular Technology Conference-VTC2007-Spring, 974-979, 2007",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "DK7TEvkAAAAJ:geHnlv5EZngC"
     },
     {
         "title": "Design, implementation and evaluation of an efficient opportunistic retransmission protocol",
         "pub_year": "2009",
         "citation": "Proceedings of the 15th annual international conference on Mobile computing …, 2009",
-        "num_citations": 118,
+        "num_citations": 127,
         "author_pub_id": "DK7TEvkAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Design, implementation, and evaluation of a single‐copy protocol stack",
         "pub_year": "1998",
         "citation": "Software: Practice and Experience 28 (7), 749-772, 1998",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "DK7TEvkAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -914,7 +928,7 @@
         "title": "Distributing processing resources across local and cloud-based systems with respect to autonomous navigation",
         "pub_year": "2023",
         "citation": "US Patent 11,551,552, 2023",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "DK7TEvkAAAAJ:3NQIlFlcGxIC"
     },
     {
@@ -948,7 +962,7 @@
         "title": "Effects of buffering semantics on I/O performance",
         "pub_year": "1996",
         "citation": "Proceedings of the second USENIX symposium on Operating systems design and …, 1996",
-        "num_citations": 137,
+        "num_citations": 136,
         "author_pub_id": "DK7TEvkAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -962,7 +976,7 @@
         "title": "Efficient channel-aware rate adaptation in dynamic environments",
         "pub_year": "2008",
         "citation": "Proceedings of the 6th international conference on Mobile systems …, 2008",
-        "num_citations": 308,
+        "num_citations": 309,
         "author_pub_id": "DK7TEvkAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -983,7 +997,7 @@
         "title": "Effort-limited fair (ELF) scheduling for wireless networks",
         "pub_year": "2000",
         "citation": "Proceedings IEEE INFOCOM 2000. Conference on Computer Communications …, 2000",
-        "num_citations": 156,
+        "num_citations": 157,
         "author_pub_id": "DK7TEvkAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1004,7 +1018,7 @@
         "title": "Enabling MAC Protocol Implementations on Software-Defined Radios.",
         "pub_year": "2009",
         "citation": "NSDI 9, 91-105, 2009",
-        "num_citations": 226,
+        "num_citations": 224,
         "author_pub_id": "DK7TEvkAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1038,28 +1052,28 @@
         "title": "Estimating available bandwidth using packet pair probing",
         "pub_year": "2002",
         "citation": "School of Computer Science, Carnegie Mellon University, 2002",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "DK7TEvkAAAAJ:hFOr9nPyWt4C"
     },
     {
         "title": "Evaluation and characterization of available bandwidth probing techniques",
         "pub_year": "2003",
         "citation": "IEEE journal on Selected Areas in Communications 21 (6), 879-894, 2003",
-        "num_citations": 1057,
+        "num_citations": 1054,
         "author_pub_id": "DK7TEvkAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Evaluation of adaptive filtering of MPEG system streams in IP networks",
         "pub_year": "2000",
         "citation": "2000 IEEE International Conference on Multimedia and Expo. ICME2000 …, 2000",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "DK7TEvkAAAAJ:OU6Ihb5iCvQC"
     },
     {
         "title": "Evaluation of data passing and scheduling avoidance",
         "pub_year": "1997",
         "citation": "Proceedings of 7th International Workshop on Network and Operating System …, 1997",
-        "num_citations": 21,
+        "num_citations": 20,
         "author_pub_id": "DK7TEvkAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -1080,7 +1094,7 @@
         "title": "Experimental study on the impact of vehicular obstructions in VANETs",
         "pub_year": "2010",
         "citation": "2010 IEEE vehicular networking conference, 338-345, 2010",
-        "num_citations": 276,
+        "num_citations": 275,
         "author_pub_id": "DK7TEvkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -1094,7 +1108,7 @@
         "title": "Exploiting hierarchical identity-based encryption for access control to pervasive computing information",
         "pub_year": "2005",
         "citation": "First International Conference on Security and Privacy for Emerging Areas in …, 2005",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "DK7TEvkAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -1114,7 +1128,7 @@
         "title": "Exploiting information relationships for access control in pervasive computing",
         "pub_year": "2006",
         "citation": "Pervasive and Mobile Computing 2 (3), 344-367, 2006",
-        "num_citations": 8,
+        "num_citations": 10,
         "author_pub_id": "DK7TEvkAAAAJ:q3oQSFYPqjQC"
     },
     {
@@ -1142,7 +1156,7 @@
         "title": "Exploring Wi-Fi network diversity for vehicle-to-infrastructure communication",
         "pub_year": "2020",
         "citation": "2020 IEEE Vehicular Networking Conference (VNC), 1-8, 2020",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "DK7TEvkAAAAJ:SjuI4pbJlxcC"
     },
     {
@@ -1163,7 +1177,7 @@
         "title": "Fail-safe PVM: A portable package for distributed programming with transparent recovery",
         "pub_year": "1993",
         "citation": "School of Computer Science, Carnegie Mellon University, 1993",
-        "num_citations": 155,
+        "num_citations": 157,
         "author_pub_id": "DK7TEvkAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -1184,7 +1198,7 @@
         "title": "Fixing 802.11 access point selection",
         "pub_year": "2002",
         "citation": "ACM SIGCOMM Computer Communication Review 32 (3), 31-31, 2002",
-        "num_citations": 97,
+        "num_citations": 98,
         "author_pub_id": "DK7TEvkAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -1198,7 +1212,7 @@
         "title": "Future directions in cognitive radio network research",
         "pub_year": "2009",
         "citation": "NSF workshop report 4 (1), 1-2, 2009",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "DK7TEvkAAAAJ:j7_hQOaDUrUC"
     },
     {
@@ -1330,14 +1344,14 @@
         "title": "Implementing access control to people location information",
         "pub_year": "2004",
         "citation": "Proceedings of the ninth ACM symposium on Access control models and …, 2004",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "DK7TEvkAAAAJ:dhFuZR0502QC"
     },
     {
         "title": "Improving TCP startup performance using active measurements: algorithm and evaluation",
         "pub_year": "2003",
         "citation": "11th IEEE International Conference on Network Protocols, 2003. Proceedings …, 2003",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "DK7TEvkAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -1365,7 +1379,7 @@
         "title": "Improving wireless LAN performance via adaptive local error control",
         "pub_year": "1998",
         "citation": "Proceedings Sixth International Conference on Network Protocols (Cat. No …, 1998",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "DK7TEvkAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -1421,21 +1435,21 @@
         "title": "Lisp on a reduced-instruction-set processor: Characterization and optimization",
         "pub_year": "1988",
         "citation": "Computer 21 (7), 34-45, 1988",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "DK7TEvkAAAAJ:-f6ydRqryjwC"
     },
     {
         "title": "Locating Internet bottlenecks: Algorithms, measurements, and implications",
         "pub_year": "2004",
         "citation": "ACM SIGCOMM Computer Communication Review 34 (4), 41-54, 2004",
-        "num_citations": 348,
+        "num_citations": 347,
         "author_pub_id": "DK7TEvkAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Location-based node ids: Enabling explicit locality in dhts",
         "pub_year": "2003",
         "citation": "School of Computer Science, CMU, 2003",
-        "num_citations": 53,
+        "num_citations": 52,
         "author_pub_id": "DK7TEvkAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -1462,7 +1476,7 @@
         "title": "MPEG system streams in best-effort networks",
         "pub_year": "1999",
         "citation": "Proc. Packet Video Workshop 99, 1999",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "DK7TEvkAAAAJ:4DMP91E08xMC"
     },
     {
@@ -1496,14 +1510,14 @@
         "title": "Multi-context TLS (mcTLS) enabling secure in-network functionality in TLS",
         "pub_year": "2015",
         "citation": "ACM SIGCOMM Computer Communication Review 45 (4), 199-212, 2015",
-        "num_citations": 213,
+        "num_citations": 211,
         "author_pub_id": "DK7TEvkAAAAJ:8AbLer7MMksC"
     },
     {
-        "title": "Multilist scheduling: a new parallel programming model",
+        "title": "Multilist Scheduling: A New Parallel Programming Model",
         "pub_year": "1993",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1993",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "DK7TEvkAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -1516,7 +1530,7 @@
         "title": "Network anomaly detection using co-clustering",
         "pub_year": "2012",
         "citation": "2012 IEEE/ACM International Conference on Advances in Social Networks …, 2012",
-        "num_citations": 74,
+        "num_citations": 80,
         "author_pub_id": "DK7TEvkAAAAJ:738O_yMBCRsC"
     },
     {
@@ -1564,14 +1578,14 @@
         "title": "Network-based multicomputers: A practical supercomputer architecture",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Parallel and Distributed Systems 7 (8), 861-875, 1996",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "DK7TEvkAAAAJ:yD5IFk8b50cC"
     },
     {
         "title": "Network-based multicomputers: An emerging parallel architecture",
         "pub_year": "1991",
         "citation": "Proceedings of the 1991 ACM/IEEE conference on Supercomputing, 664-673, 1991",
-        "num_citations": 59,
+        "num_citations": 58,
         "author_pub_id": "DK7TEvkAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1592,7 +1606,7 @@
         "title": "On path selection for traffic with bandwidth guarantees",
         "pub_year": "1997",
         "citation": "Proceedings 1997 International Conference on Network Protocols, 191-202, 1997",
-        "num_citations": 586,
+        "num_citations": 588,
         "author_pub_id": "DK7TEvkAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1606,7 +1620,7 @@
         "title": "Opportunistic retransmission in WLANs",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Mobile Computing 11 (12), 1953-1969, 2011",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "DK7TEvkAAAAJ:5awf1xo2G04C"
     },
     {
@@ -1620,7 +1634,7 @@
         "title": "Optimizing network performance in replicated hosting",
         "pub_year": "2005",
         "citation": "10th International Workshop on Web Content Caching and Distribution (WCW'05 …, 2005",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "DK7TEvkAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -1692,11 +1706,18 @@
         "author_pub_id": "DK7TEvkAAAAJ:wbdj-CoPYUoC"
     },
     {
-        "title": "Precise Data Center Traffic Engineering with Constrained Hardware Resources",
+        "title": "Precise data center traffic engineering with constrained hardware resources",
         "pub_year": "2024",
         "citation": "21st USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "DK7TEvkAAAAJ:DrR-2ekChdkC"
+    },
+    {
+        "title": "Proceedings of the Second ACM International Workshop on Wireless Network Testbeds, Experimental Evaluation and Characterization",
+        "pub_year": "2007",
+        "citation": "Association for Computing Machinery, 2007",
+        "num_citations": 0,
+        "author_pub_id": "DK7TEvkAAAAJ:QsaTk4IG4EwC"
     },
     {
         "title": "Program Committee Chair",
@@ -1708,7 +1729,7 @@
         "title": "Project aura: Toward distraction-free pervasive computing",
         "pub_year": "2002",
         "citation": "IEEE Pervasive computing 1 (2), 22-31, 2002",
-        "num_citations": 1387,
+        "num_citations": 1386,
         "author_pub_id": "DK7TEvkAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -1735,28 +1756,28 @@
         "title": "Providing Contextual Information to Ubiquitous Computing Applications",
         "pub_year": "2002",
         "citation": "School of Computer Science, Carnegie Mellon University, 2002",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "DK7TEvkAAAAJ:raTqNPD5sRQC"
     },
     {
         "title": "Providing contextual information to pervasive computing applications",
         "pub_year": "2003",
         "citation": "Proceedings of the First IEEE International Conference on Pervasive …, 2003",
-        "num_citations": 285,
+        "num_citations": 288,
         "author_pub_id": "DK7TEvkAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Pushing the envelope of indoor wireless spatial reuse using directional access points and clients",
         "pub_year": "2010",
         "citation": "Proceedings of the sixteenth annual international conference on Mobile …, 2010",
-        "num_citations": 58,
+        "num_citations": 59,
         "author_pub_id": "DK7TEvkAAAAJ:GnPB-g6toBAC"
     },
     {
         "title": "Quality-of-service routing for traffic with performance guarantees",
         "pub_year": "1997",
         "citation": "Building QoS into Distributed Systems: IFIP TC6 WG6. 1 Fifth International …, 1997",
-        "num_citations": 438,
+        "num_citations": 431,
         "author_pub_id": "DK7TEvkAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -1784,7 +1805,7 @@
         "title": "Rainbow: Architecture-based self-adaptation with reusable infrastructure",
         "pub_year": "2004",
         "citation": "Computer 37 (10), 46-54, 2004",
-        "num_citations": 1863,
+        "num_citations": 1855,
         "author_pub_id": "DK7TEvkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1819,7 +1840,7 @@
         "title": "Remos: A resource monitoring system for network-aware applications",
         "pub_year": "1997",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1997",
-        "num_citations": 96,
+        "num_citations": 95,
         "author_pub_id": "DK7TEvkAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -1860,21 +1881,21 @@
         "title": "Routing high-bandwidth traffic in max-min fair share networks",
         "pub_year": "1996",
         "citation": "Conference proceedings on Applications, technologies, architectures, and …, 1996",
-        "num_citations": 244,
+        "num_citations": 243,
         "author_pub_id": "DK7TEvkAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "Routing traffic with quality-of-service guarantees in integrated services networks",
         "pub_year": "1998",
         "citation": "Proceedings of Workshop on Network and Operating Systems Support for Digital …, 1998",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "DK7TEvkAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "SC-M*: A multi-agent path planning algorithm with soft-collision constraint on allocation of common resources",
         "pub_year": "2019",
         "citation": "Applied Sciences 9 (19), 4037, 2019",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "DK7TEvkAAAAJ:7H_MAutzIkAC"
     },
     {
@@ -1943,14 +1964,14 @@
         "title": "Self-Management in Chaotic Wireless Deployments",
         "pub_year": "2005",
         "citation": "MOBICOM'05: Proceedings of the Eleventh Annual International Conference on …, 2005",
-        "num_citations": 618,
+        "num_citations": 612,
         "author_pub_id": "DK7TEvkAAAAJ:vbGhcppDl1QC"
     },
     {
         "title": "Self-automated parking lots for autonomous vehicles based on vehicular ad hoc networking",
         "pub_year": "2014",
         "citation": "2014 IEEE Intelligent Vehicles Symposium Proceedings, 472-479, 2014",
-        "num_citations": 65,
+        "num_citations": 64,
         "author_pub_id": "DK7TEvkAAAAJ:SdhP9T11ey4C"
     },
     {
@@ -1985,21 +2006,21 @@
         "title": "Software architecture-based adaptation for grid computing",
         "pub_year": "2002",
         "citation": "Proceedings 11th IEEE International Symposium on High Performance …, 2002",
-        "num_citations": 101,
+        "num_citations": 100,
         "author_pub_id": "DK7TEvkAAAAJ:7PzlFSSx8tAC"
     },
     {
         "title": "Software architecture-based adaptation for pervasive systems",
         "pub_year": "2002",
         "citation": "Trends in Network and Pervasive Computing—ARCS 2002: International …, 2002",
-        "num_citations": 168,
+        "num_citations": 164,
         "author_pub_id": "DK7TEvkAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Software support for outboard buffering and checksumming",
         "pub_year": "1995",
         "citation": "ACM SIGCOMM Computer Communication Review 25 (4), 87-98, 1995",
-        "num_citations": 143,
+        "num_citations": 142,
         "author_pub_id": "DK7TEvkAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -2013,7 +2034,7 @@
         "title": "Structured dataflow analysis for arrays and its use in an optimizing compiler",
         "pub_year": "1990",
         "citation": "Software: Practice and Experience 20 (2), 133-155, 1990",
-        "num_citations": 121,
+        "num_citations": 125,
         "author_pub_id": "DK7TEvkAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -2027,7 +2048,7 @@
         "title": "Supporting dynamic inter-class resource sharing: a multi-class QoS routing algorithm",
         "pub_year": "1999",
         "citation": "IEEE INFOCOM'99. Conference on Computer Communications. Proceedings …, 1999",
-        "num_citations": 115,
+        "num_citations": 112,
         "author_pub_id": "DK7TEvkAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -2041,7 +2062,7 @@
         "title": "Supporting integrated MAC and PHY software development for the USRP SDR",
         "pub_year": "2006",
         "citation": "2006 1st IEEE Workshop on Networking Technologies for Software Defined Radio …, 2006",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "DK7TEvkAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -2055,7 +2076,7 @@
         "title": "TCP stalls at the server side: Measurement and mitigation",
         "pub_year": "2018",
         "citation": "IEEE/ACM Transactions on Networking 27 (1), 272-287, 2018",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "DK7TEvkAAAAJ:BzfGm06jWhQC"
     },
     {
@@ -2069,14 +2090,14 @@
         "title": "Tags and type checking in LISP: Hardware and software approaches",
         "pub_year": "1987",
         "citation": "Proceedings of the second international conference on Architectual support …, 1987",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "DK7TEvkAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Telemetry retrieval inaccuracy in programmable switches: Analysis and recommendations",
         "pub_year": "2021",
         "citation": "Proceedings of the ACM SIGCOMM Symposium on SDN Research (SOSR), 176-182, 2021",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "DK7TEvkAAAAJ:Dem6FJhTUoYC"
     },
     {
@@ -2104,14 +2125,14 @@
         "title": "The architecture of the remos system",
         "pub_year": "2001",
         "citation": "Proceedings 10th IEEE International Symposium on High Performance …, 2001",
-        "num_citations": 113,
+        "num_citations": 112,
         "author_pub_id": "DK7TEvkAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "The cost of the\" s\" in https",
         "pub_year": "2014",
         "citation": "Proceedings of the 10th ACM International on Conference on emerging …, 2014",
-        "num_citations": 322,
+        "num_citations": 327,
         "author_pub_id": "DK7TEvkAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -2146,14 +2167,14 @@
         "title": "Time-division TCP for reconfigurable data center networks",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM SIGCOMM 2022 Conference, 19-35, 2022",
-        "num_citations": 15,
+        "num_citations": 17,
         "author_pub_id": "DK7TEvkAAAAJ:ziOE8S1-AIUC"
     },
     {
         "title": "Time-sensitive cooperative perception for real-time data sharing over vehicular communications: Overview, challenges, and future directions",
         "pub_year": "2022",
         "citation": "IEEE Internet of Things Magazine 5 (2), 108-113, 2022",
-        "num_citations": 5,
+        "num_citations": 7,
         "author_pub_id": "DK7TEvkAAAAJ:YsrPvlHIBpEC"
     },
     {
@@ -2202,7 +2223,7 @@
         "title": "Undergraduate embedded system education at Carnegie Mellon",
         "pub_year": "2005",
         "citation": "ACM Transactions on Embedded Computing Systems (TECS) 4 (3), 500-528, 2005",
-        "num_citations": 113,
+        "num_citations": 111,
         "author_pub_id": "DK7TEvkAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -2214,9 +2235,9 @@
     },
     {
         "title": "Understanding link-level 802.11 behavior: Replacing convention with measurement",
-        "pub_year": "2010",
-        "citation": "3rd International ICSTConference on Wireless Internet, 2010",
-        "num_citations": 26,
+        "pub_year": "2007",
+        "citation": "Proceedings of the 3rd international conference on Wireless internet, 1-10, 2007",
+        "num_citations": 27,
         "author_pub_id": "DK7TEvkAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -2236,7 +2257,7 @@
         "title": "User-level protocol servers with kernel-level performance",
         "pub_year": "1998",
         "citation": "Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …, 1998",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "DK7TEvkAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -2249,21 +2270,21 @@
         "title": "Using architectural style as a basis for system self-repair",
         "pub_year": "2002",
         "citation": "Software Architecture: System Design, Development and Maintenance, 45-59, 2002",
-        "num_citations": 137,
+        "num_citations": 135,
         "author_pub_id": "DK7TEvkAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Using commodity hardware platform to develop and evaluate CSMA protocols",
         "pub_year": "2008",
         "citation": "Proceedings of the third ACM international workshop on Wireless network …, 2008",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "DK7TEvkAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Using emulation to understand and improve wireless networks and applications",
         "pub_year": "2005",
         "citation": "Proceedings of the 2nd conference on Symposium on Networked Systems Design …, 2005",
-        "num_citations": 148,
+        "num_citations": 150,
         "author_pub_id": "DK7TEvkAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -2304,7 +2325,7 @@
         "title": "Video transmission over wireless multihop networks using opportunistic routing",
         "pub_year": "2007",
         "citation": "Packet video 2007, 52-61, 2007",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "DK7TEvkAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -2313,6 +2334,13 @@
         "citation": "2013 IEEE Intelligent Vehicles Symposium (IV), 988-993, 2013",
         "num_citations": 30,
         "author_pub_id": "DK7TEvkAAAAJ:tzM49s52ZIMC"
+    },
+    {
+        "title": "Virtualized Radio Access Networks: Energy Models, Challenges and Opportunities",
+        "pub_year": "2024",
+        "citation": "Authorea Preprints, 2024",
+        "num_citations": 0,
+        "author_pub_id": "DK7TEvkAAAAJ:LXmCCkuhhTsC"
     },
     {
         "title": "Welcome Message from the ICNP 2020 TPC Chairs",
@@ -2391,30 +2419,24 @@
         "author_pub_id": "DK7TEvkAAAAJ:yFnVuubrUp4C"
     },
     {
-        "title": "XIA: architecting a more trustworthy and evolvable internet",
+        "title": "XIA: Architecting a more trustworthy and evolvable Internet",
         "pub_year": "2014",
         "citation": "ACM SIGCOMM Computer Communication Review 44 (3), 50-57, 2014",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "DK7TEvkAAAAJ:eJXPG6dFmWUC"
-    },
-    {
-        "title": "securing information gateways with derivation-constrained… uhengart/publications/spc06. pdf·...",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "DK7TEvkAAAAJ:PkcyUWeTMh0C"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 58,
+        "num_citations": 62,
         "author_pub_id": "DK7TEvkAAAAJ:KaMxkj08jr0C"
     },
     {
         "title": "{XIA}: Efficient support for evolvable internetworking",
         "pub_year": "2012",
         "citation": "9th USENIX Symposium on Networked Systems Design and Implementation (NSDI 12 …, 2012",
-        "num_citations": 247,
+        "num_citations": 248,
         "author_pub_id": "DK7TEvkAAAAJ:qxL8FJ1GzNcC"
     }
 ]

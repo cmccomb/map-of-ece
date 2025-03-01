@@ -64,7 +64,7 @@
         "title": "A theory of specification-based testing for object-oriented software",
         "pub_year": "1996",
         "citation": "Dependable Computing—EDCC-2: Second European Dependable Computing …, 1996",
-        "num_citations": 77,
+        "num_citations": 76,
         "author_pub_id": "F8Tqw_kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -106,7 +106,7 @@
         "title": "Enhancing Student Experience in Team-Based Project Courses Using Essence Reflection Meetings",
         "pub_year": "2015",
         "citation": "2015 IEEE 28th Conference on Software Engineering Education and Training, 10-12, 2015",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "F8Tqw_kAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -185,18 +185,17 @@
         "author_pub_id": "F8Tqw_kAAAAJ:9ZlFYXVOiuMC"
     },
     {
-        "title": "Incremental Test Selection for Specification-Based Unit Testing of Object-Oriented Software Based on Formal Specifications",
-        "pub_year": "1998",
+        "title": "Incremental Test Selection for Specification-Based Unit Testing of Object-Oriented Software Based on",
         "citation": "",
-        "num_citations": 1,
-        "author_pub_id": "F8Tqw_kAAAAJ:_FxGoFyzp5QC"
+        "num_citations": 0,
+        "author_pub_id": "F8Tqw_kAAAAJ:4JMBOYKVnBMC"
     },
     {
         "title": "Incremental Test Selection for Specification-Based Unit Testing of Object-Oriented Software Based on Formal Specifications",
         "pub_year": "1998",
         "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "F8Tqw_kAAAAJ:4JMBOYKVnBMC"
+        "num_citations": 1,
+        "author_pub_id": "F8Tqw_kAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Integrating the unified modeling language with an architecture description language",
@@ -211,6 +210,13 @@
         "citation": "",
         "num_citations": 6,
         "author_pub_id": "F8Tqw_kAAAAJ:e5wmG9Sq2KIC"
+    },
+    {
+        "title": "Issues and theory for unit testing of object-oriented software",
+        "pub_year": "1998",
+        "citation": "Tagungsband\" Qualitätsmanagement Der Objektorientierten Software-Entwicklung …, 1998",
+        "num_citations": 9,
+        "author_pub_id": "F8Tqw_kAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Issues and theory for unit testing of object-oriented software",
@@ -280,13 +286,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "F8Tqw_kAAAAJ:TQgYirikUcIC"
-    },
-    {
-        "title": "Overview and theory for unit testing of object-oriented software",
-        "pub_year": "1996",
-        "citation": "Tagungsband\" Qualitätsmanagement der objektorientierten Software-Entwicklung …, 1996",
-        "num_citations": 9,
-        "author_pub_id": "F8Tqw_kAAAAJ:4DMP91E08xMC"
     },
     {
         "title": "Practice and perception of team code ownership",
@@ -366,7 +365,7 @@
         "title": "State-based monitoring and goal-driven project steering: Field study of the semat essence framework",
         "pub_year": "2014",
         "citation": "Companion Proceedings of the 36th International Conference on Software …, 2014",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "F8Tqw_kAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -387,7 +386,7 @@
         "title": "Test selection for object-oriented software based on formal specifications",
         "pub_year": "1998",
         "citation": "Programming Concepts and Methods PROCOMET’98: IFIP TC2/WG2. 2, 2.3 …, 1998",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "F8Tqw_kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -429,7 +428,7 @@
         "title": "The IBM Rational Unified Process for System z",
         "pub_year": "2007",
         "citation": "New York-USA, International Technical Support Organization, 2007",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "F8Tqw_kAAAAJ:Y0pCki6q_DkC"
     },
     {

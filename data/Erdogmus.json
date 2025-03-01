@@ -28,7 +28,7 @@
         "title": "50 years of software engineering",
         "pub_year": "2018",
         "citation": "IEEE Software 35 (5), 20-24, 2018",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "4PU5ZFYV-iEC:JQOojiI6XY0C"
     },
     {
@@ -69,7 +69,7 @@
         "title": "A dissection of the test-driven development process: Does it really matter to test-first or to test-last?",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Software Engineering 43 (7), 597-614, 2016",
-        "num_citations": 138,
+        "num_citations": 137,
         "author_pub_id": "4PU5ZFYV-iEC:Mojj43d5GZwC"
     },
     {
@@ -90,13 +90,13 @@
         "title": "A process that is not",
         "pub_year": "2009",
         "citation": "IEEE software 26 (6), 4-7, 2009",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "4PU5ZFYV-iEC:Wp0gIr-vW9MC"
     },
     {
         "title": "A real options perspective of software reuse",
         "pub_year": "2002",
-        "citation": "International Workshop on Reuse Economics “Redirecting Reuse Economics” Tuesday, 2002",
+        "citation": "International Workshop on Reuse Economics âĂĲRedirecting Reuse EconomicsâĂİ …, 2002",
         "num_citations": 4,
         "author_pub_id": "4PU5ZFYV-iEC:mVmsd5A6BfQC"
     },
@@ -261,7 +261,7 @@
         "title": "Cloud computing: Does nirvana hide behind the nebula?",
         "pub_year": "2009",
         "citation": "IEEE software 26 (2), 4-6, 2009",
-        "num_citations": 369,
+        "num_citations": 368,
         "author_pub_id": "4PU5ZFYV-iEC:d1gkVwhDpl0C"
     },
     {
@@ -275,7 +275,7 @@
         "title": "Comparative evaluation of software development strategies based on net present value",
         "pub_year": "1999",
         "citation": "International workshop on economics-driven software engineering research …, 1999",
-        "num_citations": 59,
+        "num_citations": 58,
         "author_pub_id": "4PU5ZFYV-iEC:IjCSPb-OGe4C"
     },
     {
@@ -296,14 +296,14 @@
         "title": "Cost-benefit analysis of software development techniques and practices",
         "pub_year": "2007",
         "citation": "29th International Conference on Software Engineering (ICSE'07 Companion …, 2007",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "4PU5ZFYV-iEC:QIV2ME_5wuYC"
     },
     {
         "title": "Costing of COTS-Based Systems: An Initial Framework",
         "pub_year": "2000",
         "citation": "Proceedings of the 2000 Workshop on Component-Based Software Engineering …, 2000",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "4PU5ZFYV-iEC:M3NEmzRMIkIC"
     },
     {
@@ -386,7 +386,7 @@
         "title": "Extreme Programming and Agile Methods-XP/Agile Universe 2004: 4th Conference on Extreme Programming and Agile Methods, Calgary, Canada, August 15-18, 2004; Proceedings",
         "pub_year": "2004",
         "citation": "Springer, 2004",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "4PU5ZFYV-iEC:RGFaLdJalmkC"
     },
     {
@@ -418,43 +418,37 @@
         "author_pub_id": "4PU5ZFYV-iEC:NMxIlDl6LWMC"
     },
     {
-        "title": "Full Access",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "4PU5ZFYV-iEC:L7CI7m0gUJcC"
-    },
-    {
         "title": "Ground truth deficiencies in software engineering: when codifying the past can be counterproductive",
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "4PU5ZFYV-iEC:nrtMV_XWKgEC"
     },
     {
-        "title": "Ground-Truth Deficiencies in Software Engineering: When Codifying the Past Can Be Counterproductive",
+        "title": "Ground-truth deficiencies in software engineering: when codifying the past can be counterproductive",
         "pub_year": "2021",
         "citation": "IEEE Software 39 (3), 85-95, 2021",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "4PU5ZFYV-iEC:XD-gHx7UXLsC"
     },
     {
         "title": "Guest editorial for special section on success and failure in software engineering",
         "pub_year": "2017",
         "citation": "Empirical Software Engineering 22, 2281-2297, 2017",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "4PU5ZFYV-iEC:tkaPQYYpVKoC"
     },
     {
-        "title": "How effective is test-driven development",
-        "pub_year": "2010",
-        "citation": "Making Software: What Really Works, and Why We Believe It, 207-217, 2010",
-        "num_citations": 70,
+        "title": "How effective is test-driven development?",
+        "pub_year": "2011",
+        "citation": "Making Software, 207-220, 2011",
+        "num_citations": 69,
         "author_pub_id": "4PU5ZFYV-iEC:aqlVkmm33-oC"
     },
     {
         "title": "How important is evidence, really?",
         "pub_year": "2010",
         "citation": "IEEE software 27 (3), 2-5, 2010",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "4PU5ZFYV-iEC:J-pR_7NvFogC"
     },
     {
@@ -480,7 +474,7 @@
     {
         "title": "International Workshop on Reuse Economics",
         "pub_year": "2002",
-        "citation": "Software Reuse: Methods, Techniques, and Tools: 7th International Conference …, 2002",
+        "citation": "International Conference on Software Reuse, 330-330, 2002",
         "num_citations": 0,
         "author_pub_id": "4PU5ZFYV-iEC:lSLTfruPkqcC"
     },
@@ -501,7 +495,7 @@
         "title": "Keep your options open: Extreme programming and the economics of flexibility",
         "pub_year": "2002",
         "citation": "Giancario Succi, James Donovan Wells and Laurie Williams,\" Extreme …, 2002",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "4PU5ZFYV-iEC:qjMakFHDy7sC"
     },
     {
@@ -535,7 +529,7 @@
         "title": "Management of license cost uncertainty in software development: a real options approach",
         "pub_year": "2001",
         "citation": "Fifth Annual Conference on Real Options: Theory Meets Practice. UCLA, Los …, 2001",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "4PU5ZFYV-iEC:_FxGoFyzp5QC"
     },
     {
@@ -583,14 +577,14 @@
         "title": "On the economic feasibility of pair programming",
         "pub_year": "2002",
         "citation": "International Workshop on Economics-Driven Software Engineering Research EDSER 4, 2002",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "4PU5ZFYV-iEC:WF5omc3nYNoC"
     },
     {
         "title": "On the effectiveness of the test-first approach to programming",
         "pub_year": "2005",
         "citation": "IEEE Transactions on software Engineering 31 (3), 226-237, 2005",
-        "num_citations": 510,
+        "num_citations": 506,
         "author_pub_id": "4PU5ZFYV-iEC:u-x6o8ySG0sC"
     },
     {
@@ -604,7 +598,7 @@
         "title": "On using distributed representations of source code for the detection of C security vulnerabilities",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2106.01367, 2021",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "4PU5ZFYV-iEC:9Nmd_mFXekcC"
     },
     {
@@ -656,6 +650,13 @@
         "author_pub_id": "4PU5ZFYV-iEC:yB1At4FlUx8C"
     },
     {
+        "title": "Proceedings of the 24th ACM SIGSOFT International SPIN Symposium on Model Checking of Software",
+        "pub_year": "2017",
+        "citation": "ACM, 2017",
+        "num_citations": 0,
+        "author_pub_id": "4PU5ZFYV-iEC:hMsQuOkrut0C"
+    },
+    {
         "title": "Program Committee of ICSE 2019",
         "citation": "",
         "num_citations": 0,
@@ -678,7 +679,7 @@
         "title": "ROI in the Software Industry-Return on Investment-Guest Editors' Introduction",
         "pub_year": "2004",
         "citation": "IEEE Software 21 (3), 10-11, 2004",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "4PU5ZFYV-iEC:hC7cP41nSMkC"
     },
     {
@@ -705,7 +706,7 @@
         "title": "Return on investment",
         "pub_year": "2004",
         "citation": "Ieee Software 21 (3), 18-22, 2004",
-        "num_citations": 109,
+        "num_citations": 108,
         "author_pub_id": "4PU5ZFYV-iEC:2osOgNQ5qMEC"
     },
     {
@@ -766,7 +767,7 @@
         "title": "Scaling agile methods",
         "pub_year": "2003",
         "citation": "IEEE software 20 (4), 12-14, 2003",
-        "num_citations": 164,
+        "num_citations": 163,
         "author_pub_id": "4PU5ZFYV-iEC:zYLM7Y9cAGgC"
     },
     {
@@ -808,7 +809,7 @@
         "title": "Software engineering economics: background, current practices, and future directions",
         "pub_year": "2002",
         "citation": "Proceedings of the 24th International Conference on Software Engineering …, 2002",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "4PU5ZFYV-iEC:eQOLeE2rZwMC"
     },
     {
@@ -825,7 +826,7 @@
         "author_pub_id": "4PU5ZFYV-iEC:W5xh706n7nkC"
     },
     {
-        "title": "Tenet: A Flexible Framework for Machine-Learning-based Vulnerability Detection",
+        "title": "Tenet: A Flexible Framework for Machine-Learning-Based Vulnerability Detection",
         "pub_year": "2023",
         "citation": "2023 IEEE/ACM 2nd International Conference on AI Engineering–Software …, 2023",
         "num_citations": 1,
@@ -835,14 +836,14 @@
         "title": "Test-Driven Development.",
         "pub_year": "2010",
         "citation": "Encyclopedia of software engineering, 1211-1229, 2010",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "4PU5ZFYV-iEC:a0OBvERweLwC"
     },
     {
         "title": "The economic impact of learning and flexibility on process decisions",
         "pub_year": "2005",
         "citation": "IEEE software 22 (6), 76-83, 2005",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "4PU5ZFYV-iEC:YsMSGLbcyi4C"
     },
     {
@@ -870,14 +871,14 @@
         "title": "The role of judgment in software estimation",
         "pub_year": "2009",
         "citation": "2009 31st International Conference on Software Engineering-Companion Volume …, 2009",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "4PU5ZFYV-iEC:TFP_iSt0sucC"
     },
     {
         "title": "The role of process measurement in test-driven development",
         "pub_year": "2004",
         "citation": "Conference on Extreme Programming and Agile Methods, 32-42, 2004",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "4PU5ZFYV-iEC:UebtZRa9Y70C"
     },
     {
@@ -912,7 +913,7 @@
         "title": "Tracking progress through earned value",
         "pub_year": "2010",
         "citation": "IEEE software 27 (5), 2-7, 2010",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "4PU5ZFYV-iEC:R3hNpaxXUhUC"
     },
     {
@@ -926,7 +927,7 @@
         "title": "Valuation of complex options in software development",
         "pub_year": "1999",
         "citation": "Proc. First Workshop on Economics-Driven Software Research (EDSER-1), 1999",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "4PU5ZFYV-iEC:W7OEmFMy1HYC"
     },
     {
@@ -947,14 +948,14 @@
         "title": "Value of commercial software development under technology risk",
         "pub_year": "2000",
         "citation": "FINANCIER-BURR RIDGE- 7 (1/4), 101-114, 2000",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "4PU5ZFYV-iEC:Y0pCki6q_DkC"
     },
     {
         "title": "Value-based software engineering",
         "pub_year": "2005",
         "citation": "Springer Verlag, 2005",
-        "num_citations": 570,
+        "num_citations": 571,
         "author_pub_id": "4PU5ZFYV-iEC:u5HHmVD_uO8C"
     },
     {
@@ -975,14 +976,14 @@
         "title": "What do we know about test-driven development?",
         "pub_year": "2010",
         "citation": "IEEE software 27 (6), 16-19, 2010",
-        "num_citations": 119,
+        "num_citations": 120,
         "author_pub_id": "4PU5ZFYV-iEC:roLk4NBRz8UC"
     },
     {
         "title": "What's good software, anyway?",
         "pub_year": "2007",
         "citation": "IEEE Software 24 (2), 5-7, 2007",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "4PU5ZFYV-iEC:3fE2CSJIrl8C"
     }
 ]

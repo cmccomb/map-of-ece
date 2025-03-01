@@ -31,7 +31,7 @@
         "title": "A Universal Approach to Data Center Network Design",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 International Conference on Distributed Computing …, 2015",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "55B-xqUAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -71,7 +71,7 @@
         "title": "Building and Testing Modular Programs for Programmable Data Planes",
         "pub_year": "2020",
         "citation": "IEEE Journal on Selected Areas in Communications 38 (7), 1432-1447, 2020",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "55B-xqUAAAAJ:ALROH1vI_8AC"
     },
     {
@@ -98,7 +98,7 @@
         "title": "Cloud-based middlebox management system",
         "pub_year": "2015",
         "citation": "US Patent 9,104,492, 2015",
-        "num_citations": 245,
+        "num_citations": 248,
         "author_pub_id": "55B-xqUAAAAJ:nZcligLrVowC"
     },
     {
@@ -125,7 +125,7 @@
         "title": "Configanator: A Data-driven Approach to Improving {CDN} Performance.",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 25,
+        "num_citations": 27,
         "author_pub_id": "55B-xqUAAAAJ:7H_MAutzIkAC"
     },
     {
@@ -159,14 +159,14 @@
         "title": "Darnet: a deep learning solution for distracted driving detection",
         "pub_year": "2017",
         "citation": "Proceedings of the 18th acm/ifip/usenix middleware conference: Industrial …, 2017",
-        "num_citations": 107,
+        "num_citations": 108,
         "author_pub_id": "55B-xqUAAAAJ:1lhNe0rCu4AC"
     },
     {
         "title": "DeepConf: Automating data center network topologies management with machine learning",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 Workshop on Network Meets AI & ML, 8-14, 2018",
-        "num_citations": 80,
+        "num_citations": 82,
         "author_pub_id": "55B-xqUAAAAJ:cK4Rrx0J3m0C"
     },
     {
@@ -194,14 +194,14 @@
         "title": "Destroying networks for fun (and profit)",
         "pub_year": "2015",
         "citation": "Proceedings of the 14th ACM Workshop on Hot Topics in Networks, 6, 2015",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "55B-xqUAAAAJ:a3BOlSfXSfwC"
     },
     {
         "title": "Detecting volumetric attacks on lot devices via sdn-based monitoring of mud activity",
         "pub_year": "2019",
         "citation": "Proceedings of the 2019 ACM Symposium on SDN Research, 36-48, 2019",
-        "num_citations": 219,
+        "num_citations": 221,
         "author_pub_id": "55B-xqUAAAAJ:v1_lew4L6wgC"
     },
     {
@@ -243,7 +243,7 @@
         "title": "Fending off IoT-hunting attacks at home networks",
         "pub_year": "2017",
         "citation": "Proceedings of the 2nd Workshop on Cloud-Assisted Networking, 67-72, 2017",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "55B-xqUAAAAJ:4xDN1ZYqzskC"
     },
     {
@@ -299,7 +299,7 @@
         "title": "Inspector Gadget: A Framework for Inferring TCP Con-gestion Control Algorithms and Protocol Configurations.",
         "pub_year": "2020",
         "citation": "Network Traffic Measurement and Analysis Conference (TMA), 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "55B-xqUAAAAJ:U4n9YNQMCAIC"
     },
     {
@@ -355,14 +355,14 @@
         "title": "Microte: The case for fine-grained traffic engineering in data centers",
         "pub_year": "2011",
         "citation": "In ACM CoNEXT’11, 2011",
-        "num_citations": 836,
+        "num_citations": 845,
         "author_pub_id": "55B-xqUAAAAJ:Ehil0879vHcC"
     },
     {
         "title": "Microte: fine grained traffic engineering for data centers",
         "pub_year": "2011",
         "citation": "Proceedings of the Seventh COnference on emerging Networking EXperiments and …, 2011",
-        "num_citations": 836,
+        "num_citations": 845,
         "author_pub_id": "55B-xqUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -383,7 +383,7 @@
         "title": "Mp-hula: Multipath transport aware load balancing using programmable data planes",
         "pub_year": "2018",
         "citation": "Proceedings of the 2018 Morning Workshop on In-Network Computing, 7-13, 2018",
-        "num_citations": 43,
+        "num_citations": 45,
         "author_pub_id": "55B-xqUAAAAJ:7Hz3ACDFbsoC"
     },
     {
@@ -404,7 +404,7 @@
         "title": "Network traffic characteristics of data centers in the wild",
         "pub_year": "2010",
         "citation": "Proceedings of the 10th ACM SIGCOMM conference on Internet measurement, 267-280, 2010",
-        "num_citations": 2903,
+        "num_citations": 2912,
         "author_pub_id": "55B-xqUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -425,7 +425,7 @@
         "title": "P4visor: Lightweight virtualization and composition primitives for building and testing modular programs",
         "pub_year": "2018",
         "citation": "Proceedings of the 14th International Conference on emerging Networking …, 2018",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "55B-xqUAAAAJ:BzfGm06jWhQC"
     },
     {
@@ -537,14 +537,14 @@
         "title": "Stratos: A Network-Aware Orchestration Layer for Middleboxes in the Cloud",
         "pub_year": "2013",
         "citation": "arXiv preprint arXiv:1305.0209, 2013",
-        "num_citations": 292,
+        "num_citations": 293,
         "author_pub_id": "55B-xqUAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "Stratos: Virtual middleboxes as first-class entities",
         "pub_year": "2012",
         "citation": "UW-Madison TR1771, 15, 2012",
-        "num_citations": 99,
+        "num_citations": 100,
         "author_pub_id": "55B-xqUAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -586,7 +586,7 @@
         "title": "Tolerating SDN Application Failures with LegoSDN.",
         "pub_year": "2014",
         "citation": "Proceedings of the third workshop on Hot topics in software defined …, 2014",
-        "num_citations": 123,
+        "num_citations": 124,
         "author_pub_id": "55B-xqUAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -600,14 +600,14 @@
         "title": "Understanding data center traffic characteristics",
         "pub_year": "2010",
         "citation": "ACM SIGCOMM Computer Communication Review 40 (1), 92-99, 2010",
-        "num_citations": 1036,
+        "num_citations": 1039,
         "author_pub_id": "55B-xqUAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Unraveling the Complexity of Network Management.",
         "pub_year": "2009",
         "citation": "NSDI, 335-348, 2009",
-        "num_citations": 332,
+        "num_citations": 333,
         "author_pub_id": "55B-xqUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -669,7 +669,7 @@
         "title": "Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website",
         "pub_year": "2020",
         "citation": "Proceedings of the Annual conference of the ACM Special Interest Group on …, 2020",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "55B-xqUAAAAJ:43bX7VzcjpAC"
     }
 ]

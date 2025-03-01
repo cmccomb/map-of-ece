@@ -1,11 +1,5 @@
 [
     {
-        "title": "& Eckersley, P.(2020). Explainable machine learning in deployment",
-        "citation": "Proceedings of the 2020 Conference on Fairness, Accountability, and …, 0",
-        "num_citations": 6,
-        "author_pub_id": "qoFYHTMAAAAJ:aVq8r21TQD4C"
-    },
-    {
         "title": "* Department of Electrical and Computer Engineering* Department of Biological Sciences, Carnegie Mellon University, PA 15213",
         "citation": "",
         "num_citations": 0,
@@ -15,7 +9,7 @@
         "title": "-Learning: A Collaborative Distributed Strategy for Multi-Agent Reinforcement Learning Through",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Signal Processing 61 (7), 1848-1862, 2013",
-        "num_citations": 220,
+        "num_citations": 225,
         "author_pub_id": "qoFYHTMAAAAJ:kJDgFkosVoMC"
     },
     {
@@ -69,8 +63,15 @@
         "title": "3D-3D registration of free-formed objects using shape and texture",
         "pub_year": "1997",
         "citation": "Visual Communications and Image Processing'97 3024, 263-274, 1997",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "qoFYHTMAAAAJ:Y5dfb0dijaUC"
+    },
+    {
+        "title": "4 A unified distributed algorithm for",
+        "pub_year": "2016",
+        "citation": "Big Data over Networks, 101, 2016",
+        "num_citations": 9,
+        "author_pub_id": "qoFYHTMAAAAJ:-qpA3cGbmHsC"
     },
     {
         "title": "9. SPONSORING/MONITORING AGENCY NAME (S) AND ADDRESS (ES)",
@@ -131,7 +132,7 @@
         "title": "A deep learning approach to IoT authentication",
         "pub_year": "2018",
         "citation": "2018 IEEE international conference on communications (ICC), 1-6, 2018",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "qoFYHTMAAAAJ:jRIwE-1ttnoC"
     },
     {
@@ -152,7 +153,7 @@
         "title": "A fast algorithm for rigid structure from image sequences",
         "pub_year": "1999",
         "citation": "Proceedings 1999 International Conference on Image Processing (Cat …, 1999",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "qoFYHTMAAAAJ:dshw04ExmUIC"
     },
     {
@@ -208,7 +209,7 @@
         "title": "A mixed time-scale algorithm for distributed parameter estimation: Nonlinear observation models and imperfect communication",
         "pub_year": "2009",
         "citation": "2009 IEEE International Conference on Acoustics, Speech and Signal …, 2009",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "qoFYHTMAAAAJ:ye4kPcJQO24C"
     },
     {
@@ -242,7 +243,7 @@
         "title": "A recursive framework for noncausal Gauss Markov random fields",
         "pub_year": "1990",
         "citation": "24th Annual Conf. Inform. Sci. Syst., 1990",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "qoFYHTMAAAAJ:oE_QS-WwsdAC"
     },
     {
@@ -256,7 +257,7 @@
         "title": "A stochastic adaptive model to explore mobile botnet dynamics",
         "pub_year": "2016",
         "citation": "IEEE Communications Letters 21 (4), 753-756, 2016",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "qoFYHTMAAAAJ:QKtdBID3u5MC"
     },
     {
@@ -274,11 +275,11 @@
         "author_pub_id": "qoFYHTMAAAAJ:_mQi-xiA4oYC"
     },
     {
-        "title": "A unified distributed algorithm for non-cooperative games.",
-        "pub_year": "2016",
-        "citation": "Big Data over Networks, 101-134, 2016",
-        "num_citations": 9,
-        "author_pub_id": "qoFYHTMAAAAJ:-qpA3cGbmHsC"
+        "title": "ABHISHEK DAS",
+        "pub_year": "2024",
+        "citation": "A proof theory of right-linear (omega-) grammars via cyclic proofs. CoRR …, 2024",
+        "num_citations": 4,
+        "author_pub_id": "qoFYHTMAAAAJ:HAmI6pRF5skC"
     },
     {
         "title": "AFRL-AFOSR-VA-TR-2015-0265",
@@ -299,13 +300,6 @@
         "citation": "ICASSP-88., International Conference on Acoustics, Speech, and Signal …, 1988",
         "num_citations": 6,
         "author_pub_id": "qoFYHTMAAAAJ:kzcrU_BdoSEC"
-    },
-    {
-        "title": "Abhishek De",
-        "pub_year": "2016",
-        "citation": "Cooling Devices in Laser Therapy. Oct to Dec, 2016",
-        "num_citations": 4,
-        "author_pub_id": "qoFYHTMAAAAJ:HAmI6pRF5skC"
     },
     {
         "title": "Accounting for topology in spreading contagion in non-complete networks",
@@ -344,7 +338,7 @@
         "title": "Acquisition in phase demodulation: application to ranging in radar/sonar systems",
         "pub_year": "1995",
         "citation": "IEEE Transactions on aerospace and Electronic Systems 31 (2), 581-599, 1995",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "qoFYHTMAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -386,14 +380,14 @@
         "title": "Adversarial geometry-aware human motion prediction",
         "pub_year": "2018",
         "citation": "Proceedings of the european conference on computer vision (ECCV), 786-803, 2018",
-        "num_citations": 310,
+        "num_citations": 309,
         "author_pub_id": "qoFYHTMAAAAJ:ynsZFq2pu0MC"
     },
     {
         "title": "Adversarial multiple source domain adaptation",
         "pub_year": "2018",
         "citation": "Advances in neural information processing systems 31, 2018",
-        "num_citations": 650,
+        "num_citations": 653,
         "author_pub_id": "qoFYHTMAAAAJ:o-PowTg_VKEC"
     },
     {
@@ -421,7 +415,7 @@
         "title": "Affine-permutation symmetry: Invariance and shape space",
         "pub_year": "2003",
         "citation": "IEEE Workshop on Statistical Signal Processing, 2003, 307-310, 2003",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "qoFYHTMAAAAJ:XiSMed-E-HIC"
     },
     {
@@ -435,28 +429,28 @@
         "title": "Algebraic Signal Processing Theory: 1-D Space.",
         "pub_year": "2008",
         "citation": "IEEE Trans. Signal Process. 56 (8-1), 3586-3599, 2008",
-        "num_citations": 134,
+        "num_citations": 136,
         "author_pub_id": "qoFYHTMAAAAJ:5bfplxN71z4C"
     },
     {
         "title": "Algebraic signal processing theory",
         "pub_year": "2006",
         "citation": "arXiv preprint cs/0612077, 2006",
-        "num_citations": 70,
+        "num_citations": 71,
         "author_pub_id": "qoFYHTMAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Algebraic signal processing theory: Cooley–Tukey type algorithms for DCTs and DSTs",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Signal Processing 56 (4), 1502-1521, 2008",
-        "num_citations": 131,
+        "num_citations": 134,
         "author_pub_id": "qoFYHTMAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Algebraic signal processing theory: Foundation and 1-D time",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Signal Processing 56 (8), 3572-3585, 2008",
-        "num_citations": 206,
+        "num_citations": 209,
         "author_pub_id": "qoFYHTMAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -511,7 +505,7 @@
         "title": "Ambiguity in radar and sonar",
         "pub_year": "1998",
         "citation": "IEEE Transactions on Signal Processing 46 (2), 294-305, 1998",
-        "num_citations": 65,
+        "num_citations": 66,
         "author_pub_id": "qoFYHTMAAAAJ:TQgYirikUcIC"
     },
     {
@@ -531,19 +525,20 @@
         "title": "An ML algorithm for outliers detection and source localization.",
         "pub_year": "1992",
         "citation": "icassp, 425-428, 1992",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "qoFYHTMAAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "An efficient method to detect periodic behavior in botnet traffic by analyzing control plane traffic",
         "pub_year": "2014",
         "citation": "Journal of advanced research 5 (4), 435-448, 2014",
-        "num_citations": 60,
+        "num_citations": 62,
         "author_pub_id": "qoFYHTMAAAAJ:N4u4nq0IxgcC"
     },
     {
         "title": "An efficient temperature compensation technique for guided wave ultrasonic inspection",
-        "citation": "Proc. of the International Workshop on Structural Heatlh Monitoring, 0",
+        "pub_year": "2011",
+        "citation": "Proc. of the International Workshop on Structural Heatlh Monitoring, 2011",
         "num_citations": 1,
         "author_pub_id": "qoFYHTMAAAAJ:_tF6a-HnqWAC"
     },
@@ -551,7 +546,7 @@
         "title": "Annealing for distributed global optimization",
         "pub_year": "2019",
         "citation": "2019 IEEE 58th Conference on Decision and Control (CDC), 3018-3025, 2019",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "qoFYHTMAAAAJ:JdL-Xu2nR38C"
     },
     {
@@ -593,7 +588,7 @@
         "title": "Approximating image filters with box filters",
         "pub_year": "2011",
         "citation": "2011 18th IEEE International Conference on Image Processing, 85-88, 2011",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "qoFYHTMAAAAJ:6yz0xqPARnAC"
     },
     {
@@ -646,7 +641,7 @@
         "author_pub_id": "qoFYHTMAAAAJ:cww_0JKUTDwC"
     },
     {
-        "title": "Automated, Scalable and Generalizable Deep Learning for Tracking Cortical Spreading Depression Using EEG",
+        "title": "Automated, scalable and generalizable deep learning for tracking cortical spreading depression using EEG",
         "pub_year": "2021",
         "citation": "2021 10th International IEEE/EMBS Conference on Neural Engineering (NER …, 2021",
         "num_citations": 5,
@@ -656,14 +651,14 @@
         "title": "Automatic detection of regional heart rejection in USPIO-enhanced MRI",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Medical Imaging 27 (8), 1095-1106, 2008",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "qoFYHTMAAAAJ:dfsIfKJdRG4C"
     },
     {
         "title": "Automatic recognition of human walking in monocular image sequences",
         "pub_year": "1998",
         "citation": "Journal of VLSI signal processing systems for signal, image and video …, 1998",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "qoFYHTMAAAAJ:HE397vMXCloC"
     },
     {
@@ -705,7 +700,7 @@
         "title": "Big data computation of taxi movement in New York City",
         "pub_year": "2016",
         "citation": "2016 IEEE International Conference on Big Data (Big Data), 2616-2625, 2016",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "qoFYHTMAAAAJ:3BvdIg-l-ZAC"
     },
     {
@@ -719,14 +714,14 @@
         "title": "Big data+ big cities: Graph signals of urban air pollution [exploratory sp]",
         "pub_year": "2014",
         "citation": "IEEE Signal Processing Magazine 31 (5), 130-136, 2014",
-        "num_citations": 50,
+        "num_citations": 52,
         "author_pub_id": "qoFYHTMAAAAJ:J3LtWjKFLicC"
     },
     {
         "title": "Biomedical signal processing",
         "pub_year": "2010",
         "citation": "Biomedical engineering and design handbook 2, 559-579, 2010",
-        "num_citations": 57,
+        "num_citations": 56,
         "author_pub_id": "qoFYHTMAAAAJ:hMsQuOkrut0C"
     },
     {
@@ -772,6 +767,13 @@
         "author_pub_id": "qoFYHTMAAAAJ:tFzHCjejgA0C"
     },
     {
+        "title": "CAPS, Complexo, Instituto Superior Técnico",
+        "pub_year": "1983",
+        "citation": "Issues in Acoustic Signal—Image Processing and Recognition, 139, 1983",
+        "num_citations": 0,
+        "author_pub_id": "qoFYHTMAAAAJ:LzOrNEA7mwcC"
+    },
+    {
         "title": "CONTROLO DE STOCKS DE PRODUÇÃO EM LINHA DE MONTAGEM EM SÉRIE: INTERAÇÃO DISTRIBUÍDA ENTRE OS SISTEMAS INTERVENIENTES",
         "pub_year": "1985",
         "citation": "Técnica, 1985",
@@ -789,7 +791,7 @@
         "title": "Capture and representation of human walking in live video sequences",
         "pub_year": "1999",
         "citation": "IEEE Transactions on Multimedia 1 (2), 144-156, 1999",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "qoFYHTMAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -850,7 +852,7 @@
         "title": "Classification via regularization on graphs",
         "pub_year": "2013",
         "citation": "2013 IEEE global conference on signal and information processing, 495-498, 2013",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "qoFYHTMAAAAJ:tz746QTLzJkC"
     },
     {
@@ -864,14 +866,14 @@
         "title": "Clevr-dialog: A diagnostic dataset for multi-round reasoning in visual dialog",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1903.03166, 2019",
-        "num_citations": 104,
+        "num_citations": 105,
         "author_pub_id": "qoFYHTMAAAAJ:gkldIfsazJcC"
     },
     {
         "title": "Closed-form blind channel identification and source separation in SDMA systems through correlative coding",
         "pub_year": "1998",
         "citation": "IEEE journal on Selected Areas in Communications 16 (8), 1506-1517, 1998",
-        "num_citations": 48,
+        "num_citations": 47,
         "author_pub_id": "qoFYHTMAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -948,7 +950,7 @@
         "title": "Consensus based detection in sensor networks: Topology optimization under practical constraints",
         "pub_year": "2007",
         "citation": "Proc. 1st Intl. Wrkshp. Inform. Theory Sensor Networks 13, 31, 2007",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "qoFYHTMAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -976,21 +978,21 @@
         "title": "Consensus+ innovations distributed inference over networks: cooperation and sensing in networked systems",
         "pub_year": "2013",
         "citation": "IEEE Signal Processing Magazine 30 (3), 99-109, 2013",
-        "num_citations": 212,
+        "num_citations": 215,
         "author_pub_id": "qoFYHTMAAAAJ:BJrgspguQaEC"
     },
     {
         "title": "Consensus+Innovations Distributed Kalman Filter With Optimized Gains",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Signal Processing 65 (2), 467-481, 2016",
-        "num_citations": 153,
+        "num_citations": 155,
         "author_pub_id": "qoFYHTMAAAAJ:ShjGdcaqzI0C"
     },
     {
         "title": "Contact process with exogenous infection and the scaled SIS process",
         "pub_year": "2017",
         "citation": "Journal of Complex Networks 5 (5), 712-733, 2017",
-        "num_citations": 10,
+        "num_citations": 13,
         "author_pub_id": "qoFYHTMAAAAJ:sgsej9ZJWHMC"
     },
     {
@@ -1018,7 +1020,7 @@
         "title": "Continuous media communication with dynamic QOS control using ARTS with an FDDI network",
         "pub_year": "1992",
         "citation": "ACM SIGCOMM Computer Communication Review 22 (4), 88-98, 1992",
-        "num_citations": 130,
+        "num_citations": 132,
         "author_pub_id": "qoFYHTMAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1032,14 +1034,14 @@
         "title": "Contrast-invariant registration of cardiac and renal magnetic resonance perfusion images",
         "pub_year": "2010",
         "citation": "US Patent 7,734,075, 2010",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "qoFYHTMAAAAJ:KbBQZpvPDL4C"
     },
     {
         "title": "Convergence analysis of belief propagation for pairwise linear Gaussian models",
         "pub_year": "2017",
         "citation": "2017 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2017",
-        "num_citations": 11,
+        "num_citations": 9,
         "author_pub_id": "qoFYHTMAAAAJ:ZysSsiWj_g4C"
     },
     {
@@ -1053,21 +1055,21 @@
         "title": "Convergence analysis of distributed inference with vector-valued Gaussian belief propagation",
         "pub_year": "2018",
         "citation": "Journal of Machine Learning Research 18 (172), 1-38, 2018",
-        "num_citations": 61,
+        "num_citations": 58,
         "author_pub_id": "qoFYHTMAAAAJ:i91s68tWr-MC"
     },
     {
         "title": "Convergence analysis of the information matrix in Gaussian belief propagation",
         "pub_year": "2017",
         "citation": "2017 IEEE International Conference on Acoustics, Speech and Signal …, 2017",
-        "num_citations": 27,
+        "num_citations": 25,
         "author_pub_id": "qoFYHTMAAAAJ:XtJa11BXPS4C"
     },
     {
         "title": "Convergence rate analysis of distributed gossip (linear parameter) estimation: Fundamental limits and tradeoffs",
         "pub_year": "2011",
         "citation": "IEEE Journal of Selected Topics in Signal Processing 5 (4), 674-690, 2011",
-        "num_citations": 258,
+        "num_citations": 260,
         "author_pub_id": "qoFYHTMAAAAJ:5awf1xo2G04C"
     },
     {
@@ -1081,7 +1083,7 @@
         "title": "Convergence rates of distributed Nesterov-like gradient methods on random networks",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Signal Processing 62 (4), 868-882, 2013",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "qoFYHTMAAAAJ:qmtmRrLr0tkC"
     },
     {
@@ -1116,7 +1118,7 @@
         "title": "Cooperative convex optimization in networked systems: Augmented Lagrangian algorithms with directed gossip communication",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Signal Processing 59 (8), 3889-3902, 2011",
-        "num_citations": 144,
+        "num_citations": 146,
         "author_pub_id": "qoFYHTMAAAAJ:t7zJ5fGR-2UC"
     },
     {
@@ -1150,7 +1152,7 @@
         "title": "Cramer-Rao bounds for passive range and depth in a vertically inhomogeneous medium",
         "pub_year": "1990",
         "citation": "International Conference on Acoustics, Speech, and Signal Processing, 2779-2782, 1990",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "qoFYHTMAAAAJ:QYdC8u9Cj1oC"
     },
     {
@@ -1185,14 +1187,14 @@
         "title": "Cyber-physical systems: Dynamic sensor attacks and strong observability",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Acoustics, Speech and Signal …, 2015",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "qoFYHTMAAAAJ:AFmTUeZ1pmEC"
     },
     {
         "title": "DCT/DST and Gauss-Markov fields: Conditions for equivalence",
         "pub_year": "1998",
         "citation": "IEEE Transactions on Signal Processing 46 (9), 2571-2574, 1998",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "qoFYHTMAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -1206,8 +1208,15 @@
         "title": "DILAND: An algorithm for distributed sensor localization with noisy distance measurements",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Signal Processing 58 (3), 1940-1947, 2009",
-        "num_citations": 199,
+        "num_citations": 196,
         "author_pub_id": "qoFYHTMAAAAJ:pqnbT2bcN3wC"
+    },
+    {
+        "title": "DISCRETIZATION OF THE FOKKER-PLANCK EQUATION",
+        "pub_year": "1986",
+        "citation": "Signal Processing, Theories and Applications: Proceedings of EUSIPCO …, 1986",
+        "num_citations": 0,
+        "author_pub_id": "qoFYHTMAAAAJ:FtNbRaqWXr4C"
     },
     {
         "title": "DISTRIBUTED RANDOM FIELDS ESTIMATION: A CONSENSUS+ INNOVATIONS APPROACH",
@@ -1225,7 +1234,7 @@
         "title": "Data assimilation in large time-varying multidimensional fields",
         "pub_year": "1999",
         "citation": "IEEE Transactions on Image Processing 8 (11), 1593-1607, 1999",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "qoFYHTMAAAAJ:RHpTSmoSYBkC"
     },
     {
@@ -1239,7 +1248,7 @@
         "title": "Data-driven matched field processing for Lamb wave structural health monitoring",
         "pub_year": "2014",
         "citation": "The Journal of the Acoustical Society of America 135 (3), 1231-1244, 2014",
-        "num_citations": 102,
+        "num_citations": 103,
         "author_pub_id": "qoFYHTMAAAAJ:yeL6HyUMUGUC"
     },
     {
@@ -1260,14 +1269,14 @@
         "title": "Deep beamforming for joint direction of arrival estimation and source detection",
         "pub_year": "2022",
         "citation": "2022 56th Asilomar Conference on Signals, Systems, and Computers, 1403-1407, 2022",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "qoFYHTMAAAAJ:lOG7zRu2uA8C"
     },
     {
         "title": "Deep learning methods for estimating density and/or flow of objects, and related methods and software",
         "pub_year": "2020",
         "citation": "US Patent 10,733,876, 2020",
-        "num_citations": 60,
+        "num_citations": 65,
         "author_pub_id": "qoFYHTMAAAAJ:DwWRdx-KAo4C"
     },
     {
@@ -1314,7 +1323,8 @@
     },
     {
         "title": "Department of Electrical and Computer Engineering Carnegie Mellon University, Pittsburgh, PA 15213",
-        "citation": "",
+        "pub_year": "1987",
+        "citation": "Proceedings, 374, 1987",
         "num_citations": 0,
         "author_pub_id": "qoFYHTMAAAAJ:pRWBApOjXDcC"
     },
@@ -1349,14 +1359,14 @@
         "title": "Detecting and solving template ambiguities in motion segmentation",
         "pub_year": "1997",
         "citation": "Proceedings of International Conference on Image Processing 2, 494-497, 1997",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "qoFYHTMAAAAJ:4fKUyHm3Qg0C"
     },
     {
         "title": "Detecting botnets using command and control traffic",
         "pub_year": "2009",
         "citation": "2009 Eighth IEEE International Symposium on Network Computing and …, 2009",
-        "num_citations": 86,
+        "num_citations": 88,
         "author_pub_id": "qoFYHTMAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -1412,7 +1422,7 @@
         "title": "Detection in sensor networks: The saddlepoint approximation",
         "pub_year": "2006",
         "citation": "IEEE Transactions on Signal Processing 55 (1), 327-340, 2006",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "qoFYHTMAAAAJ:9ZlFYXVOiuMC"
     },
     {
@@ -1467,7 +1477,7 @@
         "title": "Diagnostic Model Explanations: A Medical Narrative.",
         "pub_year": "2019",
         "citation": "AAAI Spring Symposium: interpretable AI for well-being, 2019",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "qoFYHTMAAAAJ:6IBXqrN-DEwC"
     },
     {
@@ -1495,7 +1505,7 @@
         "title": "Direction finding algorithms for time reversal MIMO radars",
         "pub_year": "2011",
         "citation": "2011 IEEE Statistical Signal Processing Workshop (SSP), 433-436, 2011",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "qoFYHTMAAAAJ:LgRImbQfgY4C"
     },
     {
@@ -1515,35 +1525,35 @@
         "title": "Discrete Fourier transform on multicore",
         "pub_year": "2009",
         "citation": "IEEE Signal Processing Magazine 26 (6), 90-102, 2009",
-        "num_citations": 128,
+        "num_citations": 126,
         "author_pub_id": "qoFYHTMAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Discrete Signal Processing on Graphs: Frequency Analysis",
         "pub_year": "2014",
         "citation": "Signal Processing, IEEE Transactions on 62 (12), 3042 - 3054, 2014",
-        "num_citations": 941,
+        "num_citations": 955,
         "author_pub_id": "qoFYHTMAAAAJ:VRfTbSk87rEC"
     },
     {
         "title": "Discrete signal processing on graphs",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Signal Procesing 61 (7), 1644-1656, 2012",
-        "num_citations": 1695,
+        "num_citations": 1696,
         "author_pub_id": "qoFYHTMAAAAJ:AYInfyleIOsC"
     },
     {
         "title": "Discrete signal processing on graphs: Graph filters",
         "pub_year": "2013",
         "citation": "2013 IEEE International Conference on Acoustics, Speech and Signal …, 2013",
-        "num_citations": 108,
+        "num_citations": 109,
         "author_pub_id": "qoFYHTMAAAAJ:eI34FqJmdUoC"
     },
     {
         "title": "Discrete signal processing on graphs: Graph fourier transform",
         "pub_year": "2013",
         "citation": "2013 IEEE International Conference on Acoustics, Speech and Signal …, 2013",
-        "num_citations": 199,
+        "num_citations": 198,
         "author_pub_id": "qoFYHTMAAAAJ:2vr6o8x5NLkC"
     },
     {
@@ -1571,20 +1581,20 @@
         "title": "Distributed Kalman filtering over massive data sets: analysis through large deviations of random Riccati equations",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Information Theory 61 (3), 1351-1372, 2015",
-        "num_citations": 52,
+        "num_citations": 53,
         "author_pub_id": "qoFYHTMAAAAJ:uUvzmPk0f8oC"
     },
     {
         "title": "Distributed Kalman filtering with dynamic observations consensus",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Signal Processing 63 (17), 4458-4473, 2015",
-        "num_citations": 159,
+        "num_citations": 162,
         "author_pub_id": "qoFYHTMAAAAJ:V_vSwabWVtYC"
     },
     {
         "title": "Distributed Kalman filters in sensor networks: Bipartite fusion graphs",
         "pub_year": "2007",
-        "citation": "2007 IEEE/SP 14th Workshop on Statistical Signal Processing, 700-704, 2007",
+        "citation": "2007 IEEE/SP 14th workshop on statistical signal processing, 700-704, 2007",
         "num_citations": 50,
         "author_pub_id": "qoFYHTMAAAAJ:k_IJM867U9cC"
     },
@@ -1592,14 +1602,14 @@
         "title": "Distributed Nesterov-like gradient algorithms",
         "pub_year": "2012",
         "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 5459-5464, 2012",
-        "num_citations": 38,
+        "num_citations": 37,
         "author_pub_id": "qoFYHTMAAAAJ:Xl6nMSl579sC"
     },
     {
         "title": "Distributed State Estimation and Energy Management in Smart Grids: A ConsensusInnovations Approach",
         "pub_year": "2014",
         "citation": "IEEE Journal of selected topics in signal processing 8 (6), 1022-1038, 2014",
-        "num_citations": 268,
+        "num_citations": 266,
         "author_pub_id": "qoFYHTMAAAAJ:60iIaj97TE0C"
     },
     {
@@ -1627,14 +1637,14 @@
         "title": "Distributed average consensus in sensor networks with random link failures",
         "pub_year": "2007",
         "citation": "2007 IEEE International Conference on Acoustics, Speech and Signal …, 2007",
-        "num_citations": 91,
+        "num_citations": 89,
         "author_pub_id": "qoFYHTMAAAAJ:YOwf2qJgpHMC"
     },
     {
         "title": "Distributed average consensus in sensor networks with random link failures and communication channel noise",
         "pub_year": "2007",
         "citation": "2007 Conference Record of the Forty-First Asilomar Conference on Signals …, 2007",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "qoFYHTMAAAAJ:DUFsPKDdMi0C"
     },
     {
@@ -1655,7 +1665,7 @@
         "title": "Distributed consensus algorithms in sensor networks with imperfect communication: Link failures and channel noise",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Signal Processing 57 (1), 355-369, 2008",
-        "num_citations": 825,
+        "num_citations": 834,
         "author_pub_id": "qoFYHTMAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -1669,7 +1679,7 @@
         "title": "Distributed consensus algorithms in sensor networks: Quantized data and random link failures",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Signal Processing 58 (3), 1383-1400, 2009",
-        "num_citations": 480,
+        "num_citations": 481,
         "author_pub_id": "qoFYHTMAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -1753,7 +1763,7 @@
         "title": "Distributed inference over directed networks: Performance limits and optimal design",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Signal Processing 64 (13), 3308-3323, 2016",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "qoFYHTMAAAAJ:RfUwGJFMQ-0C"
     },
     {
@@ -1802,14 +1812,14 @@
         "title": "Distributed localization via barycentric coordinates: Finite-time convergence",
         "pub_year": "2011",
         "citation": "IFAC Proceedings Volumes 44 (1), 7824-7829, 2011",
-        "num_citations": 24,
+        "num_citations": 26,
         "author_pub_id": "qoFYHTMAAAAJ:mNrWkgRL2YcC"
     },
     {
         "title": "Distributed localization: A linear theory",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (7), 1204-1223, 2018",
-        "num_citations": 115,
+        "num_citations": 117,
         "author_pub_id": "qoFYHTMAAAAJ:yCjxvIMm6_oC"
     },
     {
@@ -1823,14 +1833,14 @@
         "title": "Distributed nesterov gradient methods for random networks: Convergence in probability and convergence rates",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "qoFYHTMAAAAJ:3A3nxV7CjKIC"
     },
     {
         "title": "Distributed parameter estimation in sensor networks: Nonlinear observation models and imperfect communication",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Information Theory 58 (6), 3575-3605, 2012",
-        "num_citations": 523,
+        "num_citations": 528,
         "author_pub_id": "qoFYHTMAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1850,7 +1860,7 @@
     {
         "title": "Distributed sensing and processing: a graphical model approach",
         "pub_year": "2002",
-        "citation": "DARPA ACMP Integrated Sensing and Processing Workshop, 2002",
+        "citation": "DARPA ACMP Integrated Sensing and Processing Workshop, Annapolis, MD, 2002",
         "num_citations": 8,
         "author_pub_id": "qoFYHTMAAAAJ:J-pR_7NvFogC"
     },
@@ -1865,7 +1875,7 @@
         "title": "Distributed sensor localization in random environments using minimal number of anchor nodes",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Signal Processing 57 (5), 2000-2016, 2009",
-        "num_citations": 381,
+        "num_citations": 383,
         "author_pub_id": "qoFYHTMAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -1886,7 +1896,7 @@
         "title": "Distributing the Kalman filter for large-scale systems",
         "pub_year": "2008",
         "citation": "IEEE transactions on signal processing 56 (10), 4919-4935, 2008",
-        "num_citations": 564,
+        "num_citations": 567,
         "author_pub_id": "qoFYHTMAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -1907,7 +1917,7 @@
         "title": "Dual algorithm for ARMA spectrum estimation",
         "pub_year": "1987",
         "citation": "ICASSP'87. IEEE International Conference on Acoustics, Speech, and Signal …, 1987",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "qoFYHTMAAAAJ:HJSXoJQnj-YC"
     },
     {
@@ -1921,7 +1931,7 @@
         "title": "Dynamic attack detection in cyber-physical systems with side initial state information",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Automatic Control 62 (9), 4618-4624, 2016",
-        "num_citations": 174,
+        "num_citations": 173,
         "author_pub_id": "qoFYHTMAAAAJ:sbeIDTyQOFgC"
     },
     {
@@ -1971,7 +1981,7 @@
         "author_pub_id": "qoFYHTMAAAAJ:hEXC_dOfxuUC"
     },
     {
-        "title": "Edge Entropy as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification",
+        "title": "Edge entropy as an indicator of the effectiveness of gnns over cnns for node classification",
         "pub_year": "2020",
         "citation": "2020 54th Asilomar Conference on Signals, Systems, and Computers, 746-750, 2020",
         "num_citations": 1,
@@ -1988,7 +1998,7 @@
         "title": "Efficient detection in hyperspectral imagery",
         "pub_year": "2001",
         "citation": "IEEE Transactions on image processing 10 (4), 584-597, 2001",
-        "num_citations": 214,
+        "num_citations": 209,
         "author_pub_id": "qoFYHTMAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -2009,7 +2019,7 @@
         "title": "Eigendecomposition of block tridiagonal matrices",
         "pub_year": "2013",
         "citation": "arXiv preprint arXiv:1306.0217, 2013",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "qoFYHTMAAAAJ:37UQlXuwjP4C"
     },
     {
@@ -2086,14 +2096,21 @@
         "title": "Evaluating and aggregating feature-based model explanations",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2005.00631, 2020",
-        "num_citations": 235,
+        "num_citations": 246,
         "author_pub_id": "qoFYHTMAAAAJ:J6OZcwVsj5AC"
+    },
+    {
+        "title": "Evaluating and aggregating feature-based model explanations. arXiv 2020",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2005.00631, 2020",
+        "num_citations": 5,
+        "author_pub_id": "qoFYHTMAAAAJ:g9YHGIZn7mcC"
     },
     {
         "title": "Event detection for non intrusive load monitoring",
         "pub_year": "2012",
         "citation": "IECON 2012-38th Annual Conference on IEEE Industrial Electronics Society …, 2012",
-        "num_citations": 267,
+        "num_citations": 268,
         "author_pub_id": "qoFYHTMAAAAJ:TaaCk18tZOkC"
     },
     {
@@ -2135,14 +2152,14 @@
         "title": "Experimental validation of the triangle zig-zag transition model",
         "pub_year": "1997",
         "citation": "IEEE Transactions on Magnetics 33 (5), 2704-2706, 1997",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "qoFYHTMAAAAJ:vDijr-p_gm4C"
     },
     {
         "title": "Explainable machine learning in deployment",
         "pub_year": "2020",
         "citation": "Proceedings of the 2020 conference on fairness, accountability, and …, 2020",
-        "num_citations": 774,
+        "num_citations": 789,
         "author_pub_id": "qoFYHTMAAAAJ:cx97FdCJQX8C"
     },
     {
@@ -2231,7 +2248,7 @@
         "title": "Fast distributed gradient methods",
         "pub_year": "2011",
         "citation": "Automatic Control, IEEE Transactions on 59 (5), 1131-1146, 2011",
-        "num_citations": 705,
+        "num_citations": 711,
         "author_pub_id": "qoFYHTMAAAAJ:MAUkC_7iAq8C"
     },
     {
@@ -2252,7 +2269,7 @@
         "title": "Fcn-rlstm: Deep spatio-temporal neural networks for vehicle counting in city cameras",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE international conference on computer vision, 3667-3676, 2017",
-        "num_citations": 265,
+        "num_citations": 264,
         "author_pub_id": "qoFYHTMAAAAJ:GtqhT-R7ZnwC"
     },
     {
@@ -2266,7 +2283,7 @@
         "title": "Fedbaf: Federated learning aggregation biased by a foundation model",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2410.18352, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "qoFYHTMAAAAJ:RZBefGmQYygC"
     },
     {
@@ -2280,7 +2297,7 @@
         "title": "Few-shot human motion prediction via meta-learning",
         "pub_year": "2018",
         "citation": "Proceedings of the European Conference on Computer Vision (ECCV), 432-450, 2018",
-        "num_citations": 154,
+        "num_citations": 152,
         "author_pub_id": "qoFYHTMAAAAJ:uPCvBZYD9qUC"
     },
     {
@@ -2301,7 +2318,7 @@
         "title": "Finding non-overlapping clusters for generalized inference over graphical models",
         "pub_year": "2012",
         "citation": "IEEE transactions on signal processing 60 (12), 6368-6381, 2012",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "qoFYHTMAAAAJ:LPtt_HFRSbwC"
     },
     {
@@ -2322,7 +2339,7 @@
         "title": "Finite-time distributed consensus through graph filters",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
-        "num_citations": 120,
+        "num_citations": 123,
         "author_pub_id": "qoFYHTMAAAAJ:wyM6WWKXmoIC"
     },
     {
@@ -2336,7 +2353,7 @@
         "title": "Focused detection via multiresolution analysis",
         "pub_year": "1998",
         "citation": "IEEE transactions on signal processing 46 (4), 1094-1104, 1998",
-        "num_citations": 9,
+        "num_citations": 7,
         "author_pub_id": "qoFYHTMAAAAJ:b0M2c_1WBrUC"
     },
     {
@@ -2368,18 +2385,11 @@
         "author_pub_id": "qoFYHTMAAAAJ:9CGX2owmTHMC"
     },
     {
-        "title": "Forecasting COVID-19 Dynamics: Clustering, Generalized Spatiotemporal Attention, and Impacts of Mobility and Geographic Proximity",
+        "title": "Forecasting covid-19 dynamics: Clustering, generalized spatiotemporal attention, and impacts of mobility and geographic proximity",
         "pub_year": "2023",
         "citation": "2023 IEEE 39th International Conference on Data Engineering (ICDE), 2892-2904, 2023",
         "num_citations": 3,
         "author_pub_id": "qoFYHTMAAAAJ:7nQzp1YiEc4C"
-    },
-    {
-        "title": "Formula Not Shown-Learning: A Collaborative Distributed Strategy for Multi-Agent Reinforcement Learning Through Formula Not Shown",
-        "pub_year": "2013",
-        "citation": "IEEE TRANSACTIONS ON SIGNAL PROCESSING 61 (7), 1848-1862, 2013",
-        "num_citations": 0,
-        "author_pub_id": "qoFYHTMAAAAJ:Nufq_to8ts0C"
     },
     {
         "title": "From DSP to GSP: Sampling in both domains",
@@ -2420,14 +2430,14 @@
         "title": "Fusion in sensor networks with communication constraints",
         "pub_year": "2004",
         "citation": "Proceedings of the 3rd international symposium on Information processing in …, 2004",
-        "num_citations": 112,
+        "num_citations": 111,
         "author_pub_id": "qoFYHTMAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Fusion in sensor networks: convergence study",
         "pub_year": "2004",
         "citation": "2004 IEEE International Conference on Acoustics, Speech, and Signal …, 2004",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "qoFYHTMAAAAJ:lbI08cpqPnQC"
     },
     {
@@ -2455,7 +2465,7 @@
         "title": "Gap detector for multipath",
         "pub_year": "1996",
         "citation": "1996 IEEE International Conference on Acoustics, Speech, and Signal …, 1996",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "qoFYHTMAAAAJ:N5tVd3kTz84C"
     },
     {
@@ -2546,21 +2556,21 @@
         "title": "Gossip algorithms for distributed signal processing",
         "pub_year": "2010",
         "citation": "Proceedings of the IEEE 98 (11), 1847-1864, 2010",
-        "num_citations": 1041,
+        "num_citations": 1040,
         "author_pub_id": "qoFYHTMAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Gossip and distributed Kalman filtering: Weak consensus under weak detectability",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Signal Processing 59 (4), 1766-1784, 2010",
-        "num_citations": 186,
+        "num_citations": 185,
         "author_pub_id": "qoFYHTMAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Gradient Networks",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2404.07361, 2024",
-        "num_citations": 0,
+        "citation": "IEEE Transactions on Signal Processing, 2024",
+        "num_citations": 1,
         "author_pub_id": "qoFYHTMAAAAJ:M7C5BM2v8n8C"
     },
     {
@@ -2581,15 +2591,8 @@
         "title": "Graph Fourier transform: A stable approximation",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Signal Processing 68, 4422-4437, 2020",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "qoFYHTMAAAAJ:CMPXdcK5v8EC"
-    },
-    {
-        "title": "Graph Signal Processing: History, development, impact, and outlook",
-        "pub_year": "2023",
-        "citation": "IEEE Signal Processing Magazine 40 (4), 49-60, 2023",
-        "num_citations": 70,
-        "author_pub_id": "qoFYHTMAAAAJ:KKBjqD86ppkC"
     },
     {
         "title": "Graph Signal Processing: The 2D Companion Model",
@@ -2616,7 +2619,7 @@
         "title": "Graph neural networks for covid-19 drug discovery",
         "pub_year": "2020",
         "citation": "2020 IEEE International Conference on Big Data (Big Data), 5646-5648, 2020",
-        "num_citations": 31,
+        "num_citations": 29,
         "author_pub_id": "qoFYHTMAAAAJ:M8meJADSprsC"
     },
     {
@@ -2630,14 +2633,14 @@
         "title": "Graph signal processing and deep learning: Convolution, pooling, and topology",
         "pub_year": "2020",
         "citation": "IEEE Signal Processing Magazine 37 (6), 139-149, 2020",
-        "num_citations": 79,
+        "num_citations": 80,
         "author_pub_id": "qoFYHTMAAAAJ:CC3C2HR4nz8C"
     },
     {
         "title": "Graph signal processing: Dualizing GSP sampling in the vertex and spectral domains",
         "pub_year": "2022",
         "citation": "IEEE Transactions on Signal Processing 70, 2883-2898, 2022",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "qoFYHTMAAAAJ:0paDrhnEFY0C"
     },
     {
@@ -2655,6 +2658,13 @@
         "author_pub_id": "qoFYHTMAAAAJ:zfsRRabFVBUC"
     },
     {
+        "title": "Graph signal processing: History, development, impact, and outlook",
+        "pub_year": "2023",
+        "citation": "IEEE Signal Processing Magazine 40 (4), 49-60, 2023",
+        "num_citations": 74,
+        "author_pub_id": "qoFYHTMAAAAJ:KKBjqD86ppkC"
+    },
+    {
         "title": "Graph signal processing: Modulation, convolution, and sampling",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1912.06762, 2019",
@@ -2662,10 +2672,17 @@
         "author_pub_id": "qoFYHTMAAAAJ:UKB2i6g6GNMC"
     },
     {
+        "title": "Graph signal processing: Overview, challenges and applications",
+        "pub_year": "2017",
+        "citation": "arXiv preprint arXiv:1712.00468, 2017",
+        "num_citations": 41,
+        "author_pub_id": "qoFYHTMAAAAJ:ExNiBuTMO9IC"
+    },
+    {
         "title": "Graph signal processing: Overview, challenges, and applications",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (5), 808-828, 2018",
-        "num_citations": 1917,
+        "num_citations": 1909,
         "author_pub_id": "qoFYHTMAAAAJ:E8ajGqO0XoUC"
     },
     {
@@ -2679,7 +2696,7 @@
         "title": "Grouping-and-shifting designs for structured LDPC codes with large girth",
         "pub_year": "2004",
         "citation": "International Symposium onInformation Theory, 2004. ISIT 2004. Proceedings., 236, 2004",
-        "num_citations": 24,
+        "num_citations": 22,
         "author_pub_id": "qoFYHTMAAAAJ:08ZZubdj9fEC"
     },
     {
@@ -2692,7 +2709,7 @@
         "title": "Guided wave temperature compensation with the scale-invariant correlation coefficient",
         "pub_year": "2011",
         "citation": "2011 IEEE International Ultrasonics Symposium, 1068-1071, 2011",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "qoFYHTMAAAAJ:QsaTk4IG4EwC"
     },
     {
@@ -2706,7 +2723,7 @@
         "title": "High-assurance SPIRAL: End-to-end guarantees for robot and car control",
         "pub_year": "2017",
         "citation": "IEEE Control Systems Magazine 37 (2), 82-103, 2017",
-        "num_citations": 27,
+        "num_citations": 26,
         "author_pub_id": "qoFYHTMAAAAJ:SWgZeABleR0C"
     },
     {
@@ -2734,14 +2751,14 @@
         "title": "Higher dimensional consensus: Learning in large-scale networks",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Signal Processing 58 (5), 2836-2849, 2010",
-        "num_citations": 75,
+        "num_citations": 62,
         "author_pub_id": "qoFYHTMAAAAJ:wbdj-CoPYUoC"
     },
     {
         "title": "Hyperspectral imagery: Clutter adaptation in anomaly detection",
         "pub_year": "2000",
         "citation": "IEEE Transactions on Information Theory 46 (5), 1855-1871, 2000",
-        "num_citations": 193,
+        "num_citations": 190,
         "author_pub_id": "qoFYHTMAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -2849,8 +2866,8 @@
     },
     {
         "title": "Image codec by noncausal prediction, residual mean removal, and cascaded VQ",
-        "pub_year": "1996",
-        "citation": "IEEE transactions on circuits and systems for video technology 6 (1), 42-55, 1996",
+        "pub_year": "2002",
+        "citation": "IEEE transactions on circuits and systems for video technology 6 (1), 42-55, 2002",
         "num_citations": 21,
         "author_pub_id": "qoFYHTMAAAAJ:a0OBvERweLwC"
     },
@@ -2898,8 +2915,8 @@
     {
         "title": "In vivo detection of acute rat renal allograft rejection by MRI with USPIO particles",
         "pub_year": "2002",
-        "citation": "Kidney international 61 (3), 1124-1135, 2002",
-        "num_citations": 109,
+        "citation": "Kidney International 61 (3), 1124-1135, 2002",
+        "num_citations": 110,
         "author_pub_id": "qoFYHTMAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -2941,7 +2958,7 @@
         "title": "Integrated registration of dynamic renal perfusion MR images",
         "pub_year": "2004",
         "citation": "2004 International Conference on Image Processing, 2004. ICIP'04. 3, 1923-1926, 2004",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "qoFYHTMAAAAJ:dhFuZR0502QC"
     },
     {
@@ -2962,7 +2979,7 @@
         "title": "Intelligent sensor fusion: A graphical model approach",
         "pub_year": "2003",
         "citation": "2003 IEEE International Conference on Acoustics, Speech, and Signal …, 2003",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "qoFYHTMAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -3004,7 +3021,7 @@
         "title": "Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2410.06277, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "qoFYHTMAAAAJ:zaHkCSmj5XkC"
     },
     {
@@ -3058,14 +3075,14 @@
         "title": "Kalman filtering with intermittent observations: Weak convergence to a stationary distribution",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Automatic Control 57 (2), 405-420, 2011",
-        "num_citations": 168,
+        "num_citations": 169,
         "author_pub_id": "qoFYHTMAAAAJ:u_35RYKgDlwC"
     },
     {
         "title": "Kidney segmentation in MRI sequences using temporal dynamics",
         "pub_year": "2002",
         "citation": "Proceedings IEEE International Symposium on Biomedical Imaging, 98-101, 2002",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "qoFYHTMAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -3128,14 +3145,14 @@
         "title": "Learning cooperative visual dialog agents with deep reinforcement learning",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE international conference on computer vision, 2951-2960, 2017",
-        "num_citations": 477,
+        "num_citations": 484,
         "author_pub_id": "qoFYHTMAAAAJ:v_xunPV0uK0C"
     },
     {
         "title": "Learning gradients of convex functions with monotone gradient networks",
         "pub_year": "2023",
         "citation": "ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and …, 2023",
-        "num_citations": 7,
+        "num_citations": 9,
         "author_pub_id": "qoFYHTMAAAAJ:Wqn_fehR_TUC"
     },
     {
@@ -3153,9 +3170,9 @@
         "author_pub_id": "qoFYHTMAAAAJ:vofGIMt6cyEC"
     },
     {
-        "title": "Lend an ear--Or was that bend an ear?[President's Message]",
+        "title": "Lend an Ear—Or Was That Bend an Ear?",
         "pub_year": "2009",
-        "citation": "IEEE Signal Processing Magazine 2 (26), 4, 2009",
+        "citation": "IEEE Signal Processing Magazine 26 (2), 4-4, 2009",
         "num_citations": 0,
         "author_pub_id": "qoFYHTMAAAAJ:1yWc8FF-_SYC"
     },
@@ -3163,7 +3180,7 @@
         "title": "Linear convergence rate of a class of distributed augmented lagrangian algorithms",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Automatic Control 60 (4), 922-936, 2014",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "qoFYHTMAAAAJ:m92CDrhVnKEC"
     },
     {
@@ -3177,7 +3194,7 @@
         "title": "Linear theory for self-localization: Convexity, barycentric coordinates, and cayley–menger determinants",
         "pub_year": "2015",
         "citation": "IEEE Access 3, 1326-1339, 2015",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "qoFYHTMAAAAJ:yJjnfzR0HrkC"
     },
     {
@@ -3198,7 +3215,7 @@
         "title": "Localization, decomposition, and dictionary learning of piecewise-constant signals on graphs",
         "pub_year": "2016",
         "citation": "arXiv preprint arXiv:1607.01100, 2016",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "qoFYHTMAAAAJ:KqnX2w3egDsC"
     },
     {
@@ -3246,21 +3263,21 @@
         "title": "Machine Learning for Pipeline Monitoring under Environmental and Operational Variations",
         "pub_year": "2011",
         "citation": "Structural Health Monitoring 2011, 2011",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "qoFYHTMAAAAJ:H-3wYkpcA84C"
     },
     {
         "title": "Magnetic recording channel model with intertrack interference",
         "pub_year": "1991",
         "citation": "IEEE transactions on magnetics 27 (6), 4834-4836, 1991",
-        "num_citations": 39,
+        "num_citations": 37,
         "author_pub_id": "qoFYHTMAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Managing complexity, uncertainty, and variability in guided wave structural health monitoring",
         "pub_year": "2017",
         "citation": "SICE Journal of Control, Measurement, and System Integration 10 (5), 325-336, 2017",
-        "num_citations": 12,
+        "num_citations": 10,
         "author_pub_id": "qoFYHTMAAAAJ:u_mOZUIutIEC"
     },
     {
@@ -3288,14 +3305,14 @@
         "title": "Matrices with banded inverses: Inversion algorithms and factorization of Gauss-Markov processes",
         "pub_year": "2000",
         "citation": "IEEE transactions on Information Theory 46 (4), 1495-1509, 2000",
-        "num_citations": 109,
+        "num_citations": 111,
         "author_pub_id": "qoFYHTMAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Maximum likelihood beamforming in the presence of outliers.",
         "pub_year": "1991",
         "citation": "icassp, 1409-1412, 1991",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "qoFYHTMAAAAJ:LI9QrySNdTsC"
     },
     {
@@ -3330,7 +3347,7 @@
         "title": "Memoryless polynomial adaptive predistortion [TV transmitters]",
         "pub_year": "1995",
         "citation": "1995 International Conference on Acoustics, Speech, and Signal Processing 2 …, 1995",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "qoFYHTMAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -3371,21 +3388,21 @@
         "title": "Modeling future cyber-physical energy systems",
         "pub_year": "2008",
         "citation": "2008 IEEE Power and Energy Society General Meeting-Conversion and Delivery …, 2008",
-        "num_citations": 150,
+        "num_citations": 148,
         "author_pub_id": "qoFYHTMAAAAJ:qxL8FJ1GzNcC"
     },
     {
         "title": "Modeling of future cyber–physical energy systems for distributed sensing and control",
         "pub_year": "2010",
         "citation": "IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and …, 2010",
-        "num_citations": 357,
+        "num_citations": 356,
         "author_pub_id": "qoFYHTMAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "Modeling, Algorithmic and Performance Issues in Deepwater Ranging Sound Systems",
         "pub_year": "1981",
         "citation": "Underwater Acoustics and Signal Processing: Proceedings of the NATO Advanced …, 1981",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "qoFYHTMAAAAJ:DyXnQzXoVgIC"
     },
     {
@@ -3406,7 +3423,7 @@
         "title": "Multi-stage adaptive predistortion of hpa saturation effects for digital television transmission",
         "pub_year": "1999",
         "citation": "1999 IEEE International Conference on Acoustics, Speech, and Signal …, 1999",
-        "num_citations": 15,
+        "num_citations": 12,
         "author_pub_id": "qoFYHTMAAAAJ:2KloaMYe4IUC"
     },
     {
@@ -3427,7 +3444,7 @@
         "title": "Multiframe detector/tracker: Optimal performance",
         "pub_year": "2001",
         "citation": "IEEE Transactions on Aerospace and Electronic Systems 37 (3), 925-945, 2001",
-        "num_citations": 105,
+        "num_citations": 104,
         "author_pub_id": "qoFYHTMAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -3461,7 +3478,7 @@
         "title": "Multiple source domain adaptation with adversarial training of neural networks",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1705.09684, 2017",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "qoFYHTMAAAAJ:4oJvMfeQlr8C"
     },
     {
@@ -3495,21 +3512,21 @@
         "title": "Natural language does not emerge'naturally'in multi-agent dialog",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1706.08502, 2017",
-        "num_citations": 253,
+        "num_citations": 258,
         "author_pub_id": "qoFYHTMAAAAJ:1xBWf43XMUgC"
     },
     {
         "title": "Nearest-neighbor image model",
         "pub_year": "2012",
         "citation": "2012 19th IEEE International Conference on Image Processing, 2521-2524, 2012",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "qoFYHTMAAAAJ:A8cqit5AE6sC"
     },
     {
         "title": "Nearly shiftable scaling functions",
         "pub_year": "1995",
         "citation": "1995 International Conference on Acoustics, Speech, and Signal Processing 2 …, 1995",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "qoFYHTMAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -3523,14 +3540,14 @@
         "title": "Network traffic behavior analysis by decomposition into control and data planes",
         "pub_year": "2008",
         "citation": "2008 IEEE International Symposium on Parallel and Distributed Processing, 1-8, 2008",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "qoFYHTMAAAAJ:gsN89kCJA0AC"
     },
     {
         "title": "Networked signal and information processing: Learning by multiagent systems",
         "pub_year": "2023",
         "citation": "IEEE Signal Processing Magazine 40 (5), 92-105, 2023",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "qoFYHTMAAAAJ:QI7uKX5mnFEC"
     },
     {
@@ -3544,7 +3561,7 @@
         "title": "New york city taxi analysis with graph signal processing",
         "pub_year": "2016",
         "citation": "2016 IEEE Global Conference on Signal and Information Processing (GlobalSIP …, 2016",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "qoFYHTMAAAAJ:oynPyU19kbsC"
     },
     {
@@ -3565,7 +3582,7 @@
         "title": "Noncausal Gauss Markov random fields: Parameter structure and estimation",
         "pub_year": "1993",
         "citation": "IEEE Transactions on Information Theory 39 (4), 1333-1355, 1993",
-        "num_citations": 125,
+        "num_citations": 130,
         "author_pub_id": "qoFYHTMAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -3579,7 +3596,7 @@
         "title": "Noncoherent compressive sensing with application to distributed radar",
         "pub_year": "2011",
         "citation": "2011 45th Annual Conference on Information Sciences and Systems, 1-6, 2011",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "qoFYHTMAAAAJ:hSRAE-fF4OAC"
     },
     {
@@ -3593,7 +3610,7 @@
         "title": "Nonlinear filtering",
         "pub_year": "2012",
         "citation": "Nonlinear Stochastic Problems 104, 256, 2012",
-        "num_citations": 296,
+        "num_citations": 297,
         "author_pub_id": "qoFYHTMAAAAJ:3jqAvCjcdfEC"
     },
     {
@@ -3621,7 +3638,7 @@
         "title": "Nonlinear stochastic problems",
         "pub_year": "2012",
         "citation": "Springer Science & Business Media, 2012",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "qoFYHTMAAAAJ:SP6oXDckpogC"
     },
     {
@@ -3641,7 +3658,7 @@
         "title": "Ocean acoustic tomography structured covariance estimation",
         "pub_year": "2001",
         "citation": "2001 IEEE International Conference on Acoustics, Speech, and Signal …, 2001",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "qoFYHTMAAAAJ:PVgj2kMGcgYC"
     },
     {
@@ -3655,14 +3672,14 @@
         "title": "On connectivity, observability, and stability in distributed estimation",
         "pub_year": "2010",
         "citation": "49th IEEE conference on decision and control (CDC), 6639-6644, 2010",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "qoFYHTMAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "On farm risk factors associated with goat milk quality in Northeast Brazil",
         "pub_year": "2011",
         "citation": "Small Ruminant Research 98 (1-3), 64-69, 2011",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "qoFYHTMAAAAJ:8dzOF9BpDQoC"
     },
     {
@@ -3689,14 +3706,14 @@
         "title": "On the importance of distractors for few-shot classification",
         "pub_year": "2021",
         "citation": "Proceedings of the IEEE/CVF international conference on computer vision …, 2021",
-        "num_citations": 44,
+        "num_citations": 45,
         "author_pub_id": "qoFYHTMAAAAJ:nj26e0utjpAC"
     },
     {
         "title": "On the product of independent complex Gaussians",
         "pub_year": "2011",
         "citation": "IEEE Transactions on signal Processing 60 (3), 1050-1063, 2011",
-        "num_citations": 171,
+        "num_citations": 168,
         "author_pub_id": "qoFYHTMAAAAJ:3htObqc8RwsC"
     },
     {
@@ -3724,7 +3741,7 @@
         "title": "Optimal attack strategies subject to detection constraints against cyber-physical systems",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Control of Network Systems 5 (3), 1157-1168, 2017",
-        "num_citations": 129,
+        "num_citations": 128,
         "author_pub_id": "qoFYHTMAAAAJ:M0j1y4EgrScC"
     },
     {
@@ -3766,7 +3783,7 @@
         "title": "Optimal filter design for signal processing on random graphs: Accelerated consensus",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Signal Processing 66 (5), 1258-1272, 2017",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "qoFYHTMAAAAJ:L7vk9XBBNxgC"
     },
     {
@@ -3820,7 +3837,7 @@
     {
         "title": "PAST PRESIDENT'S MESSAGE-Looking Forward, Reflecting on the Past",
         "pub_year": "2010",
-        "citation": "IEEE Signal Processing Magazine 27 (1), 6, 2010",
+        "citation": "IEEE Signal Processing Magazine 25 (1), 6, 2010",
         "num_citations": 0,
         "author_pub_id": "qoFYHTMAAAAJ:6Zm5LS9gQ5UC"
     },
@@ -3931,7 +3948,7 @@
         "title": "Partition-and-shift LDPC codes",
         "pub_year": "2005",
         "citation": "IEEE transactions on magnetics 41 (10), 2977-2979, 2005",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "qoFYHTMAAAAJ:KxtntwgDAa4C"
     },
     {
@@ -3952,7 +3969,7 @@
         "title": "Passive systems theory with narrow-band and linear constraints: Part I-Spatial diversity",
         "pub_year": "1978",
         "citation": "IEEE Journal of Oceanic Engineering 3 (1), 5-13, 1978",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "qoFYHTMAAAAJ:BqipwSGYUEgC"
     },
     {
@@ -3973,7 +3990,7 @@
         "title": "Path resolution by coherent averaging: trading spatial and temporal degrees of freedom.",
         "pub_year": "1988",
         "citation": "ICASSP, 2626-2629, 1988",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "qoFYHTMAAAAJ:35r97b3x0nAC"
     },
     {
@@ -3984,18 +4001,18 @@
         "author_pub_id": "qoFYHTMAAAAJ:JoHZYnTS1h4C"
     },
     {
-        "title": "Peer-to-Peer Learning+ Consensus with Non-IID Data",
-        "pub_year": "2023",
-        "citation": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 709-713, 2023",
-        "num_citations": 1,
-        "author_pub_id": "qoFYHTMAAAAJ:wH03y5nBhxsC"
-    },
-    {
         "title": "Peer-to-peer deep learning for beyond-5g iot",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2310.18861, 2023",
         "num_citations": 2,
         "author_pub_id": "qoFYHTMAAAAJ:uoeYKOKFegwC"
+    },
+    {
+        "title": "Peer-to-peer learning+ consensus with non-IID data",
+        "pub_year": "2023",
+        "citation": "2023 57th Asilomar Conference on Signals, Systems, and Computers, 709-713, 2023",
+        "num_citations": 1,
+        "author_pub_id": "qoFYHTMAAAAJ:wH03y5nBhxsC"
     },
     {
         "title": "Performance Analysis of Ocean Tomography Systems",
@@ -4043,7 +4060,7 @@
         "title": "Periodic behavior in botnet command and control channels traffic",
         "pub_year": "2009",
         "citation": "GLOBECOM 2009-2009 IEEE Global Telecommunications Conference, 1-6, 2009",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "qoFYHTMAAAAJ:nrtMV_XWKgEC"
     },
     {
@@ -4057,14 +4074,14 @@
         "title": "Phase unwrapping of signals propagated under the Arctic ice crust: a statistical approach",
         "pub_year": "1988",
         "citation": "IEEE Transactions on Acoustics, Speech, and Signal Processing 36 (5), 617-630, 1988",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "qoFYHTMAAAAJ:abG-DnoFyZgC"
     },
     {
         "title": "PhyOT: Physics-informed object tracking in surveillance cameras",
         "pub_year": "2024",
         "citation": "ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and …, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "qoFYHTMAAAAJ:mnAcAzq93VMC"
     },
     {
@@ -4084,7 +4101,7 @@
         "title": "Pooling in graph convolutional neural networks",
         "pub_year": "2019",
         "citation": "2019 53rd Asilomar Conference on Signals, Systems, and Computers, 462-466, 2019",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "qoFYHTMAAAAJ:lPDSu1ZU3VAC"
     },
     {
@@ -4133,14 +4150,14 @@
         "title": "Primal–dual methods for large-scale and distributed convex optimization and data analytics",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 108 (11), 1923-1938, 2020",
-        "num_citations": 58,
+        "num_citations": 56,
         "author_pub_id": "qoFYHTMAAAAJ:8rLWgkbgOXQC"
     },
     {
         "title": "Proceedings of Meetings on Acoustics",
         "pub_year": "2013",
         "citation": "Proceedings of Meetings on Acoustics 19 (040123), 1, 2013",
-        "num_citations": 18,
+        "num_citations": 33,
         "author_pub_id": "qoFYHTMAAAAJ:LNjCCq68lIgC"
     },
     {
@@ -4154,7 +4171,7 @@
         "title": "Qd-learning: A collaborative distributed strategy for multi-agent reinforcement learning through consensus",
         "pub_year": "2012",
         "citation": "arXiv preprint arXiv:1205.0047, 2012",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "qoFYHTMAAAAJ:koF6b02d8EEC"
     },
     {
@@ -4196,14 +4213,14 @@
         "title": "Rank 1 weighted factorization for 3D structure recovery: Algorithms and performance analysis",
         "pub_year": "2003",
         "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence 25 (9), 1134-1149, 2003",
-        "num_citations": 47,
+        "num_citations": 46,
         "author_pub_id": "qoFYHTMAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Rapid enhancement and compression of image data",
         "pub_year": "1991",
         "citation": "Visual Communications and Image Processing'91: Image Processing 1606, 374-385, 1991",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "qoFYHTMAAAAJ:dBIO0h50nwkC"
     },
     {
@@ -4241,7 +4258,7 @@
         "author_pub_id": "qoFYHTMAAAAJ:IT1MJ6E3JesC"
     },
     {
-        "title": "Recovering the graph underlying networked dynamical systems under partial observability: a deep learning approach",
+        "title": "Recovering the graph underlying networked dynamical systems under partial observability: A deep learning approach",
         "pub_year": "2023",
         "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 37 (7), 9038-9046, 2023",
         "num_citations": 5,
@@ -4290,7 +4307,7 @@
         "author_pub_id": "qoFYHTMAAAAJ:foquWX3nUaYC"
     },
     {
-        "title": "Regularizing Self-training for Unsupervised Domain Adaptation via Structural Constraints",
+        "title": "Regularizing self-training for unsupervised domain adaptation via structural constraints",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2305.00131, 2023",
         "num_citations": 2,
@@ -4299,7 +4316,7 @@
     {
         "title": "Rejoinder: The Emerging Role of Data Science in Cybersecurity",
         "pub_year": "2023",
-        "citation": "PubPub 5 (1), 2023",
+        "citation": "Harvard Data Science Review 5 (1), 2023",
         "num_citations": 0,
         "author_pub_id": "qoFYHTMAAAAJ:nbnL2fqDbzcC"
     },
@@ -4307,7 +4324,7 @@
         "title": "Resilient distributed estimation through adversary detection",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Signal Processing 66 (9), 2455-2469, 2018",
-        "num_citations": 98,
+        "num_citations": 100,
         "author_pub_id": "qoFYHTMAAAAJ:rzmi0EmCOGEC"
     },
     {
@@ -4321,14 +4338,14 @@
         "title": "Resilient distributed estimation: Sensor attacks",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Automatic Control 64 (9), 3772-3779, 2018",
-        "num_citations": 117,
+        "num_citations": 119,
         "author_pub_id": "qoFYHTMAAAAJ:cF7EPgIk0B4C"
     },
     {
         "title": "Resilient distributed field estimation",
         "pub_year": "2020",
         "citation": "SIAM Journal on Control and Optimization 58 (3), 1429-1456, 2020",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "qoFYHTMAAAAJ:8JTMrWI6FdcC"
     },
     {
@@ -4356,7 +4373,7 @@
         "title": "Retrieving quality video across heterogeneous networks. Video over wireless",
         "pub_year": "1996",
         "citation": "IEEE Personal Communications 3 (1), 44-54, 1996",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "qoFYHTMAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -4418,7 +4435,7 @@
         "title": "Robust detection with the gap metric",
         "pub_year": "1997",
         "citation": "IEEE transactions on signal processing 45 (6), 1591-1604, 1997",
-        "num_citations": 22,
+        "num_citations": 20,
         "author_pub_id": "qoFYHTMAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -4452,14 +4469,14 @@
         "title": "SPIRAL: Code generation for DSP transforms",
         "pub_year": "2005",
         "citation": "Proceedings of the IEEE 93 (2), 232-275, 2005",
-        "num_citations": 1102,
+        "num_citations": 1101,
         "author_pub_id": "qoFYHTMAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 135,
+        "num_citations": 137,
         "author_pub_id": "qoFYHTMAAAAJ:U3qCfcK-7lkC"
     },
     {
@@ -4471,9 +4488,8 @@
     },
     {
         "title": "SPIRAL: Portable library of optimized signal processing algorithms, 1998",
-        "pub_year": "1997",
         "citation": "",
-        "num_citations": 31,
+        "num_citations": 38,
         "author_pub_id": "qoFYHTMAAAAJ:d4tt_xEv1X8C"
     },
     {
@@ -4493,7 +4509,7 @@
         "title": "STACS: New active contour scheme for cardiac MR image segmentation",
         "pub_year": "2005",
         "citation": "IEEE transactions on medical imaging 24 (5), 593-603, 2005",
-        "num_citations": 324,
+        "num_citations": 327,
         "author_pub_id": "qoFYHTMAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -4528,21 +4544,21 @@
         "title": "Scalable robust hypothesis tests using graphical models",
         "pub_year": "2011",
         "citation": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "qoFYHTMAAAAJ:gKiMpY-AVTkC"
     },
     {
         "title": "Scalable video coding over heterogeneous networks",
         "pub_year": "1996",
         "citation": "Wireless Technologies and Services for Cellular and Personal Communication …, 1996",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "qoFYHTMAAAAJ:2P1L_qKh6hAC"
     },
     {
         "title": "Scale transform signal processing for optimal ultrasonic temperature compensation",
         "pub_year": "2012",
         "citation": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control 59 …, 2012",
-        "num_citations": 153,
+        "num_citations": 154,
         "author_pub_id": "qoFYHTMAAAAJ:C33y2ycGS3YC"
     },
     {
@@ -4555,7 +4571,7 @@
     {
         "title": "Sea-trial results for cyclic-prefix OFDM with long symbol duration",
         "pub_year": "2011",
-        "citation": "OCEANS 2011 IEEE-Spain, 1-8, 2011",
+        "citation": "Oceans 2011 IEEE-Spain, 1-8, 2011",
         "num_citations": 14,
         "author_pub_id": "qoFYHTMAAAAJ:Dip1O2bNi0gC"
     },
@@ -4577,7 +4593,7 @@
         "title": "Sensor Andrew: Large-scale campus-wide sensing and actuation",
         "pub_year": "2011",
         "citation": "IBM Journal of Research and Development 55 (1.2), 6: 1-6: 14, 2011",
-        "num_citations": 191,
+        "num_citations": 190,
         "author_pub_id": "qoFYHTMAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -4590,8 +4606,8 @@
     {
         "title": "Sensor networks with random links: Topology design for distributed consensus",
         "pub_year": "2008",
-        "citation": "IEEE Transactions on Signal Processing 56 (7), 3315-3326, 2008",
-        "num_citations": 301,
+        "citation": "IEEE Transactions on signal processing 56 (7), 3315-3326, 2008",
+        "num_citations": 302,
         "author_pub_id": "qoFYHTMAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -4632,7 +4648,7 @@
     {
         "title": "Shuffler: A large scale data management tool for machine learning in computer vision",
         "pub_year": "2019",
-        "citation": "Proceedings of the Practice and Experience in Advanced Research Computing on …, 2019",
+        "citation": "Practice and Experience in Advanced Research Computing 2019: Rise of the …, 2019",
         "num_citations": 6,
         "author_pub_id": "qoFYHTMAAAAJ:oYwriLWYh5YC"
     },
@@ -4668,28 +4684,28 @@
         "title": "Signal Processing on Graphs: Causal Modeling of Unstructured Data",
         "pub_year": "2016",
         "citation": "IEEE Transactions on Signal Processing 65 (8), 2077-2092, 2016",
-        "num_citations": 224,
+        "num_citations": 220,
         "author_pub_id": "qoFYHTMAAAAJ:VnuxuLaQPLMC"
     },
     {
         "title": "Signal denoising on graphs via graph filtering",
         "pub_year": "2014",
         "citation": "2014 ieee global conference on signal and information processing (globalsip …, 2014",
-        "num_citations": 199,
+        "num_citations": 197,
         "author_pub_id": "qoFYHTMAAAAJ:xyvS_IvSCKsC"
     },
     {
         "title": "Signal generation model for high density magnetic recording",
         "pub_year": "1996",
         "citation": "Proceedings of GLOBECOM'96. 1996 IEEE Global Telecommunications Conference 2 …, 1996",
-        "num_citations": 6,
+        "num_citations": 5,
         "author_pub_id": "qoFYHTMAAAAJ:VaXvl8Fpj5cC"
     },
     {
         "title": "Signal inpainting on graphs via total variation minimization",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Acoustics, Speech and Signal …, 2014",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "qoFYHTMAAAAJ:H7nrzBkawXsC"
     },
     {
@@ -4703,7 +4719,7 @@
         "title": "Signal processing on graphs: Estimating the structure of a graph",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Acoustics, Speech and Signal …, 2015",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "qoFYHTMAAAAJ:w2UhwfzvF0QC"
     },
     {
@@ -4731,7 +4747,7 @@
         "title": "Signal recovery on graphs: Variation minimization",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Signal Processing 63 (17), 4609-4624, 2015",
-        "num_citations": 311,
+        "num_citations": 315,
         "author_pub_id": "qoFYHTMAAAAJ:JH5k92_tO-AC"
     },
     {
@@ -4793,7 +4809,7 @@
         "title": "Single antenna time reversal detection of moving target",
         "pub_year": "2010",
         "citation": "2010 IEEE International Conference on Acoustics, Speech and Signal …, 2010",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "qoFYHTMAAAAJ:IUKN3-7HHlwC"
     },
     {
@@ -4828,13 +4844,13 @@
         "title": "Sparse recovery of the multimodal and dispersive characteristics of Lamb waves",
         "pub_year": "2013",
         "citation": "The Journal of the Acoustical Society of America 133 (5), 2732-2745, 2013",
-        "num_citations": 176,
+        "num_citations": 178,
         "author_pub_id": "qoFYHTMAAAAJ:oPLKW5k6eA4C"
     },
     {
         "title": "Special issue on computer algebra and signal processing: forward by the guest editors",
         "pub_year": "2004",
-        "citation": "Journal of Symbolic Computation 2 (37), 133-135, 2004",
+        "citation": "Journal of symbolic computation 37 (2), 133-135, 2004",
         "num_citations": 0,
         "author_pub_id": "qoFYHTMAAAAJ:WHdLCjDvYFkC"
     },
@@ -4911,8 +4927,8 @@
     {
         "title": "Statistics and data science for cybersecurity",
         "pub_year": "2023",
-        "citation": "PubPub 5 (1), 2023",
-        "num_citations": 16,
+        "citation": "Harvard Data Science Review 5 (1), 2023",
+        "num_citations": 15,
         "author_pub_id": "qoFYHTMAAAAJ:pbQCAAeKvsAC"
     },
     {
@@ -4950,7 +4966,7 @@
         "author_pub_id": "qoFYHTMAAAAJ:ujxm2eEBZHIC"
     },
     {
-        "title": "Structure Of 2D Gauss Markov Random Fields",
+        "title": "Structure of 2D Gauss Markov random fields",
         "pub_year": "1991",
         "citation": "Proceedings of the Seventh Workshop on Multidimensional Signal Processing, 3 …, 1991",
         "num_citations": 1,
@@ -4960,7 +4976,7 @@
         "title": "Structured LDPC codes for high-density recording: large girth and low error floor",
         "pub_year": "2006",
         "citation": "IEEE transactions on magnetics 42 (2), 208-213, 2006",
-        "num_citations": 84,
+        "num_citations": 83,
         "author_pub_id": "qoFYHTMAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -4974,7 +4990,7 @@
         "title": "Study of pilot designs for cyclic-prefix OFDM on time-varying and sparse underwater acoustic channels",
         "pub_year": "2011",
         "citation": "OCEANS 2011 IEEE-Spain, 1-8, 2011",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "qoFYHTMAAAAJ:t6usbXjVLHcC"
     },
     {
@@ -4995,7 +5011,7 @@
         "title": "Subpixel registration in renal perfusion MR image sequence",
         "pub_year": "2004",
         "citation": "2004 2nd IEEE International Symposium on Biomedical Imaging: Nano to Macro …, 2004",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "qoFYHTMAAAAJ:g5m5HwL7SMYC"
     },
     {
@@ -5093,7 +5109,7 @@
         "title": "Teaching robots to predict human motion",
         "pub_year": "2018",
         "citation": "2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2018",
-        "num_citations": 127,
+        "num_citations": 131,
         "author_pub_id": "qoFYHTMAAAAJ:1wZ_wKGpLuwC"
     },
     {
@@ -5141,7 +5157,7 @@
         "title": "The Viterbi algorithm and Markov noise memory",
         "pub_year": "2000",
         "citation": "IEEE Transactions on information theory 46 (1), 291-301, 2000",
-        "num_citations": 213,
+        "num_citations": 212,
         "author_pub_id": "qoFYHTMAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -5155,7 +5171,7 @@
         "title": "The algebraic approach to the discrete cosine and sine transforms and their fast algorithms",
         "pub_year": "2003",
         "citation": "SIAM Journal on Computing 32 (5), 1280-1316, 2003",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "qoFYHTMAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -5218,7 +5234,7 @@
         "title": "The internet of things: Secure distributed inference",
         "pub_year": "2018",
         "citation": "IEEE Signal Processing Magazine 35 (5), 64-75, 2018",
-        "num_citations": 79,
+        "num_citations": 78,
         "author_pub_id": "qoFYHTMAAAAJ:Ei5r6KrKXVQC"
     },
     {
@@ -5267,7 +5283,7 @@
         "title": "Three-dimensional modeling from two-dimensional video",
         "pub_year": "2001",
         "citation": "IEEE Transactions on Image Processing 10 (10), 1541-1551, 2001",
-        "num_citations": 38,
+        "num_citations": 40,
         "author_pub_id": "qoFYHTMAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -5291,10 +5307,10 @@
         "author_pub_id": "qoFYHTMAAAAJ:T_ojBgVMvoEC"
     },
     {
-        "title": "Time delay determination: Maximum likelihood and Kalman-Bucy type structures",
+        "title": "Time delay determination: maximum likelihood and Kalman-Bucy type structures",
         "pub_year": "1985",
         "citation": "ICASSP'85. IEEE International Conference on Acoustics, Speech, and Signal …, 1985",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "qoFYHTMAAAAJ:evX43VCCuoAC"
     },
     {
@@ -5315,7 +5331,7 @@
         "title": "Time reversal beamforming for microwave breast cancer detection",
         "pub_year": "2007",
         "citation": "2007 IEEE International Conference on Image Processing 5, V-13-V-16, 2007",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "qoFYHTMAAAAJ:zLWjf1WUPmwC"
     },
     {
@@ -5336,7 +5352,7 @@
         "title": "Time reversal focusing for pipeline structural health monitoring",
         "pub_year": "2009",
         "citation": "Proceedings of Meetings on Acoustics 8 (1), 2009",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "qoFYHTMAAAAJ:-FonjvnnhkoC"
     },
     {
@@ -5399,14 +5415,14 @@
         "title": "Time sampling of diffusion systems using semigroup decomposition methods",
         "pub_year": "2004",
         "citation": "MTNS 2004, 16th Int. Symp. on Mathematical Theory of Networks and Systems, 2004",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "qoFYHTMAAAAJ:kF1pexMAQbMC"
     },
     {
         "title": "Time-reversal detection using antenna arrays",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Signal Processing 57 (4), 1396-1414, 2008",
-        "num_citations": 160,
+        "num_citations": 161,
         "author_pub_id": "qoFYHTMAAAAJ:M3ejUd6NZC8C"
     },
     {
@@ -5420,14 +5436,21 @@
         "title": "Topology adaptive graph convolutional networks",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1710.10370, 2017",
-        "num_citations": 401,
+        "num_citations": 400,
         "author_pub_id": "qoFYHTMAAAAJ:J4E9jCG1tHUC"
+    },
+    {
+        "title": "Topology adaptive graph convolutional networks. arXiv",
+        "pub_year": "2017",
+        "citation": "arXiv preprint arXiv:1710.10370 10, 2017",
+        "num_citations": 9,
+        "author_pub_id": "qoFYHTMAAAAJ:HmWvvuJwtxYC"
     },
     {
         "title": "Topology for distributed inference on graphs",
         "pub_year": "2008",
         "citation": "IEEE Transactions on Signal Processing 56 (6), 2609-2613, 2008",
-        "num_citations": 141,
+        "num_citations": 142,
         "author_pub_id": "qoFYHTMAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -5476,7 +5499,7 @@
         "title": "Traffic flow from a low frame rate city camera",
         "pub_year": "2015",
         "citation": "2015 IEEE International Conference on Image Processing (ICIP), 3802-3806, 2015",
-        "num_citations": 42,
+        "num_citations": 40,
         "author_pub_id": "qoFYHTMAAAAJ:cRMvf6lLvU8C"
     },
     {
@@ -5504,7 +5527,7 @@
         "title": "USPIO‐enhanced dynamic MRI: evaluation of normal and transplanted rat kidneys",
         "pub_year": "2001",
         "citation": "Magnetic Resonance in Medicine: An Official Journal of the International …, 2001",
-        "num_citations": 87,
+        "num_citations": 86,
         "author_pub_id": "qoFYHTMAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -5558,7 +5581,7 @@
         "title": "Understanding traffic density from large-scale web camera data",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2017",
-        "num_citations": 189,
+        "num_citations": 187,
         "author_pub_id": "qoFYHTMAAAAJ:eAUscmXIlQ8C"
     },
     {
@@ -5611,14 +5634,14 @@
         "title": "Video compression via constructs",
         "pub_year": "1995",
         "citation": "1995 International Conference on Acoustics, Speech, and Signal Processing 4 …, 1995",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "qoFYHTMAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Video representation via 3D shaped mosaics",
         "pub_year": "1998",
         "citation": "Proceedings 1998 International Conference on Image Processing. ICIP98 (Cat …, 1998",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "qoFYHTMAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -5632,21 +5655,21 @@
         "title": "Visual coreference resolution in visual dialog using neural module networks",
         "pub_year": "2018",
         "citation": "Proceedings of the European conference on computer vision (ECCV), 153-169, 2018",
-        "num_citations": 218,
+        "num_citations": 219,
         "author_pub_id": "qoFYHTMAAAAJ:jKT558fuBk8C"
     },
     {
         "title": "Visual dialog",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE conference on computer vision and pattern …, 2017",
-        "num_citations": 1208,
+        "num_citations": 1217,
         "author_pub_id": "qoFYHTMAAAAJ:GJVTs2krol4C"
     },
     {
         "title": "Visual word2vec (vis-w2v): Learning visually grounded word embeddings using abstract scenes",
         "pub_year": "2016",
         "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2016",
-        "num_citations": 118,
+        "num_citations": 116,
         "author_pub_id": "qoFYHTMAAAAJ:Vztgr1qGG8IC"
     },
     {
@@ -5674,14 +5697,14 @@
         "title": "Weighted factorization",
         "pub_year": "2000",
         "citation": "Proceedings 2000 International Conference on Image Processing (Cat. No …, 2000",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "qoFYHTMAAAAJ:D_sINldO8mEC"
     },
     {
         "title": "What is signal processing?[President's Message]",
         "pub_year": "2009",
         "citation": "IEEE Signal Processing Magazine 26 (6), 6-6, 2009",
-        "num_citations": 44,
+        "num_citations": 41,
         "author_pub_id": "qoFYHTMAAAAJ:9c2xU6iGI7YC"
     },
     {
@@ -5732,13 +5755,6 @@
         "citation": "IEEE Transactions on signal processing 42 (6), 1323-1334, 1994",
         "num_citations": 13,
         "author_pub_id": "qoFYHTMAAAAJ:geHnlv5EZngC"
-    },
-    {
-        "title": "of the Template of a Rigid Moving Object",
-        "pub_year": "2003",
-        "citation": "Energy Minimization Methods in Computer Vision and Pattern Recognition …, 2003",
-        "num_citations": 0,
-        "author_pub_id": "qoFYHTMAAAAJ:yaBp1wUtcLsC"
     },
     {
         "title": "“LASIP, Department of Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA 15213, USA",

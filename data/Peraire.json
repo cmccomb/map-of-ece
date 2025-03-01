@@ -50,7 +50,7 @@
         "title": "A case study for testing object-oriented software: A production cell",
         "pub_year": "1998",
         "citation": "Swiss Federal Institute of Technology, 1998",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "F8Tqw_kAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -64,7 +64,7 @@
         "title": "A theory of specification-based testing for object-oriented software",
         "pub_year": "1996",
         "citation": "Dependable Computing—EDCC-2: Second European Dependable Computing …, 1996",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "F8Tqw_kAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -92,21 +92,21 @@
         "title": "Dual-Track Agile in Software Engineering Education",
         "pub_year": "2019",
         "citation": "41th International Conference on Software Engineering, ICSE 19, 2019",
-        "num_citations": 27,
+        "num_citations": 25,
         "author_pub_id": "F8Tqw_kAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "Dual-Track Development.",
         "pub_year": "2020",
         "citation": "IEEE Softw. 37 (6), 58-64, 2020",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "F8Tqw_kAAAAJ:k_IJM867U9cC"
     },
     {
         "title": "Enhancing Student Experience in Team-Based Project Courses Using Essence Reflection Meetings",
         "pub_year": "2015",
         "citation": "2015 IEEE 28th Conference on Software Engineering Education and Training, 10-12, 2015",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "F8Tqw_kAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -133,7 +133,7 @@
     {
         "title": "Formal testing of object-oriented software",
         "pub_year": "1998",
-        "citation": "PhD thesis, EPFL, Lausanne, 1998",
+        "citation": "PhD thesis, ÉCOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE, 1998",
         "num_citations": 2,
         "author_pub_id": "F8Tqw_kAAAAJ:WF5omc3nYNoC"
     },
@@ -154,15 +154,9 @@
     {
         "title": "From requirements to tests via object-oriented design",
         "pub_year": "1998",
-        "citation": "DeVa Year 3, 331-383, 1998",
+        "citation": "Published in DeVa Third Year Report, 331-384, 1998",
         "num_citations": 6,
         "author_pub_id": "F8Tqw_kAAAAJ:zYLM7Y9cAGgC"
-    },
-    {
-        "title": "Full Access",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "F8Tqw_kAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Green-Lighting Proposals for Software Engineering Team-based Project Courses",
@@ -185,12 +179,6 @@
         "author_pub_id": "F8Tqw_kAAAAJ:9ZlFYXVOiuMC"
     },
     {
-        "title": "Incremental Test Selection for Specification-Based Unit Testing of Object-Oriented Software Based on",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "F8Tqw_kAAAAJ:4JMBOYKVnBMC"
-    },
-    {
         "title": "Incremental Test Selection for Specification-Based Unit Testing of Object-Oriented Software Based on Formal Specifications",
         "pub_year": "1998",
         "citation": "",
@@ -200,7 +188,7 @@
     {
         "title": "Integrating the unified modeling language with an architecture description language",
         "pub_year": "1999",
-        "citation": "OOPSLA’99 Workshop on Rigorous Modeling and Analysis with the UML …, 1999",
+        "citation": "OOPSLA'99 Workshop on Rigorous Modeling and Analysis with the UML …, 1999",
         "num_citations": 4,
         "author_pub_id": "F8Tqw_kAAAAJ:Tyk-4Ss8FVUC"
     },
@@ -213,13 +201,6 @@
     },
     {
         "title": "Issues and theory for unit testing of object-oriented software",
-        "pub_year": "1998",
-        "citation": "Tagungsband\" Qualitätsmanagement Der Objektorientierten Software-Entwicklung …, 1998",
-        "num_citations": 9,
-        "author_pub_id": "F8Tqw_kAAAAJ:4DMP91E08xMC"
-    },
-    {
-        "title": "Issues and theory for unit testing of object-oriented software",
         "pub_year": "1996",
         "citation": "Swiss Federal Institute of Technology, 1996",
         "num_citations": 0,
@@ -229,7 +210,7 @@
         "title": "Kathy,“",
         "pub_year": "2007",
         "citation": "Front cover The IBM Rational Unified Process, 2007",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "F8Tqw_kAAAAJ:GnPB-g6toBAC"
     },
     {
@@ -250,7 +231,7 @@
         "title": "Lessons learned from an extended participant observation grounded theory study",
         "pub_year": "2017",
         "citation": "2017 IEEE/ACM 5th international workshop on conducting empirical studies in …, 2017",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "F8Tqw_kAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -277,7 +258,7 @@
     {
         "title": "Modelling the production cell case study using the fusion method",
         "pub_year": "1998",
-        "citation": "Lausanne, Switzerland. Url: https://infoscience. epfl. ch/record/54618/files …, 1998",
+        "citation": "",
         "num_citations": 10,
         "author_pub_id": "F8Tqw_kAAAAJ:9yKSN-GCB0IC"
     },
@@ -288,11 +269,32 @@
         "author_pub_id": "F8Tqw_kAAAAJ:TQgYirikUcIC"
     },
     {
+        "title": "Overview and theory for unit testing of object-oriented software",
+        "pub_year": "1996",
+        "citation": "Tagungsband\" Qualitätsmanagement der objektorientierten Software-Entwicklung …, 1996",
+        "num_citations": 8,
+        "author_pub_id": "F8Tqw_kAAAAJ:4DMP91E08xMC"
+    },
+    {
         "title": "Practice and perception of team code ownership",
         "pub_year": "2016",
         "citation": "Proceedings of the 20th international conference on evaluation and …, 2016",
         "num_citations": 28,
         "author_pub_id": "F8Tqw_kAAAAJ:YOwf2qJgpHMC"
+    },
+    {
+        "title": "Proceedings of the 2nd International Workshop on Software Engineering Education for Millennials",
+        "pub_year": "2018",
+        "citation": "ACM, 2018",
+        "num_citations": 2,
+        "author_pub_id": "F8Tqw_kAAAAJ:vV6vV6tmYwMC"
+    },
+    {
+        "title": "Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Software Engineering Education and Training",
+        "pub_year": "2022",
+        "citation": "Association for Computing Machinery, 2022",
+        "num_citations": 0,
+        "author_pub_id": "F8Tqw_kAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Program Committee of ICSE-SEET 2019",
@@ -351,7 +353,7 @@
         "title": "Software development waste",
         "pub_year": "2017",
         "citation": "2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE …, 2017",
-        "num_citations": 132,
+        "num_citations": 133,
         "author_pub_id": "F8Tqw_kAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -365,14 +367,14 @@
         "title": "State-based monitoring and goal-driven project steering: Field study of the semat essence framework",
         "pub_year": "2014",
         "citation": "Companion Proceedings of the 36th International Conference on Software …, 2014",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "F8Tqw_kAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Sustainable Software Development through Overlapping Pair Rotation",
         "pub_year": "2016",
         "citation": "10th International Symposium on Empirical Software Engineering and …, 2016",
-        "num_citations": 28,
+        "num_citations": 31,
         "author_pub_id": "F8Tqw_kAAAAJ:dhFuZR0502QC"
     },
     {
@@ -386,7 +388,7 @@
         "title": "Test selection for object-oriented software based on formal specifications",
         "pub_year": "1998",
         "citation": "Programming Concepts and Methods PROCOMET’98: IFIP TC2/WG2. 2, 2.3 …, 1998",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "F8Tqw_kAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -400,13 +402,13 @@
         "title": "Testing object-oriented software",
         "pub_year": "1992",
         "citation": "ACM SIGPLAN OOPS Messenger 4 (2), 226, 1992",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "F8Tqw_kAAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Testing the production cell case study from CO-OPN specification",
         "pub_year": "1998",
-        "citation": "Technical Report 98/299, EPFL-DI, 1998",
+        "citation": "",
         "num_citations": 1,
         "author_pub_id": "F8Tqw_kAAAAJ:Se3iqnhoufwC"
     },
@@ -428,7 +430,7 @@
         "title": "The IBM Rational Unified Process for System z",
         "pub_year": "2007",
         "citation": "New York-USA, International Technical Support Organization, 2007",
-        "num_citations": 41,
+        "num_citations": 39,
         "author_pub_id": "F8Tqw_kAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -442,14 +444,14 @@
         "title": "The product backlog",
         "pub_year": "2019",
         "citation": "2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE …, 2019",
-        "num_citations": 132,
+        "num_citations": 130,
         "author_pub_id": "F8Tqw_kAAAAJ:R3hNpaxXUhUC"
     },
     {
-        "title": "The product backlog. In 2019 IEEE/ACM 41st international conference on software engineering (ICSE)(pp. 200–211)",
+        "title": "The product backlog. In 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)(pp. 200-211)",
         "pub_year": "2019",
-        "citation": "IEEE, 2019",
-        "num_citations": 10,
+        "citation": "IEEE. https://doi. org/10.1109/ICSE, 2019",
+        "num_citations": 11,
         "author_pub_id": "F8Tqw_kAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -463,7 +465,7 @@
         "title": "Two approaches in scanner-printer calibration: colorimetric space-based versus closed-loop",
         "pub_year": "1994",
         "citation": "Device-Independent Color Imaging 2170, 133-142, 1994",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "F8Tqw_kAAAAJ:d1gkVwhDpl0C"
     },
     {

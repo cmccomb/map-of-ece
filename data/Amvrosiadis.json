@@ -55,8 +55,8 @@
     },
     {
         "title": "Data Storage Research Vision 2025: Report on NSF Visioning Workshop Held May 30–June 1",
-        "pub_year": "2018",
-        "citation": "2018, 2018",
+        "pub_year": "2019",
+        "citation": "2018, 2019",
         "num_citations": 2,
         "author_pub_id": "ygiY7C8AAAAJ:k_IJM867U9cC"
     },
@@ -75,7 +75,7 @@
         "author_pub_id": "ygiY7C8AAAAJ:8k81kl-MbHgC"
     },
     {
-        "title": "DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing",
+        "title": "Deltafs: A scalable no-ground-truth filesystem for massively-parallel computing",
         "pub_year": "2021",
         "citation": "Proceedings of the International Conference for High Performance Computing …, 2021",
         "num_citations": 11,
@@ -91,7 +91,7 @@
     {
         "title": "Failures of dynamic control systems",
         "pub_year": "2019",
-        "citation": "",
+        "citation": "Failures of dynamic control systems, 2019",
         "num_citations": 1,
         "author_pub_id": "ygiY7C8AAAAJ:ZeXyd9-uunAC"
     },
@@ -106,7 +106,7 @@
         "title": "File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM Symposium on Operating Systems Principles, 353-369, 2019",
-        "num_citations": 130,
+        "num_citations": 125,
         "author_pub_id": "ygiY7C8AAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -126,7 +126,7 @@
         "title": "Getting back up: Understanding how enterprise data backups fail",
         "pub_year": "2016",
         "citation": "2016 USENIX Annual Technical Conference (USENIX ATC 16), 479-492, 2016",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ygiY7C8AAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -139,7 +139,7 @@
     {
         "title": "It’s time to talk about hpc storage: Perspectives on the past and future",
         "pub_year": "2021",
-        "citation": "Computing in Science & Engineering 23 (6), 63-68, 2021",
+        "citation": "Computing in science & engineering 23 (6), 63-68, 2021",
         "num_citations": 3,
         "author_pub_id": "ygiY7C8AAAAJ:mB3voiENLucC"
     },
@@ -191,7 +191,7 @@
         "author_pub_id": "ygiY7C8AAAAJ:hqOjcs7Dif8C"
     },
     {
-        "title": "Mimir: Finding Cost-efficient Storage Configurations in the Public Cloud",
+        "title": "Mimir: Finding cost-efficient storage configurations in the public cloud",
         "pub_year": "2023",
         "citation": "Proceedings of the 16th ACM International Conference on Systems and Storage …, 2023",
         "num_citations": 3,
@@ -201,7 +201,7 @@
         "title": "Mochi: Composing Data Services for High-Performance Computing Environments",
         "pub_year": "2020",
         "citation": "Journal of Computer Science and Technology 35 (1), 121-144, 2020",
-        "num_citations": 94,
+        "num_citations": 96,
         "author_pub_id": "ygiY7C8AAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -215,28 +215,28 @@
         "title": "On the diversity of cluster workloads and its impact on research results",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 533-546, 2018",
-        "num_citations": 168,
+        "num_citations": 170,
         "author_pub_id": "ygiY7C8AAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Opportunistic storage maintenance",
         "pub_year": "2015",
         "citation": "Proceedings of the 25th Symposium on Operating Systems Principles, 457-473, 2015",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "ygiY7C8AAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Plumber: Diagnosing and removing performance bottlenecks in machine learning data pipelines",
         "pub_year": "2022",
         "citation": "Proceedings of Machine Learning and Systems 4, 33-51, 2022",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "ygiY7C8AAAAJ:HDshCWvjkbEC"
     },
     {
         "title": "Practical Scrubbing: Getting to the bad sector at the right time",
         "pub_year": "2012",
         "citation": "",
-        "num_citations": 26,
+        "num_citations": 25,
         "author_pub_id": "ygiY7C8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -257,7 +257,7 @@
         "title": "RAIZN: Redundant array of independent zoned namespaces",
         "pub_year": "2023",
         "citation": "Proceedings of the 28th ACM International Conference on Architectural …, 2023",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "ygiY7C8AAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -331,18 +331,18 @@
         "author_pub_id": "ygiY7C8AAAAJ:9yKSN-GCB0IC"
     },
     {
+        "title": "The Atlas cluster trace repository",
+        "pub_year": "2018",
+        "citation": "Usenix Mag 43 (4), 2018",
+        "num_citations": 18,
+        "author_pub_id": "ygiY7C8AAAAJ:kNdYIx-mwKoC"
+    },
+    {
         "title": "The LINCC Frameworks Initiative",
         "pub_year": "2023",
         "citation": "American Astronomical Society Meeting Abstracts 55 (2), 105.04, 2023",
         "num_citations": 0,
         "author_pub_id": "ygiY7C8AAAAJ:M3NEmzRMIkIC"
-    },
-    {
-        "title": "The atlas cluster trace repository",
-        "pub_year": "2018",
-        "citation": "Usenix Mag 43 (4), 2018",
-        "num_citations": 18,
-        "author_pub_id": "ygiY7C8AAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "The case for custom storage backends in distributed storage systems",
@@ -376,21 +376,21 @@
         "title": "Validating large language models with ReLM",
         "pub_year": "2023",
         "citation": "Proceedings of Machine Learning and Systems 5, 2023",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "ygiY7C8AAAAJ:e5wmG9Sq2KIC"
     },
     {
         "title": "ZNS: Avoiding the Block Interface Tax for Flash-based SSDs",
         "pub_year": "2021",
         "citation": "2021 USENIX Annual Technical Conference (USENIX ATC 21), 689-703, 2021",
-        "num_citations": 177,
+        "num_citations": 185,
         "author_pub_id": "ygiY7C8AAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 58,
+        "num_citations": 62,
         "author_pub_id": "ygiY7C8AAAAJ:hFOr9nPyWt4C"
     }
 ]

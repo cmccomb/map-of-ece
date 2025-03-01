@@ -10,7 +10,7 @@
         "title": "\"Information-Friction\" and its implications on minimum energy required for communication",
         "pub_year": "2015",
         "citation": "IEEE Transactions on Information Theory 61 (2), 895 - 907, 2015",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "hklOXvkAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -105,7 +105,7 @@
         "title": "Abnormalities in cortical pattern of coherence in migraine detected using ultra high-density EEG",
         "pub_year": "2021",
         "citation": "Brain Communications 3 (2), fcab061, 2021",
-        "num_citations": 23,
+        "num_citations": 21,
         "author_pub_id": "hklOXvkAAAAJ:8JTMrWI6FdcC"
     },
     {
@@ -129,7 +129,7 @@
         "author_pub_id": "hklOXvkAAAAJ:cdwqcPQS8ssC"
     },
     {
-        "title": "Addressing unreliability in emerging devices and non-von neumann architectures using coded computing",
+        "title": "Addressing unreliability in emerging devices and non-von Neumann architectures using coded computing",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 108 (8), 1219-1234, 2020",
         "num_citations": 23,
@@ -153,14 +153,14 @@
         "title": "An Information-Theoretic View of EEG Sensing",
         "pub_year": "2017",
         "citation": "Proceedings of the IEEE 105 (2), 367-384, 2017",
-        "num_citations": 47,
+        "num_citations": 46,
         "author_pub_id": "hklOXvkAAAAJ:L7vk9XBBNxgC"
     },
     {
         "title": "An algorithm for automated, noninvasive detection of cortical spreading depolarizations based on EEG simulations",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Biomedical Engineering 66 (4), 1115-1126, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "hklOXvkAAAAJ:j2GSQqY3pL0C"
     },
     {
@@ -213,7 +213,7 @@
         "author_pub_id": "hklOXvkAAAAJ:RJujIP1NYNUC"
     },
     {
-        "title": "Automated, Scalable and Generalizable Deep Learning for Tracking Cortical Spreading Depression Using EEG",
+        "title": "Automated, scalable and generalizable deep learning for tracking cortical spreading depression using EEG",
         "pub_year": "2021",
         "citation": "2021 10th International IEEE/EMBS Conference on Neural Engineering (NER …, 2021",
         "num_citations": 5,
@@ -227,10 +227,10 @@
         "author_pub_id": "hklOXvkAAAAJ:IjCSPb-OGe4C"
     },
     {
-        "title": "Building a culture of responsible neurotech: Neuroethics as socio-technical challenges",
+        "title": "Building a culture of responsible neurotech: neuroethics as socio-technical challenges",
         "pub_year": "2022",
         "citation": "Neuron 110 (13), 2057-2062, 2022",
-        "num_citations": 11,
+        "num_citations": 13,
         "author_pub_id": "hklOXvkAAAAJ:JqN3CTdJtl0C"
     },
     {
@@ -257,7 +257,7 @@
         "title": "Cell-specific effects of temporal interference stimulation on cortical function",
         "pub_year": "2024",
         "citation": "Communications Biology 7 (1), 1076, 2024",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:qYOp8iumCsAC"
     },
     {
@@ -292,7 +292,7 @@
         "title": "CodeNet: Training large scale neural networks in presence of soft-errors",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1903.01042, 2019",
-        "num_citations": 27,
+        "num_citations": 25,
         "author_pub_id": "hklOXvkAAAAJ:hB2aVRuWZNwC"
     },
     {
@@ -327,21 +327,21 @@
         "title": "Coded convolution for parallel and distributed computing within a deadline",
         "pub_year": "2017",
         "citation": "2017 IEEE International Symposium on Information Theory (ISIT), 2403-2407, 2017",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "hklOXvkAAAAJ:BCdnXsLIVDwC"
     },
     {
         "title": "Coded distributed computing for inverse problems",
         "pub_year": "2017",
         "citation": "Advances in Neural Information Processing Systems 30, 2017",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "hklOXvkAAAAJ:bCjgOgSFrM0C"
     },
     {
         "title": "Coded elastic computing",
         "pub_year": "2019",
         "citation": "2019 IEEE International Symposium on Information Theory (ISIT), 2654-2658, 2019",
-        "num_citations": 39,
+        "num_citations": 41,
         "author_pub_id": "hklOXvkAAAAJ:h1pkognVyKwC"
     },
     {
@@ -387,13 +387,6 @@
         "author_pub_id": "hklOXvkAAAAJ:TeJ9juy8vcMC"
     },
     {
-        "title": "Computing Unique Information for Poisson and Multinomial Systems",
-        "pub_year": "2023",
-        "citation": "arXiv preprint arXiv:2305.07013, 2023",
-        "num_citations": 2,
-        "author_pub_id": "hklOXvkAAAAJ:Zbx7W2Xs4QsC"
-    },
-    {
         "title": "Computing linear transformations with unreliable components",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Information Theory 63 (6), 3729-3756, 2017",
@@ -406,6 +399,13 @@
         "citation": "2016 IEEE International Symposium on Information Theory (ISIT), 1934-1938, 2016",
         "num_citations": 4,
         "author_pub_id": "hklOXvkAAAAJ:CMPXdcK5v8EC"
+    },
+    {
+        "title": "Computing unique information for Poisson and multinomial systems",
+        "pub_year": "2023",
+        "citation": "arXiv preprint arXiv:2305.07013, 2023",
+        "num_citations": 2,
+        "author_pub_id": "hklOXvkAAAAJ:Zbx7W2Xs4QsC"
     },
     {
         "title": "Conductive carbon fiber-based sponge",
@@ -425,7 +425,7 @@
         "title": "Cortical hyper‐excitability in migraine in response to chromatic patterns",
         "pub_year": "2019",
         "citation": "Headache: The Journal of Head and Face Pain 59 (10), 1773-1787, 2019",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "hklOXvkAAAAJ:oFn-K-OQSCAC"
     },
     {
@@ -541,14 +541,14 @@
         "title": "Effect of focality of transcranial currents on neural responses",
         "pub_year": "2021",
         "citation": "2021 10th International IEEE/EMBS Conference on Neural Engineering (NER …, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "hklOXvkAAAAJ:SgM-ki2adj0C"
     },
     {
         "title": "Effect of skull thickness and conductivity on current propagation for noninvasively injected currents",
         "pub_year": "2021",
         "citation": "Journal of Neural Engineering 18 (4), 046042, 2021",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "hklOXvkAAAAJ:mgoTDWlsYNUC"
     },
     {
@@ -562,7 +562,7 @@
         "title": "Energy Harvesting Wireless Communications: A Review of Recent Advances",
         "pub_year": "2015",
         "citation": "IEEE Journal on Selected Areas in Communications 33 (3), 360-381, 2015",
-        "num_citations": 998,
+        "num_citations": 1004,
         "author_pub_id": "hklOXvkAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -631,13 +631,13 @@
         "title": "Enhanced spatiotemporal resolution imaging of neuronal activity using joint electroencephalography and diffuse optical tomography",
         "pub_year": "2021",
         "citation": "Neurophotonics 8 (1), 015002-015002, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "hklOXvkAAAAJ:wlzmIqt2EaEC"
     },
     {
-        "title": "Evaluating Two Ways to Train Sensitivity to Echoes to Improve Echolocation",
+        "title": "Evaluating two ways to train sensitivity to echoes to improve echolocation",
         "pub_year": "2017",
-        "citation": "In Prooceedings of the 23rd International Conference on Auditory Display …, 2017",
+        "citation": "Proc of 23rd International Conference on Auditory Display (ICAD2017), 2017",
         "num_citations": 4,
         "author_pub_id": "hklOXvkAAAAJ:za7pDTvVV8kC"
     },
@@ -645,7 +645,7 @@
         "title": "Evaluation of Wireless Traffic Sensors by Sensys Networks, Inc.",
         "pub_year": "2006",
         "citation": "",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "hklOXvkAAAAJ:blknAaTinKkC"
     },
     {
@@ -659,7 +659,7 @@
         "title": "Exploring the impact and influence of melanin on frequency-domain near-infrared spectroscopy measurements",
         "pub_year": "2024",
         "citation": "Journal of Biomedical Optics 29 (S3), S33310-S33310, 2024",
-        "num_citations": 1,
+        "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:T_0gP6tLVL0C"
     },
     {
@@ -680,7 +680,7 @@
         "title": "Fairness under feature exemptions: Counterfactual and observational measures",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Information Theory 67 (10), 6675-6710, 2021",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "hklOXvkAAAAJ:RgznTc0nqo4C"
     },
     {
@@ -708,7 +708,7 @@
         "title": "Fault-tolerant parallel linear filtering using compressive sensing",
         "pub_year": "2016",
         "citation": "2016 9th International Symposium on Turbo Codes and Iterative Information …, 2016",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "hklOXvkAAAAJ:vjZqxyZ7hS4C"
     },
     {
@@ -717,12 +717,6 @@
         "citation": "2019 IEEE Biomedical Circuits and Systems Conference (BioCAS), 1-4, 2019",
         "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:Oj-SLI0tZTcC"
-    },
-    {
-        "title": "Final Report–October 2006",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "hklOXvkAAAAJ:JV2RwH3_ST0C"
     },
     {
         "title": "Flexible ultra-resolution subdermal EEG probes",
@@ -749,7 +743,7 @@
         "title": "Fundamental limits and achievable strategies for low energy compressed sensing with applications in wireless communication",
         "pub_year": "2016",
         "citation": "2016 IEEE 17th International Workshop on Signal Processing Advances in …, 2016",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "hklOXvkAAAAJ:HKviVsUxM5wC"
     },
     {
@@ -770,7 +764,7 @@
         "title": "Fundamental limits on the power consumption of encoding and decoding",
         "pub_year": "2012",
         "citation": "IEEE International Symposium on Information Theory (ISIT), 2716 - 2720, 2012",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "hklOXvkAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -784,7 +778,7 @@
         "title": "Graph codes for distributed instant message collection in an arbitrary noisy broadcast network",
         "pub_year": "2017",
         "citation": "IEEE Transactions on Information Theory 63 (9), 6059-6084, 2017",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "hklOXvkAAAAJ:xii_ZKWM4-0C"
     },
     {
@@ -833,8 +827,15 @@
         "title": "HingePlace: Focused transcranial electrical current stimulation that allows subthreshold fields outside the stimulation target",
         "pub_year": "2021",
         "citation": "2021 43rd Annual International Conference of the IEEE Engineering in …, 2021",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "hklOXvkAAAAJ:uWy0R8PweswC"
+    },
+    {
+        "title": "HingePlace: Harnessing the neural thresholding behavior to optimize Transcranial Electrical Stimulation",
+        "pub_year": "2025",
+        "citation": "arXiv preprint arXiv:2502.01382, 2025",
+        "num_citations": 0,
+        "author_pub_id": "hklOXvkAAAAJ:8rLWgkbgOXQC"
     },
     {
         "title": "How else can we define information flow in neural circuits?",
@@ -875,7 +876,7 @@
         "title": "Hyperensemble learning from multimodal biosignals to robustly predict functional outcome after cardiac arrest",
         "pub_year": "2023",
         "citation": "2023 Computing in Cardiology (CinC) 50, 1-4, 2023",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "hklOXvkAAAAJ:lSLsV1MU4ZUC"
     },
     {
@@ -883,12 +884,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "hklOXvkAAAAJ:sfsSB7lKuh0C"
-    },
-    {
-        "title": "IEEE Communications Society",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "hklOXvkAAAAJ:ON9TkA72AHEC"
     },
     {
         "title": "IEEE Communications Society",
@@ -949,7 +944,7 @@
         "title": "Information friction limits on computation",
         "pub_year": "2014",
         "citation": "2014 52nd Annual Allerton Conference on Communication, Control, and …, 2014",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -967,10 +962,10 @@
         "author_pub_id": "hklOXvkAAAAJ:anDooRL1HQEC"
     },
     {
-        "title": "Information-Theoretic Tools to Understand Distributed Source Coding in Neuroscience",
+        "title": "Information-theoretic tools to understand distributed source coding in neuroscience",
         "pub_year": "2024",
         "citation": "IEEE Journal on Selected Areas in Information Theory, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "hklOXvkAAAAJ:J6OZcwVsj5AC"
     },
     {
@@ -1012,7 +1007,7 @@
         "title": "Is the direction of greater Granger causal influence the same as the direction of information flow?",
         "pub_year": "2015",
         "citation": "2015 53rd Annual Allerton Conference on Communication, Control, and …, 2015",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "hklOXvkAAAAJ:u_mOZUIutIEC"
     },
     {
@@ -1066,7 +1061,7 @@
         "title": "Masterless coded computing: A fully-distributed coded FFT algorithm",
         "pub_year": "2018",
         "citation": "2018 56th Annual Allerton Conference on Communication, Control, and …, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "hklOXvkAAAAJ:ynsZFq2pu0MC"
     },
     {
@@ -1098,18 +1093,11 @@
         "author_pub_id": "hklOXvkAAAAJ:Lo8V22OuN40C"
     },
     {
-        "title": "Method for detecting and localizing brain silences using eeg",
+        "title": "Method for detecting and localizing brain silences using EEG",
         "pub_year": "2024",
-        "citation": "US Patent App. 18/410,446, 2024",
+        "citation": "US Patent 12,178,588, 2024",
         "num_citations": 0,
         "author_pub_id": "hklOXvkAAAAJ:xlVdBZVQT58C"
-    },
-    {
-        "title": "NON-INVASIVE METHOD FOR SUPPRESSING SPREADING DEPOLARIZATION IN HUMAN BRAINS",
-        "pub_year": "2025",
-        "citation": "US Patent App. 18/894,976, 2025",
-        "num_citations": 0,
-        "author_pub_id": "hklOXvkAAAAJ:Kv9jytqXTosC"
     },
     {
         "title": "Near vs far field: interference aggregation in TV whitespaces Extended Edition",
@@ -1128,7 +1116,7 @@
         "title": "Neural silences can be localized rapidly using noninvasive scalp EEG",
         "pub_year": "2021",
         "citation": "Communications biology 4 (1), 429, 2021",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "hklOXvkAAAAJ:qSd0DAb9jMoC"
     },
     {
@@ -1144,6 +1132,13 @@
         "citation": "Journal of Neurotrauma 36 (13), A50-A51, 2019",
         "num_citations": 3,
         "author_pub_id": "hklOXvkAAAAJ:kvJssbFybhEC"
+    },
+    {
+        "title": "Non-invasive method for suppressing spreading depolarization in human brains",
+        "pub_year": "2025",
+        "citation": "US Patent App. 18/894,976, 2025",
+        "num_citations": 0,
+        "author_pub_id": "hklOXvkAAAAJ:Kv9jytqXTosC"
     },
     {
         "title": "Non-invasive method for suppressing spreading depolarization in human brains",
@@ -1170,7 +1165,7 @@
         "title": "Novel electrodes for reliable EEG recordings on coarse and curly hair",
         "pub_year": "2020",
         "citation": "2020 42nd annual international conference of the IEEE engineering in …, 2020",
-        "num_citations": 101,
+        "num_citations": 106,
         "author_pub_id": "hklOXvkAAAAJ:5bfplxN71z4C"
     },
     {
@@ -1204,7 +1199,7 @@
         "title": "On the optimal recovery threshold of coded matrix multiplication",
         "pub_year": "2019",
         "citation": "IEEE Transactions on Information Theory 66 (1), 278-301, 2019",
-        "num_citations": 296,
+        "num_citations": 299,
         "author_pub_id": "hklOXvkAAAAJ:RJNGbXJAtMsC"
     },
     {
@@ -1236,7 +1231,7 @@
         "author_pub_id": "hklOXvkAAAAJ:DPO9WFcz7UcC"
     },
     {
-        "title": "PATHFINDER: Designing Stimulus for Neuromodulation Through Data-Driven Inverse Estimation of Non-Linear Functions",
+        "title": "Pathfinder: designing stimulus for neuromodulation through data-driven inverse estimation of non-linear functions",
         "pub_year": "2023",
         "citation": "IEEE Transactions on Biomedical Engineering 70 (12), 3300-3311, 2023",
         "num_citations": 2,
@@ -1253,7 +1248,7 @@
         "title": "Projections and the potential societal impact of the future of neurotechnologies",
         "pub_year": "2021",
         "citation": "Frontiers in neuroscience 15, 658930, 2021",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "hklOXvkAAAAJ:1Aeql8wG3wEC"
     },
     {
@@ -1320,6 +1315,13 @@
         "author_pub_id": "hklOXvkAAAAJ:9CGX2owmTHMC"
     },
     {
+        "title": "STIMULUS: noninvasive dynamic patterns of neurostimulation using spatio-temporal interference",
+        "pub_year": "2019",
+        "citation": "IEEE Transactions on Biomedical Engineering 67 (3), 726-737, 2019",
+        "num_citations": 66,
+        "author_pub_id": "hklOXvkAAAAJ:j7XjBeKFbTsC"
+    },
+    {
         "title": "Safety profile of localized non-invasive brain stimulation using uHD-PES: histological analysis",
         "pub_year": "2022",
         "citation": "JOURNAL OF NEUROCHEMISTRY 162, 144-144, 2022",
@@ -1344,14 +1346,14 @@
         "title": "Shannon meets Tesla: Wireless information and power transfer.",
         "pub_year": "2010",
         "citation": "IEEE International Symposium on Information Theory (ISIT), 2363-2367, 2010",
-        "num_citations": 1221,
+        "num_citations": 1217,
         "author_pub_id": "hklOXvkAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Short-dot: Computing large linear transforms distributedly using coded short dot products",
         "pub_year": "2016",
         "citation": "Advances In Neural Information Processing Systems 29, 2016",
-        "num_citations": 431,
+        "num_citations": 435,
         "author_pub_id": "hklOXvkAAAAJ:rzmi0EmCOGEC"
     },
     {
@@ -1367,13 +1369,6 @@
         "citation": "2011 19th European Signal Processing Conference, 884-888, 2011",
         "num_citations": 8,
         "author_pub_id": "hklOXvkAAAAJ:-f6ydRqryjwC"
-    },
-    {
-        "title": "Stimulus: Noninvasive dynamic patterns of neurostimulation using spatio-temporal interference",
-        "pub_year": "2019",
-        "citation": "IEEE Transactions on Biomedical Engineering 67 (3), 726-737, 2019",
-        "num_citations": 65,
-        "author_pub_id": "hklOXvkAAAAJ:j7XjBeKFbTsC"
     },
     {
         "title": "Straggler-resilient and communication-efficient distributed iterative linear solver",
@@ -1444,17 +1439,10 @@
         "author_pub_id": "hklOXvkAAAAJ:u5HHmVD_uO8C"
     },
     {
-        "title": "The finite-dimensional Witsenhausen counterexample",
-        "pub_year": "2009",
-        "citation": "1st International Workshop Control over Communication Channels, 2009",
-        "num_citations": 0,
-        "author_pub_id": "hklOXvkAAAAJ:aCwMkEyfDy8C"
-    },
-    {
         "title": "The mechanics of temporal interference stimulation",
         "pub_year": "2020",
         "citation": "BioRxiv, 2020.04. 23.051870, 2020",
-        "num_citations": 17,
+        "num_citations": 20,
         "author_pub_id": "hklOXvkAAAAJ:UarirCmVI0EC"
     },
     {
@@ -1516,7 +1504,7 @@
         "title": "Towards a communication-theoretic understanding of system-level power consumption",
         "pub_year": "2011",
         "citation": "IEEE Journal on Selected Areas in Communications 29 (8), 1744-1755, 2011",
-        "num_citations": 165,
+        "num_citations": 166,
         "author_pub_id": "hklOXvkAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1639,7 +1627,7 @@
         "title": "What is needed to exploit knowledge of primary transmissions?",
         "pub_year": "2007",
         "citation": "arXiv preprint cs/0702071, 2007",
-        "num_citations": 15,
+        "num_citations": 13,
         "author_pub_id": "hklOXvkAAAAJ:KqW5X_olkfQC"
     },
     {

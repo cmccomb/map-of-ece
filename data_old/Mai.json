@@ -106,7 +106,7 @@
         "title": "A high reliability PUF using hot carrier injection based response reinforcement",
         "pub_year": "2013",
         "citation": "Cryptographic Hardware and Embedded Systems-CHES 2013: 15th International …, 2013",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "-syEyyAAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -134,14 +134,14 @@
         "title": "ASIC accelerator in 28 nm for the post-quantum digital signature scheme XMSS",
         "pub_year": "2020",
         "citation": "2020 IEEE 38th International Conference on Computer Design (ICCD), 656-662, 2020",
-        "num_citations": 21,
+        "num_citations": 23,
         "author_pub_id": "-syEyyAAAAAJ:738O_yMBCRsC"
     },
     {
         "title": "An efficient reliable PUF-based cryptographic key generator in 65nm CMOS",
         "pub_year": "2014",
         "citation": "2014 Design, Automation & Test in Europe Conference & Exhibition (DATE), 1-6, 2014",
-        "num_citations": 147,
+        "num_citations": 149,
         "author_pub_id": "-syEyyAAAAAJ:k_IJM867U9cC"
     },
     {
@@ -176,7 +176,7 @@
         "title": "Attack resistant sense amplifier based PUFs (SA-PUF) with deterministic and controllable reliability of PUF responses",
         "pub_year": "2010",
         "citation": "2010 IEEE international symposium on hardware-oriented security and trust …, 2010",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "-syEyyAAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -204,7 +204,7 @@
         "title": "Characterizing, exploiting, and mitigating vulnerabilities in MLC NAND flash memory programming",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1805.03291, 2018",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "-syEyyAAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -217,7 +217,7 @@
         "title": "CoRAM: an in-fabric memory architecture for FPGA-based computing",
         "pub_year": "2011",
         "citation": "Proceedings of the 19th ACM/SIGDA international symposium on Field …, 2011",
-        "num_citations": 210,
+        "num_citations": 213,
         "author_pub_id": "-syEyyAAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -245,7 +245,7 @@
         "title": "Data retention in MLC NAND flash memory: Characterization, optimization, and recovery",
         "pub_year": "2015",
         "citation": "2015 IEEE 21st International Symposium on High Performance Computer …, 2015",
-        "num_citations": 349,
+        "num_citations": 350,
         "author_pub_id": "-syEyyAAAAAJ:blknAaTinKkC"
     },
     {
@@ -280,7 +280,7 @@
         "title": "Digital circuit design challenges and opportunities in the era of nanoscale CMOS",
         "pub_year": "2008",
         "citation": "Proceedings of the IEEE 96 (2), 343-365, 2008",
-        "num_citations": 277,
+        "num_citations": 282,
         "author_pub_id": "-syEyyAAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -294,7 +294,7 @@
         "title": "Efficient on-chip global interconnects",
         "pub_year": "2003",
         "citation": "2003 Symposium on VLSI Circuits. Digest of Technical Papers (IEEE Cat. No …, 2003",
-        "num_citations": 158,
+        "num_citations": 159,
         "author_pub_id": "-syEyyAAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -356,7 +356,7 @@
         "title": "Flash correct-and-refresh: Retention-aware error management for increased flash memory lifetime",
         "pub_year": "2012",
         "citation": "2012 IEEE 30th International Conference on Computer Design (ICCD), 94-101, 2012",
-        "num_citations": 315,
+        "num_citations": 316,
         "author_pub_id": "-syEyyAAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -370,7 +370,7 @@
         "title": "Hardware redaction via designer-directed fine-grained eFPGA insertion",
         "pub_year": "2021",
         "citation": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2021",
-        "num_citations": 49,
+        "num_citations": 55,
         "author_pub_id": "-syEyyAAAAAJ:vRqMK49ujn8C"
     },
     {
@@ -430,7 +430,7 @@
         "title": "Logic locking-connecting theory and practice",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 9,
+        "num_citations": 10,
         "author_pub_id": "-syEyyAAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -554,7 +554,7 @@
         "title": "Program interference in MLC NAND flash memory: Characterization, modeling, and mitigation",
         "pub_year": "2013",
         "citation": "2013 IEEE 31st International Conference on Computer Design (ICCD), 123-130, 2013",
-        "num_citations": 267,
+        "num_citations": 268,
         "author_pub_id": "-syEyyAAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -567,7 +567,7 @@
         "title": "ProtoFlex: Towards scalable, full-system multiprocessor simulations using FPGAs",
         "pub_year": "2009",
         "citation": "ACM Transactions on Reconfigurable Technology and Systems (TRETS) 2 (2), 1-32, 2009",
-        "num_citations": 121,
+        "num_citations": 122,
         "author_pub_id": "-syEyyAAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -614,14 +614,14 @@
         "title": "Read disturb errors in MLC NAND flash memory: Characterization, mitigation, and recovery",
         "pub_year": "2015",
         "citation": "2015 45th Annual IEEE/IFIP International Conference on Dependable Systems …, 2015",
-        "num_citations": 245,
+        "num_citations": 246,
         "author_pub_id": "-syEyyAAAAAJ:BqipwSGYUEgC"
     },
     {
         "title": "Reliability enhancement of bi-stable PUFs in 65nm bulk CMOS",
         "pub_year": "2012",
         "citation": "2012 IEEE International Symposium on Hardware-Oriented Security and Trust, 25-30, 2012",
-        "num_citations": 110,
+        "num_citations": 112,
         "author_pub_id": "-syEyyAAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -674,7 +674,7 @@
         "title": "Secure chip odometers using intentional controlled aging",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Hardware Oriented Security and Trust …, 2018",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "-syEyyAAAAAJ:dshw04ExmUIC"
     },
     {
@@ -702,7 +702,7 @@
         "title": "Single-chip heterogeneous computing: Does the future include custom logic, FPGAs, and GPGPUs?",
         "pub_year": "2010",
         "citation": "2010 43rd annual IEEE/ACM international symposium on microarchitecture, 225-236, 2010",
-        "num_citations": 348,
+        "num_citations": 349,
         "author_pub_id": "-syEyyAAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -723,7 +723,7 @@
         "title": "Smart memories: A modular reconfigurable architecture",
         "pub_year": "2000",
         "citation": "Proceedings of the 27th annual international symposium on Computer …, 2000",
-        "num_citations": 620,
+        "num_citations": 621,
         "author_pub_id": "-syEyyAAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -750,21 +750,21 @@
         "title": "The future of wires",
         "pub_year": "2001",
         "citation": "Proceedings of the IEEE 89 (4), 490-504, 2001",
-        "num_citations": 1973,
+        "num_citations": 1975,
         "author_pub_id": "-syEyyAAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Threshold voltage distribution in MLC NAND flash memory: Characterization, analysis, and modeling",
         "pub_year": "2013",
         "citation": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2013",
-        "num_citations": 397,
+        "num_citations": 399,
         "author_pub_id": "-syEyyAAAAAJ:4TOpqqG69KYC"
     },
     {
         "title": "Top-down physical design of soft embedded FPGA fabrics",
         "pub_year": "2021",
         "citation": "The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays …, 2021",
-        "num_citations": 16,
+        "num_citations": 18,
         "author_pub_id": "-syEyyAAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -799,7 +799,7 @@
         "title": "Vulnerabilities in MLC NAND flash memory programming: Experimental analysis, exploits, and mitigation techniques",
         "pub_year": "2017",
         "citation": "2017 IEEE International Symposium on High Performance Computer Architecture …, 2017",
-        "num_citations": 170,
+        "num_citations": 169,
         "author_pub_id": "-syEyyAAAAAJ:a0OBvERweLwC"
     },
     {

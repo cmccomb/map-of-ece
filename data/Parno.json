@@ -13,18 +13,18 @@
         "author_pub_id": "kTTBpJkAAAAJ:TFP_iSt0sucC"
     },
     {
-        "title": "A Framework for Debugging Automated Program Verification Proofs via Proof Actions",
-        "pub_year": "2024",
-        "citation": "International Conference on Computer Aided Verification, 348-361, 2024",
-        "num_citations": 1,
-        "author_pub_id": "kTTBpJkAAAAJ:LI9QrySNdTsC"
-    },
-    {
         "title": "A Note on the Unsoundness of vnTinyRAM's SNARK",
         "pub_year": "2015",
         "citation": "Cryptology ePrint Archive, 2015",
         "num_citations": 20,
         "author_pub_id": "kTTBpJkAAAAJ:TQgYirikUcIC"
+    },
+    {
+        "title": "A framework for debugging automated program verification proofs via proof actions",
+        "pub_year": "2024",
+        "citation": "International Conference on Computer Aided Verification, 348-361, 2024",
+        "num_citations": 2,
+        "author_pub_id": "kTTBpJkAAAAJ:LI9QrySNdTsC"
     },
     {
         "title": "A security model and fully verified implementation for the IETF QUIC record layer",
@@ -37,7 +37,7 @@
         "title": "A verified, efficient embedding of a verifiable assembly language",
         "pub_year": "2019",
         "citation": "Proceedings of the ACM on Programming Languages 3 (POPL), 1-30, 2019",
-        "num_citations": 63,
+        "num_citations": 62,
         "author_pub_id": "kTTBpJkAAAAJ:5Ul4iDaHHb8C"
     },
     {
@@ -51,28 +51,28 @@
         "title": "Algebraic reductions of knowledge",
         "pub_year": "2023",
         "citation": "Annual International Cryptology Conference, 669-701, 2023",
-        "num_citations": 21,
+        "num_citations": 25,
         "author_pub_id": "kTTBpJkAAAAJ:uLbwQdceFCQC"
     },
     {
         "title": "AlphaVerus: Bootstrapping formally verified code generation through self-improving translation and treefinement",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2412.06176, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "kTTBpJkAAAAJ:oNZyr7d5Mn4C"
     },
     {
         "title": "An Analysis of Database-Driven Mail Servers.",
         "pub_year": "2003",
         "citation": "Lisa 17, 15-22, 2003",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "kTTBpJkAAAAJ:ULOm3_A8WrAC"
     },
     {
         "title": "An execution infrastructure for TCB minimization",
         "pub_year": "2007",
         "citation": "Proceedings of the ACM European Conference in Computer Systems (EuroSys), 2007",
-        "num_citations": 5,
+        "num_citations": 9,
         "author_pub_id": "kTTBpJkAAAAJ:dhFuZR0502QC"
     },
     {
@@ -93,7 +93,7 @@
         "title": "Armada: low-effort verification of high-performance concurrent programs",
         "pub_year": "2020",
         "citation": "Proceedings of the 41st ACM SIGPLAN Conference on Programming Language …, 2020",
-        "num_citations": 49,
+        "num_citations": 50,
         "author_pub_id": "kTTBpJkAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -120,14 +120,14 @@
         "title": "Blockchains enable non-interactive MPC",
         "pub_year": "2021",
         "citation": "Theory of Cryptography: 19th International Conference, TCC 2021, Raleigh, NC …, 2021",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "kTTBpJkAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Bootstrapping Trust in a \"Trusted\" Platform.",
         "pub_year": "2008",
         "citation": "HotSec, 2008",
-        "num_citations": 185,
+        "num_citations": 184,
         "author_pub_id": "kTTBpJkAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -141,15 +141,8 @@
         "title": "Bootstrapping trust in modern computers",
         "pub_year": "2011",
         "citation": "Springer Science & Business Media, 2011",
-        "num_citations": 115,
+        "num_citations": 116,
         "author_pub_id": "kTTBpJkAAAAJ:Se3iqnhoufwC"
-    },
-    {
-        "title": "Burrow: Custom read/write permissions for custom ghost state in concurrent separation logic",
-        "pub_year": "2021",
-        "citation": "Tech. Rep. CMU-CyLab-21-002, Carnegie Mellon University, Cylab, 2021",
-        "num_citations": 1,
-        "author_pub_id": "kTTBpJkAAAAJ:Fu2w8maKXqMC"
     },
     {
         "title": "CLAMP: Practical prevention of large-scale data leaks",
@@ -190,7 +183,7 @@
         "title": "Challenges in securing vehicular networks",
         "pub_year": "2005",
         "citation": "Workshop on hot topics in networks (HotNets-IV), 1-6, 2005",
-        "num_citations": 747,
+        "num_citations": 748,
         "author_pub_id": "kTTBpJkAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -217,7 +210,7 @@
         "title": "Countermeasures against government-scale monetary forgery",
         "pub_year": "2008",
         "citation": "Financial Cryptography and Data Security: 12th International Conference, FC …, 2008",
-        "num_citations": 4,
+        "num_citations": 3,
         "author_pub_id": "kTTBpJkAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -231,7 +224,7 @@
         "title": "Degradation Attacks on Certifiably Robust Neural Networks",
         "pub_year": "2022",
         "citation": "",
-        "num_citations": 4,
+        "num_citations": 2,
         "author_pub_id": "kTTBpJkAAAAJ:kzcrU_BdoSEC"
     },
     {
@@ -245,14 +238,14 @@
         "title": "Distributed detection of node replication attacks in sensor networks",
         "pub_year": "2005",
         "citation": "2005 IEEE symposium on security and privacy (S&P'05), 49-63, 2005",
-        "num_citations": 986,
+        "num_citations": 976,
         "author_pub_id": "kTTBpJkAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Don't Yank My Chain: Auditable {NF} Service Chaining",
         "pub_year": "2021",
         "citation": "18th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "kTTBpJkAAAAJ:9vf0nzSNQJEC"
     },
     {
@@ -313,14 +306,14 @@
         "title": "Evercrypt: A fast, verified, cross-platform cryptographic provider",
         "pub_year": "2020",
         "citation": "2020 IEEE Symposium on Security and Privacy (SP), 983-1002, 2020",
-        "num_citations": 129,
+        "num_citations": 125,
         "author_pub_id": "kTTBpJkAAAAJ:XiVPGOgt02cC"
     },
     {
         "title": "Everest: Towards a verified, drop-in replacement of HTTPS",
         "pub_year": "2017",
         "citation": "2nd Summit on Advances in Programming Languages, 2017",
-        "num_citations": 98,
+        "num_citations": 101,
         "author_pub_id": "kTTBpJkAAAAJ:dshw04ExmUIC"
     },
     {
@@ -347,14 +340,14 @@
         "title": "Fast geometric projections for local robustness certification",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2002.04742, 2020",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "kTTBpJkAAAAJ:Y5dfb0dijaUC"
     },
     {
-        "title": "FastVer2: a provably correct monitor for concurrent, key-value stores",
+        "title": "FastVer2: A provably correct monitor for concurrent, key-value stores",
         "pub_year": "2023",
         "citation": "Proceedings of the 12th ACM SIGPLAN International Conference on Certified …, 2023",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "kTTBpJkAAAAJ:9Nmd_mFXekcC"
     },
     {
@@ -375,7 +368,7 @@
         "title": "Flicker: An execution infrastructure for TCB minimization",
         "pub_year": "2008",
         "citation": "Proceedings of the 3rd ACM SIGOPS/EuroSys European Conference on Computer …, 2008",
-        "num_citations": 1021,
+        "num_citations": 1015,
         "author_pub_id": "kTTBpJkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -403,21 +396,21 @@
         "title": "Geppetto: Versatile verifiable computation",
         "pub_year": "2015",
         "citation": "2015 IEEE Symposium on Security and Privacy, 253-270, 2015",
-        "num_citations": 324,
+        "num_citations": 325,
         "author_pub_id": "kTTBpJkAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "Hammurabi: A framework for pluggable, logic-based X. 509 certificate validation policies",
         "pub_year": "2022",
         "citation": "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications …, 2022",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "kTTBpJkAAAAJ:XD-gHx7UXLsC"
     },
     {
         "title": "Hash first, argue later: Adaptive verifiable computations on outsourced data",
         "pub_year": "2016",
         "citation": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications …, 2016",
-        "num_citations": 97,
+        "num_citations": 96,
         "author_pub_id": "kTTBpJkAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -451,15 +444,8 @@
         "title": "How low can you go? Recommendations for hardware-supported minimal TCB code execution",
         "pub_year": "2008",
         "citation": "ACM SIGOPS Operating Systems Review 42 (2), 14-25, 2008",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "kTTBpJkAAAAJ:ufrVoPGSRksC"
-    },
-    {
-        "title": "How to Run {POSIX} Apps in a Minimal Picoprocess",
-        "pub_year": "2013",
-        "citation": "2013 USENIX Annual Technical Conference (USENIX ATC 13), 321-332, 2013",
-        "num_citations": 46,
-        "author_pub_id": "kTTBpJkAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "How to Subvert LOCKSS",
@@ -478,9 +464,16 @@
     {
         "title": "How to delegate and verify in public: Verifiable computation from attribute-based encryption",
         "pub_year": "2012",
-        "citation": "Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012 …, 2012",
-        "num_citations": 456,
+        "citation": "Theory of Cryptography Conference, 422-439, 2012",
+        "num_citations": 461,
         "author_pub_id": "kTTBpJkAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+        "title": "How to run {POSIX} apps in a minimal picoprocess",
+        "pub_year": "2013",
+        "citation": "2013 USENIX Annual Technical Conference (USENIX ATC 13), 321-332, 2013",
+        "num_citations": 42,
+        "author_pub_id": "kTTBpJkAAAAJ:aqlVkmm33-oC"
     },
     {
         "title": "Human Factors & Usability",
@@ -499,7 +492,7 @@
     {
         "title": "Inductive invariants that spark joy: using invariant taxonomies to streamline distributed protocol proofs",
         "pub_year": "2024",
-        "citation": "Proceedings of the 18th USENIX Conference on Operating Systems Design and …, 2024",
+        "citation": "18th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2024",
         "num_citations": 1,
         "author_pub_id": "kTTBpJkAAAAJ:MLfJN-KU85MC"
     },
@@ -521,7 +514,7 @@
         "title": "IronFleet: proving practical distributed systems correct",
         "pub_year": "2015",
         "citation": "Proceedings of the 25th Symposium on Operating Systems Principles, 1-17, 2015",
-        "num_citations": 475,
+        "num_citations": 476,
         "author_pub_id": "kTTBpJkAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -541,7 +534,7 @@
         "title": "Ironclad apps:{End-to-End} security via automated {Full-System} verification",
         "pub_year": "2014",
         "citation": "11th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2014",
-        "num_citations": 297,
+        "num_citations": 296,
         "author_pub_id": "kTTBpJkAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -555,15 +548,8 @@
         "title": "Komodo: Using verification to disentangle secure-enclave hardware from software",
         "pub_year": "2017",
         "citation": "Proceedings of the 26th Symposium on Operating Systems Principles, 287-305, 2017",
-        "num_citations": 237,
+        "num_citations": 234,
         "author_pub_id": "kTTBpJkAAAAJ:738O_yMBCRsC"
-    },
-    {
-        "title": "Leaf: Modularity for Temporary Sharing in Separation Logic",
-        "pub_year": "2023",
-        "citation": "Proceedings of the ACM on Programming Languages 7 (OOPSLA2), 31-58, 2023",
-        "num_citations": 2,
-        "author_pub_id": "kTTBpJkAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Leaf: Modularity for Temporary Sharing in Separation Logic (Extended Version)",
@@ -571,6 +557,13 @@
         "citation": "arXiv preprint arXiv:2309.04851, 2023",
         "num_citations": 1,
         "author_pub_id": "kTTBpJkAAAAJ:p__nRnzSRKYC"
+    },
+    {
+        "title": "Leaf: Modularity for temporary sharing in separation logic",
+        "pub_year": "2023",
+        "citation": "Proceedings of the ACM on Programming Languages 7 (OOPSLA2), 31-58, 2023",
+        "num_citations": 2,
+        "author_pub_id": "kTTBpJkAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Limitations",
@@ -583,28 +576,28 @@
         "title": "Linear types for large-scale systems verification",
         "pub_year": "2022",
         "citation": "Proceedings of the ACM on Programming Languages 6 (OOPSLA1), 1-28, 2022",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "kTTBpJkAAAAJ:ZfRJV9d4-WMC"
     },
     {
         "title": "Lockdown: A safe and practical environment for security applications",
         "pub_year": "2009",
         "citation": "CMU-CyLab-09-011 14, 2009",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "kTTBpJkAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Lockdown: Towards a safe and practical architecture for security applications on commodity platforms",
         "pub_year": "2012",
         "citation": "Trust and Trustworthy Computing: 5th International Conference, TRUST 2012 …, 2012",
-        "num_citations": 59,
+        "num_citations": 60,
         "author_pub_id": "kTTBpJkAAAAJ:5nxA0vEk-isC"
     },
     {
         "title": "Logic locking-connecting theory and practice",
         "pub_year": "2022",
         "citation": "Cryptology ePrint Archive, 2022",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "kTTBpJkAAAAJ:tzM49s52ZIMC"
     },
     {
@@ -615,11 +608,11 @@
         "author_pub_id": "kTTBpJkAAAAJ:uc_IGeMz5qoC"
     },
     {
-        "title": "Mariposa: Measuring SMT Instability in Automated Program Verification",
+        "title": "MSWasm: Soundly enforcing memory-safe execution of unsafe code",
         "pub_year": "2023",
-        "citation": "2023 Formal Methods in Computer-Aided Design (FMCAD), 178-188, 2023",
-        "num_citations": 8,
-        "author_pub_id": "kTTBpJkAAAAJ:EYYDruWGBe4C"
+        "citation": "Proceedings of the ACM on Programming Languages 7 (POPL), 425-454, 2023",
+        "num_citations": 31,
+        "author_pub_id": "kTTBpJkAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Mariposa: Measuring SMT Instability in Automated Program Verification (Technical Report)",
@@ -629,10 +622,17 @@
         "author_pub_id": "kTTBpJkAAAAJ:BwyfMAYsbu0C"
     },
     {
+        "title": "Mariposa: Measuring SMT instability in automated program verification",
+        "pub_year": "2023",
+        "citation": "2023 Formal Methods in Computer-Aided Design (FMCAD), 178-188, 2023",
+        "num_citations": 8,
+        "author_pub_id": "kTTBpJkAAAAJ:EYYDruWGBe4C"
+    },
+    {
         "title": "Memoir: Practical state continuity for protected modules",
         "pub_year": "2011",
         "citation": "2011 IEEE Symposium on Security and Privacy, 379-394, 2011",
-        "num_citations": 175,
+        "num_citations": 176,
         "author_pub_id": "kTTBpJkAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -652,7 +652,7 @@
         "title": "Method and apparatus for secure online transactions",
         "pub_year": "2013",
         "citation": "US Patent 8,352,738, 2013",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "kTTBpJkAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -665,8 +665,8 @@
     {
         "title": "Minimal TCB code execution",
         "pub_year": "2007",
-        "citation": "2007 IEEE Symposium on Security and Privacy (SP'07), 267-272, 2007",
-        "num_citations": 90,
+        "citation": "2007 IEEE symposium on security and privacy (SP'07), 267-272, 2007",
+        "num_citations": 89,
         "author_pub_id": "kTTBpJkAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -689,13 +689,6 @@
         "citation": "ISJLP 7, 171, 2011",
         "num_citations": 1,
         "author_pub_id": "kTTBpJkAAAAJ:k_IJM867U9cC"
-    },
-    {
-        "title": "Mswasm: Soundly enforcing memory-safe execution of unsafe code",
-        "pub_year": "2023",
-        "citation": "Proceedings of the ACM on Programming Languages 7 (POPL), 425-454, 2023",
-        "num_citations": 28,
-        "author_pub_id": "kTTBpJkAAAAJ:t7zJ5fGR-2UC"
     },
     {
         "title": "Netattest",
@@ -722,14 +715,8 @@
         "title": "Non-interactive verifiable computing: Outsourcing computation to untrusted workers",
         "pub_year": "2010",
         "citation": "Advances in Cryptology–CRYPTO 2010: 30th Annual Cryptology Conference, Santa …, 2010",
-        "num_citations": 1508,
+        "num_citations": 1533,
         "author_pub_id": "kTTBpJkAAAAJ:d1gkVwhDpl0C"
-    },
-    {
-        "title": "On-Demand Secure Code Execution on Commodity Computers",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "kTTBpJkAAAAJ:kuK5TVdYjLIC"
     },
     {
         "title": "Owl: Compositional verification of security protocols via an information-flow type system",
@@ -756,7 +743,7 @@
         "title": "Permacoin: Repurposing bitcoin work for data preservation",
         "pub_year": "2014",
         "citation": "2014 IEEE Symposium on Security and Privacy, 475-490, 2014",
-        "num_citations": 431,
+        "num_citations": 430,
         "author_pub_id": "kTTBpJkAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -770,21 +757,21 @@
         "title": "Personal identification combining proximity sensing with biometrics",
         "pub_year": "2015",
         "citation": "US Patent 9,152,868, 2015",
-        "num_citations": 138,
+        "num_citations": 139,
         "author_pub_id": "kTTBpJkAAAAJ:R3hNpaxXUhUC"
     },
     {
         "title": "Phoolproof phishing prevention",
         "pub_year": "2006",
         "citation": "Financial Cryptography and Data Security: 10th International Conference, FC …, 2006",
-        "num_citations": 338,
+        "num_citations": 339,
         "author_pub_id": "kTTBpJkAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "Pinocchio coin: building zerocoin from a succinct pairing-based proof system",
         "pub_year": "2013",
         "citation": "Proceedings of the First ACM workshop on Language support for privacy …, 2013",
-        "num_citations": 152,
+        "num_citations": 161,
         "author_pub_id": "kTTBpJkAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -798,7 +785,7 @@
         "title": "Pinocchio: Nearly practical verifiable computation",
         "pub_year": "2016",
         "citation": "Communications of the ACM 59 (2), 103-112, 2016",
-        "num_citations": 1521,
+        "num_citations": 1538,
         "author_pub_id": "kTTBpJkAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -871,7 +858,7 @@
         "title": "Quadratic span programs and succinct NIZKs without PCPs",
         "pub_year": "2013",
         "citation": "Advances in Cryptology–EUROCRYPT 2013: 32nd Annual International Conference …, 2013",
-        "num_citations": 1109,
+        "num_citations": 1123,
         "author_pub_id": "kTTBpJkAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -905,7 +892,7 @@
         "title": "Resolving the conflict between generality and plausibility in verified computation",
         "pub_year": "2013",
         "citation": "Proceedings of the 8th ACM European Conference on Computer Systems, 71-84, 2013",
-        "num_citations": 180,
+        "num_citations": 182,
         "author_pub_id": "kTTBpJkAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -933,7 +920,7 @@
         "title": "Secure sensor network routing: A clean-slate approach",
         "pub_year": "2006",
         "citation": "Proceedings of the 2006 ACM CoNEXT conference, 1-13, 2006",
-        "num_citations": 129,
+        "num_citations": 128,
         "author_pub_id": "kTTBpJkAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -960,7 +947,7 @@
         "title": "Self-correcting neural networks for safe classification",
         "pub_year": "2022",
         "citation": "International Workshop on Numerical Software Verification, 96-130, 2022",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "kTTBpJkAAAAJ:0KyAp5RtaNEC"
     },
     {
@@ -974,11 +961,11 @@
         "title": "Sharding the state machine: Automated modular reasoning for complex concurrent systems",
         "pub_year": "2023",
         "citation": "17th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2023",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "kTTBpJkAAAAJ:yB1At4FlUx8C"
     },
     {
-        "title": "Shroud: Ensuring Private Access to {Large-Scale} Data in the Data Center",
+        "title": "Shroud: Ensuring private access to {Large-Scale} data in the data center",
         "pub_year": "2013",
         "citation": "11th USENIX Conference on File and Storage Technologies (FAST 13), 199-213, 2013",
         "num_citations": 128,
@@ -988,21 +975,21 @@
         "title": "SoK: Computer-aided cryptography",
         "pub_year": "2021",
         "citation": "2021 IEEE symposium on security and privacy (SP), 777-795, 2021",
-        "num_citations": 221,
+        "num_citations": 229,
         "author_pub_id": "kTTBpJkAAAAJ:HE397vMXCloC"
     },
     {
         "title": "Storage Systems are Distributed Systems (So Verify Them That {Way!})",
         "pub_year": "2020",
         "citation": "14th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2020",
-        "num_citations": 55,
+        "num_citations": 52,
         "author_pub_id": "kTTBpJkAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "Storing and retrieving secrets on a blockchain",
         "pub_year": "2022",
         "citation": "IACR International Conference on Public-Key Cryptography, 252-282, 2022",
-        "num_citations": 72,
+        "num_citations": 74,
         "author_pub_id": "kTTBpJkAAAAJ:_B80troHkn4C"
     },
     {
@@ -1016,7 +1003,7 @@
         "title": "Talek: a private publish-subscribe protocol",
         "pub_year": "2016",
         "citation": "Technical Report UW-CSE-16-11-01, University of Washington Computer Science …, 2016",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "kTTBpJkAAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -1081,24 +1068,6 @@
         "author_pub_id": "kTTBpJkAAAAJ:tuHXwOkdijsC"
     },
     {
-        "title": "Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers June 2014 https://doi. org/10.1145/2611399.2611401",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "kTTBpJkAAAAJ:tYavs44e6CUC"
-    },
-    {
-        "title": "Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers June 2014 https://doi. org/10.1145/2611399.2611407",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "kTTBpJkAAAAJ:KUbvn5osdkgC"
-    },
-    {
-        "title": "Trust Extension as a Mechanism for Secure Code Execution on Commodity Computers June 2014 https://doi. org/10.1145/2611399.2611408",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "kTTBpJkAAAAJ:g3aElNc5_aQC"
-    },
-    {
         "title": "Trust extension as a mechanism for secure code execution on commodity computers",
         "pub_year": "2014",
         "citation": "Association for Computing Machinery and Morgan & Claypool, 2014",
@@ -1122,7 +1091,7 @@
         "title": "Unidirectional Key Distribution Across Time and Space with Applications to RFID Security.",
         "pub_year": "2008",
         "citation": "USENIX security symposium, 75-90, 2008",
-        "num_citations": 105,
+        "num_citations": 104,
         "author_pub_id": "kTTBpJkAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -1136,7 +1105,7 @@
         "title": "User-driven access control: Rethinking permission granting in modern operating systems",
         "pub_year": "2012",
         "citation": "2012 IEEE Symposium on Security and Privacy, 224-238, 2012",
-        "num_citations": 320,
+        "num_citations": 318,
         "author_pub_id": "kTTBpJkAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1150,21 +1119,21 @@
         "title": "Utilization of a protected module to prevent offline dictionary attacks",
         "pub_year": "2016",
         "citation": "US Patent 9,294,281, 2016",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "kTTBpJkAAAAJ:L8Ckcad2t8MC"
     },
     {
         "title": "Utilization of a protected module to prevent offline dictionary attacks",
         "pub_year": "2017",
         "citation": "US Patent 9,544,280, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "kTTBpJkAAAAJ:_xSYboBqXhAC"
     },
     {
-        "title": "Vale: Verifying {High-Performance} Cryptographic Assembly Code",
+        "title": "Vale: Verifying {High-Performance} cryptographic assembly code",
         "pub_year": "2017",
         "citation": "26th USENIX security symposium (USENIX security 17), 917-934, 2017",
-        "num_citations": 192,
+        "num_citations": 191,
         "author_pub_id": "kTTBpJkAAAAJ:SP6oXDckpogC"
     },
     {
@@ -1184,36 +1153,43 @@
         "title": "Verified transformations and Hoare logic: Beautiful proofs for ugly assembly language",
         "pub_year": "2020",
         "citation": "Software Verification: 12th International Conference, VSTTE 2020, and 13th …, 2020",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "kTTBpJkAAAAJ:dTyEYWd-f8wC"
     },
     {
         "title": "Verus: A practical foundation for systems verification",
         "pub_year": "2024",
         "citation": "Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles …, 2024",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "kTTBpJkAAAAJ:M7yex6snE4oC"
     },
     {
         "title": "Verus: Verifying Rust Programs using Linear Ghost Types (extended version)",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2303.05491, 2023",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "kTTBpJkAAAAJ:URolC5Kub84C"
     },
     {
         "title": "Verus: Verifying rust programs using linear ghost types",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Programming Languages 7 (OOPSLA1), 286-315, 2023",
-        "num_citations": 66,
+        "num_citations": 71,
         "author_pub_id": "kTTBpJkAAAAJ:ML0RJ9NH7IQC"
     },
     {
-        "title": "WaveCert: Formal Compiler Validation for Asynchronous Dataflow Programs",
+        "title": "WaveCert: Formal Compiler Validation for Asynchronous Dataflow Programs.",
+        "pub_year": "2023",
+        "citation": "CoRR, 2023",
+        "num_citations": 0,
+        "author_pub_id": "kTTBpJkAAAAJ:hMsQuOkrut0C"
+    },
+    {
+        "title": "WaveCert: Translation Validation for Asynchronous Dataflow Programs via Dynamic Fractional Permissions",
         "pub_year": "2023",
         "citation": "arXiv preprint arXiv:2312.09326, 2023",
         "num_citations": 0,
-        "author_pub_id": "kTTBpJkAAAAJ:hMsQuOkrut0C"
+        "author_pub_id": "kTTBpJkAAAAJ:WZBGuue-350C"
     },
     {
         "title": "WebAssembly as an intermediate language for provably-safe software sandboxing",
@@ -1240,14 +1216,14 @@
         "title": "{Provably-Safe} multilingual software sandboxing using {WebAssembly}",
         "pub_year": "2022",
         "citation": "31st USENIX Security Symposium (USENIX Security 22), 1975-1992, 2022",
-        "num_citations": 45,
+        "num_citations": 43,
         "author_pub_id": "kTTBpJkAAAAJ:NJ774b8OgUMC"
     },
     {
         "title": "{SketchLib}: Enabling efficient sketch-based monitoring on programmable switches",
         "pub_year": "2022",
         "citation": "19th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2022",
-        "num_citations": 58,
+        "num_citations": 62,
         "author_pub_id": "kTTBpJkAAAAJ:hkOj_22Ku90C"
     },
     {

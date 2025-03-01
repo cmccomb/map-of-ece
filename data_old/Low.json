@@ -10,7 +10,7 @@
         "title": "3D-stacked memory-side acceleration: Accelerator and system design",
         "pub_year": "2014",
         "citation": "2nd Workshop on Near Data Processing, WONDP 2014, 2014",
-        "num_citations": 117,
+        "num_citations": 118,
         "author_pub_id": "hlh0cocAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -59,21 +59,21 @@
         "title": "A unified coded deep neural network training strategy based on generalized polydot codes",
         "pub_year": "2018",
         "citation": "2018 IEEE International Symposium on Information Theory (ISIT), 1585-1589, 2018",
-        "num_citations": 123,
+        "num_citations": 126,
         "author_pub_id": "hlh0cocAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Accumulating Householder transformations, revisited",
         "pub_year": "2006",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 32 (2), 169-179, 2006",
-        "num_citations": 57,
+        "num_citations": 58,
         "author_pub_id": "hlh0cocAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Addressing unreliability in emerging devices and non-von neumann architectures using coded computing",
         "pub_year": "2020",
         "citation": "Proceedings of the IEEE 108 (8), 1219-1234, 2020",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "hlh0cocAAAAJ:hMod-77fHWUC"
     },
     {
@@ -94,7 +94,7 @@
         "title": "Analytical modeling is enough for high-performance BLIS",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 43 (2), 1-18, 2016",
-        "num_citations": 193,
+        "num_citations": 196,
         "author_pub_id": "hlh0cocAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -157,7 +157,7 @@
         "title": "Efficient spmv operation for large and highly sparse matrices using scalable multi-way merge parallelization",
         "pub_year": "2019",
         "citation": "Proceedings of the 52nd Annual IEEE/ACM International Symposium on …, 2019",
-        "num_citations": 87,
+        "num_citations": 91,
         "author_pub_id": "hlh0cocAAAAJ:isC4tDSrTZIC"
     },
     {
@@ -171,14 +171,14 @@
         "title": "Evaluation of graph analytics frameworks using the gap benchmark suite",
         "pub_year": "2020",
         "citation": "2020 IEEE International Symposium on Workload Characterization (IISWC), 216-227, 2020",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "hlh0cocAAAAJ:ns9cj8rnVeAC"
     },
     {
         "title": "Exploiting Fusion Opportunities in Linear Algebraic Graph Query Engines",
         "pub_year": "2023",
         "citation": "2023 IEEE High Performance Extreme Computing Conference (HPEC), 1-7, 2023",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "hlh0cocAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -227,7 +227,7 @@
         "title": "FFTX and SpectralPack: A first look",
         "pub_year": "2018",
         "citation": "2018 IEEE 25th International Conference on High Performance Computing …, 2018",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "hlh0cocAAAAJ:mB3voiENLucC"
     },
     {
@@ -241,7 +241,7 @@
         "title": "Families of butterfly counting algorithms for bipartite graphs",
         "pub_year": "2022",
         "citation": "2022 IEEE International Parallel and Distributed Processing Symposium …, 2022",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "hlh0cocAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -276,7 +276,7 @@
         "title": "High assurance code generation for cyber-physical systems",
         "pub_year": "2017",
         "citation": "2017 IEEE 18th International Symposium on High Assurance Systems Engineering …, 2017",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "hlh0cocAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -322,7 +322,8 @@
     },
     {
         "title": "Linear Algebra Approach for Directed Triad Counting and Enumeration",
-        "citation": "",
+        "pub_year": "2024",
+        "citation": "SC24-W: Workshops of the International Conference for High Performance …, 2024",
         "num_citations": 0,
         "author_pub_id": "hlh0cocAAAAJ:yD5IFk8b50cC"
     },
@@ -351,7 +352,7 @@
         "title": "Masterless coded computing: A fully-distributed coded FFT algorithm",
         "pub_year": "2018",
         "citation": "2018 56th Annual Allerton Conference on Communication, Control, and …, 2018",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "hlh0cocAAAAJ:R3hNpaxXUhUC"
     },
     {
@@ -386,7 +387,7 @@
         "title": "Pagerank acceleration for large graphs with scalable hardware and two-step spmv",
         "pub_year": "2018",
         "citation": "2018 IEEE High Performance extreme Computing Conference (HPEC), 1-7, 2018",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "hlh0cocAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -421,7 +422,7 @@
         "title": "SPIRAL: Extreme performance portability",
         "pub_year": "2018",
         "citation": "Proceedings of the IEEE 106 (11), 1935-1968, 2018",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "hlh0cocAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -463,7 +464,7 @@
         "title": "The BLIS framework: Experiments in portability",
         "pub_year": "2016",
         "citation": "ACM Transactions on Mathematical Software (TOMS) 42 (2), 1-19, 2016",
-        "num_citations": 133,
+        "num_citations": 135,
         "author_pub_id": "hlh0cocAAAAJ:W7OEmFMy1HYC"
     },
     {
@@ -504,7 +505,7 @@
         "title": "Zoom Out: Abstractions for Efficient Radar Algorithms on COTS architectures",
         "pub_year": "2022",
         "citation": "2022 IEEE International Symposium on Phased Array Systems & Technology (PAST …, 2022",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "hlh0cocAAAAJ:3s1wT3WcHBgC"
     },
     {

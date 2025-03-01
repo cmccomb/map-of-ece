@@ -3,14 +3,14 @@
         "title": "\" On-the-fly\" solution techniques for stochastic Petri nets and extensions",
         "pub_year": "1998",
         "citation": "IEEE Transactions on Software Engineering 24 (10), 889-902, 1998",
-        "num_citations": 52,
+        "num_citations": 51,
         "author_pub_id": "FClnlsgAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "\" On-the-fly\" solution techniques for stochastic Petri nets and extensions",
         "pub_year": "1997",
         "citation": "Proceedings of the Seventh International Workshop on Petri Nets and …, 1997",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "FClnlsgAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -132,7 +132,7 @@
         "title": "A dynamic replica selection algorithm for tolerating timing faults",
         "pub_year": "2001",
         "citation": "2001 International Conference on Dependable Systems and Networks, 107-116, 2001",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "FClnlsgAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -146,28 +146,28 @@
         "title": "A framework for evaluating intrusion detection architectures in advanced metering infrastructures",
         "pub_year": "2014",
         "citation": "IEEE Transactions on Smart Grid 5 (2), 906-915, 2014",
-        "num_citations": 73,
+        "num_citations": 72,
         "author_pub_id": "FClnlsgAAAAJ:L1USKYWJimsC"
     },
     {
         "title": "A game-theoretic approach to respond to attacker lateral movement",
         "pub_year": "2016",
         "citation": "Decision and Game Theory for Security: 7th International Conference, GameSec …, 2016",
-        "num_citations": 45,
+        "num_citations": 47,
         "author_pub_id": "FClnlsgAAAAJ:mWEH9CqjF64C"
     },
     {
         "title": "A global-state-triggered fault injector for distributed system evaluation",
         "pub_year": "2004",
         "citation": "IEEE Transactions on Parallel and Distributed Systems 15 (7), 593-605, 2004",
-        "num_citations": 66,
+        "num_citations": 67,
         "author_pub_id": "FClnlsgAAAAJ:Wp0gIr-vW9MC"
     },
     {
         "title": "A kalman-based coordination for hierarchical state estimation: Agorithm and analysis",
         "pub_year": "2008",
         "citation": "Proceedings of the 41st Annual Hawaii International Conference on System …, 2008",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "FClnlsgAAAAJ:p2g8aNsByqUC"
     },
     {
@@ -188,14 +188,14 @@
         "title": "A modular method for evaluating the performance of picture archiving and communication systems",
         "pub_year": "1992",
         "citation": "[1992] Proceedings Fifth Annual IEEE Symposium on Computer-Based Medical …, 1992",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "FClnlsgAAAAJ:WqliGbK-hY8C"
     },
     {
         "title": "A new methodology for calculating distributions of reward accumulated during a finite interval",
         "pub_year": "1996",
         "citation": "Proceedings of Annual Symposium on Fault Tolerant Computing, 116-125, 1996",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "FClnlsgAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -227,10 +227,10 @@
         "author_pub_id": "FClnlsgAAAAJ:nVrZBo8bIpAC"
     },
     {
-        "title": "A provenance model for the european union general data protection regulation",
+        "title": "A provenance model for the European Union general data protection regulation",
         "pub_year": "2018",
-        "citation": "Provenance and Annotation of Data and Processes: 7th International …, 2018",
-        "num_citations": 27,
+        "citation": "International Provenance and Annotation Workshop, 45-57, 2018",
+        "num_citations": 25,
         "author_pub_id": "FClnlsgAAAAJ:-uzm3Y7AvW0C"
     },
     {
@@ -272,7 +272,7 @@
         "title": "A unified approach for specifying measures of performance, dependability and performability",
         "pub_year": "1991",
         "citation": "Dependable computing for critical applications, 215-237, 1991",
-        "num_citations": 264,
+        "num_citations": 268,
         "author_pub_id": "FClnlsgAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -292,21 +292,21 @@
         "title": "AQuA: An adaptive architecture that provides dependable distributed objects",
         "pub_year": "1998",
         "citation": "Proceedings Seventeenth IEEE Symposium on Reliable Distributed Systems (Cat …, 1998",
-        "num_citations": 290,
+        "num_citations": 289,
         "author_pub_id": "FClnlsgAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "AQuA: An adaptive architecture that provides dependable distributed objects",
         "pub_year": "2003",
         "citation": "IEEE Transactions on Computers 52 (1), 31-50, 2003",
-        "num_citations": 97,
+        "num_citations": 94,
         "author_pub_id": "FClnlsgAAAAJ:eQOLeE2rZwMC"
     },
     {
         "title": "ARIMA-based modeling and validation of consumption readings in power grids",
         "pub_year": "2016",
         "citation": "Critical Information Infrastructures Security: 10th International Conference …, 2016",
-        "num_citations": 90,
+        "num_citations": 94,
         "author_pub_id": "FClnlsgAAAAJ:w0F2JDEymm0C"
     },
     {
@@ -347,8 +347,8 @@
     {
         "title": "Adversary-driven state-based system security evaluation",
         "pub_year": "2010",
-        "citation": "Proceedings of the 6th International Workshop on Security Measurements and …, 2010",
-        "num_citations": 105,
+        "citation": "Proceedings of the 6th international workshop on security measurements and …, 2010",
+        "num_citations": 103,
         "author_pub_id": "FClnlsgAAAAJ:eflP2zaiRacC"
     },
     {
@@ -362,15 +362,8 @@
         "title": "Algorithms for the generation of state-level representations of stochastic activity networks with general reward structures",
         "pub_year": "1996",
         "citation": "IEEE Transactions on Software Engineering 22 (9), 603-614, 1996",
-        "num_citations": 39,
+        "num_citations": 38,
         "author_pub_id": "FClnlsgAAAAJ:9ZlFYXVOiuMC"
-    },
-    {
-        "title": "An Ontology Framework for Generating Discrete-Event Stochastic Models",
-        "pub_year": "2018",
-        "citation": "Computer Performance Engineering: 15th European Workshop, EPEW 2018, Paris …, 2018",
-        "num_citations": 0,
-        "author_pub_id": "FClnlsgAAAAJ:RtRctb2lSbAC"
     },
     {
         "title": "An actor-centric, asset-based monitor deployment model for cloud computing",
@@ -411,25 +404,25 @@
         "title": "An architecture for adaptive intrusion‐tolerant applications",
         "pub_year": "2006",
         "citation": "Software: Practice and Experience 36 (11‐12), 1331-1354, 2006",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "FClnlsgAAAAJ:NMxIlDl6LWMC"
     },
     {
         "title": "An efficient disk-based tool for solving large Markov models",
         "pub_year": "1998",
         "citation": "Performance Evaluation 33 (1), 67-84, 1998",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "FClnlsgAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "An efficient disk-based tool for solving very large Markov models",
         "pub_year": "1997",
         "citation": "International Conference on Modelling Techniques and Tools for Computer …, 1997",
-        "num_citations": 60,
+        "num_citations": 59,
         "author_pub_id": "FClnlsgAAAAJ:0EnyYjriUFMC"
     },
     {
-        "title": "An efficient strategy for model composition in the möbius modeling environment",
+        "title": "An efficient strategy for model composition in the Möbius modeling environment",
         "pub_year": "2018",
         "citation": "2018 14th European Dependable Computing Conference (EDCC), 116-119, 2018",
         "num_citations": 7,
@@ -446,7 +439,7 @@
         "title": "An efficient well-specified check",
         "pub_year": "1999",
         "citation": "Proceedings 8th International Workshop on Petri Nets and Performance Models …, 1999",
-        "num_citations": 35,
+        "num_citations": 34,
         "author_pub_id": "FClnlsgAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -488,22 +481,22 @@
         "title": "An unsupervised multi-detector approach for identifying malicious lateral movement",
         "pub_year": "2017",
         "citation": "2017 IEEE 36th Symposium on Reliable Distributed Systems (SRDS), 224-233, 2017",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "FClnlsgAAAAJ:0aBXIfxlw9sC"
+    },
+    {
+        "title": "Analysis Of Distributed Policy Rulesets For Compliance With Global Policy",
+        "pub_year": "2012",
+        "citation": "",
+        "num_citations": 0,
+        "author_pub_id": "FClnlsgAAAAJ:In6cVmBjs0IC"
     },
     {
         "title": "Analysis of distributed policy rule-sets for compliance with global policy",
         "pub_year": "2012",
         "citation": "US Patent 8,209,738, 2012",
-        "num_citations": 434,
+        "num_citations": 442,
         "author_pub_id": "FClnlsgAAAAJ:vRqMK49ujn8C"
-    },
-    {
-        "title": "Analysis of distributed policy rule-sets for compliance with global policy",
-        "pub_year": "2012",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "FClnlsgAAAAJ:In6cVmBjs0IC"
     },
     {
         "title": "Analysis of the distribution of consecutive cell losses in an ATM switch using stochastic activity networks",
@@ -523,7 +516,7 @@
         "title": "Application-driven coordination-free distributed checkpointing",
         "pub_year": "2005",
         "citation": "25th IEEE International Conference on Distributed Computing Systems (ICDCS …, 2005",
-        "num_citations": 14,
+        "num_citations": 12,
         "author_pub_id": "FClnlsgAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -551,14 +544,14 @@
         "title": "Attain: An attack injection framework for software-defined networking",
         "pub_year": "2017",
         "citation": "2017 47th Annual IEEE/IFIP International Conference on Dependable Systems …, 2017",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "FClnlsgAAAAJ:SIv7DqKytYAC"
     },
     {
         "title": "Automated discovery of cross-plane event-based vulnerabilities in software-defined networking",
         "pub_year": "2020",
         "citation": "Network and Distributed System Security Symposium, 2020",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "FClnlsgAAAAJ:wSy_KLzO7YEC"
     },
     {
@@ -572,14 +565,14 @@
         "title": "Automatic generation of security argument graphs",
         "pub_year": "2014",
         "citation": "2014 IEEE 20th Pacific Rim International Symposium on Dependable Computing …, 2014",
-        "num_citations": 26,
+        "num_citations": 27,
         "author_pub_id": "FClnlsgAAAAJ:rHJHxKgnXwkC"
     },
     {
         "title": "Automatic model-driven recovery in distributed systems",
         "pub_year": "2005",
         "citation": "24th IEEE Symposium on Reliable Distributed Systems (SRDS'05), 25-36, 2005",
-        "num_citations": 69,
+        "num_citations": 70,
         "author_pub_id": "FClnlsgAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -600,7 +593,7 @@
         "title": "Automatically generating security models from system models to aid in the evaluation of AMI deployment options",
         "pub_year": "2018",
         "citation": "Critical Information Infrastructures Security: 12th International Conference …, 2018",
-        "num_citations": 5,
+        "num_citations": 4,
         "author_pub_id": "FClnlsgAAAAJ:qE4H1tSSYIIC"
     },
     {
@@ -621,7 +614,7 @@
         "title": "Bound-preserving composition for Markov reward models",
         "pub_year": "2006",
         "citation": "Third International Conference on the Quantitative Evaluation of Systems …, 2006",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "FClnlsgAAAAJ:XiVPGOgt02cC"
     },
     {
@@ -660,7 +653,7 @@
         "author_pub_id": "FClnlsgAAAAJ:PELIpwtuRlgC"
     },
     {
-        "title": "Causal Analysis for {Software-Defined} Networking Attacks",
+        "title": "Causal analysis for {Software-Defined} networking attacks",
         "pub_year": "2021",
         "citation": "30th USENIX Security Symposium (USENIX Security 21), 3183-3200, 2021",
         "num_citations": 17,
@@ -682,7 +675,7 @@
     {
         "title": "Characterizing the behavior of cyber adversaries: The means, motive, and opportunity of cyberattacks",
         "pub_year": "2010",
-        "citation": "40th Annual IEEE/IFIP International Conference on Dependable Systems and …, 2010",
+        "citation": "40th Annual IEEE/IFIP international conference on dependable systems and …, 2010",
         "num_citations": 12,
         "author_pub_id": "FClnlsgAAAAJ:D_tqNUsBuKoC"
     },
@@ -724,7 +717,7 @@
         "title": "Computation of the asymptotic bias and variance for simulation of Markov reward models",
         "pub_year": "1996",
         "citation": "Proceedings of the 29th Annual Simulation Symposium, 173-182, 1996",
-        "num_citations": 14,
+        "num_citations": 13,
         "author_pub_id": "FClnlsgAAAAJ:1sJd4Hv_s6UC"
     },
     {
@@ -804,7 +797,7 @@
         "author_pub_id": "FClnlsgAAAAJ:Vno172sVVMwC"
     },
     {
-        "title": "Cyberattacks on Primary Frequency Response Mechanisms in Power Grids",
+        "title": "Cyberattacks on primary frequency response mechanisms in power grids",
         "pub_year": "2018",
         "citation": "Computer 51 (11), 37-45, 2018",
         "num_citations": 2,
@@ -878,7 +871,7 @@
         "title": "Data-driven model-based detection of malicious insiders via physical access logs",
         "pub_year": "2019",
         "citation": "ACM Transactions on Modeling and Computer Simulation (TOMACS) 29 (4), 1-25, 2019",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "FClnlsgAAAAJ:wE-fMHVdjMkC"
     },
     {
@@ -891,7 +884,7 @@
     {
         "title": "Delta execution for software reliability",
         "pub_year": "2007",
-        "citation": "Hot Topics in Dependability, 2007",
+        "citation": "Hot Topics in Dependability 4, 2007",
         "num_citations": 19,
         "author_pub_id": "FClnlsgAAAAJ:lSLTfruPkqcC"
     },
@@ -926,7 +919,7 @@
         "title": "Dependability evaluation using composed SAN-based reward models",
         "pub_year": "1992",
         "citation": "Journal of parallel and distributed computing 15 (3), 238-254, 1992",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "FClnlsgAAAAJ:ufrVoPGSRksC"
     },
     {
@@ -947,7 +940,7 @@
         "title": "Design of experiments within the möbius modeling environment",
         "pub_year": "2007",
         "citation": "Fourth International Conference on the Quantitative Evaluation of Systems …, 2007",
-        "num_citations": 5,
+        "num_citations": 6,
         "author_pub_id": "FClnlsgAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -988,14 +981,14 @@
         "title": "Developing models for physical attacks in cyber-physical systems",
         "pub_year": "2017",
         "citation": "Proceedings of the 2017 Workshop on Cyber-Physical Systems Security and …, 2017",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "FClnlsgAAAAJ:C33y2ycGS3YC"
     },
     {
         "title": "Digital I and C and Cyber Security for Nuclear Power Plants",
         "pub_year": "2014",
         "citation": "",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "FClnlsgAAAAJ:X9ykpCP0fEIC"
     },
     {
@@ -1065,14 +1058,14 @@
         "title": "Enabling collaborative research for security and resiliency of energy cyber physical systems",
         "pub_year": "2014",
         "citation": "2014 IEEE International Conference on Distributed Computing in Sensor …, 2014",
-        "num_citations": 3,
+        "num_citations": 2,
         "author_pub_id": "FClnlsgAAAAJ:MAUkC_7iAq8C"
     },
     {
         "title": "Enhancing grid measurements: Wide area measurement systems, NASPInet, and security",
         "pub_year": "2011",
         "citation": "IEEE Power and Energy Magazine 10 (1), 67-73, 2011",
-        "num_citations": 76,
+        "num_citations": 75,
         "author_pub_id": "FClnlsgAAAAJ:7T2F9Uy0os0C"
     },
     {
@@ -1100,7 +1093,7 @@
         "title": "Evaluating detectors on optimal attack vectors that enable electricity theft and DER fraud",
         "pub_year": "2018",
         "citation": "IEEE Journal of Selected Topics in Signal Processing 12 (4), 790-805, 2018",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "FClnlsgAAAAJ:H_jBuBxbQIAC"
     },
     {
@@ -1123,19 +1116,6 @@
         "citation": "Medical Imaging IV: PACS Systems Design and Evaluation 1234, 484-494, 1990",
         "num_citations": 4,
         "author_pub_id": "FClnlsgAAAAJ:WA5NYHcadZ8C"
-    },
-    {
-        "title": "Expected Impulse Rewards in Markov Regenerative Stochastic Petri Nets",
-        "pub_year": "1996",
-        "citation": "Application and Theory of Petri Nets: International Conference …, 1996",
-        "num_citations": 0,
-        "author_pub_id": "FClnlsgAAAAJ:KI9T_ytC6pkC"
-    },
-    {
-        "title": "Expected Impulse Rewards in Markov Regenerative Stochastic Petri Nets",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "FClnlsgAAAAJ:TaaCk18tZOkC"
     },
     {
         "title": "Expected impulse rewards in Markov regenerative stochastic Petri nets",
@@ -1161,8 +1141,8 @@
     {
         "title": "Experimental evaluation of the unavailability induced by a group membership protocol",
         "pub_year": "2002",
-        "citation": "Dependable Computing EDCC-4: 4th European Dependable Computing Conference …, 2002",
-        "num_citations": 13,
+        "citation": "European Dependable Computing Conference, 140-158, 2002",
+        "num_citations": 14,
         "author_pub_id": "FClnlsgAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -1183,7 +1163,7 @@
         "title": "F-DETA: A framework for detecting electricity theft attacks in smart grids",
         "pub_year": "2016",
         "citation": "2016 46th Annual IEEE/IFIP international conference on dependable systems …, 2016",
-        "num_citations": 81,
+        "num_citations": 80,
         "author_pub_id": "FClnlsgAAAAJ:WAzi4Gm8nLoC"
     },
     {
@@ -1204,7 +1184,7 @@
         "title": "Ferret: A host vulnerability checking tool",
         "pub_year": "2004",
         "citation": "10th IEEE Pacific Rim International Symposium on Dependable Computing, 2004 …, 2004",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "FClnlsgAAAAJ:vV6vV6tmYwMC"
     },
     {
@@ -1218,7 +1198,7 @@
         "title": "Finite homological dimension and a derived equivalence",
         "pub_year": "2017",
         "citation": "Transactions of the American Mathematical Society 369 (6), 3911-3935, 2017",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "FClnlsgAAAAJ:3A3nxV7CjKIC"
     },
     {
@@ -1252,7 +1232,7 @@
         "title": "Formal specification and verification of a group membership protocol for an intrusion-tolerant group communication system",
         "pub_year": "2002",
         "citation": "2002 Pacific Rim International Symposium on Dependable Computing, 2002 …, 2002",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "FClnlsgAAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -1300,7 +1280,7 @@
         "title": "Go with the flow: Toward workflow-oriented security assessment",
         "pub_year": "2013",
         "citation": "Proceedings of the 2013 New Security Paradigms Workshop, 65-76, 2013",
-        "num_citations": 49,
+        "num_citations": 47,
         "author_pub_id": "FClnlsgAAAAJ:CB2v5VPnA5kC"
     },
     {
@@ -1368,14 +1348,14 @@
         "title": "Intrusion detection for advanced metering infrastructures: Requirements and architectural directions",
         "pub_year": "2010",
         "citation": "2010 First IEEE international conference on smart grid communications, 350-355, 2010",
-        "num_citations": 322,
+        "num_citations": 325,
         "author_pub_id": "FClnlsgAAAAJ:TQgYirikUcIC"
     },
     {
         "title": "Intrusion detection in enterprise systems by combining and clustering diverse monitor data",
         "pub_year": "2016",
         "citation": "Proceedings of the Symposium and Bootcamp on the Science of Security, 7-16, 2016",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "FClnlsgAAAAJ:YsrPvlHIBpEC"
     },
     {
@@ -1409,7 +1389,7 @@
         "title": "Lateral movement detection using distributed data fusion",
         "pub_year": "2016",
         "citation": "2016 IEEE 35th symposium on reliable distributed systems (SRDS), 21-30, 2016",
-        "num_citations": 51,
+        "num_citations": 53,
         "author_pub_id": "FClnlsgAAAAJ:PkcyUWeTMh0C"
     },
     {
@@ -1423,13 +1403,13 @@
         "title": "Learning process behavioral baselines for anomaly detection",
         "pub_year": "2017",
         "citation": "2017 IEEE 22nd Pacific Rim International Symposium on Dependable Computing …, 2017",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "FClnlsgAAAAJ:sA9dB-pw3HoC"
     },
     {
         "title": "Lecture Notes in Computer Science: Foreword",
         "pub_year": "2008",
-        "citation": "Architecting Dependable Systems V, 2008",
+        "citation": "Architecting Dependable Systems V, XII, 2008",
         "num_citations": 0,
         "author_pub_id": "FClnlsgAAAAJ:s85pQhAUCrAC"
     },
@@ -1437,7 +1417,7 @@
         "title": "Leveraging physical access logs to identify tailgating: Limitations and solutions",
         "pub_year": "2019",
         "citation": "2019 15th European dependable computing conference (EDCC), 127-132, 2019",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "FClnlsgAAAAJ:lYAcb2jw7qUC"
     },
     {
@@ -1477,7 +1457,7 @@
         "title": "Low-cost error containment and recovery for onboard guarded software upgrading and beyond",
         "pub_year": "2002",
         "citation": "IEEE Transactions on Computers 51 (2), 121-137, 2002",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "FClnlsgAAAAJ:NaGl4SEjCO4C"
     },
     {
@@ -1524,7 +1504,7 @@
         "title": "Malicious data detection in state estimation leveraging system losses & estimation of perturbed parameters",
         "pub_year": "2013",
         "citation": "2013 IEEE International Conference on Smart Grid Communications …, 2013",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "FClnlsgAAAAJ:XUvXOeBm_78C"
     },
     {
@@ -1586,14 +1566,14 @@
         "title": "Model-based evaluation: from dependability to security",
         "pub_year": "2004",
         "citation": "IEEE Transactions on dependable and secure computing 1 (1), 48-65, 2004",
-        "num_citations": 681,
+        "num_citations": 680,
         "author_pub_id": "FClnlsgAAAAJ:9yKSN-GCB0IC"
     },
     {
         "title": "Model-based security metrics using adversary view security evaluation (advise)",
         "pub_year": "2011",
         "citation": "2011 Eighth International Conference on Quantitative Evaluation of SysTems …, 2011",
-        "num_citations": 250,
+        "num_citations": 248,
         "author_pub_id": "FClnlsgAAAAJ:EYYDruWGBe4C"
     },
     {
@@ -1611,14 +1591,14 @@
         "author_pub_id": "FClnlsgAAAAJ:nqdriD65xNoC"
     },
     {
-        "title": "Modeling and analysis of worm defense using stochastic activity networks.",
+        "title": "Modeling and analysis of worm defense using stochastic activity networks",
         "pub_year": "2007",
-        "citation": "SpringSim (3), 349-355, 2007",
-        "num_citations": 2,
+        "citation": "Proceedings of the 2007 spring simulation multiconference-Volume 3, 349-355, 2007",
+        "num_citations": 1,
         "author_pub_id": "FClnlsgAAAAJ:NJ774b8OgUMC"
     },
     {
-        "title": "Modeling humans: A general agent model for the evaluation of security",
+        "title": "Modeling humans: a general agent model for the evaluation of security",
         "pub_year": "2018",
         "citation": "Quantitative Evaluation of Systems: 15th International Conference, QEST 2018 …, 2018",
         "num_citations": 8,
@@ -1669,7 +1649,7 @@
     {
         "title": "Monitoring advanced metering infrastructures with amilyzer",
         "pub_year": "2013",
-        "citation": "Proceedings of CESAR: The Computer and Electronics Security Applications …, 2013",
+        "citation": "Cyber-security of SCADA & industrial control systems, 2013",
         "num_citations": 19,
         "author_pub_id": "FClnlsgAAAAJ:jU7OWUQzBzMC"
     },
@@ -1691,7 +1671,7 @@
         "title": "Möbius 2.3: An extensible tool for dependability, security, and performance evaluation of large and complex system models",
         "pub_year": "2009",
         "citation": "2009 IEEE/IFIP International Conference on Dependable Systems & Networks …, 2009",
-        "num_citations": 113,
+        "num_citations": 116,
         "author_pub_id": "FClnlsgAAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -1719,7 +1699,7 @@
         "title": "Möbius: An extensible tool for performance and dependability modeling",
         "pub_year": "2000",
         "citation": "International Conference on Modelling Techniques and Tools for Computer …, 2000",
-        "num_citations": 153,
+        "num_citations": 155,
         "author_pub_id": "FClnlsgAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1768,7 +1748,7 @@
         "title": "On low-cost error containment and recovery methods for guarded software upgrading",
         "pub_year": "2000",
         "citation": "Proceedings 20th IEEE International Conference on Distributed Computing …, 2000",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "FClnlsgAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -1782,7 +1762,7 @@
         "title": "On train automatic stop control using balises: Attacks and a software-only countermeasure",
         "pub_year": "2017",
         "citation": "2017 IEEE 22nd Pacific Rim International Symposium on Dependable Computing …, 2017",
-        "num_citations": 24,
+        "num_citations": 21,
         "author_pub_id": "FClnlsgAAAAJ:silx2ntsSuwC"
     },
     {
@@ -1796,7 +1776,7 @@
         "title": "On-board guarded software upgrading for space missions",
         "pub_year": "1999",
         "citation": "Gateway to the New Millennium. 18th Digital Avionics Systems Conference …, 1999",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "FClnlsgAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -1817,7 +1797,7 @@
         "title": "Optimal state-space lumping in Markov chains",
         "pub_year": "2003",
         "citation": "Information processing letters 87 (6), 309-315, 2003",
-        "num_citations": 286,
+        "num_citations": 288,
         "author_pub_id": "FClnlsgAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -1847,6 +1827,12 @@
         "citation": "2019 49th Annual IEEE/IFIP International Conference on Dependable Systems …, 2019",
         "num_citations": 4,
         "author_pub_id": "FClnlsgAAAAJ:X0DADzN9RKwC"
+    },
+    {
+        "title": "PCA-Based Method for Detecting Integrity Attacks on Advanced Metering Infrastructure",
+        "citation": "Quantitative Evaluation of Systems, 70, 0",
+        "num_citations": 0,
+        "author_pub_id": "FClnlsgAAAAJ:Ej9njvOgR2oC"
     },
     {
         "title": "PCA-based method for detecting integrity attacks on advanced metering infrastructure",
@@ -1919,14 +1905,14 @@
         "title": "Performability evaluation of CSMA/CD and CSMA/DCR protocols under transient fault conditions",
         "pub_year": "1993",
         "citation": "IEEE transactions on reliability 42 (1), 116-127, 1993",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "FClnlsgAAAAJ:maZDTaKrznsC"
     },
     {
         "title": "Performability evaluation of distributed systems using stochastic activity networks.",
         "pub_year": "1987",
         "citation": "Unknown Host Publication Title, 111-120, 1987",
-        "num_citations": 37,
+        "num_citations": 36,
         "author_pub_id": "FClnlsgAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -1940,7 +1926,7 @@
         "title": "Performability modeling with UltraSAN",
         "pub_year": "1991",
         "citation": "IEEE software 8 (5), 69-80, 1991",
-        "num_citations": 182,
+        "num_citations": 180,
         "author_pub_id": "FClnlsgAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1954,7 +1940,7 @@
         "title": "Performability of a token bus network under transient fault conditions",
         "pub_year": "1989",
         "citation": "1989 The Nineteenth International Symposium on Fault-Tolerant Computing …, 1989",
-        "num_citations": 21,
+        "num_citations": 22,
         "author_pub_id": "FClnlsgAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -1968,7 +1954,7 @@
         "title": "Performance analysis of the RAID 5 disk array",
         "pub_year": "1995",
         "citation": "Proceedings of 1995 IEEE International Computer Performance and …, 1995",
-        "num_citations": 28,
+        "num_citations": 27,
         "author_pub_id": "FClnlsgAAAAJ:hFOr9nPyWt4C"
     },
     {
@@ -1982,7 +1968,7 @@
         "title": "Performance analysis of two time-based coordinated checkpointing protocols",
         "pub_year": "1997",
         "citation": "Proceedings Pacific Rim International Symposium on Fault-Tolerant Systems …, 1997",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "FClnlsgAAAAJ:hC7cP41nSMkC"
     },
     {
@@ -2084,7 +2070,7 @@
         "title": "Proactive resilience revisited: The delicate balance between resisting intrusions and remaining available",
         "pub_year": "2006",
         "citation": "2006 25th IEEE Symposium on Reliable Distributed Systems (SRDS'06), 71-82, 2006",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "FClnlsgAAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -2098,7 +2084,7 @@
         "title": "Probabilistic validation of an intrusion-tolerant replication system",
         "pub_year": "2003",
         "citation": "DSN, 615-624, 2003",
-        "num_citations": 99,
+        "num_citations": 98,
         "author_pub_id": "FClnlsgAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -2119,7 +2105,7 @@
         "title": "Probabilistic verification of a synchronous round-based consensus protocol",
         "pub_year": "1997",
         "citation": "Proceedings of SRDS'97: 16th IEEE Symposium on Reliable Distributed Systems …, 1997",
-        "num_citations": 18,
+        "num_citations": 19,
         "author_pub_id": "FClnlsgAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -2144,14 +2130,14 @@
         "title": "Progress towards a resilient power grid infrastructure",
         "pub_year": "2010",
         "citation": "IEEE PES General Meeting, 1-3, 2010",
-        "num_citations": 33,
+        "num_citations": 32,
         "author_pub_id": "FClnlsgAAAAJ:5Ul4iDaHHb8C"
     },
     {
         "title": "Properties of the tangle for uniform random and random walk tip selection",
         "pub_year": "2019",
         "citation": "2019 IEEE International Conference on Blockchain (Blockchain), 228-236, 2019",
-        "num_citations": 53,
+        "num_citations": 56,
         "author_pub_id": "FClnlsgAAAAJ:Vr2j17o0sqMC"
     },
     {
@@ -2172,14 +2158,14 @@
         "title": "Proteus: A flexible infrastructure to implement adaptive fault tolerance in AQuA",
         "pub_year": "1999",
         "citation": "Dependable Computing for Critical Applications 7, 149-168, 1999",
-        "num_citations": 51,
+        "num_citations": 49,
         "author_pub_id": "FClnlsgAAAAJ:KlAtU1dfN6UC"
     },
     {
         "title": "Provenance for intent-based networking",
         "pub_year": "2020",
         "citation": "2020 6th IEEE conference on network softwarization (NetSoft), 195-199, 2020",
-        "num_citations": 31,
+        "num_citations": 30,
         "author_pub_id": "FClnlsgAAAAJ:AZju0d2GQJ0C"
     },
     {
@@ -2200,7 +2186,7 @@
         "title": "Pscloud: a durable context-aware personal storage cloud",
         "pub_year": "2013",
         "citation": "Proceedings of the 9th Workshop on Hot Topics in Dependable Systems, 1-6, 2013",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "FClnlsgAAAAJ:7H_MAutzIkAC"
     },
     {
@@ -2220,14 +2206,14 @@
         "title": "Quantifying the cost of providing intrusion tolerance in group communication systems",
         "pub_year": "2002",
         "citation": "Proceedings International Conference on Dependable Systems and Networks, 229-238, 2002",
-        "num_citations": 69,
+        "num_citations": 68,
         "author_pub_id": "FClnlsgAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Quantifying the effectiveness of mobile phone virus response mechanisms",
         "pub_year": "2007",
         "citation": "37th Annual IEEE/IFIP International Conference on Dependable Systems and …, 2007",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "FClnlsgAAAAJ:hMod-77fHWUC"
     },
     {
@@ -2289,7 +2275,7 @@
     {
         "title": "Randomized Timed and Hybrid Models for Critical Infrastructures (Dagstuhl Seminar 14031)",
         "pub_year": "2014",
-        "citation": "Schloss-Dagstuhl-Leibniz Zentrum für Informatik, 2014",
+        "citation": "Dagstuhl Reports 4 (1), 36-82, 2014",
         "num_citations": 1,
         "author_pub_id": "FClnlsgAAAAJ:WC9gN4BGCRcC"
     },
@@ -2304,13 +2290,13 @@
         "title": "Reduced base model construction methods for stochastic activity networks",
         "pub_year": "1991",
         "citation": "IEEE Journal on Selected Areas in Communications 9 (1), 25-36, 1991",
-        "num_citations": 327,
+        "num_citations": 326,
         "author_pub_id": "FClnlsgAAAAJ:u-x6o8ySG0sC"
     },
     {
         "title": "Reliability analysis with dynamic reliability block diagrams in the Möbius modeling tool",
         "pub_year": "2016",
-        "citation": "EAI Endorsed Transactions on Security and Safety 3 (10), 164-170, 2016",
+        "citation": "Proceedings of the 9th EAI International Conference on Performance …, 2016",
         "num_citations": 6,
         "author_pub_id": "FClnlsgAAAAJ:ziOE8S1-AIUC"
     },
@@ -2353,21 +2339,21 @@
         "title": "Reward model solution methods with impulse and rate rewards: An algorithm and numerical results",
         "pub_year": "1994",
         "citation": "Performance evaluation 20 (4), 413-436, 1994",
-        "num_citations": 80,
+        "num_citations": 79,
         "author_pub_id": "FClnlsgAAAAJ:roLk4NBRz8UC"
     },
     {
         "title": "SCPSE: Security-oriented cyber-physical state estimation for power grid critical infrastructures",
         "pub_year": "2012",
         "citation": "IEEE Transactions on Smart Grid 3 (4), 1790-1799, 2012",
-        "num_citations": 215,
+        "num_citations": 217,
         "author_pub_id": "FClnlsgAAAAJ:gVv57TyPmFsC"
     },
     {
         "title": "SOCCA: A security-oriented cyber-physical contingency analysis in power infrastructures",
         "pub_year": "2013",
         "citation": "IEEE Transactions on Smart Grid 5 (1), 3-13, 2013",
-        "num_citations": 135,
+        "num_citations": 137,
         "author_pub_id": "FClnlsgAAAAJ:prdVHNxh-e8C"
     },
     {
@@ -2408,7 +2394,7 @@
         "title": "Secloud: A cloud-based comprehensive and lightweight security solution for smartphones",
         "pub_year": "2013",
         "citation": "Computers & Security 37, 215-227, 2013",
-        "num_citations": 132,
+        "num_citations": 133,
         "author_pub_id": "FClnlsgAAAAJ:vDZJ-YLwNdEC"
     },
     {
@@ -2436,7 +2422,7 @@
         "title": "Security analysis of urban railway systems: the need for a cyber-physical perspective",
         "pub_year": "2015",
         "citation": "Computer Safety, Reliability, and Security: SAFECOMP 2015 Workshops, ASSURE …, 2015",
-        "num_citations": 70,
+        "num_citations": 73,
         "author_pub_id": "FClnlsgAAAAJ:FiDNX6EVdGUC"
     },
     {
@@ -2512,14 +2498,14 @@
         "title": "Specification and construction of performability models",
         "pub_year": "1993",
         "citation": "Proceedings of the Second International Workshop on Performability Modeling …, 1993",
-        "num_citations": 74,
+        "num_citations": 73,
         "author_pub_id": "FClnlsgAAAAJ:hqOjcs7Dif8C"
     },
     {
         "title": "Specification-based intrusion detection for advanced metering infrastructures",
         "pub_year": "2011",
         "citation": "2011 IEEE 17th Pacific rim international symposium on dependable computing …, 2011",
-        "num_citations": 263,
+        "num_citations": 267,
         "author_pub_id": "FClnlsgAAAAJ:z_wVstp3MssC"
     },
     {
@@ -2547,14 +2533,14 @@
         "title": "State-space support for path-based reward variables",
         "pub_year": "1999",
         "citation": "Performance Evaluation 35 (3-4), 233-251, 1999",
-        "num_citations": 55,
+        "num_citations": 56,
         "author_pub_id": "FClnlsgAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Stochastic Activity Networks: Structure, Behavior, and Application.",
         "pub_year": "1985",
         "citation": "Unknown Host Publication Title, 106-115, 1985",
-        "num_citations": 377,
+        "num_citations": 375,
         "author_pub_id": "FClnlsgAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -2568,13 +2554,13 @@
         "title": "Stochastic activity networks: formal definitions and concepts⋆",
         "pub_year": "2000",
         "citation": "School organized by the European Educational Forum, 315-343, 2000",
-        "num_citations": 543,
+        "num_citations": 553,
         "author_pub_id": "FClnlsgAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Stochastic methods for dependability, performability, and security evaluation",
         "pub_year": "2004",
-        "citation": "Applications and Theory of Petri Nets 2004: 25th International Conference …, 2004",
+        "citation": "Lecture notes in computer science, 97-97, 2004",
         "num_citations": 4,
         "author_pub_id": "FClnlsgAAAAJ:tkaPQYYpVKoC"
     },
@@ -2609,7 +2595,7 @@
         "title": "Systems, devices, and methods for initiating recovery",
         "pub_year": "2009",
         "citation": "US Patent 7,536,595, 2009",
-        "num_citations": 60,
+        "num_citations": 61,
         "author_pub_id": "FClnlsgAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -2670,14 +2656,14 @@
         "title": "The Mobius modeling environment: recent developments",
         "pub_year": "2004",
         "citation": "First International Conference on the Quantitative Evaluation of Systems …, 2004",
-        "num_citations": 40,
+        "num_citations": 39,
         "author_pub_id": "FClnlsgAAAAJ:r0BpntZqJG4C"
     },
     {
         "title": "The Mobius modeling tool",
         "pub_year": "2001",
         "citation": "Proceedings 9th International Workshop on Petri Nets and Performance Models …, 2001",
-        "num_citations": 303,
+        "num_citations": 308,
         "author_pub_id": "FClnlsgAAAAJ:zYLM7Y9cAGgC"
     },
     {
@@ -2695,7 +2681,7 @@
         "author_pub_id": "FClnlsgAAAAJ:AXPGKjj_ei8C"
     },
     {
-        "title": "The Right Tool for the Job: A Case for Common Input Scenarios for Security Assessment",
+        "title": "The Right Tool for the Job: A Case for Common",
         "pub_year": "2016",
         "citation": "Graphical Models for Security: Third International Workshop, GraMSec 2016 …, 2016",
         "num_citations": 0,
@@ -2705,7 +2691,7 @@
         "title": "The UltraSAN modeling environment",
         "pub_year": "1995",
         "citation": "Performance Evaluation 24 (1-2), 89-115, 1995",
-        "num_citations": 276,
+        "num_citations": 275,
         "author_pub_id": "FClnlsgAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -2719,7 +2705,7 @@
         "title": "The effect of computer-based instructional materials in a program for visual diagnostic skills training of instrumental music education students",
         "pub_year": "1980",
         "citation": "University of Illinois at Urbana-Champaign, 1980",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "FClnlsgAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -2740,7 +2726,7 @@
         "title": "The mobius modeling environment: Recent extensions-2005",
         "pub_year": "2005",
         "citation": "Second International Conference on the Quantitative Evaluation of Systems …, 2005",
-        "num_citations": 10,
+        "num_citations": 9,
         "author_pub_id": "FClnlsgAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -2773,7 +2759,7 @@
         "title": "Toward a cyber-physical topology language: Applications to NERC CIP audit",
         "pub_year": "2013",
         "citation": "Proceedings of the first ACM workshop on Smart energy grid security, 93-104, 2013",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "FClnlsgAAAAJ:wKETBy42zhYC"
     },
     {

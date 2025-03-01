@@ -3,7 +3,7 @@
         "title": "//Trace: parallel trace replay with approximate causal events",
         "pub_year": "2007",
         "citation": "Carnegie Mellon University, 2007",
-        "num_citations": 103,
+        "num_citations": 101,
         "author_pub_id": "738WppcAAAAJ:0EnyYjriUFMC"
     },
     {
@@ -119,7 +119,7 @@
         "title": "An evaluation of linear models for host load prediction",
         "pub_year": "1999",
         "citation": "Proceedings. The Eighth International Symposium on High Performance …, 1999",
-        "num_citations": 190,
+        "num_citations": 187,
         "author_pub_id": "738WppcAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -140,7 +140,7 @@
         "title": "Architectural implications of a family of irregular applications",
         "pub_year": "1998",
         "citation": "Proceedings 1998 Fourth International Symposium on High-Performance Computer …, 1998",
-        "num_citations": 24,
+        "num_citations": 23,
         "author_pub_id": "738WppcAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -172,9 +172,9 @@
         "author_pub_id": "738WppcAAAAJ:KUbvn5osdkgC"
     },
     {
-        "title": "BEMC: a searchable, compressed representation for large seismic wavefields",
+        "title": "BEMC: A Searchable, Compressed Representation for Large Seismic Wavefields",
         "pub_year": "2010",
-        "citation": "Scientific and Statistical Database Management: 22nd International …, 2010",
+        "citation": "International Conference on Scientific and Statistical Database Management …, 2010",
         "num_citations": 0,
         "author_pub_id": "738WppcAAAAJ:abG-DnoFyZgC"
     },
@@ -218,13 +218,6 @@
         "citation": "Work 412, 268-7673, 0",
         "num_citations": 0,
         "author_pub_id": "738WppcAAAAJ:sSrBHYA8nusC"
-    },
-    {
-        "title": "Building Blocks for a New Generation of Application-Specific Computing Systems Brent Baxter, George Cox, Thomas Gross, HT Kung, David O'Hallaron, Craig Peterson, Jon Webb, and …",
-        "pub_year": "1990",
-        "citation": "Proceedings of the International Conference on Application Specific Array …, 1990",
-        "num_citations": 0,
-        "author_pub_id": "738WppcAAAAJ:PVjk1bu6vJQC"
     },
     {
         "title": "Building blocks for a new generation of application specific computing systems",
@@ -348,7 +341,7 @@
         "title": "Communication and memory requirements as the basis for mapping task and data parallel programs",
         "pub_year": "1994",
         "citation": "Supercomputing'94: Proceedings of the 1994 ACM/IEEE Conference on …, 1994",
-        "num_citations": 75,
+        "num_citations": 77,
         "author_pub_id": "738WppcAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -376,7 +369,7 @@
         "title": "Computer Systems",
         "pub_year": "2016",
         "citation": "Boston: Pearson, 2016",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "738WppcAAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -394,11 +387,11 @@
         "author_pub_id": "738WppcAAAAJ:5ugPr518TE4C"
     },
     {
-        "title": "Computer systems: a programmer's perspective",
-        "pub_year": "2011",
-        "citation": "PEARSON Press, 2011",
-        "num_citations": 16,
-        "author_pub_id": "738WppcAAAAJ:7T2F9Uy0os0C"
+        "title": "Computer systems: A programmer's perspective",
+        "pub_year": "2015",
+        "citation": "Pearson, 2015",
+        "num_citations": 172,
+        "author_pub_id": "738WppcAAAAJ:Ri6SYOTghG4C"
     },
     {
         "title": "Computer systems: a programmer's perspective beta version",
@@ -410,8 +403,15 @@
         "title": "Computer systems: a programmer’s perspective",
         "pub_year": "2011",
         "citation": "Prentice Hall, 2011",
-        "num_citations": 808,
+        "num_citations": 650,
         "author_pub_id": "738WppcAAAAJ:wbdj-CoPYUoC"
+    },
+    {
+        "title": "Computer systems: a programmer’s perspective",
+        "pub_year": "2011",
+        "citation": "PEARSON Press, 2011",
+        "num_citations": 15,
+        "author_pub_id": "738WppcAAAAJ:7T2F9Uy0os0C"
     },
     {
         "title": "Computing the Cholesky Decomposition on the Warp Computer",
@@ -445,14 +445,14 @@
         "title": "Counting network flows in real time",
         "pub_year": "2003",
         "citation": "GLOBECOM'03. IEEE Global Telecommunications Conference (IEEE Cat. No …, 2003",
-        "num_citations": 44,
+        "num_citations": 42,
         "author_pub_id": "738WppcAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Decoupling communication services for compiled parallel programs",
         "pub_year": "1994",
         "citation": "Technical Report CMU-CS-94-139, Carnegie Mellon University, School of …, 1994",
-        "num_citations": 7,
+        "num_citations": 6,
         "author_pub_id": "738WppcAAAAJ:AXPGKjj_ei8C"
     },
     {
@@ -472,7 +472,7 @@
         "title": "Design tradeoffs in applying content addressable storage to enterprise-scale systems based on virtual machines",
         "pub_year": "2006",
         "citation": "management 7 (5), 20, 2006",
-        "num_citations": 99,
+        "num_citations": 96,
         "author_pub_id": "738WppcAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -512,7 +512,7 @@
         "title": "Distributed parallel inference on large factor graphs",
         "pub_year": "2012",
         "citation": "arXiv preprint arXiv:1205.2645, 2012",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "738WppcAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -539,7 +539,7 @@
         "title": "Earthquake ground motion modeling on parallel computers",
         "pub_year": "1996",
         "citation": "Proceedings of the 1996 ACM/IEEE conference on Supercomputing, 13-es, 1996",
-        "num_citations": 124,
+        "num_citations": 126,
         "author_pub_id": "738WppcAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -560,7 +560,7 @@
         "title": "Efficient parallel implementation of target tracking kalman filter",
         "pub_year": "1988",
         "citation": "Proceedings of the 27th IEEE Conference on Decision and Control, 376-381, 1988",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "738WppcAAAAJ:maZDTaKrznsC"
     },
     {
@@ -581,7 +581,7 @@
         "title": "Etree: A database-oriented method for generating large octree meshes",
         "pub_year": "2004",
         "citation": "Engineering with Computers 20, 117-128, 2004",
-        "num_citations": 63,
+        "num_citations": 62,
         "author_pub_id": "738WppcAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -607,7 +607,7 @@
         "title": "Exploiting task and data parallelism on a multicomputer",
         "pub_year": "1993",
         "citation": "Proceedings of the fourth ACM SIGPLAN symposium on Principles and practice …, 1993",
-        "num_citations": 260,
+        "num_citations": 257,
         "author_pub_id": "738WppcAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -656,7 +656,7 @@
         "title": "Generating communication for array statements: Design, implementation, and evaluation",
         "pub_year": "1994",
         "citation": "Journal of Parallel and distributed Computing 21 (1), 150-159, 1994",
-        "num_citations": 153,
+        "num_citations": 150,
         "author_pub_id": "738WppcAAAAJ:JQOojiI6XY0C"
     },
     {
@@ -670,20 +670,14 @@
         "title": "High resolution forward and inverse earthquake modeling on terascale computers",
         "pub_year": "2003",
         "citation": "Proceedings of the 2003 ACM/IEEE Conference on Supercomputing, 52, 2003",
-        "num_citations": 254,
+        "num_citations": 253,
         "author_pub_id": "738WppcAAAAJ:qjMakFHDy7sC"
-    },
-    {
-        "title": "Host Load Prediction Using Linear Models* Peter A. Dinda School of Computer Science Carnegie Mellon University 5000 Forbes Avenue",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "738WppcAAAAJ:1sJd4Hv_s6UC"
     },
     {
         "title": "Host load prediction using linear models",
         "pub_year": "2000",
         "citation": "Cluster Computing 3, 265-280, 2000",
-        "num_citations": 365,
+        "num_citations": 362,
         "author_pub_id": "738WppcAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -697,7 +691,7 @@
         "title": "Improved algorithms for mapping pipelined and parallel computations",
         "pub_year": "1991",
         "citation": "IEEE transactions on computers 40 (03), 295-306, 1991",
-        "num_citations": 75,
+        "num_citations": 74,
         "author_pub_id": "738WppcAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -711,14 +705,14 @@
         "title": "Interactive resource-intensive applications made easy",
         "pub_year": "2007",
         "citation": "Middleware 2007: ACM/IFIP/USENIX 8th International Middleware Conference …, 2007",
-        "num_citations": 102,
+        "num_citations": 101,
         "author_pub_id": "738WppcAAAAJ:MXK_kJrjxJIC"
     },
     {
         "title": "Introducing computer systems from a programmer's perspective",
         "pub_year": "2001",
         "citation": "Proceedings of the thirty-second SIGCSE technical symposium on Computer …, 2001",
-        "num_citations": 31,
+        "num_citations": 27,
         "author_pub_id": "738WppcAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -765,14 +759,14 @@
         "title": "Large-scale simulation of elastic wave propagation in heterogeneous media on parallel computers",
         "pub_year": "1998",
         "citation": "Computer methods in applied mechanics and engineering 152 (1-2), 85-102, 1998",
-        "num_citations": 464,
+        "num_citations": 462,
         "author_pub_id": "738WppcAAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Locality in search engine queries and its implications for caching",
         "pub_year": "2002",
         "citation": "Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …, 2002",
-        "num_citations": 237,
+        "num_citations": 238,
         "author_pub_id": "738WppcAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -785,7 +779,7 @@
         "title": "Mapping extended Kalman filters onto linear arrays",
         "pub_year": "1990",
         "citation": "IEEE Transactions on Automatic Control 35 (12), 1310-1319, 1990",
-        "num_citations": 33,
+        "num_citations": 31,
         "author_pub_id": "738WppcAAAAJ:Wp0gIr-vW9MC"
     },
     {
@@ -810,51 +804,44 @@
         "author_pub_id": "738WppcAAAAJ:b1wdh0AR-JQC"
     },
     {
-        "title": "Multilist scheduling: a new parallel programming model",
+        "title": "Multilist Scheduling: A New Parallel Programming Model",
         "pub_year": "1993",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1993",
-        "num_citations": 17,
+        "num_citations": 16,
         "author_pub_id": "738WppcAAAAJ:_Qo2XoVZTnwC"
     },
     {
         "title": "Nifty assignments",
         "pub_year": "2012",
         "citation": "Proceedings of the 43rd ACM technical symposium on Computer Science …, 2012",
-        "num_citations": 12,
+        "num_citations": 11,
         "author_pub_id": "738WppcAAAAJ:tkaPQYYpVKoC"
     },
     {
         "title": "Open CirrusTM Cloud Computing Testbed",
         "citation": "IEEE Computer 43 (4), 0",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "738WppcAAAAJ:L7CI7m0gUJcC"
     },
     {
         "title": "Open Cirrus™ Cloud Computing Testbed: Federated Data Centers for Open Source Systems and Services Research.",
         "pub_year": "2009",
         "citation": "HotCloud 9, 1-1, 2009",
-        "num_citations": 134,
+        "num_citations": 131,
         "author_pub_id": "738WppcAAAAJ:W7OEmFMy1HYC"
     },
     {
         "title": "Open cirrus: A global cloud computing testbed",
         "pub_year": "2010",
         "citation": "Computer 43 (4), 35-43, 2010",
-        "num_citations": 226,
+        "num_citations": 223,
         "author_pub_id": "738WppcAAAAJ:zYLM7Y9cAGgC"
-    },
-    {
-        "title": "Optimizing Symbolic Model Checking for",
-        "pub_year": "1999",
-        "citation": "Computer Aided Verification: 11th International Conference, CAV'99, Trento …, 1999",
-        "num_citations": 0,
-        "author_pub_id": "738WppcAAAAJ:tYavs44e6CUC"
     },
     {
         "title": "Optimizing symbolic model checking for constraint-rich models",
         "pub_year": "1999",
         "citation": "Computer Aided Verification: 11th International Conference, CAV’99 Trento …, 1999",
-        "num_citations": 30,
+        "num_citations": 28,
         "author_pub_id": "738WppcAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -873,7 +860,7 @@
     {
         "title": "Parallel implementation of a Kalman filter on the Warp computer",
         "pub_year": "1988",
-        "citation": "Proc. ICPP 88, 108-111, 1988",
+        "citation": "Ρroc. of the 1988 Int. Conf. on Parallel Processing, 108-111, 1988",
         "num_citations": 8,
         "author_pub_id": "738WppcAAAAJ:M3NEmzRMIkIC"
     },
@@ -894,7 +881,7 @@
         "title": "Pervasive personal computing in an internet suspend/resume system",
         "pub_year": "2007",
         "citation": "IEEE Internet Computing 11 (2), 16-25, 2007",
-        "num_citations": 201,
+        "num_citations": 200,
         "author_pub_id": "738WppcAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -908,7 +895,7 @@
         "title": "Principles of computer system design for stereo perception",
         "pub_year": "2002",
         "citation": "Robotics Institute, Carnegie Mellon University, CMU-RI-TR-02 1, 22, 2002",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "738WppcAAAAJ:NMxIlDl6LWMC"
     },
     {
@@ -950,7 +937,7 @@
         "title": "Remote runtime steering of integrated terascale simulation and visualization",
         "pub_year": "2006",
         "citation": "Carnegie Mellon University, 2006",
-        "num_citations": 53,
+        "num_citations": 51,
         "author_pub_id": "738WppcAAAAJ:dhFuZR0502QC"
     },
     {
@@ -976,7 +963,7 @@
         "title": "Scalable parallel octree meshing for terascale applications",
         "pub_year": "2005",
         "citation": "SC'05: Proceedings of the 2005 ACM/IEEE conference on Supercomputing, 4-4, 2005",
-        "num_citations": 163,
+        "num_citations": 164,
         "author_pub_id": "738WppcAAAAJ:_FxGoFyzp5QC"
     },
     {
@@ -996,8 +983,8 @@
     {
         "title": "Seurat: A pointillist approach to anomaly detection",
         "pub_year": "2004",
-        "citation": "Recent Advances in Intrusion Detection: 7th International Symposium, RAID …, 2004",
-        "num_citations": 63,
+        "citation": "International Workshop on Recent Advances in Intrusion Detection, 238-257, 2004",
+        "num_citations": 66,
         "author_pub_id": "738WppcAAAAJ:3fE2CSJIrl8C"
     },
     {
@@ -1017,7 +1004,7 @@
         "title": "Simulations of long-period ground motions during the 1995 Hyogoken-Nanbu (Kobe) earthquake using 3D finite element method",
         "pub_year": "1998",
         "citation": "2nd International Symposium on Effect of Surface Geology on Seismic Motion …, 1998",
-        "num_citations": 37,
+        "num_citations": 39,
         "author_pub_id": "738WppcAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -1038,7 +1025,7 @@
         "title": "Spark98: Sparse matrix kernels for shared memory and message passing systems",
         "pub_year": "1997",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1997",
-        "num_citations": 55,
+        "num_citations": 54,
         "author_pub_id": "738WppcAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -1077,8 +1064,8 @@
     {
         "title": "Tashi: location-aware cluster management",
         "pub_year": "2009",
-        "citation": "Proceedings of the 1st workshop on Automated control for datacenters and …, 2009",
-        "num_citations": 77,
+        "citation": "Proceedings of the 1st Workshop on Automated Control for Datacenters and …, 2009",
+        "num_citations": 76,
         "author_pub_id": "738WppcAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1092,7 +1079,7 @@
         "title": "Task parallelism in a High Performance Fortran framework",
         "pub_year": "1994",
         "citation": "IEEE Parallel and Distributed Technology 2 (3), 16-26, 1994",
-        "num_citations": 156,
+        "num_citations": 157,
         "author_pub_id": "738WppcAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -1105,14 +1092,14 @@
         "title": "The ASSIGN parallel program generator",
         "pub_year": "1991",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1991",
-        "num_citations": 49,
+        "num_citations": 48,
         "author_pub_id": "738WppcAAAAJ:kNdYIx-mwKoC"
     },
     {
         "title": "The CMU task parallel program suite",
         "pub_year": "1994",
         "citation": "Carnegie-Mellon University. Department of Computer Science, 1994",
-        "num_citations": 108,
+        "num_citations": 110,
         "author_pub_id": "738WppcAAAAJ:eQOLeE2rZwMC"
     },
     {
@@ -1140,7 +1127,7 @@
         "title": "The case for prediction-based best-effort real-time systems",
         "pub_year": "1999",
         "citation": "Parallel and Distributed Processing: 11th IPPS/SPDP’99 Workshops Held in …, 1999",
-        "num_citations": 36,
+        "num_citations": 35,
         "author_pub_id": "738WppcAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -1168,14 +1155,14 @@
         "title": "Topology discovery for large ethernet networks",
         "pub_year": "2001",
         "citation": "ACM SIGCOMM Computer Communication Review 31 (4), 237-248, 2001",
-        "num_citations": 358,
+        "num_citations": 356,
         "author_pub_id": "738WppcAAAAJ:d1gkVwhDpl0C"
     },
     {
         "title": "Towards seamless mobility on pervasive hardware",
         "pub_year": "2005",
         "citation": "Pervasive and Mobile Computing 1 (2), 157-189, 2005",
-        "num_citations": 171,
+        "num_citations": 169,
         "author_pub_id": "738WppcAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -1189,7 +1176,7 @@
         "title": "Uniform approach for solving some classical problems on a linear array",
         "pub_year": "1991",
         "citation": "IEEE transactions on parallel and distributed systems 2 (2), 236-241, 1991",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "738WppcAAAAJ:hC7cP41nSMkC"
     },
     {

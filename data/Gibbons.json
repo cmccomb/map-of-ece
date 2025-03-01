@@ -1,12 +1,5 @@
 [
     {
-        "title": "& Zhao, S.(2021). Advances and open problems in federated learning",
-        "pub_year": "1912",
-        "citation": "Foundations and Trends® in Machine Learning 14 (1-2), 1-210, 1912",
-        "num_citations": 35,
-        "author_pub_id": "F9kqUXkAAAAJ:69ZgNCALVd0C"
-    },
-    {
         "title": "15-826: Multimedia Databases and Data Mining",
         "citation": "",
         "num_citations": 0,
@@ -61,21 +54,21 @@
         "title": "A more practical PRAM model",
         "pub_year": "1989",
         "citation": "Proceedings of the first annual ACM symposium on Parallel algorithms and …, 1989",
-        "num_citations": 345,
+        "num_citations": 335,
         "author_pub_id": "F9kqUXkAAAAJ:Tyk-4Ss8FVUC"
     },
     {
         "title": "A simple mechanism for efficient barrier synchronization in MIMD machines",
         "pub_year": "1990",
         "citation": "Proc. Int'l Conf. on Parallel Processing, 1990",
-        "num_citations": 35,
+        "num_citations": 38,
         "author_pub_id": "F9kqUXkAAAAJ:RYcK_YlVTxYC"
     },
     {
         "title": "A stub generator for multilanguage RPC in heterogeneous environments",
         "pub_year": "1987",
         "citation": "IEEE Transactions on Software Engineering, 77-87, 1987",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "F9kqUXkAAAAJ:ULOm3_A8WrAC"
     },
     {
@@ -103,7 +96,7 @@
         "title": "ACM Transactions on",
         "pub_year": "2023",
         "citation": "ACM Transactions on 1 (1), 2023",
-        "num_citations": 0,
+        "num_citations": 4,
         "author_pub_id": "F9kqUXkAAAAJ:KNjnJ3z-R6IC"
     },
     {
@@ -114,17 +107,17 @@
         "author_pub_id": "F9kqUXkAAAAJ:g3aElNc5_aQC"
     },
     {
-        "title": "ACROBAT: Optimizing Auto-batching of Dynamic Deep Learning at Compile Time",
+        "title": "ACRoBat: Optimizing auto-batching of dynamic deep learning at compile time",
         "pub_year": "2024",
         "citation": "Proceedings of Machine Learning and Systems 6, 14-30, 2024",
-        "num_citations": 2,
+        "num_citations": 1,
         "author_pub_id": "F9kqUXkAAAAJ:oi2SiIJ9l4AC"
     },
     {
         "title": "ANF: A fast and scalable tool for data mining in massive graphs",
         "pub_year": "2002",
         "citation": "Proceedings of the eighth ACM SIGKDD international conference on Knowledge …, 2002",
-        "num_citations": 343,
+        "num_citations": 344,
         "author_pub_id": "F9kqUXkAAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -159,36 +152,36 @@
         "title": "Addressing the straggler problem for iterative convergent parallel ML",
         "pub_year": "2016",
         "citation": "Proceedings of the seventh ACM symposium on cloud computing, 98-111, 2016",
-        "num_citations": 165,
+        "num_citations": 164,
         "author_pub_id": "F9kqUXkAAAAJ:kh2fBNsKQNwC"
     },
     {
         "title": "Advances and open problems in federated learning",
         "pub_year": "2021",
         "citation": "Foundations and trends® in machine learning 14 (1–2), 1-210, 2021",
-        "num_citations": 6876,
+        "num_citations": 7117,
         "author_pub_id": "F9kqUXkAAAAJ:0CzhzZyukY4C"
     },
     {
         "title": "Advances and open problems in federated learning. arXiv 2019",
         "pub_year": "1912",
         "citation": "arXiv preprint arXiv:1912.04977, 1912",
-        "num_citations": 68,
+        "num_citations": 67,
         "author_pub_id": "F9kqUXkAAAAJ:3bvyWxjaHKcC"
     },
     {
         "title": "Agents of Autonomy: A Systematic Study of Robotics on Modern Hardware",
+        "pub_year": "2024",
+        "citation": "Abstracts of the 2024 ACM SIGMETRICS/IFIP PERFORMANCE Joint International …, 2024",
+        "num_citations": 1,
+        "author_pub_id": "F9kqUXkAAAAJ:SGW5VrABaM0C"
+    },
+    {
+        "title": "Agents of autonomy: A systematic study of robotics on modern hardware",
         "pub_year": "2023",
         "citation": "Proceedings of the ACM on Measurement and Analysis of Computing Systems 7 (3 …, 2023",
         "num_citations": 4,
         "author_pub_id": "F9kqUXkAAAAJ:kF1pexMAQbMC"
-    },
-    {
-        "title": "Agents of Autonomy: A Systematic Study of Robotics on Modern Hardware",
-        "pub_year": "2024",
-        "citation": "ACM SIGMETRICS Performance Evaluation Review 52 (1), 25-26, 2024",
-        "num_citations": 1,
-        "author_pub_id": "F9kqUXkAAAAJ:SGW5VrABaM0C"
     },
     {
         "title": "Ambit",
@@ -201,14 +194,14 @@
         "title": "Ambit: In-memory accelerator for bulk bitwise operations using commodity DRAM technology",
         "pub_year": "2017",
         "citation": "Proceedings of the 50th Annual IEEE/ACM International Symposium on …, 2017",
-        "num_citations": 666,
+        "num_citations": 677,
         "author_pub_id": "F9kqUXkAAAAJ:9c2xU6iGI7YC"
     },
     {
         "title": "Approximate Query Processing: Taming the TeraBytes.",
         "pub_year": "2001",
         "citation": "VLDB 10, 645927-672356, 2001",
-        "num_citations": 259,
+        "num_citations": 256,
         "author_pub_id": "F9kqUXkAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -250,14 +243,14 @@
         "title": "Automating dependence-aware parallelization of machine learning training on distributed shared memory",
         "pub_year": "2019",
         "citation": "Proceedings of the Fourteenth EuroSys Conference 2019, 1-17, 2019",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "F9kqUXkAAAAJ:vDZJ-YLwNdEC"
     },
     {
         "title": "Availability of multi-object operations",
         "pub_year": "2006",
-        "citation": "Proc. of the Third USENIX Symp. on Networked Systems Design and …, 2006",
-        "num_citations": 46,
+        "citation": "NSDI-2006: Proceedings of the Symposium on Networked Systems Design and …, 2006",
+        "num_citations": 45,
         "author_pub_id": "F9kqUXkAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -278,14 +271,14 @@
         "title": "Base-delta-immediate compression: Practical data compression for on-chip caches",
         "pub_year": "2012",
         "citation": "Proceedings of the 21st international conference on Parallel architectures …, 2012",
-        "num_citations": 504,
+        "num_citations": 517,
         "author_pub_id": "F9kqUXkAAAAJ:YFjsv_pBGBYC"
     },
     {
         "title": "Beyond Availability: Towards a Deeper Understanding of Machine Failure Characteristics in Large Distributed Systems.",
         "pub_year": "2004",
         "citation": "WORLDS, 2004",
-        "num_citations": 93,
+        "num_citations": 94,
         "author_pub_id": "F9kqUXkAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -299,7 +292,7 @@
         "title": "Bifocal sampling for skew-resistant join size estimation",
         "pub_year": "1996",
         "citation": "Proceedings of the 1996 ACM SIGMOD international conference on management of …, 1996",
-        "num_citations": 136,
+        "num_citations": 137,
         "author_pub_id": "F9kqUXkAAAAJ:7PzlFSSx8tAC"
     },
     {
@@ -338,13 +331,6 @@
         "author_pub_id": "F9kqUXkAAAAJ:CdxZDUztZiMC"
     },
     {
-        "title": "Brief announcement",
-        "pub_year": "2012",
-        "citation": "Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …, 2012",
-        "num_citations": 1,
-        "author_pub_id": "F9kqUXkAAAAJ:WAzi4Gm8nLoC"
-    },
-    {
         "title": "Brief announcement: Low depth cache-oblivious sorting",
         "pub_year": "2009",
         "citation": "Proceedings of the twenty-first annual symposium on Parallelism in …, 2009",
@@ -352,17 +338,17 @@
         "author_pub_id": "F9kqUXkAAAAJ:eflP2zaiRacC"
     },
     {
-        "title": "Brief announcement: the problem based benchmark suite",
+        "title": "Brief announcement: The problem based benchmark suite",
         "pub_year": "2012",
         "citation": "Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …, 2012",
-        "num_citations": 252,
+        "num_citations": 256,
         "author_pub_id": "F9kqUXkAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Buddy-RAM: Improving the performance and efficiency of bulk bitwise operations using DRAM",
         "pub_year": "2016",
         "citation": "arXiv preprint arXiv:1611.09988, 2016",
-        "num_citations": 89,
+        "num_citations": 88,
         "author_pub_id": "F9kqUXkAAAAJ:8d8msizDQcsC"
     },
     {
@@ -376,7 +362,7 @@
         "title": "Butterfly analysis: Adapting dataflow analysis to dynamic parallel monitoring",
         "pub_year": "2010",
         "citation": "ACM SIGARCH Computer Architecture News 38 (1), 257-270, 2010",
-        "num_citations": 37,
+        "num_citations": 34,
         "author_pub_id": "F9kqUXkAAAAJ:D03iK_w7-QYC"
     },
     {
@@ -397,7 +383,7 @@
         "title": "Cache-and-query for wide area sensor databases",
         "pub_year": "2003",
         "citation": "Proceedings of the 2003 ACM SIGMOD International Conference on Management of …, 2003",
-        "num_citations": 208,
+        "num_citations": 209,
         "author_pub_id": "F9kqUXkAAAAJ:hqOjcs7Dif8C"
     },
     {
@@ -411,7 +397,7 @@
         "title": "Can shared-memory model serve as a bridging model for parallel computation?",
         "pub_year": "1997",
         "citation": "Proceedings of the ninth annual ACM symposium on Parallel algorithms and …, 1997",
-        "num_citations": 132,
+        "num_citations": 134,
         "author_pub_id": "F9kqUXkAAAAJ:4DMP91E08xMC"
     },
     {
@@ -445,28 +431,21 @@
         "title": "Combinable memory-block transactions",
         "pub_year": "2008",
         "citation": "Proceedings of the twentieth annual symposium on Parallelism in algorithms …, 2008",
-        "num_citations": 15,
+        "num_citations": 13,
         "author_pub_id": "F9kqUXkAAAAJ:XiSMed-E-HIC"
-    },
-    {
-        "title": "Communicating via fireflies",
-        "pub_year": "2007",
-        "citation": "Proceedings of the 6th international conference on Information processing in …, 2007",
-        "num_citations": 0,
-        "author_pub_id": "F9kqUXkAAAAJ:kzcSZmkxUKAC"
     },
     {
         "title": "Communicating via fireflies: Geographic routing on duty-cycled sensors",
         "pub_year": "2007",
         "citation": "Proceedings of the 6th international conference on Information processing in …, 2007",
-        "num_citations": 140,
+        "num_citations": 142,
         "author_pub_id": "F9kqUXkAAAAJ:IWHjjKOFINEC"
     },
     {
         "title": "Communication-efficient distributed multiple reference pattern matching for m2m systems",
         "pub_year": "2013",
         "citation": "2013 IEEE 13th International Conference on Data Mining, 787-796, 2013",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "F9kqUXkAAAAJ:_B80troHkn4C"
     },
     {
@@ -480,14 +459,14 @@
         "title": "Congressional samples for approximate answering of group-by queries",
         "pub_year": "2000",
         "citation": "Proceedings of the 2000 ACM SIGMOD international conference on Management of …, 2000",
-        "num_citations": 360,
+        "num_citations": 355,
         "author_pub_id": "F9kqUXkAAAAJ:ufrVoPGSRksC"
     },
     {
         "title": "Consistent, yet anonymous, Web access with LPWA",
         "pub_year": "1999",
         "citation": "Communications of the ACM 42 (2), 42-47, 1999",
-        "num_citations": 182,
+        "num_citations": 181,
         "author_pub_id": "F9kqUXkAAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -527,7 +506,7 @@
         "title": "Data management in the worldwide sensor web",
         "pub_year": "2007",
         "citation": "IEEE Pervasive Computing 6 (2), 30-40, 2007",
-        "num_citations": 277,
+        "num_citations": 278,
         "author_pub_id": "F9kqUXkAAAAJ:Se3iqnhoufwC"
     },
     {
@@ -567,8 +546,8 @@
     },
     {
         "title": "Decoupling the programming model from resource management in throughput processors",
-        "pub_year": "2019",
-        "citation": "Many-Core Computing, 69-115, 2019",
+        "pub_year": "2018",
+        "citation": "",
         "num_citations": 1,
         "author_pub_id": "F9kqUXkAAAAJ:PVgj2kMGcgYC"
     },
@@ -583,7 +562,7 @@
         "title": "Design and implementation of the Lucent Personalized Web Assistant (LPWA)",
         "pub_year": "1998",
         "citation": "Manuscript submitted for publication, 1998",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "F9kqUXkAAAAJ:LPZeul_q3PIC"
     },
     {
@@ -597,7 +576,7 @@
         "title": "Distinct sampling for highly-accurate answers to distinct values queries and event reports",
         "pub_year": "2001",
         "citation": "VLDB 1, 541-550, 2001",
-        "num_citations": 315,
+        "num_citations": 317,
         "author_pub_id": "F9kqUXkAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -611,7 +590,7 @@
         "title": "Distinct-values estimation over data streams",
         "pub_year": "2016",
         "citation": "Data Stream Management: Processing High-Speed Data Streams, 121-147, 2016",
-        "num_citations": 43,
+        "num_citations": 44,
         "author_pub_id": "F9kqUXkAAAAJ:SP6oXDckpogC"
     },
     {
@@ -625,21 +604,21 @@
         "title": "Distributed streams algorithms for sliding windows",
         "pub_year": "2002",
         "citation": "Proceedings of the fourteenth annual ACM symposium on Parallel algorithms …, 2002",
-        "num_citations": 236,
+        "num_citations": 235,
         "author_pub_id": "F9kqUXkAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Driftsurf: A risk-competitive learning algorithm under concept drift",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2003.06508, 2020",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "F9kqUXkAAAAJ:48xauSegjOkC"
     },
     {
         "title": "Driftsurf: Stable-state/reactive-state learning under concept drift",
         "pub_year": "2021",
         "citation": "International Conference on Machine Learning, 10054-10064, 2021",
-        "num_citations": 37,
+        "num_citations": 35,
         "author_pub_id": "F9kqUXkAAAAJ:owLR8QvbtFgC"
     },
     {
@@ -694,7 +673,7 @@
         "title": "Efficient algorithms with asymmetric read and write costs",
         "pub_year": "2015",
         "citation": "arXiv preprint arXiv:1511.01038, 2015",
-        "num_citations": 46,
+        "num_citations": 45,
         "author_pub_id": "F9kqUXkAAAAJ:L7CI7m0gUJcC"
     },
     {
@@ -715,7 +694,7 @@
         "title": "Efficient low-contention parallel algorithms",
         "pub_year": "1994",
         "citation": "Proceedings of the sixth annual ACM symposium on Parallel algorithms and …, 1994",
-        "num_citations": 65,
+        "num_citations": 63,
         "author_pub_id": "F9kqUXkAAAAJ:bEWYMUwI8FkC"
     },
     {
@@ -729,7 +708,7 @@
         "title": "Estimating simple functions on the union of data streams",
         "pub_year": "2001",
         "citation": "Proceedings of the thirteenth annual ACM symposium on Parallel algorithms …, 2001",
-        "num_citations": 290,
+        "num_citations": 291,
         "author_pub_id": "F9kqUXkAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -743,14 +722,14 @@
         "title": "Exploiting bounded staleness to speed up big data analytics",
         "pub_year": "2014",
         "citation": "2014 USENIX Annual Technical Conference (USENIX ATC 14), 37-48, 2014",
-        "num_citations": 212,
+        "num_citations": 210,
         "author_pub_id": "F9kqUXkAAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Exploiting compressed block size as an indicator of future reuse",
         "pub_year": "2015",
         "citation": "2015 IEEE 21st international symposium on high performance computer …, 2015",
-        "num_citations": 89,
+        "num_citations": 90,
         "author_pub_id": "F9kqUXkAAAAJ:738O_yMBCRsC"
     },
     {
@@ -778,35 +757,28 @@
         "title": "Fast bulk bitwise AND and OR in DRAM",
         "pub_year": "2015",
         "citation": "IEEE Computer Architecture Letters 14 (2), 127-131, 2015",
-        "num_citations": 251,
+        "num_citations": 257,
         "author_pub_id": "F9kqUXkAAAAJ:JQOojiI6XY0C"
     },
     {
         "title": "Fast estimation of fractal dimension and correlation integral on stream data",
         "pub_year": "2005",
         "citation": "Information Processing Letters 93 (2), 91-97, 2005",
-        "num_citations": 47,
+        "num_citations": 44,
         "author_pub_id": "F9kqUXkAAAAJ:ldfaerwXgEUC"
-    },
-    {
-        "title": "Fast incremental maintenance of approximate histograms",
-        "pub_year": "1997",
-        "citation": "VLDB 97, 466-475, 1997",
-        "num_citations": 319,
-        "author_pub_id": "F9kqUXkAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Fast incremental maintenance of approximate histograms",
         "pub_year": "2002",
         "citation": "ACM Transactions on Database Systems (TODS) 27 (3), 261-298, 2002",
-        "num_citations": 167,
-        "author_pub_id": "F9kqUXkAAAAJ:qxL8FJ1GzNcC"
+        "num_citations": 474,
+        "author_pub_id": "F9kqUXkAAAAJ:zYLM7Y9cAGgC"
     },
     {
         "title": "Federated learning under distributed concept drift",
         "pub_year": "2023",
         "citation": "International Conference on Artificial Intelligence and Statistics, 5834-5853, 2023",
-        "num_citations": 69,
+        "num_citations": 74,
         "author_pub_id": "F9kqUXkAAAAJ:Br1UauaknNIC"
     },
     {
@@ -820,7 +792,7 @@
         "title": "Flash in a DBMS: Where and How?",
         "pub_year": "2010",
         "citation": "IEEE Data Engineering Bulletin 33 (4), 28-34, 2010",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "F9kqUXkAAAAJ:rO6llkc54NcC"
     },
     {
@@ -834,14 +806,14 @@
         "title": "Flexible hardware acceleration for instruction-grain program monitoring",
         "pub_year": "2008",
         "citation": "ACM SIGARCH Computer Architecture News 36 (3), 377-388, 2008",
-        "num_citations": 210,
+        "num_citations": 203,
         "author_pub_id": "F9kqUXkAAAAJ:M3ejUd6NZC8C"
     },
     {
         "title": "Focus: Querying large video datasets with low latency and low cost",
         "pub_year": "2018",
         "citation": "13th USENIX Symposium on Operating Systems Design and Implementation (OSDI …, 2018",
-        "num_citations": 346,
+        "num_citations": 342,
         "author_pub_id": "F9kqUXkAAAAJ:mNrWkgRL2YcC"
     },
     {
@@ -867,22 +839,22 @@
     {
         "title": "Gaia:{Geo-Distributed} machine learning approaching {LAN} speeds",
         "pub_year": "2017",
-        "citation": "14th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2017",
-        "num_citations": 554,
+        "citation": "14th USENIX symposium on networked systems design and implementation (NSDI …, 2017",
+        "num_citations": 553,
         "author_pub_id": "F9kqUXkAAAAJ:0izLItjtcgwC"
     },
     {
         "title": "Gather-scatter DRAM: In-DRAM address translation to improve the spatial locality of non-unit strided accesses",
         "pub_year": "2015",
         "citation": "Proceedings of the 48th International Symposium on Microarchitecture, 267-280, 2015",
-        "num_citations": 169,
+        "num_citations": 168,
         "author_pub_id": "F9kqUXkAAAAJ:5awf1xo2G04C"
     },
     {
         "title": "Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server",
         "pub_year": "2016",
         "citation": "Proceedings of the eleventh european conference on computer systems, 1-16, 2016",
-        "num_citations": 414,
+        "num_citations": 409,
         "author_pub_id": "F9kqUXkAAAAJ:q3CdL3IzO_QC"
     },
     {
@@ -896,7 +868,7 @@
         "title": "Generating skeletons and centerlines from the distance transform",
         "pub_year": "1992",
         "citation": "CVGIP: Graphical Models and image processing 54 (5), 420-437, 1992",
-        "num_citations": 232,
+        "num_citations": 229,
         "author_pub_id": "F9kqUXkAAAAJ:8k81kl-MbHgC"
     },
     {
@@ -930,7 +902,7 @@
     {
         "title": "H4H: Hybrid Convolution-Transformer Architecture Search for NPU-CIM Heterogeneous Systems for AR/VR Applications",
         "pub_year": "2025",
-        "citation": "",
+        "citation": "Proceedings of the ASPDAC Asia and South Pacific Design Automation Conference, 2025",
         "num_citations": 0,
         "author_pub_id": "F9kqUXkAAAAJ:mWEH9CqjF64C"
     },
@@ -1018,7 +990,7 @@
         "title": "Improving index performance through prefetching",
         "pub_year": "2001",
         "citation": "ACM SIGMOD Record 30 (2), 235-246, 2001",
-        "num_citations": 245,
+        "num_citations": 239,
         "author_pub_id": "F9kqUXkAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -1060,14 +1032,14 @@
         "title": "IrisNet: An architecture for enabling sensor-enriched Internet service",
         "pub_year": "2003",
         "citation": "Technical Report IRP-TR-03-04, Intel Research Pittsburgh, 2003",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "F9kqUXkAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "Irisnet: An architecture for a worldwide sensor web",
         "pub_year": "2003",
         "citation": "IEEE pervasive computing 2 (4), 22-33, 2003",
-        "num_citations": 663,
+        "num_citations": 667,
         "author_pub_id": "F9kqUXkAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -1081,21 +1053,21 @@
         "title": "Irisnet: An architecture for internet-scale sensing services",
         "pub_year": "2003",
         "citation": "Proceedings 2003 VLDB Conference, 1137-1140, 2003",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "F9kqUXkAAAAJ:bFI3QPDXJZMC"
     },
     {
         "title": "Irisnet: an internet-scale architecture for multimedia sensors",
         "pub_year": "2005",
         "citation": "Proceedings of the 13th annual ACM international conference on Multimedia, 81-88, 2005",
-        "num_citations": 169,
+        "num_citations": 171,
         "author_pub_id": "F9kqUXkAAAAJ:9ZlFYXVOiuMC"
     },
     {
         "title": "Join synopses for approximate query answering",
         "pub_year": "1999",
         "citation": "Proceedings of the 1999 ACM SIGMOD international conference on Management of …, 1999",
-        "num_citations": 512,
+        "num_citations": 510,
         "author_pub_id": "F9kqUXkAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -1109,7 +1081,7 @@
         "title": "Just-in-time indexing for interactive data exploration",
         "pub_year": "2007",
         "citation": "School of Computer Science, Carnegie Mellon University, Tech. Rep. CMU-CS-07-120, 2007",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "F9kqUXkAAAAJ:eMMeJKvmdy0C"
     },
     {
@@ -1123,7 +1095,7 @@
         "title": "Linearly compressed pages: A low-complexity, low-latency main memory compression framework",
         "pub_year": "2013",
         "citation": "Proceedings of the 46th Annual IEEE/ACM International Symposium on …, 2013",
-        "num_citations": 198,
+        "num_citations": 201,
         "author_pub_id": "F9kqUXkAAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -1137,14 +1109,14 @@
         "title": "Loci: Fast outlier detection using the local correlation integral",
         "pub_year": "2003",
         "citation": "Proceedings 19th international conference on data engineering (Cat. No …, 2003",
-        "num_citations": 1348,
+        "num_citations": 1335,
         "author_pub_id": "F9kqUXkAAAAJ:-FonjvnnhkoC"
     },
     {
         "title": "Log-based architectures for general-purpose monitoring of deployed code",
         "pub_year": "2006",
         "citation": "Proceedings of the 1st workshop on Architectural and system support for …, 2006",
-        "num_citations": 95,
+        "num_citations": 91,
         "author_pub_id": "F9kqUXkAAAAJ:TFP_iSt0sucC"
     },
     {
@@ -1172,7 +1144,7 @@
         "title": "MaSM: efficient online updates in data warehouses",
         "pub_year": "2011",
         "citation": "Proceedings of the 2011 ACM SIGMOD International Conference on Management of …, 2011",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "F9kqUXkAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -1186,14 +1158,14 @@
         "title": "Managed communication and consistency for fast data-parallel iterative analytics",
         "pub_year": "2015",
         "citation": "Proceedings of the Sixth ACM Symposium on Cloud Computing, 381-394, 2015",
-        "num_citations": 151,
+        "num_citations": 150,
         "author_pub_id": "F9kqUXkAAAAJ:UHK10RUVsp4C"
     },
     {
         "title": "Mariana Raykova, Dawn Song, Weikang Song, Sebastian U",
         "pub_year": "2021",
         "citation": "Stich, Ziteng Sun, Ananda Theertha Suresh, Florian Tramèr, Praneeth …, 2021",
-        "num_citations": 228,
+        "num_citations": 207,
         "author_pub_id": "F9kqUXkAAAAJ:pAkWuXOU-OoC"
     },
     {
@@ -1290,8 +1262,8 @@
         "title": "Mlsys: The new frontier of machine learning systems",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1904.03257, 2019",
-        "num_citations": 22,
-        "author_pub_id": "F9kqUXkAAAAJ:CaZNVDsoPx4C"
+        "num_citations": 50,
+        "author_pub_id": "F9kqUXkAAAAJ:BJbdYPG6LGMC"
     },
     {
         "title": "Mltuner: System support for automatic machine learning tuning",
@@ -1308,17 +1280,24 @@
         "author_pub_id": "F9kqUXkAAAAJ:WqliGbK-hY8C"
     },
     {
+        "title": "MobiDE 2010: Proceedings of the Ninth ACM International Workshop on Data Engineering for Wireless and Mobile Access: June 6th, 2010, Indianapolis, IN, USA.",
+        "pub_year": "2010",
+        "citation": "ACM, 2010",
+        "num_citations": 0,
+        "author_pub_id": "F9kqUXkAAAAJ:TlpoogIpr_IC"
+    },
+    {
         "title": "Modeling and optimizing I/O throughput of multiple disks on a bus",
         "pub_year": "1999",
         "citation": "ACM SIGMETRICS Performance Evaluation Review 27 (1), 83-92, 1999",
-        "num_citations": 50,
+        "num_citations": 51,
         "author_pub_id": "F9kqUXkAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Modeling and optimizing I/O throughput of multiple disks on a bus",
         "pub_year": "1998",
         "citation": "PERFORMANCE EVALUATION REVIEW 26, 264-265, 1998",
-        "num_citations": 13,
+        "num_citations": 12,
         "author_pub_id": "F9kqUXkAAAAJ:HhcuHIWmDEUC"
     },
     {
@@ -1345,7 +1324,7 @@
         "title": "More effective distributed ml via a stale synchronous parallel parameter server",
         "pub_year": "2013",
         "citation": "Advances in neural information processing systems 26, 2013",
-        "num_citations": 982,
+        "num_citations": 975,
         "author_pub_id": "F9kqUXkAAAAJ:e5wmG9Sq2KIC"
     },
     {
@@ -1366,14 +1345,14 @@
         "title": "New sampling-based summary statistics for improving approximate query answers",
         "pub_year": "1998",
         "citation": "Proceedings of the 1998 ACM SIGMOD international conference on Management of …, 1998",
-        "num_citations": 633,
+        "num_citations": 630,
         "author_pub_id": "F9kqUXkAAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "New streaming algorithms for fast detection of superspreaders.",
         "pub_year": "2005",
         "citation": "NDSS 5, 149-166, 2005",
-        "num_citations": 299,
+        "num_citations": 295,
         "author_pub_id": "F9kqUXkAAAAJ:kNdYIx-mwKoC"
     },
     {
@@ -1394,7 +1373,7 @@
         "title": "On testing cache-coherent shared memories",
         "pub_year": "1994",
         "citation": "Proceedings of the sixth annual ACM symposium on Parallel algorithms and …, 1994",
-        "num_citations": 32,
+        "num_citations": 31,
         "author_pub_id": "F9kqUXkAAAAJ:HoB7MX3m0LUC"
     },
     {
@@ -1408,7 +1387,7 @@
         "title": "Online maintenance of very large random samples on flash storage",
         "pub_year": "2008",
         "citation": "Proceedings of the VLDB Endowment 1 (1), 970-983, 2008",
-        "num_citations": 78,
+        "num_citations": 77,
         "author_pub_id": "F9kqUXkAAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -1422,35 +1401,35 @@
         "title": "Optimal inter-object correlation when replicating for availability",
         "pub_year": "2007",
         "citation": "Proceedings of the twenty-sixth annual ACM symposium on Principles of …, 2007",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "F9kqUXkAAAAJ:KxtntwgDAa4C"
     },
     {
         "title": "PDL ABSTRACT",
-        "pub_year": "1994",
-        "citation": "ACM Computing Surveys 26 (2), 145-185, 1994",
-        "num_citations": 8,
-        "author_pub_id": "F9kqUXkAAAAJ:DkZNVXde3BIC"
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1803.07445, 2018",
+        "num_citations": 2,
+        "author_pub_id": "F9kqUXkAAAAJ:HJSXoJQnj-YC"
     },
     {
         "title": "PIM-trie: A Skew-resistant Trie for Processing-in-Memory",
         "pub_year": "2023",
         "citation": "Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and …, 2023",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "F9kqUXkAAAAJ:VN7nJs4JPk0C"
     },
     {
         "title": "Page overlays: An enhanced virtual memory framework to enable fine-grained memory management",
         "pub_year": "2015",
         "citation": "ACM SIGARCH Computer Architecture News 43 (3S), 79-91, 2015",
-        "num_citations": 63,
+        "num_citations": 65,
         "author_pub_id": "F9kqUXkAAAAJ:eq2jaN3J8jMC"
     },
     {
         "title": "ParaLog: Enabling and accelerating online parallel monitoring of multithreaded applications",
         "pub_year": "2010",
         "citation": "Proceedings of the fifteenth International Conference on Architectural …, 2010",
-        "num_citations": 59,
+        "num_citations": 61,
         "author_pub_id": "F9kqUXkAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -1464,7 +1443,7 @@
         "title": "Parallel algorithms for asymmetric read-write costs",
         "pub_year": "2016",
         "citation": "Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …, 2016",
-        "num_citations": 56,
+        "num_citations": 54,
         "author_pub_id": "F9kqUXkAAAAJ:Ug5p-4gJ2f0C"
     },
     {
@@ -1478,21 +1457,21 @@
         "title": "Parallelizing dynamic information flow tracking",
         "pub_year": "2008",
         "citation": "Proceedings of the twentieth annual symposium on Parallelism in algorithms …, 2008",
-        "num_citations": 95,
+        "num_citations": 88,
         "author_pub_id": "F9kqUXkAAAAJ:isC4tDSrTZIC"
     },
     {
         "title": "PipeDream: Generalized pipeline parallelism for DNN training",
         "pub_year": "2019",
         "citation": "Proceedings of the 27th ACM symposium on operating systems principles, 1-15, 2019",
-        "num_citations": 940,
+        "num_citations": 937,
         "author_pub_id": "F9kqUXkAAAAJ:2tRrZ1ZAMYUC"
     },
     {
         "title": "PipeDream: Pipeline parallelism for DNN training",
         "pub_year": "2018",
         "citation": "Proceedings of the 1st Conference on Systems and Machine Learning (SysML), 2018",
-        "num_citations": 7,
+        "num_citations": 10,
         "author_pub_id": "F9kqUXkAAAAJ:3htObqc8RwsC"
     },
     {
@@ -1506,7 +1485,7 @@
         "title": "Pr-join: a non-blocking join achieving higher early result rate with statistical guarantees",
         "pub_year": "2010",
         "citation": "Proceedings of the 2010 ACM SIGMOD International Conference on Management of …, 2010",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "F9kqUXkAAAAJ:UxriW0iASnsC"
     },
     {
@@ -1540,8 +1519,15 @@
         "title": "Probabilistic wavelet synopses",
         "pub_year": "2004",
         "citation": "ACM Transactions on Database Systems (TODS) 29 (1), 43-90, 2004",
-        "num_citations": 101,
+        "num_citations": 102,
         "author_pub_id": "F9kqUXkAAAAJ:HDshCWvjkbEC"
+    },
+    {
+        "title": "Proceedings of the Eighteenth Annual ACM Symposium on Parallelism in Algorithms and Architectures",
+        "pub_year": "2006",
+        "citation": "Association for Computing Machinery, 2006",
+        "num_citations": 0,
+        "author_pub_id": "F9kqUXkAAAAJ:wvYxNZNCP7wC"
     },
     {
         "title": "Program-centric cost models for locality",
@@ -1554,7 +1540,7 @@
         "title": "Proteus: agile ml elasticity through tiered reliability in dynamic resource markets",
         "pub_year": "2017",
         "citation": "Proceedings of the Twelfth European Conference on Computer Systems, 589-604, 2017",
-        "num_citations": 121,
+        "num_citations": 120,
         "author_pub_id": "F9kqUXkAAAAJ:6ZxmRoH8BuwC"
     },
     {
@@ -1567,15 +1553,8 @@
         "title": "Provably efficient scheduling for languages with fine-grained parallelism",
         "pub_year": "1999",
         "citation": "Journal of the ACM (JACM) 46 (2), 281-321, 1999",
-        "num_citations": 161,
+        "num_citations": 242,
         "author_pub_id": "F9kqUXkAAAAJ:L8Ckcad2t8MC"
-    },
-    {
-        "title": "Provably efficient scheduling for languages with fine-grained parallelism",
-        "pub_year": "1995",
-        "citation": "Proceedings of the seventh annual ACM symposium on Parallel algorithms and …, 1995",
-        "num_citations": 95,
-        "author_pub_id": "F9kqUXkAAAAJ:qUcmZB5y_30C"
     },
     {
         "title": "Provably efficient scheduling of dynamically allocating programs on parallel cache hierarchies",
@@ -1595,14 +1574,14 @@
         "title": "Proving sequential consistency of high-performance shared memories",
         "pub_year": "1991",
         "citation": "Proceedings of the third annual ACM symposium on Parallel algorithms and …, 1991",
-        "num_citations": 95,
+        "num_citations": 96,
         "author_pub_id": "F9kqUXkAAAAJ:hC7cP41nSMkC"
     },
     {
         "title": "QRQW: Accounting for concurrency in PRAMs and Asynchronous PRAMs",
         "pub_year": "1993",
         "citation": "Technical Report, AT&T Bell Laboratories, Murray Hill, NJ, 1993",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "F9kqUXkAAAAJ:jL-93Qbq4QoC"
     },
     {
@@ -1616,21 +1595,21 @@
         "title": "Racod: algorithm/hardware co-design for mobile robot path planning",
         "pub_year": "2022",
         "citation": "Proceedings of the 49th Annual International Symposium on Computer …, 2022",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "F9kqUXkAAAAJ:-mN3Mh-tlDkC"
     },
     {
         "title": "Recommending missing sensor values",
         "pub_year": "2015",
         "citation": "2015 IEEE international conference on big data (big data), 381-390, 2015",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "F9kqUXkAAAAJ:e_rmSamDkqQC"
     },
     {
         "title": "Reducing contention through priority updates",
         "pub_year": "2013",
         "citation": "Proceedings of the twenty-fifth annual ACM symposium on Parallelism in …, 2013",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "F9kqUXkAAAAJ:tOudhMTPpwUC"
     },
     {
@@ -1650,7 +1629,7 @@
         "title": "Rethinking database algorithms for phase change memory.",
         "pub_year": "2011",
         "citation": "Cidr 11, 5th, 2011",
-        "num_citations": 344,
+        "num_citations": 340,
         "author_pub_id": "F9kqUXkAAAAJ:5MTHONV0fEkC"
     },
     {
@@ -1664,7 +1643,7 @@
         "title": "Robotperf: An open-source, vendor-agnostic, benchmarking suite for evaluating robotics computing system performance",
         "pub_year": "2024",
         "citation": "2024 IEEE International Conference on Robotics and Automation (ICRA), 8288-8297, 2024",
-        "num_citations": 9,
+        "num_citations": 11,
         "author_pub_id": "F9kqUXkAAAAJ:raTqNPD5sRQC"
     },
     {
@@ -1678,14 +1657,14 @@
         "title": "Round-like behavior in multiple disks on a bus",
         "pub_year": "1999",
         "citation": "Proceedings of the sixth workshop on I/O in parallel and distributed systems …, 1999",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "F9kqUXkAAAAJ:J-pR_7NvFogC"
     },
     {
         "title": "RowClone: Accelerating data movement and initialization using DRAM",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1805.03502, 2018",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "F9kqUXkAAAAJ:yMeIxYmEMEAC"
     },
     {
@@ -1699,7 +1678,7 @@
         "title": "RowClone: Fast and energy-efficient in-DRAM bulk data copy and initialization",
         "pub_year": "2013",
         "citation": "Proceedings of the 46th Annual IEEE/ACM International Symposium on …, 2013",
-        "num_citations": 518,
+        "num_citations": 523,
         "author_pub_id": "F9kqUXkAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -1723,6 +1702,13 @@
         "author_pub_id": "F9kqUXkAAAAJ:7Hz3ACDFbsoC"
     },
     {
+        "title": "SPAA'07: Proceedings of the Nineteenth Annual ACM Symposium on Parallelism in Algorithms and Architectures: San Diego, California, USA, June 9-June 11, 2007",
+        "pub_year": "2007",
+        "citation": "ACM, 2007",
+        "num_citations": 0,
+        "author_pub_id": "F9kqUXkAAAAJ:DrR-2ekChdkC"
+    },
+    {
         "title": "Sage: Parallel semi-asymmetric graph algorithms for NVRAMs",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1910.12310, 2019",
@@ -1740,7 +1726,7 @@
         "title": "Scalable room synchronizations",
         "pub_year": "2003",
         "citation": "Theory of computing systems 36 (5), 397-430, 2003",
-        "num_citations": 20,
+        "num_citations": 19,
         "author_pub_id": "F9kqUXkAAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -1753,14 +1739,14 @@
         "title": "Scheduling irregular parallel computations on hierarchical caches",
         "pub_year": "2011",
         "citation": "Proceedings of the twenty-third annual ACM symposium on Parallelism in …, 2011",
-        "num_citations": 102,
+        "num_citations": 99,
         "author_pub_id": "F9kqUXkAAAAJ:lSLTfruPkqcC"
     },
     {
         "title": "Scheduling space‐sharing for internet advertising",
         "pub_year": "2002",
         "citation": "Journal of Scheduling 5 (2), 103-119, 2002",
-        "num_citations": 154,
+        "num_citations": 150,
         "author_pub_id": "F9kqUXkAAAAJ:QIV2ME_5wuYC"
     },
     {
@@ -1774,7 +1760,7 @@
         "title": "Sequential random permutation, list contraction and tree contraction are highly parallel",
         "pub_year": "2014",
         "citation": "Proceedings of the twenty-sixth annual ACM-SIAM symposium on Discrete …, 2014",
-        "num_citations": 47,
+        "num_citations": 45,
         "author_pub_id": "F9kqUXkAAAAJ:tkaPQYYpVKoC"
     },
     {
@@ -1787,15 +1773,15 @@
     {
         "title": "Sorting with asymmetric read and write costs",
         "pub_year": "2015",
-        "citation": "Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …, 2015",
-        "num_citations": 66,
+        "citation": "Proceedings of the 27th ACM Symposium on Parallelism in Algorithms and …, 2015",
+        "num_citations": 65,
         "author_pub_id": "F9kqUXkAAAAJ:1yQoGdGgb4wC"
     },
     {
         "title": "Space profiling for parallel functional programs",
         "pub_year": "2008",
         "citation": "ACM Sigplan Notices 43 (9), 253-264, 2008",
-        "num_citations": 74,
+        "num_citations": 73,
         "author_pub_id": "F9kqUXkAAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -1809,7 +1795,7 @@
         "title": "Space-efficient scheduling of parallelism with synchronization variables",
         "pub_year": "1997",
         "citation": "Proceedings of the ninth annual ACM symposium on Parallel algorithms and …, 1997",
-        "num_citations": 73,
+        "num_citations": 72,
         "author_pub_id": "F9kqUXkAAAAJ:maZDTaKrznsC"
     },
     {
@@ -1823,7 +1809,7 @@
         "title": "Specifying non-blocking shared memories",
         "pub_year": "1992",
         "citation": "Proceedings of the Fourth Annual ACM Symposium on Parallel Algorithms and …, 1992",
-        "num_citations": 45,
+        "num_citations": 46,
         "author_pub_id": "F9kqUXkAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -1837,7 +1823,7 @@
         "title": "Subtleties in Tolerating Correlated Failures in Wide-area Storage Systems.",
         "pub_year": "2006",
         "citation": "NSDI 6, 225-238, 2006",
-        "num_citations": 137,
+        "num_citations": 136,
         "author_pub_id": "F9kqUXkAAAAJ:-f6ydRqryjwC"
     },
     {
@@ -1872,7 +1858,7 @@
         "title": "Sybilguard: defending against sybil attacks via social networks",
         "pub_year": "2006",
         "citation": "Proceedings of the 2006 conference on Applications, technologies …, 2006",
-        "num_citations": 1193,
+        "num_citations": 1190,
         "author_pub_id": "F9kqUXkAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -1886,13 +1872,13 @@
         "title": "Sybillimit: A near-optimal social network defense against sybil attacks",
         "pub_year": "2008",
         "citation": "2008 IEEE Symposium on Security and Privacy (sp 2008), 3-17, 2008",
-        "num_citations": 1007,
+        "num_citations": 1003,
         "author_pub_id": "F9kqUXkAAAAJ:qjMakFHDy7sC"
     },
     {
-        "title": "Synopsis Data Structures for Massive Data Sets.",
+        "title": "Synopsis data structures for massive data sets",
         "pub_year": "1999",
-        "citation": "SODA 10, 909-910, 1999",
+        "citation": "External memory algorithms 50, 39-70, 1999",
         "num_citations": 279,
         "author_pub_id": "F9kqUXkAAAAJ:eQOLeE2rZwMC"
     },
@@ -1900,21 +1886,14 @@
         "title": "Synopsis diffusion for robust aggregation in sensor networks",
         "pub_year": "2008",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 4 (2), 1-40, 2008",
-        "num_citations": 848,
+        "num_citations": 850,
         "author_pub_id": "F9kqUXkAAAAJ:d1gkVwhDpl0C"
-    },
-    {
-        "title": "Sysml: The new frontier of machine learning systems",
-        "pub_year": "2019",
-        "citation": "arXiv preprint arXiv:1904.03257 98, 2019",
-        "num_citations": 29,
-        "author_pub_id": "F9kqUXkAAAAJ:BJbdYPG6LGMC"
     },
     {
         "title": "System and method for improving index performance through prefetching",
         "pub_year": "2004",
         "citation": "US Patent 6,772,179, 2004",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "F9kqUXkAAAAJ:u9iWguZQMMsC"
     },
     {
@@ -1935,14 +1914,14 @@
         "title": "System and method for providing anonymous personalized browsing by a proxy system in a network",
         "pub_year": "1999",
         "citation": "US Patent 5,961,593, 1999",
-        "num_citations": 877,
+        "num_citations": 882,
         "author_pub_id": "F9kqUXkAAAAJ:Bg7qf7VwUHIC"
     },
     {
         "title": "System and method for providing anonymous remailing and filtering of electronic mail",
         "pub_year": "2003",
         "citation": "US Patent 6,591,291, 2003",
-        "num_citations": 220,
+        "num_citations": 221,
         "author_pub_id": "F9kqUXkAAAAJ:aqlVkmm33-oC"
     },
     {
@@ -1956,7 +1935,7 @@
         "title": "TPC-E vs. TPC-C: Characterizing the new TPC-E benchmark via an I/O comparison study",
         "pub_year": "2011",
         "citation": "ACM Sigmod Record 39 (3), 5-10, 2011",
-        "num_citations": 122,
+        "num_citations": 125,
         "author_pub_id": "F9kqUXkAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -1970,7 +1949,7 @@
         "title": "Tartan: Microarchitecting a Robotic Processor",
         "pub_year": "2024",
         "citation": "2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "F9kqUXkAAAAJ:eO3_k5sD8BwC"
     },
     {
@@ -1990,7 +1969,7 @@
         "title": "Testing shared memories",
         "pub_year": "1997",
         "citation": "SIAM Journal on Computing 26 (4), 1208-1244, 1997",
-        "num_citations": 213,
+        "num_citations": 210,
         "author_pub_id": "F9kqUXkAAAAJ:dhFuZR0502QC"
     },
     {
@@ -1999,13 +1978,6 @@
         "citation": "",
         "num_citations": 0,
         "author_pub_id": "F9kqUXkAAAAJ:URolC5Kub84C"
-    },
-    {
-        "title": "The CoRa tensor compiler: Compilation for ragged tensors with minimal padding",
-        "pub_year": "2022",
-        "citation": "Proceedings of Machine Learning and Systems 4, 721-747, 2022",
-        "num_citations": 28,
-        "author_pub_id": "F9kqUXkAAAAJ:CB2v5VPnA5kC"
     },
     {
         "title": "The Dirty-Block Index",
@@ -2017,28 +1989,28 @@
         "title": "The QRQW PRAM: Accountingfor Contentionin Parallel Algorithms",
         "pub_year": "1994",
         "citation": "Proc. of the 6th Annual Symposium on Parallel Algorithms and Architectures …, 1994",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "F9kqUXkAAAAJ:L1USKYWJimsC"
     },
     {
         "title": "The Queue-Read Queue-Write PRAM model: Accounting for contention in parallel algorithms",
         "pub_year": "1998",
         "citation": "SIAM Journal on Computing 28 (2), 733-769, 1998",
-        "num_citations": 212,
+        "num_citations": 210,
         "author_pub_id": "F9kqUXkAAAAJ:mVmsd5A6BfQC"
     },
     {
         "title": "The aqua approximate query answering system",
         "pub_year": "1999",
         "citation": "Proceedings of the 1999 ACM SIGMOD international conference on Management of …, 1999",
-        "num_citations": 301,
+        "num_citations": 304,
         "author_pub_id": "F9kqUXkAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "The asynchronous pram: A semisynchronous model for shared-memory mimd machines",
         "pub_year": "1989",
         "citation": "University of California, Berkeley, 1989",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "F9kqUXkAAAAJ:_xSYboBqXhAC"
     },
     {
@@ -2052,14 +2024,21 @@
         "title": "The connectivity and fault-tolerance of the Internet topology",
         "pub_year": "2001",
         "citation": "Carnegie Mellon University, 2001",
-        "num_citations": 79,
+        "num_citations": 78,
         "author_pub_id": "F9kqUXkAAAAJ:M3NEmzRMIkIC"
+    },
+    {
+        "title": "The cora tensor compiler: Compilation for ragged tensors with minimal padding",
+        "pub_year": "2022",
+        "citation": "Proceedings of Machine Learning and Systems 4, 721-747, 2022",
+        "num_citations": 28,
+        "author_pub_id": "F9kqUXkAAAAJ:CB2v5VPnA5kC"
     },
     {
         "title": "The cost of fault tolerance in multi-party communication complexity",
         "pub_year": "2014",
         "citation": "Journal of the ACM (JACM) 61 (3), 1-64, 2014",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "F9kqUXkAAAAJ:Y5dfb0dijaUC"
     },
     {
@@ -2078,23 +2057,23 @@
     },
     {
         "title": "The magazine archive includes every article published in Communications of the ACM for over the past 50 years.",
-        "pub_year": "2005",
-        "citation": "Communications of the ACM 48 (6), 82-87, 2005",
-        "num_citations": 5,
+        "pub_year": "2013",
+        "citation": "Communications of the ACM 56 (8), 22-24, 2013",
+        "num_citations": 12,
         "author_pub_id": "F9kqUXkAAAAJ:EPG8bYD4jVwC"
     },
     {
         "title": "The non-iid data quagmire of decentralized machine learning",
         "pub_year": "2020",
         "citation": "International Conference on Machine Learning, 4387-4398, 2020",
-        "num_citations": 660,
+        "num_citations": 674,
         "author_pub_id": "F9kqUXkAAAAJ:sJsF-0ZLhtgC"
     },
     {
         "title": "The parallel persistent memory model",
         "pub_year": "2018",
         "citation": "Proceedings of the 30th on Symposium on Parallelism in Algorithms and …, 2018",
-        "num_citations": 42,
+        "num_citations": 43,
         "author_pub_id": "F9kqUXkAAAAJ:HeT0ZceujKMC"
     },
     {
@@ -2149,7 +2128,7 @@
         "title": "Towards better shared memory programming models",
         "pub_year": "1989",
         "citation": "Opportunities and Constraints of Parallel Computing, 55-58, 1989",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "F9kqUXkAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -2163,7 +2142,7 @@
         "title": "Tracking join and self-join sizes in limited storage",
         "pub_year": "1999",
         "citation": "Proceedings of the eighteenth ACM SIGMOD-SIGACT-SIGART symposium on …, 1999",
-        "num_citations": 373,
+        "num_citations": 371,
         "author_pub_id": "F9kqUXkAAAAJ:Y0pCki6q_DkC"
     },
     {
@@ -2191,14 +2170,14 @@
         "title": "Tributaries and deltas: Efficient and robust aggregation in sensor network streams",
         "pub_year": "2005",
         "citation": "Proceedings of the 2005 ACM SIGMOD international conference on Management of …, 2005",
-        "num_citations": 345,
+        "num_citations": 351,
         "author_pub_id": "F9kqUXkAAAAJ:IjCSPb-OGe4C"
     },
     {
         "title": "Tributary: spot-dancing for elastic services with latency {SLOs}",
         "pub_year": "2018",
         "citation": "2018 USENIX Annual Technical Conference (USENIX ATC 18), 1-14, 2018",
-        "num_citations": 71,
+        "num_citations": 73,
         "author_pub_id": "F9kqUXkAAAAJ:OcBU2YAGkTUC"
     },
     {
@@ -2231,7 +2210,7 @@
         "title": "What good are shared-memory models?",
         "pub_year": "1996",
         "citation": "1996 Proceedings ICPP Workshop on Challenges for Parallel Processing, 103-114, 1996",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "F9kqUXkAAAAJ:l7t_Zn2s7bgC"
     },
     {
@@ -2264,7 +2243,7 @@
         "title": "Zorua: A holistic approach to resource virtualization in GPUs",
         "pub_year": "2016",
         "citation": "2016 49th Annual IEEE/ACM International Symposium on Microarchitecture …, 2016",
-        "num_citations": 84,
+        "num_citations": 88,
         "author_pub_id": "F9kqUXkAAAAJ:Ri6SYOTghG4C"
     },
     {

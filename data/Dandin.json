@@ -42,7 +42,7 @@
         "author_pub_id": "mjixDB8AAAAJ:OcBU2YAGkTUC"
     },
     {
-        "title": "Challenge-Response Pair Space Enhancement for Imager-Based Physically Unclonable Functions",
+        "title": "Challenge-response pair space enhancement for imager-based physically unclonable functions",
         "pub_year": "2023",
         "citation": "2023 IEEE 66th International Midwest Symposium on Circuits and Systems …, 2023",
         "num_citations": 1,
@@ -59,7 +59,7 @@
         "title": "Characterization of Single-Photon Avalanche Diodes in a 0.5-  Standard CMOS Process—Part 2: Equivalent Circuit Model and Geiger Mode Readout",
         "pub_year": "2016",
         "citation": "IEEE Sensors Journal 16 (9), 3075-3083, 2016",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "mjixDB8AAAAJ:a9-T7VOCCH8C"
     },
     {
@@ -70,7 +70,7 @@
         "author_pub_id": "mjixDB8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
-        "title": "Concealable physically unclonable functions and key generation using a Geiger mode imager",
+        "title": "Concealable physically unclonable functions and key generation using a geiger mode imager",
         "pub_year": "2023",
         "citation": "2023 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2023",
         "num_citations": 4,
@@ -135,21 +135,21 @@
         "title": "Fundamentals of Phototransduction in Semiconductors",
         "pub_year": "2024",
         "citation": "Single-Photon Avalanche Diodes and Photon Counting Systems: From …, 2024",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "mjixDB8AAAAJ:8xutWZnSdmoC"
     },
     {
         "title": "Handheld fluorometers for lab-on-a-chip applications",
         "pub_year": "2009",
         "citation": "IEEE Transactions on Biomedical Circuits and Systems 3 (2), 97-107, 2009",
-        "num_citations": 44,
+        "num_citations": 43,
         "author_pub_id": "mjixDB8AAAAJ:2osOgNQ5qMEC"
     },
     {
         "title": "High resolution monitoring of chemotherapeutic agent potency in cancer cells using a CMOS capacitance biosensor",
         "pub_year": "2019",
         "citation": "Biosensors and Bioelectronics 142, 111501, 2019",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "mjixDB8AAAAJ:dBIO0h50nwkC"
     },
     {
@@ -177,7 +177,7 @@
         "title": "Integrated cell-based sensors and cell clinics utilizing conjugated polymer actuators",
         "pub_year": "2007",
         "citation": "Electroactive Polymer Actuators and Devices (EAPAD) 2007 6524, 140-149, 2007",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "mjixDB8AAAAJ:qjMakFHDy7sC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Lab-on-CMOS capacitance sensor array for real-time cell viability measurements with I2C readout",
         "pub_year": "2016",
         "citation": "2016 IEEE International Symposium on Circuits and Systems (ISCAS), 2863-2866, 2016",
-        "num_citations": 25,
+        "num_citations": 24,
         "author_pub_id": "mjixDB8AAAAJ:4hFrxpcac9AC"
     },
     {
@@ -202,7 +202,7 @@
         "author_pub_id": "mjixDB8AAAAJ:FAceZFleit8C"
     },
     {
-        "title": "Lessons Learned the Hard Way",
+        "title": "Lessons learned the hard way",
         "pub_year": "2020",
         "citation": "2020 IEEE International Symposium on Circuits and Systems (ISCAS), 1-18, 2020",
         "num_citations": 1,
@@ -211,7 +211,7 @@
     {
         "title": "Low-noise CMOS fluorescence sensor",
         "pub_year": "2007",
-        "citation": "2007 IEEE International Symposium on Circuits and Systems, 2007",
+        "citation": "2007 IEEE International Symposium on Circuits and Systems (ISCAS), 2007",
         "num_citations": 45,
         "author_pub_id": "mjixDB8AAAAJ:u-x6o8ySG0sC"
     },
@@ -250,7 +250,7 @@
         "author_pub_id": "mjixDB8AAAAJ:gKiMpY-AVTkC"
     },
     {
-        "title": "Measuring and Modeling Macrophage Growth using a Lab-on-CMOS Capacitance Sensing Microsystem",
+        "title": "Measuring and modeling macrophage growth using a lab-on-CMOS capacitance sensing microsystem",
         "pub_year": "2023",
         "citation": "bioRxiv, 2023.01. 27.525955, 2023",
         "num_citations": 2,
@@ -281,7 +281,7 @@
         "title": "Optical filtering technologies for integrated fluorescence sensors",
         "pub_year": "2007",
         "citation": "Lab on a Chip 7 (8), 955-977, 2007",
-        "num_citations": 212,
+        "num_citations": 214,
         "author_pub_id": "mjixDB8AAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -365,7 +365,7 @@
         "title": "Real-time measurements of cell proliferation using a lab-on-CMOS capacitance sensor array",
         "pub_year": "2018",
         "citation": "IEEE transactions on biomedical circuits and systems 12 (3), 510-520, 2018",
-        "num_citations": 59,
+        "num_citations": 58,
         "author_pub_id": "mjixDB8AAAAJ:OTTXONDVkokC"
     },
     {
@@ -391,14 +391,8 @@
     },
     {
         "title": "Single-Photon Avalanche Diodes and Photon Counting Systems",
-        "citation": "",
-        "num_citations": 0,
-        "author_pub_id": "mjixDB8AAAAJ:nVrZBo8bIpAC"
-    },
-    {
-        "title": "Single-Photon Avalanche Diodes and Photon Counting Systems: From Phototransduction to Circuit Architecture",
         "pub_year": "2024",
-        "citation": "Springer Nature, 2024",
+        "citation": "",
         "num_citations": 0,
         "author_pub_id": "mjixDB8AAAAJ:lvd772isFD0C"
     },
@@ -406,7 +400,7 @@
         "title": "Single-photon avalanche diode circuit with variable hold-off time and dual delay regime",
         "pub_year": "2017",
         "citation": "US Patent 9,671,284, 2017",
-        "num_citations": 48,
+        "num_citations": 49,
         "author_pub_id": "mjixDB8AAAAJ:umqufdRvDiIC"
     },
     {
@@ -473,9 +467,9 @@
         "author_pub_id": "mjixDB8AAAAJ:DJbcl8HfkQkC"
     },
     {
-        "title": "True Random Number Generation Using Dark Noise Modulation of a Single-Photon Avalanche Diode",
+        "title": "True random number generation using dark noise modulation of a single-photon avalanche diode",
         "pub_year": "2023",
-        "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs, 2023",
+        "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs 71 (3), 1586-1590, 2023",
         "num_citations": 5,
         "author_pub_id": "mjixDB8AAAAJ:r_AWSJRzSzQC"
     }

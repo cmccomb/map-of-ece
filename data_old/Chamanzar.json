@@ -37,7 +37,7 @@
         "title": "A silicon carbide array for electrocorticography and peripheral nerve recording",
         "pub_year": "2017",
         "citation": "Journal of neural engineering 14 (5), 056006, 2017",
-        "num_citations": 56,
+        "num_citations": 59,
         "author_pub_id": "gnEgtr8AAAAJ:YsMSGLbcyi4C"
     },
     {
@@ -93,14 +93,14 @@
         "title": "Bioelectrical interfaces with cortical spheroids in three-dimensions",
         "pub_year": "2021",
         "citation": "Journal of Neural Engineering 18 (5), 055005, 2021",
-        "num_citations": 31,
+        "num_citations": 34,
         "author_pub_id": "gnEgtr8AAAAJ:pyW8ca7W8N0C"
     },
     {
         "title": "CMU Array: A 3D nanoprinted, fully customizable high-density microelectrode array platform",
         "pub_year": "2022",
         "citation": "Science Advances 8 (40), eabj4853, 2022",
-        "num_citations": 53,
+        "num_citations": 55,
         "author_pub_id": "gnEgtr8AAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -212,7 +212,7 @@
         "title": "Effect of the dielectric constant of the surrounding medium and the substrate on the surface plasmon resonance spectrum and sensitivity factors of highly symmetric systems …",
         "pub_year": "2012",
         "citation": "Journal of the American Chemical Society 134 (14), 6434-6442, 2012",
-        "num_citations": 213,
+        "num_citations": 216,
         "author_pub_id": "gnEgtr8AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -240,7 +240,7 @@
         "title": "Energy-looping nanoparticles: harnessing excited-state absorption for deep-tissue imaging",
         "pub_year": "2016",
         "citation": "Acs Nano 10 (9), 8423-8433, 2016",
-        "num_citations": 158,
+        "num_citations": 160,
         "author_pub_id": "gnEgtr8AAAAJ:4JMBOYKVnBMC"
     },
     {
@@ -268,7 +268,7 @@
         "title": "Experimental correlation of thermal conductivity with dielectric properties of wood and wood-based materials: possibilities for rapid in-situ building energy evaluation",
         "pub_year": "2022",
         "citation": "Journal of Building Engineering 50, 104178, 2022",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "gnEgtr8AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -303,7 +303,7 @@
         "title": "Flexible optoelectric neural interfaces",
         "pub_year": "2021",
         "citation": "Current opinion in biotechnology 72, 121-130, 2021",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "gnEgtr8AAAAJ:EUQCXRtRnyEC"
     },
     {
@@ -331,7 +331,7 @@
         "title": "Focused epicranial brain stimulation by spatial sculpting of pulsed electric fields using high density electrode arrays",
         "pub_year": "2023",
         "citation": "Advanced Science 10 (20), 2207251, 2023",
-        "num_citations": 4,
+        "num_citations": 6,
         "author_pub_id": "gnEgtr8AAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Fully flexible implantable neural probes for electrophysiology recording and controlled neurochemical modulation",
         "pub_year": "2024",
         "citation": "Microsystems & Nanoengineering 10 (1), 91, 2024",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "gnEgtr8AAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -366,7 +366,7 @@
         "title": "High density, double-sided, flexible optoelectronic neural probes with embedded μLEDs",
         "pub_year": "2019",
         "citation": "Frontiers in Neuroscience 13, 745, 2019",
-        "num_citations": 61,
+        "num_citations": 62,
         "author_pub_id": "gnEgtr8AAAAJ:70eg2SAEIzsC"
     },
     {
@@ -380,7 +380,7 @@
         "title": "High resolution on-chip spectroscopy based on miniaturized microdonut resonators",
         "pub_year": "2011",
         "citation": "Optics express 19 (13), 12356-12364, 2011",
-        "num_citations": 214,
+        "num_citations": 216,
         "author_pub_id": "gnEgtr8AAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -530,6 +530,20 @@
         "author_pub_id": "gnEgtr8AAAAJ:p2g8aNsByqUC"
     },
     {
+        "title": "MindGPT: Advancing Human-AI Interaction with Non-Invasive fNIRS-Based Imagined Speech Decoding",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2408.05361, 2024",
+        "num_citations": 0,
+        "author_pub_id": "gnEgtr8AAAAJ:B3FOqHPlNUQC"
+    },
+    {
+        "title": "MindSpeech: Continuous Imagined Speech Decoding using High-Density fNIRS and Prompt Tuning for Advanced Human-AI Interaction",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2408.05362, 2024",
+        "num_citations": 0,
+        "author_pub_id": "gnEgtr8AAAAJ:geHnlv5EZngC"
+    },
+    {
         "title": "Multichannel many-class real-time neural spike sorting with convolutional neural networks",
         "pub_year": "2022",
         "citation": "IEEE Open Journal of Circuits and Systems 3, 168-179, 2022",
@@ -542,6 +556,13 @@
         "citation": "Biosensors and Bioelectronics 80, 682-690, 2016",
         "num_citations": 37,
         "author_pub_id": "gnEgtr8AAAAJ:hFOr9nPyWt4C"
+    },
+    {
+        "title": "NON-INVASIVE METHOD FOR SUPPRESSING SPREADING DEPOLARIZATION IN HUMAN BRAINS",
+        "pub_year": "2025",
+        "citation": "US Patent App. 18/894,976, 2025",
+        "num_citations": 0,
+        "author_pub_id": "gnEgtr8AAAAJ:sSrBHYA8nusC"
     },
     {
         "title": "Near infrared absorption sensor based on large-scale array of miniaturized microdonut resonators",
@@ -617,14 +638,14 @@
         "title": "Optimized virtual optical waveguides enhance light throughput in scattering media",
         "pub_year": "2023",
         "citation": "Nature Communications 14 (1), 5681, 2023",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "gnEgtr8AAAAJ:K3LRdlH-MEoC"
     },
     {
         "title": "Overcoming the tradeoff between confinement and focal distance using virtual ultrasonic optical waveguides",
         "pub_year": "2020",
         "citation": "Optics Express 28 (25), 37459-37473, 2020",
-        "num_citations": 12,
+        "num_citations": 14,
         "author_pub_id": "gnEgtr8AAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -659,7 +680,7 @@
         "title": "Parylene photonics: a flexible, broadband optical waveguide platform with integrated micromirrors for biointerfaces",
         "pub_year": "2020",
         "citation": "Microsystems & Nanoengineering 6 (1), 85, 2020",
-        "num_citations": 47,
+        "num_citations": 51,
         "author_pub_id": "gnEgtr8AAAAJ:ZHo1McVdvXMC"
     },
     {
@@ -707,7 +728,7 @@
         "title": "Remote nongenetic optical modulation of neuronal activity using fuzzy graphene",
         "pub_year": "2020",
         "citation": "Proceedings of the National Academy of Sciences 117 (24), 13339-13349, 2020",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "gnEgtr8AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -847,7 +868,7 @@
         "title": "Ultrasonic sculpting of virtual optical waveguides in tissue",
         "pub_year": "2019",
         "citation": "Nature communications 10 (1), 92, 2019",
-        "num_citations": 49,
+        "num_citations": 51,
         "author_pub_id": "gnEgtr8AAAAJ:YFjsv_pBGBYC"
     },
     {
@@ -875,7 +896,7 @@
         "title": "Ultrasonically sculpted virtual relay lens for in situ microimaging",
         "pub_year": "2019",
         "citation": "Light: Science & Applications 8 (1), 65, 2019",
-        "num_citations": 44,
+        "num_citations": 47,
         "author_pub_id": "gnEgtr8AAAAJ:2P1L_qKh6hAC"
     },
     {

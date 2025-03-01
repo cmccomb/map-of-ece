@@ -1,13 +1,6 @@
 [
     {
         "title": "A Learning and Control Perspective for Microfinance",
-        "pub_year": "2022",
-        "citation": "arXiv preprint arXiv:2207.12631, 2022",
-        "num_citations": 3,
-        "author_pub_id": "jnmyOEYAAAAJ:iH-uZ7U-co4C"
-    },
-    {
-        "title": "A Learning and Control Perspective for Microfinance",
         "pub_year": "2023",
         "citation": "Learning for Dynamics and Control Conference, 915-927, 2023",
         "num_citations": 0,
@@ -21,6 +14,13 @@
         "author_pub_id": "jnmyOEYAAAAJ:M3NEmzRMIkIC"
     },
     {
+        "title": "A learning and control perspective for microfinance",
+        "pub_year": "2022",
+        "citation": "arXiv preprint arXiv:2207.12631, 2022",
+        "num_citations": 3,
+        "author_pub_id": "jnmyOEYAAAAJ:iH-uZ7U-co4C"
+    },
+    {
         "title": "A linear programming framework for networked control system design",
         "pub_year": "2015",
         "citation": "IFAC Workshop on Distributed Estimation and Control in Networked Systems 48 …, 2015",
@@ -31,7 +31,7 @@
         "title": "Adaptive safe control for driving in uncertain environments",
         "pub_year": "2022",
         "citation": "2022 IEEE Intelligent Vehicles Symposium (IV), 1662-1668, 2022",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "jnmyOEYAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -42,18 +42,18 @@
         "author_pub_id": "jnmyOEYAAAAJ:UebtZRa9Y70C"
     },
     {
-        "title": "An Analytic Solution to Covariance Propagation in Neural Networks",
-        "pub_year": "2024",
-        "citation": "International Conference on Artificial Intelligence and Statistics, 4087-4095, 2024",
-        "num_citations": 2,
-        "author_pub_id": "jnmyOEYAAAAJ:vV6vV6tmYwMC"
-    },
-    {
         "title": "An Integrative Perspective to LQ and  Control for Delayed and Quantized Systems",
         "pub_year": "2020",
         "citation": "IEEE Transactions on Automatic Control 65 (11), 4781-4792, 2020",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "jnmyOEYAAAAJ:7PzlFSSx8tAC"
+    },
+    {
+        "title": "An analytic solution to covariance propagation in neural networks",
+        "pub_year": "2024",
+        "citation": "International Conference on Artificial Intelligence and Statistics, 4087-4095, 2024",
+        "num_citations": 3,
+        "author_pub_id": "jnmyOEYAAAAJ:vV6vV6tmYwMC"
     },
     {
         "title": "An occlusion-and interaction-aware safe control strategy for autonomous vehicles",
@@ -66,7 +66,7 @@
         "title": "Attack-Resilient H2, H-infinity, and L1 State Estimator",
         "pub_year": "2018",
         "citation": "IEEE Transactions on Automatic Control, 2018",
-        "num_citations": 60,
+        "num_citations": 64,
         "author_pub_id": "jnmyOEYAAAAJ:5nxA0vEk-isC"
     },
     {
@@ -121,16 +121,16 @@
     {
         "title": "Context-aware LLM-based Safe Control Against Latent Risks",
         "pub_year": "2024",
-        "citation": "arXiv preprint arXiv:2403.11863, 2024",
-        "num_citations": 7,
-        "author_pub_id": "jnmyOEYAAAAJ:NaGl4SEjCO4C"
-    },
-    {
-        "title": "Context-aware LLM-based Safe Control Against Latent Risks",
-        "pub_year": "2024",
         "citation": "arXiv e-prints, arXiv: 2403.11863, 2024",
         "num_citations": 0,
         "author_pub_id": "jnmyOEYAAAAJ:J_g5lzvAfSwC"
+    },
+    {
+        "title": "Context-aware llm-based safe control against latent risks",
+        "pub_year": "2024",
+        "citation": "arXiv preprint arXiv:2403.11863, 2024",
+        "num_citations": 7,
+        "author_pub_id": "jnmyOEYAAAAJ:NaGl4SEjCO4C"
     },
     {
         "title": "Diversity deconstrains component limitations in sensorimotor control",
@@ -150,14 +150,14 @@
         "title": "Dynamic state estimation in the presence of compromised sensory data",
         "pub_year": "2015",
         "citation": "Decision and Control (CDC), 2015 IEEE 54th Annual Conference on, 5808-5813, 2015",
-        "num_citations": 41,
+        "num_citations": 40,
         "author_pub_id": "jnmyOEYAAAAJ:Zph67rFs4hoC"
     },
     {
         "title": "Electric vehicle charging: a queueing approach",
         "pub_year": "2017",
         "citation": "SIGMETRICS Performance Evaluation Review 45 (2), 33-35, 2017",
-        "num_citations": 30,
+        "num_citations": 29,
         "author_pub_id": "jnmyOEYAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -191,7 +191,7 @@
         "title": "Fitts’ law for speed-accuracy trade-off is a diversity sweet spot in sensorimotor control",
         "pub_year": "2019",
         "citation": "arXiv preprint arXiv:1906.00905, 2019",
-        "num_citations": 11,
+        "num_citations": 10,
         "author_pub_id": "jnmyOEYAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Hard limits on robust control over delayed and quantized communication channels with applications to sensorimotor control",
         "pub_year": "2015",
         "citation": "2015 54th IEEE Conference on Decision and Control (CDC), 7522-7529, 2015",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "jnmyOEYAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -233,7 +233,7 @@
         "title": "Medical application on internet of things",
         "pub_year": "2011",
         "citation": "IET international conference on communication technology and application …, 2011",
-        "num_citations": 185,
+        "num_citations": 188,
         "author_pub_id": "jnmyOEYAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -254,11 +254,11 @@
         "title": "Myopically Verifiable Probabilistic Certificate for Long-term Safety",
         "pub_year": "2021",
         "citation": "arXiv preprint arXiv:2110.13380, 2021",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "jnmyOEYAAAAJ:R3hNpaxXUhUC"
     },
     {
-        "title": "Myopically Verifiable Probabilistic Certificates for Safe Control and Learning",
+        "title": "Myopically verifiable probabilistic certificates for safe control and learning",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.16883, 2024",
         "num_citations": 2,
@@ -272,8 +272,9 @@
         "author_pub_id": "jnmyOEYAAAAJ:zYLM7Y9cAGgC"
     },
     {
-        "title": "Optimizing HVAC Systems for Energy Efficiency and Comfort: A Scalable and Robust Multi-Zone Control Approach with Uncertainty Considerations",
-        "citation": "Computing in Civil Engineering 2023, 987-995, 0",
+        "title": "Optimizing HVAC systems for energy efficiency and comfort: A scalable and robust multi-zone control approach with uncertainty considerations",
+        "pub_year": "2024",
+        "citation": "Computing in Civil Engineering 2023, 987-995, 2024",
         "num_citations": 2,
         "author_pub_id": "jnmyOEYAAAAJ:O3NaXMp0MMsC"
     },
@@ -309,11 +310,11 @@
         "title": "Probabilistic safety certificate for multi-agent systems",
         "pub_year": "2022",
         "citation": "2022 IEEE 61st Conference on Decision and Control (CDC), 5343-5350, 2022",
-        "num_citations": 9,
+        "num_citations": 8,
         "author_pub_id": "jnmyOEYAAAAJ:isC4tDSrTZIC"
     },
     {
-        "title": "Research Challenges for Energy-Efficient Computing in Automated Vehicles",
+        "title": "Research challenges for energy-efficient computing in automated vehicles",
         "pub_year": "2023",
         "citation": "Computer 56 (3), 47-58, 2023",
         "num_citations": 4,
@@ -386,7 +387,7 @@
         "title": "Theoretical foundations for layered architectures and speed-accuracy tradeoffs in sensorimotor control",
         "pub_year": "2019",
         "citation": "2019 American Control Conference (ACC), 809-814, 2019",
-        "num_citations": 8,
+        "num_citations": 7,
         "author_pub_id": "jnmyOEYAAAAJ:_kc_bZDykSQC"
     },
     {
